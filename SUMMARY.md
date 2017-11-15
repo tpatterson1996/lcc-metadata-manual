@@ -5,11 +5,12 @@
   * [Organizations](chapter1/organizations.md)
   * [Individuals](chapter1/individuals.md)
 * [Projects](projects.md)
-  * Main
-  * Metadata
-  * Keywords
-  * Extent
-  * Funding
+  * [Creating a Project](projects/creating-an-project-record.md)
+  * [Metadata](projects/metadata.md)
+  * [Main](projects/main.md)
+  * [Keywords](projects/keywords.md)
+  * [Extent](projects/extent.md)
+  * [Funding](projects/funding.md)
 * Products
 * Error Checking
 * Exporting to ScienceBase
