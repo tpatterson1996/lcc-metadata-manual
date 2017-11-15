@@ -1,4 +1,4 @@
-# MDEditor for LCCs' ScienceBase Metadata
+# Using MDEditor for LCCs' ScienceBase Metadata
 
 ## **Overview**
 
@@ -10,8 +10,6 @@ This manual refers to the creation of LCC metadata specifically. If you need inf
 
 * Google Chrome Web Browser
 * Meta Information about your project, as needed.
-
-
 
 
 
