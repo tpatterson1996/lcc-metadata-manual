@@ -1,4 +1,4 @@
-# Using MDEditor for LCCs' ScienceBase Metadata
+# Using MDEditor for LCCs' ScienceBase Metadata Manual
 
 ## **Overview**
 
