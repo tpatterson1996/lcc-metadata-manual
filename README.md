@@ -1,4 +1,4 @@
-# Using MDEditor for LCCs' Metadata Records Manual
+# MDEditor for LCCs' Manual
 
 ## **Overview**
 
