@@ -13,5 +13,3 @@ This manual refers to the creation of LCC metadata specifically. If you need inf
 
 
 
-
-
