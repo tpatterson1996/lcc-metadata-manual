@@ -10,5 +10,5 @@ The **Citation **section of the **Main **tab allows users to add: **Responsible 
 
 When you have finished adding your citation, click **Back to Citation**.
 
-Click [here](#citation) to return to the **Main **section of this manual.
+Click [here](/projects/main/main#citations.md) to return to the **Main **section of this manual.
 
