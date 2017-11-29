@@ -7,15 +7,14 @@
   * [Defaults](settings/defaults.md)
     * Import URL
     * MetaData Repositorys
-* Profile
 * [Contacts](chapter1.md)
   * [Organizations](chapter1/organizations.md)
   * [Individuals](chapter1/individuals.md)
 * [Projects](projects.md)
   * [Creating a Project](projects/creating-an-project-record.md)
-  * Profile
+  * [Profile](projects/profile.md)
   * [Main](projects/main.md)
-    * Citation
+    * [Citation](projects/main/citation.md)
   * [Metadata](projects/metadata.md)
   * [Keywords](projects/keywords.md)
   * [Extent](projects/extent.md)
