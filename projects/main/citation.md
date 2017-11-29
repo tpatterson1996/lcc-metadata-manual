@@ -10,5 +10,5 @@ The **Citation **section of the **Main **tab allows users to add: **Responsible 
 
 When you have finished adding your citation, click **Back to Citation**.
 
-Click [here](https://jbadash.gitbooks.io/mdeditor-for-lccs/content/projects/main.html#citations) to return to the **Main **section of this manual.
+Return to the [**Main**](https://jbadash.gitbooks.io/mdeditor-for-lccs/content/projects/main.html#citations)** **section of this manual.
 
