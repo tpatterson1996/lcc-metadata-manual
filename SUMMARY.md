@@ -28,5 +28,4 @@
 * [Appendices](appendices.md)
   * [Architecture](appendices/architecture.md)
 * Glossary
-* Profile
 
