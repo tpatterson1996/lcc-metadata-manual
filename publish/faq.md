@@ -1,5 +1,7 @@
 # FAQ
 
+---
+
 1. Is moving the record in the mdEditor outline also moving the record in ScienceBase, or just overwriting the existing record?
 
    > Moving a record in mdEditor will overwrite the record in Science Base. If you have a record in SB already, then it is not advisable to move items in the publishing outline structure.
@@ -17,6 +19,9 @@
 4. What happens if a user works on files remotely, or more than one person works on the same project/product? Will these merge?
 
    > Files and contact lists will not merge. The new import will overwrite the older version. **Best Practice**: Maintain a master contacts list that is accessible by multiple editors. It is recommend that only one person edit the same project/product at the same time to help with version control.
+
+5.  If my items are password protected, do I still need to create metadata for them?  
+   > Make a metadata record that points to a secure \(password-protected\) location on ScienceBase. Your items will remain private until you see fit to publish.
 
 
 

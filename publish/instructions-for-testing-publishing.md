@@ -1,18 +1,20 @@
 # **Instructions for Testing Publishing**
 
+---
+
 For tracking issues, please use the github thread [here](https://github.com/adiwg/mdEditor/issues/128) and sign up for notifications via email.
 
 1. Determine your workflow for testing:
 
    If You** do not already** have items on ScienceBase. Choose a project and its products to test.
 
-   > ![](/assets/BestPracticeSmall.png)
+   > ![](/assets/best_practice_small.png)
    >
    > **Best Practice**: It's recommended that you export a project and its products into its own mdEditor file. Set default parent identifier as a test folder.
 
    If you** already have** items on Science Base, it is harder to test without it affecting your real records.
 
-   > ![](/assets/BestPracticeSmall.png)
+   > ![](/assets/best_practice_small.png)
    >
    > **Best Practice**:
    >
@@ -39,6 +41,7 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 10. Make sure any test SBIDs are removed entirely from the record you want to actually publish.
 
 11. Verify that the real records have updated as expected.
+
 12. Proceed with publishing your other records to their real locations.
 
 
