@@ -20,5 +20,5 @@ When creating LCC records, there are two options for the record: **Projects** an
 6. After entering all information, click **Save**.  
    > ![](/assets/best_practice_small.png)**Best Practice**: Since products and projects are independent records, we recommend having as informative a title as possible.
 
-![](/assets/d77960d1-4323-475a-ac06-83d11a45d67f.png)
+![](/assets/resource_type.png)
 

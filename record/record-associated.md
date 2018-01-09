@@ -18,11 +18,11 @@ The **Associated** section is used to connect items with each other. In mdEditor
 
 * Use the **Select a Record **button to select an associated project.
 
-![](/assets/Select_a_Record_Button.png)
+![](/assets/select_a_record_button.png)
 
 * Select the project that you would like to associate to from the **Select a Resource **list.
 
-![](/assets/Select a Resource Window.png)
+![](/assets/select_a_resource_window.png)
 
 ---
 
