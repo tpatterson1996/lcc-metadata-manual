@@ -3,6 +3,14 @@
 * [Introduction](README.md)
   * Concepts Detailing the Relationship Between Contacts, Projects, and Products
   * Concepts Detailing the Relationship Between Contacts and Funding
+* [Getting Started](getting-started.md)
+* Dashboard
+* Right Vertical Menu
+* [Data Management](data-management.md)
+  * [File Management](data-management/file-management.md)
+  * [Export](data-management/export.md)
+  * [Import](data-management/import.md)
+    * [ScienceBase Import](data-management/import/sciencebase-import.md)
 * [Settings](settings.md)
   * [Defaults](settings/defaults.md)
     * Import URL
@@ -22,12 +30,4 @@
 * [Products](products.md)
   * Profile
 * [Error Checking](error-checking.md)
-* [Publishing to ScienceBase](exporting-to-sciencebase.md)
-  * ScienceBase Login
-  * Default ScienceBase Settings
-* [Appendices](appendices.md)
-  * [Architecture](appendices/architecture.md)
-* Glossary
-* [Publish](publish.md)
-  * [FAQ](publish/faq.md)
 
