@@ -1,10 +1,5 @@
-{{
-"gitbook": "4",
-"title": "mdEditor for LCCs",
-"author": "Joseph Badash",
-"description": "An mdEditor guide for LCCs",
+{
 "structure": {
-"readme": "README.md"
+"readme": "README.adoc"
 }
-
 }
