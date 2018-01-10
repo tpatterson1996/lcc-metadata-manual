@@ -28,4 +28,6 @@
 * [Appendices](appendices.md)
   * [Architecture](appendices/architecture.md)
 * Glossary
+* [Publish](publish.md)
+  * [FAQ](publish/faq.md)
 
