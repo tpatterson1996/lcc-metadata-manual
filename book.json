@@ -1,9 +1,8 @@
 {{
-"gitbook": "3.2.3",
-
-"title": "Casium Front-End Architecture Guide",
-"author": "Nate Abele",
-"description": "A primer for developers",
+"gitbook": "4",
+"title": "mdEditor for LCCs",
+"author": "Joseph Badash",
+"description": "An mdEditor guide for LCCs",
 "structure": {
 "readme": "README.md"
 }
