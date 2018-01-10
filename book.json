@@ -1,3 +1,11 @@
-{
+{{
+"gitbook": "3.2.3",
+"root": "/Chapters/",
+"title": "Casium Front-End Architecture Guide",
+"author": "Nate Abele",
+"description": "A primer for developers",
+"structure": {
+"readme": "README.md"
+}
 
 }
