@@ -43,5 +43,7 @@
   * [Record Constraints](record/record-constraints.md)
   * [Record Associated](record/record-associated.md)
   * [Record Documents](record/record-documents.md)
-* [Parent Metadata](parent-metadata.md)
+  * [Record Funding](record/record-funding.md)
+    * [Allocation](record/record-funding/allocation.md)
+    * Time Period
 
