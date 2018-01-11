@@ -45,5 +45,5 @@
   * [Record Documents](record/record-documents.md)
   * [Record Funding](record/record-funding.md)
     * [Allocation](record/record-funding/allocation.md)
-    * Time Period
+    * [Time Period](record/record-funding/time-period.md)
 
