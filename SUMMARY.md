@@ -33,8 +33,6 @@
   * [Record Keywords](record/keywords.md)
     * [Custom Thesaurus](record/keywords/custom-keywords.md)
   * [Record Extent](record/record-extent.md)
-  * [Record Lineage](record/record-lineage.md)
-    * Process Step
   * [Record Distribution](record/record-distribution.md)
     * [Transfer Options](record/record-distribution/edit-distributors.md)
       * Online Option
