@@ -24,5 +24,26 @@
 * [Records](records.md)
 * [Record New](record-new.md)
 * [Record Show](show.md)
-* [Record Edit](edit.md)
+* [Record Edit](record.md)
+  * [Record Main](record/main.md)
+    * [Main Citation](record/main/citation.md)
+  * [Record Metadata](record/metatdata.md)
+    * [Parent Metadata](record/metatdata/parent-metadata.md)
+      * [Identifier](record/metatdata/parent-metadata/identifier.md)
+  * [Record Keywords](record/keywords.md)
+    * [Custom Thesaurus](record/keywords/custom-keywords.md)
+  * Record Extent
+  * [Record Lineage](record/record-lineage.md)
+    * Process Step
+  * [Record Distribution](record/record-distribution.md)
+    * [Transfer Options](record/record-distribution/edit-distributors.md)
+      * Online Option
+      * Offline Options
+    * Order Process
+  * Record Constraints
+  * Record Associated
+  * Record Documents
+  * [Record Funding](record/record-funding.md)
+    * [Allocation](record/record-funding/allocation.md)
+    * [Time Period](record/record-funding/time-period.md)
 
