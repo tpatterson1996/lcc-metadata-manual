@@ -35,13 +35,12 @@
   * [Record Extent](record/record-extent.md)
   * [Record Lineage](record/distribution.md)
     * [Process Step](record/distribution/process-step.md)
-  * [Record Distribution](record/record-distribution.md)
-    * [Transfer Options](record/record-distribution/edit-distributors.md)
-      * Online Option
-      * Offline Options
-    * Order Process
-  * [Record Constraints](record/record-constraints.md)
+  * [Record Distribution](record/quality.md)
+    * [Transfer Options](record/quality/edit-distributors.md)
+      * [Online Option](record/quality/edit-distributors/online-option.md)
+      * [Offline Options](record/quality/edit-distributors/offline-options.md)
   * [Record Associated](record/record-associated.md)
+  * [Record Constraints](record/record-constraints.md)
   * [Record Documents](record/record-documents.md)
 * [Parent Metadata](parent-metadata.md)
 
