@@ -46,4 +46,8 @@
   * [Record Funding](record/record-funding.md)
     * [Allocation](record/record-funding/allocation.md)
     * [Time Period](record/record-funding/time-period.md)
+* [Contacts](contacts.md)
+* [Contact New](new.md)
+  * [Individual](new/individual.md)
+  * [Organization](new/organization.md)
 
