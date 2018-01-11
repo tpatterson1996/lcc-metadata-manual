@@ -32,7 +32,7 @@
       * [Identifier](record/metatdata/parent-metadata/identifier.md)
   * [Record Keywords](record/keywords.md)
     * [Custom Thesaurus](record/keywords/custom-keywords.md)
-  * Record Extent
+  * [Record Extent](record/record-extent.md)
   * [Record Lineage](record/record-lineage.md)
     * Process Step
   * [Record Distribution](record/record-distribution.md)
@@ -40,9 +40,9 @@
       * Online Option
       * Offline Options
     * Order Process
-  * Record Constraints
-  * Record Associated
-  * Record Documents
+  * [Record Constraints](record/record-constraints.md)
+  * [Record Associated](record/record-associated.md)
+  * [Record Documents](record/record-documents.md)
   * [Record Funding](record/record-funding.md)
     * [Allocation](record/record-funding/allocation.md)
     * [Time Period](record/record-funding/time-period.md)
