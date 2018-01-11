@@ -24,7 +24,5 @@
 * [Records](records.md)
 * [Record New](record-new.md)
 * [Record Show](show.md)
-* [record](record.md)
-
-
+* [Record Edit](edit.md)
 
