@@ -11,7 +11,7 @@
 ![](/assets/best_practice_small.png)It is recommended that items be created in the following order:
 
 1. FIrst, create or import your contacts. To learn how to import contacts, consult the** **[**Import** ](/data-management/import.md)section of this manual. To learn how to create contacts from scratch, consult the [**Contacts**](/contacts.md) section of this manual.
-2. Next create projects and define the relationship between projects and contacts.   
+2. Next create projects and define the relationship between projects and contacts.   For more information on creating 
 
 
 
