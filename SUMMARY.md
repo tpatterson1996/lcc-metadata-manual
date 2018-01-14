@@ -23,7 +23,8 @@
 * [Record New](record-new.md)
 * [Record Show](show.md)
 * [Record Edit](record.md)
-  * [Record Main](record/main.md)
+  * [Fields Required for LCC Record Creation](https://www.gitbook.com/book/jbadash/mdeditor-for-lccs/edit#)
+ * [Record Main](record/main.md)
     * [Main Citation](record/main/citation.md)
   * [Record Metadata](record/metatdata.md)
     * [Parent Metadata](record/metatdata/parent-metadata.md)
@@ -39,11 +40,10 @@
       * [Offline Options](record/quality/edit-distributors/offline-options.md)
     * [Order Process](record/quality/order-process.md)
   * [Record Constraints](record/record-constraints.md)
+
+
   * [Record Associated](record/record-associated.md)
   * [Record Documents](record/record-documents.md)
-  * [Record Funding](record/record-funding.md)
-    * [Allocation](record/record-funding/allocation.md)
-    * [Time Period](record/record-funding/time-period.md)
 * [Contacts](contacts.md)
 * [Contact New](contact.md)
   * [Individual Contact](contact/individual-contact.md)
@@ -51,4 +51,6 @@
 * [Contact Show](show.md)
 * [Glossary of Terms](glossary-of-terms.md)
 * [Appendix](appendix.md)
+
+
 
