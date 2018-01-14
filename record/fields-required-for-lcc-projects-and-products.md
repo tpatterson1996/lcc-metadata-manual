@@ -6,20 +6,23 @@ The required fields are listed below. The required are also noted in the manual 
 
 | Required Project Fields | Required Product Fields |
 | :--- | :--- |
-| status | status |
-| resourceType | resourceType |
+| _**Main Tab**_ | _**Main Tab**_ |
+| Title | Title |
+| Status | Status |
 | Language | Language |
-| lccname | lccname |
-| title | title |
-| SBID | SBID |
-| url | url |
-| \(lead\) | \(lead\) |
-| leadcontact | leadcontact |
-| leadorg | leadorg |
-| leadorgtype | leadorgtype |
-| abstract | abstract |
-| start | start |
-| end | end |
+| Resource Type | Resource Type |
+| Point of Contact | Point of Contact |
+| _**Main Citation**_ | _**Main Citation**_ |
+| _Identifier_ | _Identifier_ |
+| _Online Resource URI_ | _Online Resource URI_ |
+| _**-Main Citation Responsible Parties**_ | _**-Main Citation Responsible Parties**_ |
+| _-Lead Contact_ | _-Lead Contact_ |
+| _-Lead Org_ | _-Lead Org_ |
+| _-Lead Org Type_ | _-Lead Org Type_ |
+| Abstract | Abstract |
+| Start | Start |
+| End | End |
+| **Metadata Tab** | **Metadata Tab** |
 | Metadata Identifier | Metadata Identifier |
 | LCC Network Science Catalog | LCC Network Science Catalog |
 | topicCategory | export |
