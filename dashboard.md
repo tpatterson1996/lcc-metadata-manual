@@ -70,7 +70,7 @@ _Options available when viewing or editing_
 
 _Options available when viewing_
 
-![](/assets/Right_Vertical_Menu_View.png)
+![](/assets/right_vertical_menu_view.png)
 
 Viewing options include everything mentioned above along with an **Edit **button. This button will allow you to begin editing your item.
 
@@ -80,7 +80,7 @@ Viewing options include everything mentioned above along with an **Edit **button
 
 _Options available when editing_
 
-![](/assets/Right_Vertical_Menu_Edit.png)
+![](/assets/right_vertical_menu_edit.png)
 
 Editing options include the above options along with the following:
 
