@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-  * Concepts Detailing the Relationship Between Contacts, Projects, and Products
-  * Concepts Detailing the Relationship Between Contacts and Funding
+  * [Relationships Between Contacts, Projects, and Products](concepts-detailing-the-relationship-between-contacts-projects-and-products.md)
+  * [Relationship Between Contacts and Funding](concepts-detailing-the-relationship-between-contacts-and-funding.md)
 * [Getting Started](getting-started.md)
 * Dashboard
 * Right Vertical Menu
