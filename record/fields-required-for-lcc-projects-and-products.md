@@ -6,7 +6,7 @@ The required fields are listed below. The required are also noted in the manual 
 
 | Required Project Fields | Required Product Fields |
 | :--- | :--- |
-| _**Main Tab**_ | _**Main Tab**_ |
+| **Main Tab** | **Main Tab** |
 | Title | Title |
 | Status | Status |
 | Language | Language |
