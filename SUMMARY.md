@@ -23,7 +23,7 @@
 * [Record New](record-new.md)
 * [Record Show](show.md)
 * [Record Edit](record.md)
-  * Fields Required for LCC Record Creation
+
   * [Record Main](record/main.md)
     * [Main Citation](record/main/citation.md)
   * [Record Metadata](record/metatdata.md)
@@ -42,6 +42,7 @@
   * [Record Constraints](record/record-constraints.md)
 
 * [Record Associated](record/record-associated.md)
+
 * [Record Documents](record/record-documents.md)
   * [Contacts](contacts.md)
   * [Contact New](contact.md)
