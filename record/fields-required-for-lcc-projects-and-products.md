@@ -31,6 +31,7 @@ The required fields are listed below. The required are also noted in the manual 
 | _-Identifier_ | _-Identifier_ |
 | _-Namespace_ | _-Namespace_ |
 | Metadata Repositories | Metadata Repositories |
+| **Keyword Tab** |  |
 | topicCategory | export |
 | deliver |  |
 | congdist |  |
