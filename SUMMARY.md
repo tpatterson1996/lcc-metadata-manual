@@ -23,7 +23,7 @@
 * [Record New](record-new.md)
 * [Record Show](show.md)
 * [Record Edit](record.md)
-
+  * [Fields Required for LCC Projects and Products](record/fields-required-for-lcc-projects-and-products.md)
   * [Record Main](record/main.md)
     * [Main Citation](record/main/citation.md)
   * [Record Metadata](record/metatdata.md)
@@ -40,17 +40,10 @@
       * [Offline Options](record/quality/edit-distributors/offline-options.md)
     * [Order Process](record/quality/order-process.md)
   * [Record Constraints](record/record-constraints.md)
-
-* [Record Associated](record/record-associated.md)
-
-* [Record Documents](record/record-documents.md)
-  * [Contacts](contacts.md)
-  * [Contact New](contact.md)
+  * [Record Associated](record/record-associated.md)
 * [Individual Contact](contact/individual-contact.md)
 * [Organization Contacts](contact/organization-contacts.md)
   * [Contact Show](show.md)
   * [Glossary of Terms](glossary-of-terms.md)
   * [Appendix](appendix.md)
-
-
 
