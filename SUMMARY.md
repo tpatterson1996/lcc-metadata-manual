@@ -23,8 +23,8 @@
 * [Record New](record-new.md)
 * [Record Show](show.md)
 * [Record Edit](record.md)
-  * [Fields Required for LCC Record Creation](https://www.gitbook.com/book/jbadash/mdeditor-for-lccs/edit#)
- * [Record Main](record/main.md)
+  * Fields Required for LCC Record Creation
+  * [Record Main](record/main.md)
     * [Main Citation](record/main/citation.md)
   * [Record Metadata](record/metatdata.md)
     * [Parent Metadata](record/metatdata/parent-metadata.md)
@@ -41,16 +41,15 @@
     * [Order Process](record/quality/order-process.md)
   * [Record Constraints](record/record-constraints.md)
 
-
-  * [Record Associated](record/record-associated.md)
-  * [Record Documents](record/record-documents.md)
-* [Contacts](contacts.md)
-* [Contact New](contact.md)
-  * [Individual Contact](contact/individual-contact.md)
-  * [Organization Contacts](contact/organization-contacts.md)
-* [Contact Show](show.md)
-* [Glossary of Terms](glossary-of-terms.md)
-* [Appendix](appendix.md)
+* [Record Associated](record/record-associated.md)
+* [Record Documents](record/record-documents.md)
+  * [Contacts](contacts.md)
+  * [Contact New](contact.md)
+* [Individual Contact](contact/individual-contact.md)
+* [Organization Contacts](contact/organization-contacts.md)
+  * [Contact Show](show.md)
+  * [Glossary of Terms](glossary-of-terms.md)
+  * [Appendix](appendix.md)
 
 
 
