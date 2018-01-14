@@ -11,8 +11,8 @@
 
 > ![](/assets/lcc_required_small.png)When creating a project, select **Project **from the drop down menu. When creating a **Product**, select the type of product metadata that you are creating. I.E. **Application**, **Dataset, Document**, **Presentation**, **Map**, **etc**.
 
-1. The record **Name **is optional.
-2. After entering all information, click **Save**.
+5. The record **Name **is optional.
+6. After entering all information, click **Save**.
 
 
 
