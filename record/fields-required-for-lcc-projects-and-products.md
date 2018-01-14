@@ -23,8 +23,14 @@ The required fields are listed below. The required are also noted in the manual 
 | Start | Start |
 | End | End |
 | **Metadata Tab** | **Metadata Tab** |
+| Metadata Contacts | Metadata Contacts |
 | Metadata Identifier | Metadata Identifier |
-| LCC Network Science Catalog | LCC Network Science Catalog |
+| _**Parent Metadata**_ | _**Parent Metadata**_ |
+| _Title_ | _Title_ |
+| _**-Identifier**_ | _**-Identifier**_ |
+| _-Identifier_ | _-Identifier_ |
+| _-Namespace_ | _-Namespace_ |
+| Metadata Repositories | Metadata Repositories |
 | topicCategory | export |
 | deliver |  |
 | congdist |  |
