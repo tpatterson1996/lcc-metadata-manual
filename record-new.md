@@ -7,12 +7,12 @@
 3. In the **Record Title **field, enter a title.
 4. Under **Resource Types**, from the **Type **drop down menu, select your record type. 
 
+![](/assets/create_new_record_page.png)
 
-   ![](/assets/create_new_record_page.png)
-   > ![](/assets/lcc_required_small.png)When creating a project, select **Project **from the drop down menu. When creating a **Product**, select the type of product metadata that you are creating. I.E. **Application**, **Dataset, Document**, **Presentation**, **Map**, **etc**.
+> ![](/assets/lcc_required_small.png)When creating a project, select **Project **from the drop down menu. When creating a **Product**, select the type of product metadata that you are creating. I.E. **Application**, **Dataset, Document**, **Presentation**, **Map**, **etc**.
 
-5. The record **Name **is optional.
-6. After entering all information, click **Save**.
+1. The record **Name **is optional.
+2. After entering all information, click **Save**.
 
 
 
