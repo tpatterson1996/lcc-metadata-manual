@@ -2,9 +2,9 @@
 
 When creating LCC records, there are two options: **Projects** or **Products**. Projects will often result in the development of products, and mdEditor allows for the association between the two. The following details how to create both **Projects **and **Products**.
 
-When creating a project, select **Project **from the drop down menu.
+> ![](/assets/project_required_small.png)When creating a project, select **Project **from the drop down menu.
 
-> When creating a **Product**, select the type of product metadata that you are creating. I.E. **Application**, **Dataset, Document**, **Presentation**, **Map**, **etc**.
+> ![](/assets/product_required_small.png)When creating a **Product**, select the type of product metadata that you are creating. I.E. **Application**, **Dataset, Document**, **Presentation**, **Map**, **etc**.
 
 **To make a new record:**
 
