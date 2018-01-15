@@ -1,6 +1,6 @@
 # Main
 
-The **Main **tab allows for the creation of primary metadata from scratch. \(i.e. Creating a record that doesn’t need to be imported from somewhere else\)
+The **Main **tab allows for the creation or editing of primary metadata from scratch. \(i.e. Creating a record that doesn’t need to be imported from somewhere else\)
 
 * **Record ID **and **Title **will be auto-filled, but can be edited.
 
@@ -12,27 +12,31 @@ The **Main **tab allows for the creation of primary metadata from scratch. \(i.e
 
 #### **Default Locale**
 
-![](/assets/default_local.png)
-
 **Default Locale **allows for selection of **Language**, **Character Set**, and **Country**. English, UTF-8, and USA are selected by default, but you may change them if necessary.
+
+![](/assets/default_local.png)
 
 ---
 
 #### **Resource Types**
 
-![](/assets/resource_types.png)
-
 **Resource Types** \(**Type **and **Name**\), will be filled automatically with the information added when you created your record \(as described in [**Record New**](/records\record\new.md)\). These may be changed as necessary.
+
+![](/assets/resource_types.png)
 
 ---
 
 #### **Point of Contacts **
 
-![](/assets/point_of_contact.png)
-
 **Point Of Contacts **may be added by clicking the **Add **button.
 
-From the **Role **drop-down menu, select or enter a roll for your point of contact. From the **Contacts **drop-down menu, select a contact from the list of contacts. Learn how to create a contact in the [**Contact New**](/contact\new.md)** **section of this manual.
+From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts **drop-down menu, select a contact from the list of contacts. Learn how to create a contact in the [**Contact New**](/contact\new.md)** **section of this manual.
+
+![](/assets/best_practice_small.png)Best Practice: Select a point of contact that users can contact even if there is a positional change in an organization. One option is the LCC Data Steward. Consult the Contact section of this manual for more information on adding the LCC Data Steward.
+
+![](/assets/point_of_contact.png)
+
+
 
 ---
 
