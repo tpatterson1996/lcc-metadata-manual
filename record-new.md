@@ -1,5 +1,11 @@
 # Record New
 
+When creating LCC records, there are two options: **Projects** or **Products**. Projects will often result in the development of products, and mdEditor allows for the association between the two. The following details how to create both **Projects **and **Products**.
+
+![](blob:https://www.gitbook.com/cb4c9b1d-5d4c-43de-8422-4b156d1aed56)When creating a project, select **Project **from the drop down menu. 
+
+> When creating a **Product**, select the type of product metadata that you are creating. I.E. **Application**, **Dataset, Document**, **Presentation**, **Map**, **etc**.
+
 **To make a new record:**
 
 1. Click the **plus icon \(**![](https://adiwg.gitbooks.io/mdeditor/content/v/0f34b4eb41e0ced01c4c34b14a8fee12e2e03b05/assets/symbol_plus_16.png)\) to add a new record to an object group.
@@ -9,7 +15,7 @@
 5. The record **Name **is optional.
 6. After entering all information, click **Save**. 
 
-> ![](blob:https://www.gitbook.com/cb4c9b1d-5d4c-43de-8422-4b156d1aed56)When creating a project, select **Project **from the drop down menu. When creating a **Product**, select the type of product metadata that you are creating. I.E. **Application**, **Dataset, Document**, **Presentation**, **Map**, **etc**.
+
 
 ![](/assets/create_new_record_page.png)
 

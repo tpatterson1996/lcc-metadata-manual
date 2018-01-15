@@ -35,9 +35,17 @@ The required fields are listed below. The required are also noted in the manual 
 | ISO 19115 Topic Category | ISO 19115 Topic Category |
 | LCC Project Category | LCC Project Category |
 | Deliverable Types | Deliverable Types |
-| **Funding Tab** |  |
-| fiscalyears |  |
-| lccfundby |  |
+| [**Extent Tab**](/record/record-extent.md) | [**Associated Tab**](/record/record-associated.md) |
+| Bounding Box | Association Type |
+| [**Funding Tab**](/record/record-funding.md) |  |
+| [_**Allocation**_](/record/record-funding/allocation.md) |  |
+| _Amount_ |  |
+| _Currency_ |  |
+| _Source_ |  |
+| _Recipient_ |  |
+| [_**Time Period**_](/record/record-funding/time-period.md) |  |
+| _Start Date_ |  |
+| _End Date_ |  |
 | year |  |
 | source |  |
 | amount |  |
