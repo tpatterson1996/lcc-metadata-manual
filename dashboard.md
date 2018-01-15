@@ -58,6 +58,8 @@ The right vertical menu allows for general manipulation of records and contacts.
 
 _Options available when viewing or editing_
 
+![](/assets/lcc_copy_delete_button.png)
+
 * **Copy**: The copy button makes a duplicate of a record or contact.
   > ![](/assets/NoteSmall.png) Making a copy will generate a new ID for the copied record and be named “Copy of …”. All the other info will remain the same including associations. The “metadata identifier” is NOT copied but any identifiers in the main citation WILL be copied, including any ScienceBase IDs.
 * **Delete**: The delete button will completely delete the record or contact.
