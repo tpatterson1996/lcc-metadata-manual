@@ -6,13 +6,13 @@ The **Main **tab allows for the creation of primary metadata from scratch. \(i.e
 
 * The **Status **drop-down menu allows you to select the status of your item.
 
-![](/assets/MainScreenshot.png)
+![](/assets/main_screenshot.png)
 
 ---
 
 #### **Default Locale**
 
-![](https://lh4.googleusercontent.com/2ERPdFhyAVQYiGMA0NwrxuJgEpWXjv42wJWG8GyAvxbLzAkQFGPC4q0Gm69yt-5Ytt6BlFu4HipCCrunpBLJoFR9-DaAKFtq_JgmXrhmgEM_2J8an8oBrYB7cMogQ-9ub-w0_nUP)
+![](/assets/default_local.png)
 
 **Default Locale **allows for selection of **Language**, **Character Set**, and **Country**. English, UTF-8, and USA are selected by default, but you may change them if necessary.
 
@@ -20,7 +20,7 @@ The **Main **tab allows for the creation of primary metadata from scratch. \(i.e
 
 #### **Resource Types**
 
-![](https://lh5.googleusercontent.com/mpINpuZFxHh2SvToPFVGJcILS3vDJNnF_hETtwi3BmAImHcYpQHSPKSs3SySaxZdTUgyQB0PD9ghrw2djbh9ce5ZwcvV239b38nt2dGW3wlVyFT_Kmu51N789u6xmED7YQOANpyM)
+![](/assets/resource_types.png)
 
 **Resource Types** \(**Type **and **Name**\), will be filled automatically with the information added when you created your record \(as described in [**Record New**](/records\record\new.md)\). These may be changed as necessary.
 
@@ -28,7 +28,7 @@ The **Main **tab allows for the creation of primary metadata from scratch. \(i.e
 
 #### **Point of Contacts **
 
-![](https://lh5.googleusercontent.com/b3GKNX22m0ZAXJBjwl0o9-pOIRwA7GZW7f8pPakoOYgJbWGagO_c9QW0xt7xONBwUAjrrXj9r-g1Syw_XhfU8qSPnncHxb-7uHFqdWTxe-x9RnqEsQknnVNbdV-oyGqEtNYFHQv4)
+![](/assets/point_of_contact.png)
 
 **Point Of Contacts **may be added by clicking the **Add **button.
 
@@ -44,7 +44,7 @@ From the **Role **drop-down menu, select or enter a roll for your point of conta
 
 #### **Description**
 
-![](/assets/Description.png)
+![](/assets/description.png)
 
 **Description **allows for the addition of the **Abstract **as well as a **Short Abstract **\(limited to 300 characters\), a **Purpose**, **Supplemental Information**, and an **Environment Description**.
 
@@ -56,9 +56,9 @@ From the **Role **drop-down menu, select or enter a roll for your point of conta
 
 **Time Period** refers to project start and end date, or the date that the product was applicable \(e.g., time that a map is valid, date of publication, date of presentation\)
 
-> ![](/assets/BestPracticeSmall.png)**Best Practice:** For each project, add a start and end date.
+> ![](/assets/best_practice_small.png)**Best Practice:** For each project, add a start and end date.
 >
-> ![](/assets/NoteSmall.png)**Time Period** isn’t required but if you choose to enter something in time period, you have to enter a date.
+> ![](/assets/note_small.png)**Time Period** isn’t required but if you choose to enter something in time period, you have to enter a date.
 
 ---
 
@@ -72,7 +72,7 @@ From the **Role **drop-down menu, select or enter a roll for your point of conta
 
 #### **Credits**
 
-![](/assets/CreditsScreenshot.png)
+![](/assets/credits_screenshot.png)
 
 **Credits **allow you to add additional credits for the resource.
 
