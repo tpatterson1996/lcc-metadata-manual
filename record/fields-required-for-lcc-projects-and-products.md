@@ -35,7 +35,7 @@ The required fields are listed below. The required are also noted in the manual 
 | ISO 19115 Topic Category | ISO 19115 Topic Category |
 | LCC Project Category | LCC Project Category |
 | Deliverable Types | Deliverable Types |
-| congdist |  |
+| **Funding Tab** |  |
 | fiscalyears |  |
 | lccfundby |  |
 | year |  |
