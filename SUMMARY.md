@@ -38,10 +38,6 @@
     * [Time Period](record/record-funding/time-period.md)
 * [Contacts](contacts.md)
 * [Contact New](contact.md)
-  * [Individual](contact/individual.md)
-* [Individual Contact](contact/individual-contact.md)
-* [Organization Contacts](contact/organization-contacts.md)
-  * [Contact Show](show.md)
-  * [Glossary of Terms](glossary-of-terms.md)
-  * [Appendix](appendix.md)
+  * [Individual Contact](contact/individual-contact.md)
+  * [Organization Contacts](contact/organization-contacts.md)
 
