@@ -60,7 +60,7 @@ From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts
 
 #### **Time Period**
 
-> ![](blob:https://www.gitbook.com/e31915c1-09ab-4a0f-9e00-db89b27d8016) **Required for** **Projects Only: **For each project, add a start, end date, and fiscal year.
+> ![](/assets/project_required_small.png) **Required for** **Projects Only: **For each project, add a start, end date, and fiscal year.
 
 **Time Period** refers to project start and end date, or the date that the project was applicable \(time that the project was funded to date of completion\).
 

@@ -1,5 +1,7 @@
 # Record Extent
 
+![](/assets/project_required_small.png) Required for Projects only
+
 **Record Extent** refers to geographic bounds for the project.
 
 ![](/assets/ExtentScreenshot.png)
@@ -10,8 +12,7 @@ It is possible to export bound features and re-use for other records using the *
 
 > ![](/assets/NoteSmall.png)**Note: **The extent must use geographic coordinates, not projected coordinates
 >
->
-> ![](/assets/NoteSmall.png)**Note: **Bounding boxes will not work across dateline. However, you can have more than one extent, so if your area crosses a dateline, split the area and create separate extents.
+> ![](/assets/NoteSmall.png)**Note: **Bounding boxes will not work across dateline. However, you can have more than one extent, so if your area crosses a dateline, split the area and create separate extents.  
 > ![](/assets/BestPracticeSmall.png)
 >
 > **Best Practice: **Shapefiles are limited to 5000 vertices. It is recommend that you create only simple polygons or bounding boxes. If you want greater detail, attach high-definition shapefiles instead of trying to draw them.
