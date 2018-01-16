@@ -2,10 +2,12 @@
 
 Record Metadata is the place to enter key metadata into your record.
 
-* **Metadata Contacts: **are required and selected from your list of contacts. Consult the [**Contacts**](/contacts.md)** **section of this manual to learn how to add contacts.
-* **Metadata** **Identifier **is automatically created by mdEditor.
-* **Parent Metadata **is used to define the folder on ScienceBase where the project or product will be published to. Consult the [**Parent Metadata**](/record/edit/metadata/parent-metadata.md)** **section of this manual to learn how to create parent metadata.
+* **Metadata Contacts: **are required and selected from your list of contacts. 
+  * Consult the [**Contacts**](/contacts.md)** **section of this manual to learn how to add contacts.
+* The **Metadata** **Identifier **is automatically created by mdEditor.
+* The **Parent Metadata **is used to define the folder on ScienceBase where the project or product will be published to.
+  * Consult the [**Parent Metadata**](/record/edit/metadata/parent-metadata.md)** **section of this manual to learn how to create parent metadata.
 * **Metadata Repositories **indicate where the metadata should be sent.
 
-![](/assets/metadata_window_lcc.png)\(insert mdEditor manual button here\) Consult the [**Record Metadata**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/metadata.html) ** **section of the full mdEditor manual for information on adding additional information in the Metadata Tab.
+![](/assets/metadata_window_lcc.png) ![](/assets/Screen Shot 2018-01-16 at 3.39.40 PM.png)Consult the [**Record Metadata**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/metadata.html) ** **section of the full mdEditor manual for instructions on adding additional information into the Metadata Tab.
 
