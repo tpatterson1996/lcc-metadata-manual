@@ -2,6 +2,15 @@
 
 Contacts are individuals or organizations that can be referenced by other contacts, projects, or products. Contacts contain information such as name of individuals or organization, email address, physical address, website, and phone number so that viewers of metadata can communicate with those affiliated with a metadata record.
 
+> ![](/assets/lcc_required_small.png)All LCC records require at least one contact to serve as a point of contact for projects and products. If you do not have a point of contact, you may use the LCC Network Data Steward. The LCC Network Data Steward's contact information is as follows.
+>
+> * Individual Name: **LCC Network Data Steward**
+> * Position Name: **LCC Network Data Manager**
+> * Contact Type: **lcc**
+> * E-mail Addresses: **lccdatasteward@fws.gov**
+>
+> Consult the [**Individual Contact**](/contact/individual-contact.md) section of this manual to learn how to add the network data steward.
+
 ### General notes on Contacts
 
 Copying contacts will change the ID and the name \(the name will be “Copy of ….”\) but all the other information will be the same.
