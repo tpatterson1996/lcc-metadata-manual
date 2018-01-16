@@ -1,16 +1,18 @@
 # Allocation
 
-* **Funding Allocations **details where to put the funds. Users can add multiple allocations for same fiscal year
+> ![](/assets/project_required_small.png) **Allocation is required for projects only.**
 
-* **Amount**: \(required\) Enter the amount of funding.
+**Allocation **details where to put the funds. Users can add multiple allocations for same fiscal year.
 
-* **Currency**:\(required\) Currency is auto-filled with USD but other currencies can be selected.
+The following fields are required for funding allocation.
 
-* **Award ID** includes information such as the financial agreement number.
+* **Amount**: Enter the amount of funding.
 
-* The **Source **is the original sources of funds.
+* **Currency**: Currency is auto-filled with USD but other currencies can be selected.
 
-* **Recipient **describes the recipient of the funds
+* **Source**: The original sources of funds.
+
+* **Recipient**: The recipient of the funds.
 
   > ![](/assets/NoteSmall.png) If there are multiple recipients, users must add separate funding allocations for each recipient.
 
@@ -23,7 +25,9 @@
 
 * **Description**: Add a description for the funding allocation
 
-* **Online Resource**: Add an online resource that further details the allocation.
-
 ![](/assets/Allocation_Window.png)
+
+---
+
+\(insert mdEditor manual button here\) Consult the [**Allocation** ](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-funding/allocation.html)section of the full mdEditor manual for information on Allocation.
 

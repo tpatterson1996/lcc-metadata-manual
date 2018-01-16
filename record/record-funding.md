@@ -1,10 +1,12 @@
 # Record Funding
 
+> ![](/assets/project_required_small.png) Record Funding is required for projects only.
+
 Tracking funding in the metadata allows for identification of funding sources, comparison, and aggregation at the network level.
 
 ---
 
-Available fields include:
+Required fields include:
 
 * **Allocation**: Describes how the funds were allocated. Consult the [**Allocation**](/record/edit/record-funding/allocation.md) section of this manual to learn how to add allocations.
 
