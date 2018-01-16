@@ -20,8 +20,8 @@ The required fields are listed below. The required are also noted in the manual 
 | _**Description**_ | _**Description**_ |
 | _Abstract_ | _Abstract_ |
 | _**Time Period**_ | [**Metadata Tab**](/record/metatdata.md) |
-| Start | Metadata Contacts |
-| End | Metadata Identifier |
+| _Start_ | Metadata Contacts |
+| _End_ | Metadata Identifier |
 | [**Metadata Tab**](/record/metatdata.md) | [_**Parent Metadata**_](/record/metatdata/parent-metadata.md) |
 | Metadata Contacts | _Title_ |
 | Metadata Identifier | [_**-Identifier**_](/record/metatdata/parent-metadata/identifier.md) |
