@@ -40,4 +40,7 @@
 * [Contact New](contact.md)
   * [Individual Contact](contact/individual-contact.md)
   * [Organization Contacts](contact/organization-contacts.md)
+* [Contact Show](show.md)
+* [Glossary of Terms](glossary-of-terms.md)
+* [Appendix](appendix.md)
 
