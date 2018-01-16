@@ -60,9 +60,9 @@ From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts
 
 #### **Time Period**
 
-**Time Period** refers to project start and end date, or the date that the project was applicable \(e.g., time that a map is valid, date of publication, date of presentation\)
+> ![](blob:https://www.gitbook.com/e31915c1-09ab-4a0f-9e00-db89b27d8016) **Project Required: **For each project, add a start, end date, and fiscal year.
 
-> ![](/assets/project_required_small.png) Project Required**:** For each project, add a start, end date, and fiscal year.
+**Time Period** refers to project start and end date, or the date that the project was applicable \(time that the project was funded to date of completion\).
 
 ![](/assets/time_period_window_lcc.png)
 
