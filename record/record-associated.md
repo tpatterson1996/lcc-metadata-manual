@@ -1,21 +1,18 @@
 # Record Associated
 
-> ![](/assets/product_required_small.png) **Required for Products Only**
+> ![](/assets/product_required_small.png) **Record Associated is required for Products Only**
 
 The **Associated** section is used to connect items with each other.
 
 > ![](/assets/NoteSmall.png)In ScienceBase **Associated Records **are referred to as** Item Associations**
 
-Creating Associations is a two part process:
 
-1. Provide Information about your initial record.
-2. Select items to associate that record with.
 
 ---
 
 ### Step 1: Select Association Type
 
-* Select **parentProject** the **Association Type **drop down menu. This describes the relationship between the product and its parent project.
+* Select **parentProject** from the **Association Type **drop down menu. This describes the relationship between the product and its parent project.
 
 ![](/assets/parentProject_association_lcc.png)
 
@@ -31,7 +28,5 @@ Creating Associations is a two part process:
 
 ---
 
-\(insert mdEditor manual button here\) Consult the [**Record Associated**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-associated.html)** **section of the full mdEditor manual for information on associations.
-
-
+![](/assets/see_full_manual_for.png)Consult the [**Record Associated**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-associated.html)** **section of the full mdEditor manual for information on associations.
 
