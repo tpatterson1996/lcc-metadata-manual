@@ -2,9 +2,7 @@
 
 > ![](/assets/product_required_small.png) **Record Associated is required for Products Only**
 
-The **Associated** section is used to connect items with each other.
-
-> ![](/assets/NoteSmall.png)In ScienceBase **Associated Records **are referred to as** Item Associations**
+The **Associated** section is used to connect items with each other. In mdEditor, **Item Associations** are the same as what Science base calls **Associated Records**
 
 
 
