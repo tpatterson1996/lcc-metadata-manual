@@ -16,9 +16,7 @@ The required fields are listed below. The required are also noted in the manual 
 | _Identifier_ | _Identifier_ |
 | _Online Resource URI_ | _Online Resource URI_ |
 | _**-Main Citation Responsible Parties**_ | _**-Main Citation Responsible Parties**_ |
-| _-Lead Contact_ | _-Lead Contact_ |
-| _-Lead Org_ | _-Lead Org_ |
-| _-Lead Org Type_ | _-Lead Org Type_ |
+| _-Point of Contact_ | _-Point of Contact_ |
 | _**Description**_ | _**Description**_ |
 | _Abstract_ | _Abstract_ |
 | _**Time Period**_ | [**Metadata Tab**](/record/metatdata.md) |
