@@ -4,9 +4,7 @@ Certain fields are required for successful LCC product and project creation.
 
 The required fields are listed below.
 
-> ![](/assets/note_small.png)**Note**: Throughout this manual, you will notice **Project Required **![](/assets/project_required_small.png)** **and **Product Required **![](/assets/product_required_small.png)symbols. These symbols note tabs, sections, or fields that are only required for products or projects, but not both.
-
-
+> ![](/assets/note_small.png)**Note**: Throughout this manual, you will notice **Project Required **![](/assets/project_required_small.png)** **and **Product Required **![](/assets/product_required_small.png)symbols. These symbols note tabs, sections, or fields that are only required for products or projects, but not both. If these symbols are not present, please add information to both projects and products.
 
 | Required Project Fields | Required Product Fields |
 | :--- | :--- |

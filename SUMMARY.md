@@ -30,7 +30,6 @@
     * [Parent Metadata](record/metatdata/parent-metadata.md)
       * [Identifier](record/metatdata/parent-metadata/identifier.md)
   * [Record Keywords](record/keywords.md)
-    * [Custom Thesaurus](record/keywords/custom-keywords.md)
   * [Record Extent](record/record-extent.md)
   * [Record Associated](record/record-associated.md)
   * [Record Funding](record/record-funding.md)
