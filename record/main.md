@@ -20,7 +20,7 @@ The **Main **tab allows for the creation or editing of primary metadata from scr
 
 #### **Resource Types**
 
-**Resource Types** \(**Type **and **Name**\), will be filled automatically with the information added when you created your record \(as described in [**Record New**](/records\record\new.md)\). These may be changed as necessary.
+**Resource Types** \(**Type **and **Name**\), will be filled automatically with the information added when you created your record \(as described in [**Record New**](/records\record\new.md)\).
 
 ![](/assets/resource_types.png)
 
@@ -30,37 +30,43 @@ The **Main **tab allows for the creation or editing of primary metadata from scr
 
 **Point Of Contacts **are added by clicking the **Add **button.
 
-From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts **drop-down menu, select a contact from the list of contacts. Learn how to create a contact in the [**Contact New**](/contact\new.md)** **section of this manual.
+From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts **drop-down menu, select a contact from the list of contacts. Consult the [**Contact New**](/contact\new.md)** **section of this manual to learn how to add contacts.
 
-![](/assets/best_practice_small.png)Best Practice: Select a point of contact that users can contact even if there is a positional change in an organization. One option is the LCC Data Steward. Consult the Contact section of this manual for more information on adding the LCC Data Steward.
+> ![](/assets/best_practice_small.png)Best Practice: Select a point of contact that users can contact even if there is a positional change in an organization. One option is the LCC Data Steward. Consult the[** Individual Contact**](/contact/individual-contact.md) section of this manual for more information on adding the LCC Data Steward.
 
 ![](/assets/point_of_contact.png)
 
+> **\(insert mdEditor manual button here\)** Consult the full mdEditor manual for more information on Point of Contacts.
+
 ---
 
-#### **Citation**![](https://lh6.googleusercontent.com/6HlssG-PaXQEFLflkgMXCauJ7BxZwUfWqYdmu3ZHlv6a7YiwTh1VQIqf2crWkYxdrr6AyoTIKZGqhxrsr3MeGXhg0DLVGNbSQw5DvKWNs0W3xzn55uS2SDqwmE7zj_HNSUFI-1TC)
+#### **Citation**
 
 **Citation **is used** **to add record citations. Read the [**Main** **Citation**](/record/edit/main/citation.md)** **section of this manual to learn how to edit citations.
+
+#### ![](https://lh6.googleusercontent.com/6HlssG-PaXQEFLflkgMXCauJ7BxZwUfWqYdmu3ZHlv6a7YiwTh1VQIqf2crWkYxdrr6AyoTIKZGqhxrsr3MeGXhg0DLVGNbSQw5DvKWNs0W3xzn55uS2SDqwmE7zj_HNSUFI-1TC)
 
 ---
 
 #### **Description**
 
+**Description **allows for the addition of the **Abstract **as well as a **Short Abstract **\(limited to 300 characters\)
+
 ![](/assets/description.png)
 
-**Description **allows for the addition of the **Abstract **as well as a **Short Abstract **\(limited to 300 characters\), a **Purpose**, **Supplemental Information**, and an **Environment Description**.
+> **\(insert mdEditor manual button here\)** Consult the full mdEditor manual for more information on Description.
 
 ---
 
 #### **Time Period**
 
-![](https://lh6.googleusercontent.com/qxFTVhwjILl5KxVKDAnlegTc-gjh28dFI0RiioVQrITdkphJp3oE3UokYkhG5VEipyJGl6Dj50RNszi6dIQLFjPxTMPRMZAOaFh4DiL184yheV9sKj1_gGnlcjYH_8_bp4aJnH6t)
+**Time Period** refers to project start and end date, or the date that the project was applicable \(e.g., time that a map is valid, date of publication, date of presentation\)
 
-**Time Period** refers to project start and end date, or the date that the product was applicable \(e.g., time that a map is valid, date of publication, date of presentation\)
-
-> ![](/assets/best_practice_small.png)**Best Practice:** For each project, add a start and end date.
+> ![](/assets/best_practice_small.png)Project Required**:** For each project, add a start and end date.
 >
 > ![](/assets/note_small.png)**Time Period** isn’t required but if you choose to enter something in time period, you have to enter a date.
+
+![](/assets/time_period_window_lcc.png)
 
 ---
 
