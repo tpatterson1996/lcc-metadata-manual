@@ -1,28 +1,43 @@
 # Keywords
 
-**Keywords **allow for the addition of keywords via selectable thesauruses.
-
-* Click “+ Add Thesaurus” on the right to add the different thesauruses.
+**Keywords **allow for the addition of keywords via selectable thesauruses. Click “+ Add Thesaurus” on the right to add the different thesauruses.
 
 Add from the following pre-populated thesauruses:
 
 1. **ISO Topic Category** - Required for both projects and products.
 
-2. ![](/assets/project_required_small.png)** LCC Deliverable Types**: Required for projects. Optional for products.
-
-3. ![](/assets/project_required_small.png)** LCC End User Types**: Required for projects. Optional for products.
+> ![](/assets/project_required_small.png)** **
+>
+> * **LCC Deliverable Types**: Required for projects. Optional for products.
+> * ** LCC End User Types**: Required for projects. Optional for products.
 
 > ![](/assets/best_practice_small.png)**Best Practice**: Use the **Custom **thesaurus for any keywords that are not available in the pre-populated lists.
 
-![](https://lh5.googleusercontent.com/KVJ4_feuJ1xYnsRLYYGfRFBOJ_pR76xdlThDJ39GYUFdkyUR-wbODSCKEW637polRHdv4JqotIFxiEPKUZgLo7EGv41XAF63zcx7sqrYLNdWnc1CVhGk7HYzLXcrEY5LoPOA37-c)
+![](https://lh5.googleusercontent.com/KVJ4_feuJ1xYnsRLYYGfRFBOJ_pR76xdlThDJ39GYUFdkyUR-wbODSCKEW637polRHdv4JqotIFxiEPKUZgLo7EGv41XAF63zcx7sqrYLNdWnc1CVhGk7HYzLXcrEY5LoPOA37-c)**The following pre-populated thesauruses are available:**
 
-> ![](/assets/NoteSmall.png)**ISO \(International Organization for Standardization\)** topics were built and maintained by the ISO Technical Committee and are required for the development of ISO metadata.  
->   
-> **LCC \(Landscape Conservation Cooperatives\) **Keywords are maintained by the national LCCs and required for any LCC metadata.
+1. GCMD Science Keywords
+
+2. GCMD Platforms
+
+3. GCMD Instruments
+
+4. ISO Topic Category
+
+5. LCC Deliverable Types
+
+6. LCC End User Types
+
+> ![](https://adiwg.gitbooks.io/mdeditor/content/assets/NoteSmall.png)
+>
+> **GCMD \(Global Change Master Directory keywords\)**are built and maintained by NASA.
+>
+> **ISO \(International Organization for Standardization\)**topics were built and maintained by the ISO Technical Committee and are required for the development of ISO metadata.
+>
+> **LCC \(Landscape Conservation Cooperatives\)**Keywords are maintained by the national LCCs and required for any LCC metadata.
 
 ---
 
-> \(insert mdEditor manual button here\) Consult the [**Record Keywords**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/keywords.html)** **section of the full mdEditor manual for information on adding Keywords.
+![](/assets/see_full_manual_for.png)Consult the [**Record Keywords**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/keywords.html)** **section of the full mdEditor manual for information on adding Keywords.
 
 
 
