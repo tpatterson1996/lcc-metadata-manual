@@ -21,24 +21,24 @@ The required fields are listed below. The required are also noted in the manual 
 | _-Lead Org Type_ | _-Lead Org Type_ |
 | _**Description**_ | _**Description**_ |
 | _Abstract_ | _Abstract_ |
-| _**Time Period**_ |  |
-| Start |  |
-| End |  |
-| [**Metadata Tab**](/record/metatdata.md) | [**Metadata Tab**](/record/metatdata.md) |
-| Metadata Contacts | Metadata Contacts |
-| Metadata Identifier | Metadata Identifier |
-| [_**Parent Metadata**_](/record/metatdata/parent-metadata.md) | [_**Parent Metadata**_](/record/metatdata/parent-metadata.md) |
-| _Title_ | _Title_ |
-| [_**-Identifier**_](/record/metatdata/parent-metadata/identifier.md) | [_**-Identifier**_](/record/metatdata/parent-metadata/identifier.md) |
-| _-Identifier_ | _-Identifier_ |
-| _-Namespace_ | _-Namespace_ |
-| Metadata Repositories | Metadata Repositories |
-| [**Keyword Tab**](/record/keywords.md) | [**Keyword Tab**](/record/keywords.md) |
-| ISO 19115 Topic Category | ISO 19115 Topic Category |
-| LCC Project Category | LCC Project Category |
-| Deliverable Types | Deliverable Types |
-| [**Extent Tab**](/record/record-extent.md) | [**Associated Tab**](/record/record-associated.md) |
-| Bounding Box | Association Type |
+| _**Time Period**_ | [**Metadata Tab**](/record/metatdata.md) |
+| Start | Metadata Contacts |
+| End | Metadata Identifier |
+| [**Metadata Tab**](/record/metatdata.md) | [_**Parent Metadata**_](/record/metatdata/parent-metadata.md) |
+| Metadata Contacts | _Title_ |
+| Metadata Identifier | [_**-Identifier**_](/record/metatdata/parent-metadata/identifier.md) |
+| [_**Parent Metadata**_](/record/metatdata/parent-metadata.md) | _-Identifier_ |
+| _Title_ | _-Namespace_ |
+| [_**-Identifier**_](/record/metatdata/parent-metadata/identifier.md) | Metadata Repositories |
+| _-Identifier_ | [**Keyword Tab**](/record/keywords.md) |
+| _-Namespace_ | ISO 19115 Topic Category |
+| Metadata Repositories | [**Associated Tab**](/record/record-associated.md) |
+| [**Keyword Tab**](/record/keywords.md) | Association Type |
+| ISO 19115 Topic Category |  |
+| LCC Project Category |  |
+| Deliverable Types |  |
+| [**Extent Tab**](/record/record-extent.md) |  |
+| Bounding Box |  |
 | [**Funding Tab**](/record/record-funding.md) |  |
 | [_**Allocation**_](/record/record-funding/allocation.md) |  |
 | _Amount_ |  |
