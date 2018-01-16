@@ -1,7 +1,5 @@
 # Record Funding
 
-
-
 Tracking funding in the metadata allows for identification of funding sources, comparison, and aggregation at the network level.
 
 ---
@@ -12,9 +10,7 @@ Available fields include:
 
 * **Time Period**: Describes the time period during the allocation of funds. Consult the** **[**Time Period**](/record/edit/record-funding/time-period.md) section of this manual to learn how to edit the time period.
 
-* **Description**: Add a description of the funding.
-
 ---
 
-![](/assets/Funding_Window.png)
+![](/assets/Funding_Window.png)\(insert mdEditor manual button here\) Consult the [**Record Funding**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-funding.html)** **section of the full mdEditor manual for information on Funding.
 
