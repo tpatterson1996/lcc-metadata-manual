@@ -28,15 +28,13 @@ The **Main **tab allows for the creation or editing of primary metadata from scr
 
 #### **Point of Contacts **
 
-**Point Of Contacts **may be added by clicking the **Add **button.
+**Point Of Contacts **are added by clicking the **Add **button.
 
 From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts **drop-down menu, select a contact from the list of contacts. Learn how to create a contact in the [**Contact New**](/contact\new.md)** **section of this manual.
 
 ![](/assets/best_practice_small.png)Best Practice: Select a point of contact that users can contact even if there is a positional change in an organization. One option is the LCC Data Steward. Consult the Contact section of this manual for more information on adding the LCC Data Steward.
 
 ![](/assets/point_of_contact.png)
-
-
 
 ---
 
