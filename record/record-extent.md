@@ -12,5 +12,7 @@ Clicking the **Edit Extent Features** button allows for the addition of **Featur
 
 ---
 
+> \(insert mdEditor manual button here\) Consult the [**Record Extent**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-extent.html)** **section of the full mdEditor manual for information on adding Extent.
+
 
 
