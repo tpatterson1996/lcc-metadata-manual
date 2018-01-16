@@ -36,7 +36,7 @@ From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts
 
 ![](/assets/point_of_contact.png)
 
-> **\(insert mdEditor manual button here\)** Consult the full mdEditor manual for more information on Point of Contacts.
+> **\(insert mdEditor manual button here\)** Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html) section of the full mdEditor manual for more information on** Point of Contacts**.
 
 ---
 
@@ -54,7 +54,7 @@ From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts
 
 ![](/assets/description_window_lcc.png)
 
-> **\(insert mdEditor manual button here\)** Consult the full mdEditor manual for more information on Description.
+> **\(insert mdEditor manual button here\)** Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the full mdEditor manual for more information on **Description**.
 
 ---
 
@@ -64,13 +64,11 @@ From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts
 
 **Time Period** refers to project start and end date, or the date that the project was applicable \(time that the project was funded to date of completion\).
 
-![](/assets/time_period_window_lcc.png)
+![](/assets/time_period_window_lcc.png)**\(insert mdEditor manual button here\)** Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the full mdEditor manual for more information on **Time Period**.
 
 ---
 
----
-
-> \(insert mdEditor manual button here\) Consult the **Record Main **section of the full mdEditor manual for information on adding additional information in the Main Tab.
+> \(insert mdEditor manual button here\) Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the full mdEditor manual for information on adding additional information in the Main Tab.
 
 
 
