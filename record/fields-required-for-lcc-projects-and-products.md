@@ -21,8 +21,9 @@ The required fields are listed below. The required are also noted in the manual 
 | _-Lead Org Type_ | _-Lead Org Type_ |
 | _**Description**_ | _**Description**_ |
 | _Abstract_ | _Abstract_ |
-| Start | Start |
-| End | End |
+| _**Time Period**_ |  |
+| Start |  |
+| End |  |
 | [**Metadata Tab**](/record/metatdata.md) | [**Metadata Tab**](/record/metatdata.md) |
 | Metadata Contacts | Metadata Contacts |
 | Metadata Identifier | Metadata Identifier |
