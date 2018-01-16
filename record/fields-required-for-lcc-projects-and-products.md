@@ -19,7 +19,8 @@ The required fields are listed below. The required are also noted in the manual 
 | _-Lead Contact_ | _-Lead Contact_ |
 | _-Lead Org_ | _-Lead Org_ |
 | _-Lead Org Type_ | _-Lead Org Type_ |
-| Abstract | Abstract |
+| _**Description**_ | _**Description**_ |
+| _Abstract_ | _Abstract_ |
 | Start | Start |
 | End | End |
 | [**Metadata Tab**](/record/metatdata.md) | [**Metadata Tab**](/record/metatdata.md) |
