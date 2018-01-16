@@ -22,5 +22,5 @@ Add from the following pre-populated thesauruses:
 
 ---
 
-
+\(insert mdEditor manual button here\) Consult the [**Record Keywords**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/keywords.html)** **section of the full mdEditor manual for information on adding Keywords.
 
