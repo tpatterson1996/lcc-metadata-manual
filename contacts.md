@@ -1,5 +1,7 @@
 # Contacts
 
+---
+
 Contacts are individuals or organizations that can be referenced by other contacts, projects, or products. Contacts contain information such as name of individuals or organization, email address, physical address, website, and phone number so that viewers of metadata can communicate with those affiliated with a metadata record.
 
 > ![](/assets/lcc_required_small.png)All LCC records require at least one contact to serve as a point of contact for projects and products. If you do not have a point of contact, you may use the LCC Network Data Steward. The LCC Network Data Steward's contact information is as follows.
