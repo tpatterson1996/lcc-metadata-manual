@@ -1,11 +1,13 @@
 # Importing from ScienceBase
 
+---
+
 The Import function will allow the contents files from Science Base to be incorporated into the current metadata record.
 
 # Method 1:
 
 1. **Copy the Science Base ID \(SBID\)** from an existing ScienceBase item 
-   -The SBID is the string of letters/numbers at the end of the item’s ScienceBase URL \(e.g. [https://www.sciencebase.gov/catalog/item/\*\*5947e765e4b062508e34424a\*\*\](https://www.sciencebase.gov/catalog/item/**5947e765e4b062508e34424a**\)\)
+   -The SBID is the string of letters/numbers at the end of the item’s ScienceBase URL \(e.g. [https://www.sciencebase.gov/catalog/item/\*\*5947e765e4b062508e34424a\*\*\](https://www.sciencebase.gov/catalog/item/**5947e765e4b062508e34424a**%29\)
 2. Go to ScienceBase API address: [https://api.sciencebase.gov/sbmd-service/mdjson/,](https://api.sciencebase.gov/sbmd-service/mdjson/) add the SBID to end of this link, and hit enter. You should see mdJSON text as below.  If not, press enter to search again.
 
    ## ![](/assets/raw_text_screenshot.png)
