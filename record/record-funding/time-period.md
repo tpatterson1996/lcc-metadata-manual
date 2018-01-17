@@ -13,5 +13,7 @@
 
 ---
 
-\(insert mdEditor manual button here\) Consult the[** Time Period**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-funding/time-period.html) section of the full mdEditor manual for information on Time Period.
+> \(insert mdEditor manual button here\) Consult the[** Time Period**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-funding/time-period.html) section of the full mdEditor manual for information on Time Period.
+
+
 

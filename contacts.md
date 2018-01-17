@@ -9,7 +9,9 @@ Contacts are individuals or organizations that can be referenced by other contac
 > * Contact Type: **lcc**
 > * E-mail Addresses: **lccdatasteward@fws.gov**
 >
-> Consult the [**Individual Contact**](/contact/individual-contact.md) section of this manual to learn how to add the network data steward.
+> Consult the [**Individual Contact**](/contact/individual-contact.md) section of this manual to learn how to add this information and create the Network Data Steward.
+>
+> ![](/assets/lcc_required_small.png)You must create an organization contact for your LCC if there is not one already. Consult the [**Organization Contacts**](/contact/organization-contacts.md) section of this manual to learn what fields are required.
 
 ### General notes on Contacts
 
