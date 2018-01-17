@@ -12,11 +12,11 @@
 >
 > 1. First, create or import your **contacts**
 >    1. . To learn how to import contacts, consult the** **[**Import** ](/data-management/import.md)section of this manual.
->    2.  To learn how to create contacts from scratch, consult the [**Contacts**](/contacts.md) section of this manual.
+>    2. To learn how to create contacts from scratch, consult the [**Contacts**](/contacts.md) section of this manual.
 > 2. Next **create projects** and** define the relationship between projects and contacts.**
->    1.  For more information on creating projects, consult the [**Record New**](/record-new.md) section of this manual.
+>    1. For more information on creating projects, consult the [**Record New**](/record-new.md) section of this manual.
 > 3. Finally, **create your products** and **make the association between projects and products.**
->    1.  For more information on creating products consult the [**Record New**](/record-new.md) section of this manual.
+>    1. For more information on creating products consult the [**Record New**](/record-new.md) section of this manual.
 
 
 

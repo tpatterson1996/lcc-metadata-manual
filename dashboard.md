@@ -48,11 +48,11 @@ The editor region will display information based on the type of object that is c
 
 The status bar displays various informational messages, such as whether the [Auto Save](/settings.md) feature is on or off.
 
+---
+
 # Right Vertical Menu
 
 The right vertical menu allows for general manipulation of records and contacts. Available options differ depending on whether the item is being viewed or edited.
-
----
 
 ### General Options
 
@@ -74,7 +74,7 @@ _Options available when viewing_
 
 ![](/assets/right_vertical_menu_view.png)
 
-Viewing options include everything mentioned above along with an **Edit **button. This button will allow you to begin editing your item.
+* Viewing options include everything mentioned above along with an **Edit **button. This button will allow you to begin editing your item.
 
 ---
 
