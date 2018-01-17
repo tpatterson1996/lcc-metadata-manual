@@ -1,5 +1,7 @@
 # Errors and Missing Required Fields
 
+---
+
 There are two icons with exclamation points that will appear to alert you to potential issues with your metadata record.
 
 ![](/assets/small_red.png)The red exclamation point indicates “This record has been modified! Click to save.”
