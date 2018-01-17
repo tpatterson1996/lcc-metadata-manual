@@ -1,5 +1,7 @@
 # FAQ
 
+---
+
 1. Is moving the record in the mdEditor outline also moving the record in ScienceBase, or just overwriting the existing record?
 
    > Moving a record in mdEditor will overwrite the record in Science Base. If you have a record in SB already, then it is not advisable to move items in the publishing outline structure.

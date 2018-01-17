@@ -1,5 +1,7 @@
 # **Instructions for Testing Publishing**
 
+---
+
 For tracking issues, please use the github thread [here](https://github.com/adiwg/mdEditor/issues/128) and sign up for notifications via email.
 
 1. Determine your workflow for testing:

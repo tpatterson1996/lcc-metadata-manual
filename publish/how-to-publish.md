@@ -1,5 +1,7 @@
 # How to Publish
 
+---
+
 > ![](/assets/best_practice_small.png)**Best Practice:** always hit_ refresh_ in your browser before each work session \(and periodically throughout the day\) to ensure you are using the most updated version of mdEditor. Always refresh before you access the publishing menu. However, If you start moving items around in the publishing outline \(see below for details\), you may lose this information once you refresh.
 >
 > ![](/assets/note_small.png)**Note: **Currently the  publishing service available through the mdEditor is ScienceBase. In the future, mdEditor will likely be able to work with other databases. Instructions in this manual will use ScienceBase.
