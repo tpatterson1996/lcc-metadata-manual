@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
   * [Relationships Between Contacts, Projects, Products, and Funding](concepts-detailing-the-relationship-between-contacts-projects-and-products.md)
-* [Getting Started](getting-started.md)
 * [Dashboard and Right Vertical Menu](dashboard.md)
+* [Getting Started](getting-started.md)
 * [Data Management](data-management.md)
   * [File Management](data-management/file-management.md)
   * [Export](data-management/export.md)
