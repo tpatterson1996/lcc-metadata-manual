@@ -66,13 +66,13 @@ From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts
 
 **Time Period** refers to project start and end date, or the date that the project was applicable \(time that the project was funded to date of completion\).
 
-![](/assets/time_period_window_lcc.png)![](/assets/see_full_manual_for.png) Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the full mdEditor manual for more information on **Time Period**.
+![](/assets/time_period_window_lcc.png)
+
+> ![](/assets/see_full_manual_for.png) Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the full mdEditor manual for more information on **Time Period**.
 
 ---
 
-![](/assets/see_full_manual_for.png)
-
-Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the full mdEditor manual for information on adding additional information in the Main Tab.
+> ![](/assets/see_full_manual_for.png)Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the full mdEditor manual for information on adding additional information in the Main Tab.
 
 
 
