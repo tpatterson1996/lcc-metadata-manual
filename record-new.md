@@ -17,7 +17,8 @@ When creating LCC records, there are two options for the record: **Projects** an
 3. In the **Record Title **field, enter a title.
 4. Under **Resource Types**, from the **Type **drop down menu, select your record type.
 5. The record **Name **is optional.
-6. After entering all information, click **Save**. 
+6. After entering all information, click **Save**.  
+   > ![](/assets/best_practice_small.png)**Best Practice**: Since products and projects are independent records, we recommend having as informative a title as possible.
 
 ![](/assets/d77960d1-4323-475a-ac06-83d11a45d67f.png)
 
