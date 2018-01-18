@@ -13,5 +13,9 @@ This manual details the creation of LCC data records for upload onto the Science
 
 ---
 
-\***Note: **This manual has been revised for LCC use. You may access the full mdEditor manual [**here**](https://adiwg.gitbooks.io/mdeditor/content/), or anywhere that you see the following symbol. 
+> ![](/assets/note_small.png)**Note: **This manual has been revised for LCC use. You may access the full mdEditor manual [**here**](https://adiwg.gitbooks.io/mdeditor/content/), or anywhere that you see the following symbol:
+>
+>  ![](/assets/see_full_manual_for.png)
+
+
 
