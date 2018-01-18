@@ -10,5 +10,11 @@
 
 * **Namespace: \(required\) **The Namespace field** **allows for the selection of the database that you are adding to. Select **ScienceBase **from the Namespace.
 
-![](/assets/Identifier_Window.png)![](/assets/see_full_manual_for.png) Consult the [**Identifier**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/metadata/parent-metadata/identifier.html) ** **section of the full mdEditor manual for information on adding additional Identifier information.
+![](/assets/Identifier_Window.png)
+
+---
+
+> ![](/assets/see_full_manual_for.png) Consult the [**Identifier**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/metadata/parent-metadata/identifier.html) ** **section of the full mdEditor manual for information on adding additional Identifier information.
+
+
 
