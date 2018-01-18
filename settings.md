@@ -1,5 +1,7 @@
 # Settings \(![](/assets/symbol_cog_16.png)\)
 
+---
+
 The settings menu allows the configuring of user specific options.
 
 ## General Settings
