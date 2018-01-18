@@ -1,5 +1,7 @@
 # Parent Metadata
 
+---
+
 Parent Metadata allows for an association between the current project or product and its parent folder on ScienceBase.
 
 The following fields are required for Parent Metadata creation:
