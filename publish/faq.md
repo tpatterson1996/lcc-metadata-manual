@@ -20,5 +20,8 @@
 
    > Files and contact lists will not merge. The new import will overwrite the older version. **Best Practice**: Maintain a master contacts list that is accessible by multiple editors. It is recommend that only one person edit the same project/product at the same time to help with version control.
 
+5.  If my items are password protected, do I still need to create metadata for them?  
+   > Make a metadata record that points to a secure \(password-protected\) location on ScienceBase. Your items will remain private until you see fit to publish.
+
 
 
