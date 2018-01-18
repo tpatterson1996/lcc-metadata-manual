@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-  * [Relationships Between Contacts, Projects, Products, and Funding](concepts-detailing-the-relationship-between-contacts-projects-and-products.md)
 * [Dashboard and Right Vertical Menu](dashboard.md)
 * [Getting Started](getting-started.md)
 * [Data Management](data-management.md)
@@ -20,6 +19,7 @@
 * [Defaults](defaults.md)
 * [Settings](settings.md)
 * [Errors and Missing Fields](errors.md)
+* [Relationships Between Contacts, Projects, Products, and Funding](concepts-detailing-the-relationship-between-contacts-projects-and-products.md)
 * [Records](records.md)
 * [Record New](record-new.md)
 * [Record Show](show.md)
