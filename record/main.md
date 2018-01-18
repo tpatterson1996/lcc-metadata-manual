@@ -1,5 +1,7 @@
 # Main
 
+---
+
 The **Main **tab allows for the creation or editing of primary metadata from scratch. \(i.e. Creating a record that doesn’t need to be imported from somewhere else\)
 
 * **Record ID **and **Title **will be auto-filled, but can be edited.
@@ -36,7 +38,7 @@ From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts
 
 ![](/assets/point_of_contact.png)
 
-> **\(insert mdEditor manual button here\)** Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html) section of the full mdEditor manual for more information on** Point of Contacts**.
+> ![](/assets/see_full_manual_for.png) Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html) section of the full mdEditor manual for more information on** Point of Contacts**.
 
 ---
 
@@ -54,7 +56,7 @@ From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts
 
 ![](/assets/description_window_lcc.png)
 
-> **\(insert mdEditor manual button here\)** Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the full mdEditor manual for more information on **Description**.
+> ![](/assets/see_full_manual_for.png) Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the full mdEditor manual for more information on **Description**.
 
 ---
 
@@ -64,11 +66,13 @@ From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts
 
 **Time Period** refers to project start and end date, or the date that the project was applicable \(time that the project was funded to date of completion\).
 
-![](/assets/time_period_window_lcc.png)**\(insert mdEditor manual button here\)** Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the full mdEditor manual for more information on **Time Period**.
+![](/assets/time_period_window_lcc.png)![](/assets/see_full_manual_for.png) Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the full mdEditor manual for more information on **Time Period**.
 
 ---
 
-> \(insert mdEditor manual button here\) Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the full mdEditor manual for information on adding additional information in the Main Tab.
+![](/assets/see_full_manual_for.png)
+
+Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the full mdEditor manual for information on adding additional information in the Main Tab.
 
 
 
