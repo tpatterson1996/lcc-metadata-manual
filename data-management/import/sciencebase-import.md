@@ -2,7 +2,7 @@
 
 ---
 
-The Import function will allow the contents files from Science Base to be incorporated into the current metadata record.
+The Import function will allow the content files from Science Base to be incorporated into the current metadata record.
 
 # Method 1:
 
