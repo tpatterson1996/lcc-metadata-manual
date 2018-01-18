@@ -44,13 +44,10 @@ You can drag and drop records to establish the parent-child relationship, elimin
 
 > ![](/assets/note_small.png)
 >
-> -If you move a product under a different project, it will update that product’s parent ID.
->
-> -Parent IDs established through the relationships in the publishing outline will overwrite existing parent IDs in the metadata.
->
-> -Dragging and dropping a record onto the ScienceBase header at the top will set that record’s parent ID to the default parent ID you identified in settings.
->
-> -If you have existing parent IDs in your metadata \(and want to keep them as is\), **do not** drag and drop those records onto the ScienceBase header-- this will erase the existing parent ID and insert what you have set as the default parent identifier.
+> * If you move a product under a different project, it will update that product’s parent ID.
+> * Parent IDs established through the relationships in the publishing outline will overwrite existing parent IDs in the metadata.
+> * Dragging and dropping a record onto the ScienceBase header at the top will set that record’s parent ID to the default parent ID you identified in settings.
+> * If you have existing parent IDs in your metadata \(and want to keep them as is\), **do not** drag and drop those records onto the ScienceBase header-- this will erase the existing parent ID and insert what you have set as the default parent identifier.
 >
 > ![](/assets/best_practice_small.png)**Best practice: **If you have projects and associated products, make sure you have them in mdEditor at the same time and manage them at the same time.
 
