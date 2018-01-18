@@ -10,7 +10,7 @@
 
 * **Namespace: \(required\) **The Namespace field** **allows for the selection of the database that you are adding to. Select **ScienceBase **from the Namespace.
 
-![](/assets/Identifier_Window.png)
+![](/assets/indentifier_window.png)
 
 ---
 
