@@ -11,5 +11,7 @@ This manual details the creation of LCC data records for upload onto the Science
 * Google Chrome Web Browser
 * Meta Information about your project, as needed.
 
+---
 
+\***Note: **This manual has been revised for LCC use. You may access the full mdEditor manual [**here**](https://adiwg.gitbooks.io/mdeditor/content/), or anywhere that you see the following symbol. 
 
