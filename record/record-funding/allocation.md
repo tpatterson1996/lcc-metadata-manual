@@ -1,10 +1,10 @@
 # Allocation
 
+---
+
 > ![](/assets/project_required_small.png) **Allocation is required for projects only.**
 
-**Allocation **details where to put the funds. Users can add multiple allocations for same fiscal year.
-
-The following fields are required for funding allocation.
+**Allocation **details where to put the funds. Users can add multiple allocations for same fiscal year.The following fields are required for funding allocation: 
 
 * **Amount**: Enter the amount of funding.
 
@@ -29,5 +29,5 @@ The following fields are required for funding allocation.
 
 ---
 
-\(insert mdEditor manual button here\) Consult the [**Allocation** ](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-funding/allocation.html)section of the full mdEditor manual for information on Allocation.
+![](/assets/see_full_manual_for.png) Consult the [**Allocation** ](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-funding/allocation.html)section of the full mdEditor manual for information on Allocation.
 
