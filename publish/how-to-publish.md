@@ -40,7 +40,7 @@ Items directly below the ScienceBase header will be published under the ScienceB
 
 * Items listed at the root level in the publishing outline don't have a parentID that correspond with a record loaded in mdEditor \(Note: you could have other parent IDs identified in those records, but those records aren't loaded in mdEditor\)
 
--You can drag and drop records to establish the parent-child relationship, eliminating the need to establish the relationship in ScienceBase. This will also allow you to move items around \(e.g., move a product from one project to another\) and have that change be reflected on ScienceBase. Remember, this is only about parent-child relationships on ScienceBase, not about project-product associations.
+You can drag and drop records to establish the parent-child relationship, eliminating the need to establish the relationship in ScienceBase. This will also allow you to move items around \(e.g., move a product from one project to another\) and have that change be reflected on ScienceBase. Remember, this is only about parent-child relationships on ScienceBase, not about project-product associations.
 
 > ![](/assets/note_small.png)
 >
