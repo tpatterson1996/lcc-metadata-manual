@@ -18,6 +18,7 @@
   * [FAQ](publish/faq.md)
 * [Help](help.md)
 * [Defaults](defaults.md)
+* [Settings](settings.md)
 * [Errors and Missing Fields](errors.md)
 * [Records](records.md)
 * [Record New](record-new.md)
@@ -41,6 +42,4 @@
   * [Organization Contacts](contact/organization-contacts.md)
 * [Contact Show](show.md)
 * [Glossary of Terms](glossary-of-terms.md)
-* [Appendix](appendix.md)
-* [Settings](settings.md)
 
