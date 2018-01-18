@@ -4,7 +4,7 @@
 
 > ![](/assets/project_required_small.png) **Allocation is required for projects only.**
 
-**Allocation **details where to put the funds. Users can add multiple allocations for same fiscal year.The following fields are required for funding allocation: 
+**Allocation **details where to put the funds. Users can add multiple allocations for same fiscal year.The following fields are required for funding allocation:
 
 * **Amount**: Enter the amount of funding.
 
@@ -27,7 +27,11 @@
 
 ![](/assets/Allocation_Window.png)
 
+> ![](/assets/best_practice_small.png)**Best Practice**: If the funds from the LCC went directly to more than one recipient, or in multiple fiscal years of distribution, add a new allocation for each of these instances.
+
 ---
 
-![](/assets/see_full_manual_for.png) Consult the [**Allocation** ](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-funding/allocation.html)section of the full mdEditor manual for information on Allocation.
+> ![](/assets/see_full_manual_for.png) Consult the [**Allocation** ](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-funding/allocation.html)section of the full mdEditor manual for information on Allocation.
+
+
 
