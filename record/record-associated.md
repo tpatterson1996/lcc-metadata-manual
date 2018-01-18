@@ -26,5 +26,7 @@ The **Associated** section is used to connect items with each other. In mdEditor
 
 ---
 
-![](/assets/see_full_manual_for.png)Consult the [**Record Associated**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-associated.html)** **section of the full mdEditor manual for information on associations.
+> ![](/assets/see_full_manual_for.png)Consult the [**Record Associated**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-associated.html)** **section of the full mdEditor manual for information on associations.
+
+
 

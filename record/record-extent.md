@@ -14,5 +14,7 @@
 
 ---
 
-![](/assets/see_full_manual_for.png)Consult the [**Record Extent**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-extent.html)** **section of the full mdEditor manual for information on adding Extent.
+> ![](/assets/see_full_manual_for.png)Consult the [**Record Extent**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-extent.html)** **section of the full mdEditor manual for information on adding Extent.
+
+
 

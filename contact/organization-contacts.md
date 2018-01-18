@@ -18,5 +18,7 @@ The following fields are required for Organization contacts:
 
 ---
 
-![](/assets/see_full_manual_for.png)Consult the** **[Organizations Contact ](https://adiwg.gitbooks.io/mdeditor/content/contact/new/organization.html)section of the full mdEditor manual for information on adding Organizations.
+> ![](/assets/see_full_manual_for.png)Consult the** **[Organizations Contact ](https://adiwg.gitbooks.io/mdeditor/content/contact/new/organization.html)section of the full mdEditor manual for information on adding Organizations.
+
+
 

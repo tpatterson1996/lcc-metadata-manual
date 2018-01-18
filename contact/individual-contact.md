@@ -13,7 +13,7 @@ The following fields are available for individual contacts:
 
 ---
 
-![](/assets/see_full_manual_for.png) 
+> ![](/assets/see_full_manual_for.png)Consult the** **[**Individual Contact **](https://adiwg.gitbooks.io/mdeditor/content/contact/new/individual.html)section of the full mdEditor manual for information on adding Individual Contacts.
 
-Consult the** **[**Individual Contact **](https://adiwg.gitbooks.io/mdeditor/content/contact/new/individual.html)section of the full mdEditor manual for information on adding Individual Contacts.
+
 
