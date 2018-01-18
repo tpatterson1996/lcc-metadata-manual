@@ -16,5 +16,9 @@ Required fields include:
 
 ---
 
-![](/assets/Funding_Window.png)![](/assets/see_full_manual_for.png)Consult the [**Record Funding**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-funding.html)** **section of the full mdEditor manual for information on Funding.
+ ![](/assets/Funding_Window.png)  
+   
+> ![](/assets/see_full_manual_for.png)Consult the [**Record Funding**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-funding.html)** **section of the full mdEditor manual for information on Funding.
+
+
 
