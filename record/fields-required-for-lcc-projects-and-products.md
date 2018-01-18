@@ -49,13 +49,13 @@ Certain fields are required for successful LCC product and project creation. The
 | Year |  |
 | Source |  |
 | Amount |  |
-| **Matchfundby** |  |
+| **Matching Funds** |  |
 | Year |  |
 | Source |  |
 | Amount |  |
-| Fundrecipient |  |
-| Fundrecipienttype |  |
-| Fundrecipientamount |  |
+| Fund Recipient |  |
+| Fund Recipient Type |  |
+| Fund Recipient Amount |  |
 | AwardID |  |
 
 
