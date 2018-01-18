@@ -19,7 +19,7 @@ Return to the [**Record Main**](/record/edit/main.md) section of this manual to 
 
 ---
 
-![](/assets/see_full_manual_for.png) Consult the [**Main Citation**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main/citation.html) section of the full mdEditor manual for more information on** Citation**.
+> ![](/assets/see_full_manual_for.png) Consult the [**Main Citation**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main/citation.html) section of the full mdEditor manual for more information on** Citation**.
 
 ![](/assets/main_citation_window.png)
 
