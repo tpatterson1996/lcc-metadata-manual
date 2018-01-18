@@ -1,5 +1,7 @@
 # Record Metadata
 
+---
+
 Record Metadata is the place to enter key metadata into your record.
 
 * **Metadata Contacts: **are required and selected from your list of contacts. 
@@ -9,5 +11,5 @@ Record Metadata is the place to enter key metadata into your record.
   * Consult the [**Parent Metadata**](/record/edit/metadata/parent-metadata.md)** **section of this manual to learn how to create parent metadata.
 * **Metadata Repositories **indicate where the metadata should be sent.
 
-![](/assets/metadata_window_lcc.png) ![](/assets/Screen Shot 2018-01-16 at 3.39.40 PM.png)Consult the [**Record Metadata**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/metadata.html) ** **section of the full mdEditor manual for instructions on adding additional information into the Metadata Tab.
+![](/assets/metadata_window_lcc.png) ![](/assets/see_full_manual_for.png)Consult the [**Record Metadata**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/metadata.html) ** **section of the full mdEditor manual for instructions on adding additional information into the Metadata Tab.
 
