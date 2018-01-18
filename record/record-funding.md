@@ -1,5 +1,7 @@
 # Record Funding
 
+---
+
 > ![](/assets/project_required_small.png) Record Funding is required for projects only.
 
 Tracking funding in the metadata allows for identification of funding sources, comparison, and aggregation at the network level.
@@ -14,5 +16,5 @@ Required fields include:
 
 ---
 
-![](/assets/Funding_Window.png)\(insert mdEditor manual button here\) Consult the [**Record Funding**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-funding.html)** **section of the full mdEditor manual for information on Funding.
+![](/assets/Funding_Window.png)![](/assets/see_full_manual_for.png)Consult the [**Record Funding**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-funding.html)** **section of the full mdEditor manual for information on Funding.
 
