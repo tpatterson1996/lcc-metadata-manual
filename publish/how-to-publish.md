@@ -8,10 +8,10 @@
 
 ---
 
-#### Step One: Logging Into Science Base
+#### Step One: Logging Into ScienceBase
 
 1. Click the **Publish** button from the top menu in mdEditor.
-2. You will be asked to select a _publishing service_. Click on Science Base.
+2. You will be asked to select a _publishing service_. Click on ScienceBase.
 3. A login window will appear on the right side of the screen - enter your ScienceBase ID and password, and click **Login**. When you are logged in, the login window will display who you are logged in as. _The current user must have read/write permissions on ScienceBase for any items to be published \(including parent items\)_. You cannot publish until you are logged in.
 4. You will see a list of every valid record in mdEditor in the publishing outline with its ScienceBase Identifier \(if the record already exists on ScienceBase\) and its parent ScienceBase Identifier \(if present in the metadata\). This publishing outline shows records in a parent-child relationship and reflects what you would see when you publish in ScienceBase.
 5. Records **without parent IDs** already in their metadata will appear directly under the ScienceBase header
@@ -20,11 +20,11 @@
 
 6. Records** that have** **parent IDs** in the metadata record will appear below a thick blue line and will be published under the parent ID in their metadata .
 
-> ![](/assets/note_small.png) Parent-Child refers to how the records are organized and displayed on Science Base; this is different than the Project and Product associations that are embedded within the metadata records.
+> ![](/assets/note_small.png) Parent-Child refers to how the records are organized and displayed on ScienceBase; this is different than the Project and Product associations that are embedded within the metadata records.
 >
 > If you do not want these parent IDs to change,** do not** drag and drop these records in the publishing outline.
 
-#### ![](/assets/publish_screenshot_2.png)
+#### ![](/assets/publish_screenshot_2.2.png)
 
 ---
 

@@ -11,9 +11,7 @@ Record Metadata is the place to enter key metadata into your record.
   * Consult the [**Parent Metadata**](/record/edit/metadata/parent-metadata.md)** **section of this manual to learn how to create parent metadata.
 * **Metadata Repositories **indicate where the metadata should be sent.
 
-![](/assets/metadata_window_lcc.png)
-
----
+![](/assets/metadata_window.png)
 
 > ![](/assets/see_full_manual_for.png)Consult the [**Record Metadata**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/metadata.html) ** **section of the full mdEditor manual for instructions on adding additional information into the Metadata Tab.
 

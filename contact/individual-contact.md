@@ -9,9 +9,7 @@ The following fields are available for individual contacts:
 
 * **Email address**: Required
 
-![](/assets/contact_individual_lcc.png)
-
----
+![](/assets/individual_contact_window.png)
 
 > ![](/assets/see_full_manual_for.png)Consult the** **[**Individual Contact **](https://adiwg.gitbooks.io/mdeditor/content/contact/new/individual.html)section of the full mdEditor manual for information on adding Individual Contacts.
 

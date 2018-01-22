@@ -14,7 +14,7 @@ The following fields are required for Organization contacts:
 
 * **Online Resource: **Add a web URL where your organization resides.
 
-![](/assets/org_contact_lcc.png)
+![](/assets/organization_contact_page.png)
 
 ---
 

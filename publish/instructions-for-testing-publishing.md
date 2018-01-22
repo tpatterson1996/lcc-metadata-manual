@@ -12,13 +12,13 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
    >
    > **Best Practice**: It's recommended that you export a project and its products into its own mdEditor file. Set default parent identifier as a test folder.
 
-   If you** already have** items on Science Base, it is harder to test without it affecting your real records.
+   If you** already have** items on ScienceBase, it is harder to test without it affecting your real records.
 
    > ![](/assets/best_practice_small.png)
    >
    > **Best Practice**:
    >
-   > _Approach 1_ - Take a simple project and product set, and make a copy of the mdEditor records. In the test version, delete all Science Base IDs \(SBIDs\) and parent IDs. The SBID will either be located in the citation, or if you imported the record from SB, the SBID will be the record identifier. Set default parent identifier as a test folder.
+   > _Approach 1_ - Take a simple project and product set, and make a copy of the mdEditor records. In the test version, delete all ScienceBase IDs \(SBIDs\) and parent IDs. The SBID will either be located in the citation, or if you imported the record from SB, the SBID will be the record identifier. Set default parent identifier as a test folder.
    >
    > _ Approach 2 _- Publish directly to a real record if you are okay with the risk it presents.
 
@@ -26,9 +26,13 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 
 3. Select one project with its associated products to test.
 
-4. Before you publish anything, click F12 \( or Cmd + Opt + J on Mac\), to bring up the error console to be able to track errors as they occur \(consult the [Troubleshooting Issues](/publish/troubleshooting-issues.md) section of this manual for more information\).
+4. Follow the publishing instructions above for the scenario that applies to you.
 
-5. Follow the publishing instructions above for the scenario that applies to you.
+5. Look for any errors in the third column. If you see an error that is 400 and red, it’s a problem that you can address. However, If it’s a 500 level error in red, that is a ScienceBase error that is outside the scope of the mdEditor.
+
+   > ![](/assets/publishing_error.png)![](blob:https://www.gitbook.com/ef1b8987-0afc-45c3-b500-9cafedd75d77)**Note**: Any unsolvable issues can be submitted on the issues page for mdEditor: [https://github.com/adiwg/mdEditor/issues](https://www.gitbook.com/book/adiwg/mdeditor/edit#). You must have a github account in order to post.
+   >
+   > **Note:** Advanced users can check errors using the console. Consult the **Advanced Users **section of this manual to learn more.
 
 6. Verify that your test records have published as expected in your test folder on ScienceBase \(or to the real record if that’s how you are testing\).
 

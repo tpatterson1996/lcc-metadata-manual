@@ -92,5 +92,7 @@ Editing options include the above options along with the following:
   > ![](/assets/note_small.png) Save can only be used if auto-save is turned off. Consult the [**Settings**](/settings.md)** **section of this manual for more information.
 * **Cancel**: Used to undo changes that have not yet been saved.
 
+---
 
+![](/assets/see_full_manual_for.png)For more information on Buttons, Icons, Menus, and Selectors, please consult the **Getting Started** section of the full mdEditor manual.
 

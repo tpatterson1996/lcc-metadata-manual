@@ -8,7 +8,7 @@ The **Main **tab allows for the creation or editing of primary metadata from scr
 
 * The **Status **drop-down menu allows you to select the status of your item.
 
-![](/assets/main_screenshot.png)
+![](/assets/main_screenshot_updated.png)
 
 ---
 
@@ -16,7 +16,7 @@ The **Main **tab allows for the creation or editing of primary metadata from scr
 
 **Default Locale **allows for selection of **Language**, **Character Set**, and **Country**. English, UTF-8, and USA are selected by default, but you may change them if necessary.
 
-![](/assets/default_local.png)
+![](/assets/default_locale.png)
 
 ---
 
@@ -36,7 +36,7 @@ From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts
 
 > ![](/assets/best_practice_small.png)Best Practice: Select a point of contact that users can contact even if there is a positional change in an organization. One option is the LCC Data Steward. Consult the[** Individual Contact**](/contact/individual-contact.md) section of this manual for more information on adding the LCC Data Steward.
 
-![](/assets/point_of_contact.png)
+![](/assets/point_of_contacts.png)
 
 > ![](/assets/see_full_manual_for.png) Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html) section of the full mdEditor manual for more information on** Point of Contacts**.
 
@@ -46,7 +46,7 @@ From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts
 
 **Citation **is used** **to add record citations. Read the [**Main** **Citation**](/record/edit/main/citation.md)** **section of this manual to learn how to edit citations.
 
-#### ![](https://lh6.googleusercontent.com/6HlssG-PaXQEFLflkgMXCauJ7BxZwUfWqYdmu3ZHlv6a7YiwTh1VQIqf2crWkYxdrr6AyoTIKZGqhxrsr3MeGXhg0DLVGNbSQw5DvKWNs0W3xzn55uS2SDqwmE7zj_HNSUFI-1TC)
+#### ![](/assets/citation_updated.png)
 
 ---
 
@@ -54,7 +54,7 @@ From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts
 
 **Description **allows for the addition of the **Abstract.**
 
-![](/assets/description_window_lcc.png)
+![](/assets/description_lcc.png)
 
 > ![](/assets/see_full_manual_for.png) Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the full mdEditor manual for more information on **Description**.
 
@@ -66,13 +66,11 @@ From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts
 
 **Time Period** refers to project start and end date, or the date that the project was applicable \(time that the project was funded to date of completion\).
 
-![](/assets/time_period_window_lcc.png)
+![](/assets/time_period.png)
 
 > ![](/assets/see_full_manual_for.png) Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the full mdEditor manual for more information on **Time Period**.
 
 ---
-
-> ![](/assets/see_full_manual_for.png)Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the full mdEditor manual for information on adding additional information in the Main Tab.
 
 
 

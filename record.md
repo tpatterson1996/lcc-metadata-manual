@@ -6,6 +6,19 @@ Edit functionality is only visible when viewing a metadata record. Click the Edi
 
 ---
 
+### Profile
+
+![](/assets/profile_drop_down.png)
+
+The profile drop-down menu limits the number of available tabs depending on which profile you select. mdEditor defaults to the **Full **profile which includes all tabs. Other available profiles include:
+
+* **Basic-**Limits the tabs to: Main; Metadata; Keywords; Extent; and Distribution
+* **lccProduct**-Limits the tabs to: Main; Metadata; Keywords; Extent; Spatial; Lineage; Distribution; Constraints; Associated; and Documents.
+* **lccProject**-Limits the tabs to: Main; Metadata; Keywords; Extent; Associated; Documents; and Funding.
+* **publication**: Limits the tabs to: Main; Metadata; Keywords; Extent; Distribution; Associated; and Documents.
+
+---
+
 ### Navigation When Editing Records
 
 ![](/assets/high_level.png)
@@ -22,7 +35,7 @@ Edit functionality is only visible when viewing a metadata record. Click the Edi
 
 ### **Required Fields**
 
-#### ISO Metadat Required Fields
+#### ![](/assets/required_field_icons_annotated.png)
 
 Certain fields are required in order to meet ISO metadata requirements. Required fields are noted by the following.
 
