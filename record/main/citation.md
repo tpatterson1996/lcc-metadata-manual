@@ -1,19 +1,39 @@
-# Citation
+## Citation
 
 ---
 
+Citation allows you to add references to people and/or organizations that participated in the creation of your item, as well as information about online locations where your item or additional information about where your item is stored.
+
+---
+
+### **Creating A Citation**
+
 The following fields are required in citation:
 
-* **Title: **Added automatically based on the title of your record.
-* **Responsible Parties:  **This must include a point of contact, but may also include other responsible parties such as a project lead.
+* **Title **\(Auto-Generated\)**: **Added automatically based on the title of your record.
+* **Alternate Title \(**Optional\): Add an alternate title.
+* **Dates **\(Optional\): Enter _acquisition, creation, revision,_ or another date reference from the picklist and then enter the date
+* **Responsible Parties \(**Required\)**: **This must include a point of contact, but may also include other responsible parties such as a project lead, administrators, partners, collaborators, and/or funders \(contributors\).
 
-  > ![](/assets/best_practice_small.png)**Best Practice**: Add two responsible parties: your LCC, and the LCC Network Data Steward.
+  * Add the Network Data Steward as "pointOfContact."** **
 
-* **Online Resource:** Add a URL where your project or product resides online.
+> ![](/assets/best_practice_small.png) Add your LCC, and the project Principal Investigator. Enter your LCC as "administrator" and the Project Principal Investigator as "principalInvestigator."
+
+* **Online Resource \(**Required, if Available\)**:** Enter the Name and URL for the project homepage on your LCC website
 
 * **Identifier: **Enter a unique identifier for your project or product.
 
   > ![](/assets/best_practice_small.png)**Best Practice**: Use the identifier that your LCC is already using, or create something unique that is easily identifiable.
+  >
+  > ![](/assets/note_small.png)**Note: **If you know your items ScienceBase ID, you may add it here. If your item does not have a ScienceBase ID, ScienceBase will create one automatically upon publishing. If you edit an item that is already on ScienceBase without using its existing ID, a duplicate item will be created. Consult the [**Publish**](/publish.md)** **section of this manual to learn more.
+
+  * The following identifiers are optional but you may add them:
+
+    * Digital Object Identifier \(DOI\).
+
+    * Funding identifier.
+
+    * Archive folder name.
 
 ![](/assets/see_full_manual_for.png) Consult the [**Main Citation**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main/citation.html) section of the full mdEditor manual for more information on** Citation**.
 

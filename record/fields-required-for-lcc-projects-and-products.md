@@ -2,7 +2,7 @@
 
 Certain fields are required for successful LCC product and project creation. These required fields are listed below.
 
-> ![](/assets/note_small.png)**Note**: Throughout this manual, you will notice **Project Required **![](/assets/project_required_small.png)** **and **Product Required **![](/assets/product_required_small.png)symbols. These symbols note tabs, sections, or fields that are required for either products or projects, but not both.** If these symbols are not present, please add information to both projects and products.**
+> ![](/assets/note_small.png)Throughout this manual, you will notice **Project Required **![](/assets/project_required_small.png)** **and **Product Required **![](/assets/product_required_small.png)symbols. These symbols note tabs, sections, or fields that are required for either products or projects, but not both.** If these symbols are not present, please add information to both projects and products.**
 
 | PROJECT: Required _**Project**_ Fields | PRODUCT: Required _**Product**_ Fields |
 | :--- | :--- |
@@ -12,7 +12,7 @@ Certain fields are required for successful LCC product and project creation. The
 | Language | Language |
 | Resource Type | Resource Type |
 | Point of Contact | Point of Contact |
-| [**Main Citation**](/record/main/citation.md) | [**Main Citation**](/record/main/citation.md) |
+| **Main Citation** | **Main Citation** |
 | Identifier | Identifier |
 | Online Resource URI | Online Resource URI |
 | **Main Citation Responsible Parties** | **Main Citation Responsible Parties** |
@@ -22,12 +22,12 @@ Certain fields are required for successful LCC product and project creation. The
 | **Time Period** | [**Metadata Tab**](/record/metatdata.md) |
 | Start | Metadata Contacts |
 | End | Metadata Identifier |
-| [**Metadata Tab**](/record/metatdata.md) | [**Parent Metadata**](/record/metatdata/parent-metadata.md) |
+| [**Metadata Tab**](/record/metatdata.md) | **Parent Metadata** |
 | Metadata Contacts | Title |
-| Metadata Identifier | [**Identifier**](/record/metatdata/parent-metadata/identifier.md) |
-| [**Parent Metadata**](/record/metatdata/parent-metadata.md) | Identifier |
+| Metadata Identifier | **Identifier** |
+| **Parent Metadata** | Identifier |
 | Title | Namespace |
-| [**Identifier**](/record/metatdata/parent-metadata/identifier.md) | Metadata Repositories |
+| **Identifier** | Metadata Repositories |
 | Identifier | [**Keyword Tab**](/record/keywords.md) |
 | Namespace | ISO 19115 Topic Category |
 | Metadata Repositories | [**Associated Tab**](/record/record-associated.md) |
@@ -38,12 +38,12 @@ Certain fields are required for successful LCC product and project creation. The
 | [**Extent Tab**](/record/record-extent.md) |  |
 | Bounding Box |  |
 | [**Funding Tab**](/record/record-funding.md) |  |
-| [**Allocation**](/record/record-funding/allocation.md) |  |
+| **Allocation** |  |
 | Amount |  |
 | Currency |  |
 | Source |  |
 | Recipient |  |
-| [**Time Period**](/record/record-funding/time-period.md) |  |
+| **Time Period** |  |
 | Start Date |  |
 | End Date |  |
 | Year |  |

@@ -4,6 +4,8 @@
 
 The Import function will allow the content files from ScienceBase to be incorporated into the current metadata record.
 
+> ![](/assets/note_small.png)Currently the mdEditor is used primarily with ScienceBase, a collaborative scientific data and information management platform developed and run by the USGS and used directly by science teams. The mdEditor can work with other databases, but in this manual, ScienceBase will be used as the primary example of a database.
+
 # Method 1:
 
 1. **Copy the ScienceBase ID \(SBID\)** from an existing ScienceBase item 

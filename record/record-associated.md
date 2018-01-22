@@ -1,32 +1,66 @@
-# Record Associated
+## Record Associated
 
 ---
 
-> ![](/assets/product_required_small.png) **Record Associated is required for Products Only**
+The **Associated** section is used to connect items with each other. This feature should be used when items are related. I.E. Products are often the result of projects, and projects often have sub-projects. All of these can be linked together by means of association. Adding associations will give LCC staff the ability to find items that relate to each other in ScienceBase.
 
-The **Associated** section is used to connect items with each other. This feature should be used when items are related. I.E. Products are often the result of projects, and projects often have sub projects. All of these can be linked together by means of association.
-
-> ![](/assets/note_small.png) In ScienceBase **Associated Records **are referred to as **Item Associations. **
+> ![](/assets/note_small.png)  In ScienceBase **Associated Records **are referred to as **Item Associations. **
 
 ---
 
-### Step 1: Select Association Type
+## Create Associations
 
-* Select **parentProject** from the **Association Type **drop down menu. This describes the relationship between the product and its parent project.
+There are two ways to create associations. You can either associate a product with a project **or **associate a project with a product \(detailed explanation with screenshots included below chart\).
+
+| Create an Association in PRODUCTS | Create an Association in PROJECTS |
+| :--- | :--- |
+| Select **parentProject** from the Association Type drop-down menu. This describes the relationship between the product and its parent project. | Select **product** from the Association Type drop-down menu. This describes the relationship between the product and its parent project. |
+| Use the\_ Select a Record \_button to select an associated project. | Use the_ Select a Record_ button to select an associated product. |
+| Select the **Project** that you would like to associate to from the _Select a Resource_ list. | Select the **Product** that you would like to associate to from the_ Select a Resource_ list. |
+
+---
+
+### Create an Association in Products
+
+**Step 1: Select Association Type**
+
+* Select **parentProject** from the **Association Type **drop-down menu. This describes the relationship between the product and its parent project.
+
+> ![](/assets/note_small.png)The **parentProject **association type refers to a project that a product is associated with. This differs from a Parent folder on ScienceBase, which is a folder where items are uploaded upon publishing.
 
 ![](/assets/parentProject_association_lcc.png)
 
-### Step 2: Select a Project
+---
+
+**Step 2: Select a Project**
 
 * Use the **Select a Record **button to select an associated project.
 
 ![](/assets/select_a_record_button.png)
 
-* Select the project that you would like to associate to from the **Select a Resource **list.
+* Select the P**roject** that you would like to associate to from the **Select a Resource **list.
 
 ![](/assets/select_a_resource_window.png)
 
 ---
+
+### Create an Association in Projects
+
+#### Step 1: Select Association Type
+
+* Select **product** from the **Association Type **drop-down menu. This describes the relationship between the product and its parent project.
+
+![](/assets/product_association_lcc.png)
+
+#### Step 2: Select a Project
+
+* Use the **Select a Record **button to select an associated product.
+
+![](/assets/select_a_record_button.png)
+
+* Select the product that you would like to associate to from the **Select a Resource **list.
+
+![](/assets/select_a_resource_product_window.png)
 
 > ![](/assets/see_full_manual_for.png)Consult the [**Record Associated**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-associated.html)** **section of the full mdEditor manual for information on associations.
 
