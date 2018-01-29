@@ -8,6 +8,7 @@
   * [Export](data-management/export.md)
   * [Import](data-management/import.md)
     * [ScienceBase Import](data-management/import/sciencebase-import.md)
+  * [Copy Records](data-management/copy-records.md)
 * [Translate](translate.md)
 * [Publish](publish.md)
   * [Requirements for Publishing](publish/requirements-for-publishing.md)
