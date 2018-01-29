@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Dashboard and Right Vertical Menu](dashboard.md)
 * [Getting Started](getting-started.md)
+* [Dashboard and Right Vertical Menu](dashboard.md)
 * [Data Management](data-management.md)
   * [File Management](data-management/file-management.md)
   * [Export](data-management/export.md)
