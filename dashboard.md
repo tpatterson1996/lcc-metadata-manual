@@ -94,5 +94,5 @@ Editing options include the above options along with the following:
 
 ---
 
-![](/assets/see_full_manual_for.png)For more information on Buttons, Icons, Menus, and Selectors, please consult the **Getting Started** section of the full mdEditor manual. 
+![](/assets/see_full_manual_for.png)For more information on Buttons, Icons, Menus, and Selectors, please consult the **Getting Started** section of the full mdEditor manual.
 
