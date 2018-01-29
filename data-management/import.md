@@ -19,5 +19,5 @@ You can click the **Import Data **button to import a local file, or simply drag 
 
 To import Settings, you should set the import to “Replace.” Generally, it is best practice to set the mode back to “Merge,” once you’ve finished importing the settings.
 
-![](/assets/Screen Shot 2018-01-29 at 4.26.01 PM.png)
+![](/assets/import_settings_2.png)
 
