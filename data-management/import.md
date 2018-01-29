@@ -4,8 +4,6 @@
 
 The Import function will allow the contents of an mdEditor or [mdJSON file](https://github.com/adiwg/mdJson-schemas/blob/master/test/draft-04.json)  file to be incorporated into the current metadata record.
 
-
-
 ![](/assets/import_window.png)
 
 You can click the **Import Data **button to import a local file, or simply drag and drop files onto the button. Files can also be imported using the **Import from Online URL **functionality.
@@ -14,8 +12,6 @@ You can click the **Import Data **button to import a local file, or simply drag 
 2. Select the records and contacts you want to import.
    > ![](/assets/best_practice_small.png)**Best Practice: **Choose the record or contact with the most complete information.
 3. Click on the right hand button “**Click to Import Data**” to import the selected records
-
-
 
 ---
 
