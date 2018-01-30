@@ -20,16 +20,18 @@
 
   > ![](/assets/note_small.png)
   >
-  > -Matching funds should be broken down into separate funding providers, in order to show what partners are supporting the work.  
-  > -When matching is checked: description** **should describe** **the organization that provided the funds.
+  > **Note**: Matching funds should be broken down into separate funding providers, in order to show what partners are supporting the work.  
+  > **Note: **When matching is checked, description** **should describe** **the organization that provided the funds.
 
 * **Description**: Add a description for the funding allocation
 
+
+
+> ![](blob:https://www.gitbook.com/c7d82084-0f2a-4022-a774-c11cf78f773f)
+>
+> **Best Practice**: If the funds from the LCC went directly to more than one recipient, or in multiple fiscal years of distribution, add a new allocation for each of these instances.
+
 ![](/assets/allocation_window.png)
-
-> ![](/assets/best_practice_small.png)**Best Practice**: If the funds from the LCC went directly to more than one recipient, or in multiple fiscal years of distribution, add a new allocation for each of these instances.
-
----
 
 > ![](/assets/see_full_manual_for.png) Consult the [**Allocation** ](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-funding/allocation.html)section of the full mdEditor manual for information on Allocation.
 
