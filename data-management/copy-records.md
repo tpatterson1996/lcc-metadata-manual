@@ -2,7 +2,7 @@
 
 The **Copy** button is located in right vertical menu. It makes a duplicate of metadata record. Consult the [**Getting Started**](/getting-started.md) section of this manual for more information on the **Vertical Menu**.
 
-![](/assets/Screen Shot 2018-01-29 at 4.30.01 PM.png)
+![](/assets/copy_button.png)
 
 Use the Copy button carefully:
 
