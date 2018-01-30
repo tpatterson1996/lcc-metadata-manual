@@ -12,7 +12,7 @@ The following fields are required for Parent Metadata creation:
 
   * Consult the [**Identifier**](/record/edit/metadata/parent-metadata/identifier.md)** **section of this manual to learn how to** add** a parent identifier.
 
-![](/assets/parent_metadata_window_lcc.png)
+![](/assets/parent_metadata_window.png)
 
 ---
 
