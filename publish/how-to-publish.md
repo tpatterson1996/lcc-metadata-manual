@@ -24,7 +24,7 @@
 >
 > If you do not want these parent IDs to change,** do not** drag and drop these records in the publishing outline.
 
-#### ![](/assets/publish_screenshot_2.png)
+#### ![](/assets/publish_screenshot_2.2.png)
 
 ---
 
