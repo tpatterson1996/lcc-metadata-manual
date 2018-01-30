@@ -28,19 +28,25 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 
 4. Follow the publishing instructions above for the scenario that applies to you.
 
-1. Verify that your test records have published as expected in your test folder on ScienceBase \(or to the real record if that’s how you are testing\).
+5. Look for any errors in the third column. If you see an error that is 400 and red, it’s a problem that you can address. However, If it’s a 500 level error in red, that is a ScienceBase error that is outside the scope of the mdEditor.
 
-2. After you are satisfied with how your test records published to ScienceBase, you can proceed with publishing your real record.
+   > ![](/assets/publishing_error.png)![](blob:https://www.gitbook.com/ef1b8987-0afc-45c3-b500-9cafedd75d77)**Note**: Any unsolvable issues can be submitted on the issues page for mdEditor: [https://github.com/adiwg/mdEditor/issues](https://www.gitbook.com/book/adiwg/mdeditor/edit#). You must have a github account in order to post.
+   >
+   > **Note:** Advanced users can check errors using the console. Consult the **Advanced Users **section of this manual to learn more.
 
-3. Update your mdEditor settings to your real Default Parent Identifier.
+6. Verify that your test records have published as expected in your test folder on ScienceBase \(or to the real record if that’s how you are testing\).
 
-4. Using the record you just tested, proceed with publishing to the real location on ScienceBase.
+7. After you are satisfied with how your test records published to ScienceBase, you can proceed with publishing your real record.
 
-5. Make sure any test SBIDs are removed entirely from the record you want to actually publish.
+8. Update your mdEditor settings to your real Default Parent Identifier.
 
-6. Verify that the real records have updated as expected.
+9. Using the record you just tested, proceed with publishing to the real location on ScienceBase.
 
-7. Proceed with publishing your other records to their real locations.
+10. Make sure any test SBIDs are removed entirely from the record you want to actually publish.
+
+11. Verify that the real records have updated as expected.
+
+12. Proceed with publishing your other records to their real locations.
 
 
 
