@@ -6,7 +6,6 @@
 
 This manual details the creation of LCC data records \(Contacts, Projects, and Products\) for upload onto the ScienceBase catalogue. This manual also details publishing to ScienceBase. _This manual refers to the creation of LCC metadata specifically_. If you want information on the creation of other metadata records using MDEditor, or more information in general, please refer to the [MDEditor User Manual](https://adiwg.gitbooks.io/mdeditor/content/).
 
-{% github_embed "https://github.com/v5analytics/gitbook-plugin-github-embed/blob/9ef6e532/src/tag.js", hideLines=['15-87'] %}{% endgithub_embed %}
 
 ## Requirements for using mdEditor
 
