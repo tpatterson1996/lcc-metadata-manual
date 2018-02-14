@@ -18,7 +18,8 @@ This manual details the creation of LCC data records \(Contacts, Projects, and P
 
 
 
-
+{% include "./appendix.md"
+ %}
 
 
 
