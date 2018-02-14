@@ -16,7 +16,7 @@ This manual details the creation of LCC data records \(Contacts, Projects, and P
 
 > ![](/assets/see_full_manual_for.png)**Note: **This manual has been revised for LCC use. You may access the full mdEditor manual [**here**](https://adiwg.gitbooks.io/mdeditor/content/), or anywhere that you see the arrow symbol above:
 
-{% include &quot;git+https://github.com/adiwg/mdEditor-doc.git/README.md&quot; %}
+{% include "git+https://github.com/adiwg/mdEditor-doc.git/README.md" %}
 
 
 
