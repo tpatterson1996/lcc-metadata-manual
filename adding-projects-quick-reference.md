@@ -8,7 +8,9 @@ This page will provide a brief overview of required fields for a metadata Projec
 
 ### Required/Recommended Fields for Projects:
 
-#### **Main Tab: Basic Information**
+#### **Main Tab**
+
+**In Main/Basic Information**
 
 * **Enter Title \[Title\]**
 
@@ -16,11 +18,15 @@ This page will provide a brief overview of required fields for a metadata Projec
 
 * **Enter Status \[status\]**
 
-  *  Choose status **ONLY **from the four following options: _Completed, On Going, Proposed, or Accepted_.
+  * Choose status **ONLY **from the four following options: _Completed, On Going, Proposed, or Accepted_.
 
+**In Main/Default Locale**
 
+* Language \[Language\] is English
 
+* Character set is UTF-8
 
+* Country is USA
 
 
 
