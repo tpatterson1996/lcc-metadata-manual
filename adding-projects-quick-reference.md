@@ -8,25 +8,41 @@ This page will provide a brief overview of required fields for a metadata Projec
 
 ### Required/Recommended Fields for Projects:
 
-#### **Main Tab**
+### **Main Tab**
 
-**In Main/Basic Information**
+##### **In Main/Basic Information**
 
-* **Enter Title \[Title\]**
+| Field | Instructions/Notes on Entering |
+| :--- | :--- |
+| Title | **Best Management Practice \(BMP\): **Since products and projects are independent records, we recommend having as informative a title as possible. The title should be something that when it comes up in a search, it will be understood and/or traceable. |
+| Status | Choose status ONLY from the four following options: Completed, On Going, Proposed, or Accepted. |
 
-  > _Best Management Practice \(BMP\): Since products and projects are independent records, we recommend having as informative a title as possible, something that when it comes up in a search will be understood and/or traceable. _
+##### In Main/Default Locale
 
-* **Enter Status \[status\]**
+| Field | Instructions/Notes on Entering |
+| :--- | :--- |
+| Language | Should be _English_ |
+| Character Set | Should be _UTF-8_ |
+| Country  | Should be _USA_ |
 
-  * Choose status **ONLY **from the four following options: _Completed, On Going, Proposed, or Accepted_.
+**In Main/Resource Types**
 
-**In Main/Default Locale**
+| Field | Instructions/Notes on Entering |
+| :--- | :--- |
+| Type | Choose "Project"  |
 
-* Language \[Language\] is English
+**In Main /Point of Contact**
 
-* Character set is UTF-8
+| Field | Instructions/Notes on Entering |
+| :--- | :--- |
+| Role | **Best Management Practice \(BMP\): **Enter \(1\) your **LCC **and \(2\) the **LCC Network Data Steward** as "pointOfContacts." |
+|  | **BMP**: Enter the Project PI as a "principalInvestigator"  |
 
-* Country is USA
+**In Main/Citation**
+
+| Field | Instructions/Notes On Entering |
+| :--- | :--- |
+|  |  |
 
 
 
