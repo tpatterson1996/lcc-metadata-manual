@@ -2,15 +2,13 @@
 
 ---
 
-This page will provide a brief overview of required fields for a metadata Project record, for more in-depth information, rationale and instructions, please see the relevant section. 
+This page will provide a brief overview of required fields for a metadata Project record, for more in-depth information, rationale and instructions, please see the relevant section.
 
 ---
 
 ### Required/Recommended Fields for Projects:
 
-#### **Main/Basic Information**
-
-**Required: **
+#### **Main Tab: Basic Information**
 
 * **Enter Title \[Title\]**
 
@@ -18,7 +16,11 @@ This page will provide a brief overview of required fields for a metadata Projec
 
 * **Enter Status \[status\]**
 
-  * **ONLY** Choose from: _Completed, On Going, Proposed, or Accepted_.
+  *  Choose status **ONLY **from the four following options: _Completed, On Going, Proposed, or Accepted_.
+
+
+
+
 
 
 
