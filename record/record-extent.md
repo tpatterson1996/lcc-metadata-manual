@@ -26,5 +26,3 @@ It is possible to export bound features and re-use for other records using the *
 
 ![](/assets/edit_extent_page.png)
 
-
-
