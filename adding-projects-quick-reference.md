@@ -42,11 +42,24 @@ This page will provide a brief overview of required fields for a metadata Projec
 
 | **Field** | **Instructions/Notes On Entering** |
 | :--- | :--- |
-| Title | Enter Title |
-| Alternate Title \(Optional\)  | Enter a shorter title |
-| Dates \(Optional\)  | Enter _acquisition, creation, revision,_ or another date reference from the pick-list and then enter the date |
-| Responsible Parties | Corresponds to \[lead\] and \[partner\] required fields. Enter your LCC as “administrator.” Enter the project PI as “principalInvestigator.” You can also add funders including your LCC, partners, collaborators, and/or contributors.  |
-|  |  |
+| **Title** | Enter Title |
+| **Alternate Title \(Optional\)** | Enter a shorter title |
+| **Dates \(Optional\)** | Enter _acquisition, creation, revision,_ or another date reference from the pick-list and then enter the date |
+| **Responsible Parties** | Corresponds to \[lead\] and \[partner\] required fields. |
+|  | Enter your LCC as “administrator.” |
+|  | Enter the project PI as “principalInvestigator.” |
+|  | You can also add funders including your LCC, partners, collaborators, and/or contributors. |
+| **Online Resources \(Required, If Available\) ** | Enter the url for the project homepage on your LCC website |
+| **Identifier** | **Best Management Practice:** Enter ScienceBase, if known. mdEditor can use the SBID to locate and publish the metadata to the correct item in ScienceBase |
+|  | Enter Digital Object Identifier, if available |
+|  | Enter any internal project ID, up to 32 characters |
+|  | Enter funding identifier, if desired |
+
+**In Main/Description**
+
+| Title | Instructions/Notes On Entering |
+| :--- | :--- |
+| Abstract |  |
 
 
 
