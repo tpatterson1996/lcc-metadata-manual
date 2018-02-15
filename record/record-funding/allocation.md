@@ -25,9 +25,7 @@
 
 * **Description**: Add a description for the funding allocation
 
-
-
-> ![](blob:https://www.gitbook.com/c7d82084-0f2a-4022-a774-c11cf78f773f)
+> ![](/assets/best_practice_small.png)
 >
 > **Best Practice**: If the funds from the LCC went directly to more than one recipient, or in multiple fiscal years of distribution, add a new allocation for each of these instances.
 
