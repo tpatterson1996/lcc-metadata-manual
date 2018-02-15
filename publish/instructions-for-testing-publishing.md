@@ -30,7 +30,7 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 
 5. Look for any errors in the third column. If you see an error that is 400 and red, it’s a problem that you can address. However, If it’s a 500 level error in red, that is a ScienceBase error that is outside the scope of the mdEditor.
 
-   > ![](/assets/publishing_error.png)![](blob:https://www.gitbook.com/ef1b8987-0afc-45c3-b500-9cafedd75d77)**Note**: Any unsolvable issues can be submitted on the issues page for mdEditor: [https://github.com/adiwg/mdEditor/issues](https://www.gitbook.com/book/adiwg/mdeditor/edit#). You must have a github account in order to post.
+   > ![](/assets/publishing_error.png)![](/assets/note_small.png)**Note**: Any unsolvable issues can be submitted on the issues page for mdEditor: [https://github.com/adiwg/mdEditor/issues](https://www.gitbook.com/book/adiwg/mdeditor/edit#). You must have a github account in order to post.
    >
    > **Note:** Advanced users can check errors using the console. Consult the **Advanced Users **section of this manual to learn more.
 
