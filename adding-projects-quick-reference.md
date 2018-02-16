@@ -57,7 +57,7 @@ This page will provide a brief overview of required fields for a metadata Projec
 
 **In Main/Description**
 
-| Title | Instructions/Notes On Entering |
+| Field | Instructions/Notes On Entering |
 | :--- | :--- |
 | Abstract | Consider writing your abstracts for projects in the present tense if the project is underway and past tense if it has been completed. |
 | Short Abstract \(Optional\) | Enter a short description of the project |
@@ -65,7 +65,7 @@ This page will provide a brief overview of required fields for a metadata Projec
 
 **In Main/Time Period**
 
-| Title | Instructions/Notes On Entering |
+| Field | Instructions/Notes On Entering |
 | :--- | :--- |
 | Date | Enter Start Date, End Date or Start-and-End Date. |
 
@@ -75,18 +75,41 @@ This page will provide a brief overview of required fields for a metadata Projec
 
 **In Metadata/Basic Information**
 
-| TItle | Instructions/Notes on Entering |
+| Field | Instructions/Notes on Entering |
 | :--- | :--- |
 | Metadata Status | Choose Status from Metadata Pick-list |
 | Date | Enter a date for "creation" or "last updated" |
 
 **In Metadata/Contacts**
 
-| Title | Instructions/Notes on Entering |
+| Field | Instructions/Notes on Entering |
 | :--- | :--- |
-| Author \(Optional\)  | Enter your LCC data manager as the “author” \(optional\). You do not need to use individual names and can create a generic data manager for your LCC, but this is up to the individual LCC. |
-| Publisher \(Reccomended\)  | **Best Management Practice**: Enter your LCC as the "publisher"  |
-| Point Of Contact \(Recommended\)  | **Best Management Practice**: Enter the LCC Network Data Steward as a “pointOfContact” |
+| Author \(Optional\) | Enter your LCC data manager as the “author” \(optional\). You do not need to use individual names and can create a generic data manager for your LCC, but this is up to the individual LCC. |
+| Publisher \(Reccomended\) | **Best Management Practice**: Enter your LCC as the "publisher" |
+| Point Of Contact \(Recommended\) | **Best Management Practice**: Enter the LCC Network Data Steward as a “pointOfContact” |
+
+**In Metadata/Identifier & Parent Metadata**
+
+| Field | Instructions/Notes on Entering |
+| :--- | :--- |
+| Identifier | Enter the ScienceBase ID. If the record was imported from ScienceBase, this field is auto populated; if record is created new in mdEditor, md Editor will populate the identifier field with the and has a corresponding item in ScienceBase, the identification information must be entered here.** ** |
+|  | **Best Management Practice**: If you know the ScienceBase identifier, add it in the metadata identifier when you create the record. When you start to associate the item, changing the metadata identifier can break the links. |
+| Parent Metadata | Enter the ScienceBase ID of the parent item--if record was imported from ScienceBase, this field is auto populated; if record is created new in mdEditor and has a corresponding parent item in ScienceBase, the identification information should be populated here, double check that these values are correct; If this record is created new in mdEditor and does not exist in ScienceBase, populate the parent metadata with the parent sciencebase identifier, if present in Sciencebase. Recommended workflow is 1\) complete project metadata, 2\) complete child product metadata and associate the items. In this way, parent-child relationships can be defined. |
+|  | **Note:** If items are moved in ScienceBase, and the parent metadata is not changed in mdEditor, when mdEditor publishes to ScienceBase, the parent-child relationships in ScienceBase will be overwritten. |
+
+**In Metadata/Repositories**
+
+| Field  | Instructions/Notes on Entering |
+| :--- | :--- |
+| Repository  | For Projects that should be listed in the LCC Science Catalog, Enter “LCCScienceCatalog” from the picklist as repository and “LCC Network Science Catalog” as collection title \(these should be entered in your Settings as default repositories.** Note**: this is  a free text field so the title must be exactly the same in order to insure that the metadata is harvested for the LCC Science Catalog.\) |
+|  | For data Products that should be shared with Data.gov, Enter “data.gov” and “data.gov” from the picklist as repository and enter “data.gov” followed by your LCC name as the collection title. |
+|  | **Best Management Practice**: In Settings, create default repositories to help maintain precise titles |
+
+**In Metadata/Online Resources**
+
+| Field | Instructions/Notes on Entering |
+| :--- | :--- |
+| Online Resource \(Optional, Required if available in Main/Citation/Online Resources \)  | Enter a URL for any other project related website-optional \(ie. PI has website information or data hosting site\)  |
 
 
 
