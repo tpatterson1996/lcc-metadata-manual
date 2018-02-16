@@ -2,30 +2,29 @@
 
 ---
 
-This page will provide a brief overview of required fields for a metadata Project record, for more in-depth information, rationale and instructions, please see the relevant section page. 
+This page will provide a brief overview of required fields for a metadata Project record, for more in-depth information, rationale and instructions, please see the relevant section page.
 
 ---
 
-### Required/Recommended Fields for Projects:
+### Overview of Required/Recommended Fields for Projects:
+
+To see the fields described in this Quick Reference, select the green edit button next to an existing record in the left vertical menu, or [create a new record](/record-new.md).
 
 ### **Main Tab**
 
-##### **In Main/Basic Information**
+##### **In Main/Basic Information, Resource Type, Point of Contacts**
 
 | **Field** | **Instructions/Notes on Entering** |
 | :--- | :--- |
-| Record ID | The Record ID will be generated automatically. |
-| Title | Enter a title. **Best Management Practice \(BMP\): **Since products and projects are independent records, we recommend having as informative a title as possible. Good titles, when they appear in a search, will be understood and/or traceable. |
-| Status | Choose status ONLY from the four following options: Completed, On Going, Proposed, or Accepted. |
-| Default Locale | Language should be set to _**English**,_ Character set to_ **UTF-**_**8,** Country set to_ **USA. **_ |
+| Record ID \(Required\) | The Record ID will be generated automatically. |
+| Title \(Required\)  | Enter a title. **Best Management Practice \(BMP\): **Since products and projects are independent records, we recommend having as informative a title as possible. Good titles, when they appear in a search, will be understood and/or traceable. |
+| Status \(Required\)  | Choose status ONLY from the four following options: Completed, On Going, Proposed, or Accepted. |
+| Default Locale \(Required\)  | Language should be set to _**English**,_ Character set to_ **UTF-**_**8,** Country set to_ **USA. **_ |
+| Resource Type \(Required\)  | Resource Type \(Type and Name\), will be filled automatically with the information added when you created your record \(as described in [Record New](/record-new.md)\). |
+| Point of Contact \(Required\)  | From the Role drop-down menu, select **pointOfContact**. From the Contacts drop-down menu, select a **contact** from the list of contacts.  |
+|  | **Best Management Practice: **Enter \(1\) your** LCC **and \(2\) **the LCC Network Data Steward** as "pointOfContacts." This way there is a point of contact that users can reach even if there is a positional change in an organization |
 
 
-
-**In Main/Resource Types**
-
-| **Field** | **Instructions/Notes on Entering** |
-| :--- | :--- |
-| Type | Choose "Project" |
 
 **In Main /Point of Contact**
 
@@ -170,7 +169,7 @@ See [Record Funding](/record/record-funding.md) for information on entering fund
 
 ### Contacts **Tab**
 
-See [Contact New](/contact.md) for information on entering contacts. 
+See [Contact New](/contact.md) for information on entering contacts.
 
 | Notes/Best Management Practices |
 | :--- |
