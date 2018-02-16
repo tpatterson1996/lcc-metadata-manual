@@ -2,7 +2,7 @@
 
 ---
 
-This page will provide a brief overview of required fields for a metadata Project record, for more in-depth information, rationale and instructions, please see the relevant section page.
+This page will provide a brief overview of required fields for a metadata Project record, for more in-depth information, rationale and instructions, please see the relevant section page. 
 
 ---
 
@@ -14,16 +14,12 @@ This page will provide a brief overview of required fields for a metadata Projec
 
 | **Field** | **Instructions/Notes on Entering** |
 | :--- | :--- |
-| Title | **Best Management Practice \(BMP\): **Since products and projects are independent records, we recommend having as informative a title as possible. The title should be something that when it comes up in a search, it will be understood and/or traceable. |
+| Record ID | The Record ID will be generated automatically. |
+| Title | Enter a title. **Best Management Practice \(BMP\): **Since products and projects are independent records, we recommend having as informative a title as possible. Good titles, when they appear in a search, will be understood and/or traceable. |
 | Status | Choose status ONLY from the four following options: Completed, On Going, Proposed, or Accepted. |
+| Default Locale | Language should be set to _**English**,_ Character set to_ **UTF-**_**8,** Country set to_ **USA. **_ |
 
-##### In Main/Default Locale
 
-| **Field** | **Instructions/Notes on Entering** |
-| :--- | :--- |
-| Language | Should be _English_ |
-| Character Set | Should be _UTF-8_ |
-| Country | Should be _USA_ |
 
 **In Main/Resource Types**
 
@@ -166,7 +162,7 @@ This page will provide a brief overview of required fields for a metadata Projec
 
 See [Record Funding](/record/record-funding.md) for information on entering funding
 
-| Notes  |
+| Notes |
 | :--- |
 | Funding is required for projects only. Funding information is not required for products. Funding information is populated from ScienceBase for imported records. |
 
@@ -174,9 +170,11 @@ See [Record Funding](/record/record-funding.md) for information on entering fund
 
 ### Contacts **Tab**
 
-| Field | Instructions/Notes on Entering |
-| :--- | :--- |
-|  |  |
+See [Contact New](/contact.md) for information on entering contacts. 
+
+| Notes/Best Management Practices |
+| :--- |
+|  |
 
 ---
 
