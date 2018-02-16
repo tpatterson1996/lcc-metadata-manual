@@ -59,7 +59,34 @@ This page will provide a brief overview of required fields for a metadata Projec
 
 | Title | Instructions/Notes On Entering |
 | :--- | :--- |
-| Abstract |  |
+| Abstract | Consider writing your abstracts for projects in the present tense if the project is underway and past tense if it has been completed. |
+| Short Abstract \(Optional\) | Enter a short description of the project |
+| Supplemental Information \(Optional\) | Enter comments if desired |
+
+**In Main/Time Period**
+
+| Title | Instructions/Notes On Entering |
+| :--- | :--- |
+| Date | Enter Start Date, End Date or Start-and-End Date. |
+
+---
+
+### Metadata TAB
+
+**In Metadata/Basic Information**
+
+| TItle | Instructions/Notes on Entering |
+| :--- | :--- |
+| Metadata Status | Choose Status from Metadata Pick-list |
+| Date | Enter a date for "creation" or "last updated" |
+
+**In Metadata/Contacts**
+
+| Title | Instructions/Notes on Entering |
+| :--- | :--- |
+| Author \(Optional\)  | Enter your LCC data manager as the “author” \(optional\). You do not need to use individual names and can create a generic data manager for your LCC, but this is up to the individual LCC. |
+| Publisher \(Reccomended\)  | **Best Management Practice**: Enter your LCC as the "publisher"  |
+| Point Of Contact \(Recommended\)  | **Best Management Practice**: Enter the LCC Network Data Steward as a “pointOfContact” |
 
 
 
