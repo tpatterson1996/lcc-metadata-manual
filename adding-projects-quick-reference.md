@@ -99,9 +99,9 @@ This page will provide a brief overview of required fields for a metadata Projec
 
 **In Metadata/Repositories**
 
-| Field  | Instructions/Notes on Entering |
+| Field | Instructions/Notes on Entering |
 | :--- | :--- |
-| Repository  | For Projects that should be listed in the LCC Science Catalog, Enter “LCCScienceCatalog” from the picklist as repository and “LCC Network Science Catalog” as collection title \(these should be entered in your Settings as default repositories.** Note**: this is  a free text field so the title must be exactly the same in order to insure that the metadata is harvested for the LCC Science Catalog.\) |
+| Repository | For Projects that should be listed in the LCC Science Catalog, Enter “LCCScienceCatalog” from the picklist as repository and “LCC Network Science Catalog” as collection title \(these should be entered in your Settings as default repositories.** Note**: this is  a free text field so the title must be exactly the same in order to insure that the metadata is harvested for the LCC Science Catalog.\) |
 |  | For data Products that should be shared with Data.gov, Enter “data.gov” and “data.gov” from the picklist as repository and enter “data.gov” followed by your LCC name as the collection title. |
 |  | **Best Management Practice**: In Settings, create default repositories to help maintain precise titles |
 
@@ -109,7 +109,37 @@ This page will provide a brief overview of required fields for a metadata Projec
 
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
-| Online Resource \(Optional, Required if available in Main/Citation/Online Resources \)  | Enter a URL for any other project related website-optional \(ie. PI has website information or data hosting site\)  |
+| Online Resource \(Optional, Required if available in Main/Citation/Online Resources \) | Enter a URL for any other project related website-optional \(ie. PI has website information or data hosting site\) |
+
+---
+
+### Keywords Tab
+
+| Thesaurus | Instructions | Notes |
+| :--- | :--- | :--- |
+| LCC Category Thesaurus | Choose from picklist \(Category\) |  |
+| LCC Delivery Type Thesaurus  | Choose from picklist \(Deliver\) |  |
+| LCC End User Type Thesaurus  | Choose from picklist \(Usertype-optional\) |  |
+| Custom Thesaurus | Title thesaurus as EndUsers \(endusers-optional\) | Enter enduser keywords that do not appear in the usertype keywords |
+| ISO Topic Category Thesaurus | Choose from picklist \(topicCategory\)  |  |
+| Custom Thesaurus  | Title thesaurus as subject \(subject-optional\)  | Enter Subject Keywords |
+| Custom Thesaurus  | Title thesaurus as geographic \(geog-optional\)  | Enter geographic keywords |
+| Custom Thesaurus  | Title thesaurus as Conservation Target \(ConservationTarget-optional\) | Enter conservation target keywords |
+| Custom Thesaurus  | Title thesaurus as State/Province \(state/province-optional\)  | Enter state/Province keywords\* |
+| Congressional Districts | \[congdist\] | Recommend to include geographic extent to mdEditor \(see Extent TAB, below\). Congressional districts can be derived later. \(BMP\) |
+| GCMD Science Thesaurus  | Choose from picklist and include full path \(recommended\) |  |
+
+---
+
+### Extent Tab
+
+| Field | Instructions/Notes on Entering |
+| :--- | :--- |
+| Geographic Extent \(Recommended\)  | Add bounding box or simple extent in WGS84 coordinate system **Note:** extents are imported from ScienceBase records, can be drawn in mdEditor; and can be dragged and dropped into mdEditor from multiple file types.  |
+|  | Bounding box does not work across international dateline. |
+|  | Extents should be simple with a modest number of vertices. |
+|  | The extent is for display and discovery only. |
+|  | Recommended that you use an extent since they can be used to populate Congressional districts once that capability is available. |
 
 
 
