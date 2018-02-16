@@ -2,7 +2,7 @@
 
 ---
 
-This page will provide a brief overview of required fields for a metadata Project record, for more in-depth information, rationale and instructions, please see the relevant section.
+This page will provide a brief overview of required fields for a metadata Project record, for more in-depth information, rationale and instructions, please see the relevant section page.
 
 ---
 
@@ -145,25 +145,30 @@ This page will provide a brief overview of required fields for a metadata Projec
 
 ### **Associated Tab**
 
-| Field | Instructions/Notes on Entering |
-| :--- | :--- |
-|  |  |
+| Quick Notes on Associated Records |
+| :--- |
+| Add items that are products of projects or related product of another product or vise-versa a product to a project or even a subproject of a project. |
+| If this product record is from ScienceBase and it was linked \(as an Associated Item of type "product of"\) to its ScienceBase Project record, then the Associated tab will already be populated correctly as described below, and should be reviewed. |
+| If not associated from ScienceBase, you can associate in this section. Make sure that the relevant Project record is loaded into mdEditor \(Import it if not, & return here\). Choose "parentProject" as the Association Type when editing the product entry. Choose “product” as the Association Type when editing the project entry. If entering a sub-project of a project, select “subProject” when editing the subproject entry or “project” when editing the project metadata. Click "Select a Record" \(on the right\), find the Project record, and select it. This will fill in all the needed fields for the current association |
+| If entering from scratch, be sure to fill in the Association type as above, as well as an Identifier and Namespace which will uniquely match the referenced Parent, as well as copying the Title and Resource type from the Parent here. It's easier & safer to use the previous method \("Select a Record"\). |
 
 ---
 
 ### Documents **Tab**
 
-| Field | Instructions/Notes on Entering |
-| :--- | :--- |
-|  |  |
+| Notes on Documents |
+| :--- |
+| Add documents and resources that describe or are related to the project, but are not products of, such as video, webinar, book, poster, webpage, news release, etc. |
 
 ---
 
 ### Funding **Tab**
 
-| Field | Instructions/Notes on Entering |
-| :--- | :--- |
-|  |  |
+See [Record Funding](/record/record-funding.md) for information on entering funding
+
+| Notes  |
+| :--- |
+| Funding is required for projects only. Funding information is not required for products. Funding information is populated from ScienceBase for imported records. |
 
 ---
 
@@ -174,8 +179,6 @@ This page will provide a brief overview of required fields for a metadata Projec
 |  |  |
 
 ---
-
-
 
 
 
