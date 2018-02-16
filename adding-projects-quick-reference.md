@@ -118,16 +118,16 @@ This page will provide a brief overview of required fields for a metadata Projec
 | Thesaurus | Instructions | Notes |
 | :--- | :--- | :--- |
 | LCC Category Thesaurus | Choose from picklist \(Category\) |  |
-| LCC Delivery Type Thesaurus  | Choose from picklist \(Deliver\) |  |
-| LCC End User Type Thesaurus  | Choose from picklist \(Usertype-optional\) |  |
+| LCC Delivery Type Thesaurus | Choose from picklist \(Deliver\) |  |
+| LCC End User Type Thesaurus | Choose from picklist \(Usertype-optional\) |  |
 | Custom Thesaurus | Title thesaurus as EndUsers \(endusers-optional\) | Enter enduser keywords that do not appear in the usertype keywords |
-| ISO Topic Category Thesaurus | Choose from picklist \(topicCategory\)  |  |
-| Custom Thesaurus  | Title thesaurus as subject \(subject-optional\)  | Enter Subject Keywords |
-| Custom Thesaurus  | Title thesaurus as geographic \(geog-optional\)  | Enter geographic keywords |
-| Custom Thesaurus  | Title thesaurus as Conservation Target \(ConservationTarget-optional\) | Enter conservation target keywords |
-| Custom Thesaurus  | Title thesaurus as State/Province \(state/province-optional\)  | Enter state/Province keywords\* |
+| ISO Topic Category Thesaurus | Choose from picklist \(topicCategory\) |  |
+| Custom Thesaurus | Title thesaurus as subject \(subject-optional\) | Enter Subject Keywords |
+| Custom Thesaurus | Title thesaurus as geographic \(geog-optional\) | Enter geographic keywords |
+| Custom Thesaurus | Title thesaurus as Conservation Target \(ConservationTarget-optional\) | Enter conservation target keywords |
+| Custom Thesaurus | Title thesaurus as State/Province \(state/province-optional\) | Enter state/Province keywords\* |
 | Congressional Districts | \[congdist\] | Recommend to include geographic extent to mdEditor \(see Extent TAB, below\). Congressional districts can be derived later. \(BMP\) |
-| GCMD Science Thesaurus  | Choose from picklist and include full path \(recommended\) |  |
+| GCMD Science Thesaurus | Choose from picklist and include full path \(recommended\) |  |
 
 ---
 
@@ -135,11 +135,47 @@ This page will provide a brief overview of required fields for a metadata Projec
 
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
-| Geographic Extent \(Recommended\)  | Add bounding box or simple extent in WGS84 coordinate system **Note:** extents are imported from ScienceBase records, can be drawn in mdEditor; and can be dragged and dropped into mdEditor from multiple file types.  |
+| Geographic Extent \(Recommended\) | Add bounding box or simple extent in WGS84 coordinate system **Note:** extents are imported from ScienceBase records, can be drawn in mdEditor; and can be dragged and dropped into mdEditor from multiple file types. |
 |  | Bounding box does not work across international dateline. |
 |  | Extents should be simple with a modest number of vertices. |
 |  | The extent is for display and discovery only. |
 |  | Recommended that you use an extent since they can be used to populate Congressional districts once that capability is available. |
+
+---
+
+### **Associated Tab**
+
+| Field | Instructions/Notes on Entering |
+| :--- | :--- |
+|  |  |
+
+---
+
+### Documents **Tab**
+
+| Field | Instructions/Notes on Entering |
+| :--- | :--- |
+|  |  |
+
+---
+
+### Funding **Tab**
+
+| Field | Instructions/Notes on Entering |
+| :--- | :--- |
+|  |  |
+
+---
+
+### Contacts **Tab**
+
+| Field | Instructions/Notes on Entering |
+| :--- | :--- |
+|  |  |
+
+---
+
+
 
 
 
