@@ -10,13 +10,19 @@ The **Associated** section is used to connect items with each other. This featur
 
 ---
 
-### Step 1: Select Association Type
+## Create Associations
+
+There are two ways to create associations. You can either associate a product with a project, **or **associate a project with a product.
+
+### Create an Association in Products
+
+#### Step 1: Select Association Type
 
 * Select **parentProject** from the **Association Type **drop down menu. This describes the relationship between the product and its parent project.
 
 ![](/assets/parentProject_association_lcc.png)
 
-### Step 2: Select a Project
+#### Step 2: Select a Project
 
 * Use the **Select a Record **button to select an associated project.
 
