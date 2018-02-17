@@ -46,7 +46,7 @@ To see the fields described in this Quick Reference, select the green edit butto
 
 | Field | Instructions/Notes On Entering |
 | :--- | :--- |
-| Abstract \(Required\)  | **Best Management Practice**: Write your abstracts for projects in the present tense if the project is underway and past tense if it has been completed. |
+| Abstract \(Required\) | **Best Management Practice**: Write your abstracts for projects in the present tense if the project is underway and past tense if it has been completed. |
 | Short Abstract \(Optional\) | Enter a short description of the project, if desired |
 | Supplemental Information \(Optional\) | Enter comments, if desired |
 
@@ -54,7 +54,8 @@ To see the fields described in this Quick Reference, select the green edit butto
 
 | Field | Instructions/Notes On Entering |
 | :--- | :--- |
-| Date | Enter Start Date, End Date or Start-and-End Date. |
+| Date \(Required\)  | Time Period refers to project start and end date, or the date that the project was applicable \(time that the project was funded to date of completion\). |
+|  | For each project, add a start, end date, and fiscal year. |
 
 ---
 
