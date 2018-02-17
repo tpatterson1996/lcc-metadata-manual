@@ -32,12 +32,10 @@ To see the fields described in this Quick Reference, select the green edit butto
 | Title \(Auto-Generated\) | Added automatically based on the title of your record. |
 | Alternate Title \(Optional\) | Enter a shorter title |
 | Dates \(Optional\) | Enter _acquisition, creation, revision,_ or another date reference from the pick-list and then enter the date |
-| Responsible Parties \(Required\)  | This must include a point of contact, but may also include other responsible parties such as a project lead.  |
-|  | **Best Management Practice:** Add at least two responsible parties: your LCC, and the LCC Network Data Steward. Enter your LCC as "administrator" and the Network Data Steward as "pointOfContact." |
-|  | Corresponds to \[lead\] and \[partner\] required fields. |
-|  | Enter your LCC as “administrator.” |
-|  | Enter the project PI as “principalInvestigator.” |
-|  | You can also add funders including your LCC, partners, collaborators, and/or contributors. |
+| Responsible Parties \(Required\) | This must include a point of contact, but may also include other responsible parties such as a project lead. |
+|  | Enter the Network Data Steward as "pointOfContact"  |
+|  | **Best Management Practice:** Add your LCC, and the project PI. Enter your LCC as "administrator" and the Project PI as "principalInvestigator." |
+|  | You can also add funders \(including your LCC, Partners, Collaborators, and/or Contributors\)  |
 | **Online Resources \(Required, If Available\) ** | Enter the url for the project homepage on your LCC website |
 | **Identifier** | **Best Management Practice:** Enter ScienceBase, if known. mdEditor can use the SBID to locate and publish the metadata to the correct item in ScienceBase |
 |  | Enter Digital Object Identifier, if available |
