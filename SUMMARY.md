@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Getting Started](getting-started.md)
 * [Adding Projects: Quick Reference](adding-projects-quick-reference.md)
+* [Adding Products: Quick Reference ](adding-products-quick-reference.md)
 * [Dashboard and Right Vertical Menu](dashboard.md)
 * [Data Management](data-management.md)
   * [File Management](data-management/file-management.md)

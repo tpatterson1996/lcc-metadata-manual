@@ -1,4 +1,4 @@
-## Adding PROJECTS: Quick Reference
+## Adding PRODUCTS: Quick Reference
 
 ---
 
