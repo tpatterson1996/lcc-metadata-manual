@@ -36,17 +36,17 @@ To see the fields described in this Quick Reference, select the green edit butto
 |  | Enter the Network Data Steward as "pointOfContact" |
 |  | **Best Management Practice:** Add your LCC, and the project PI. Enter your LCC as "administrator" and the Project PI as "principalInvestigator." |
 |  | You can also add funders \(including your LCC, Partners, Collaborators, and/or Contributors\) |
-| **Online Resources **\(Required, If Available\)  | Enter the url for the project homepage on your LCC website |
-| **Identifier** | **Best Management Practice:** Enter ScienceBase, if known. mdEditor can use the SBID to locate and publish the metadata to the correct item in ScienceBase |
-|  | Enter Digital Object Identifier, if available |
-|  | Enter any internal project ID, up to 32 characters |
-|  | Enter funding identifier, if desired |
+| Online Resources** **\(Required, If Available\) | Enter the URL for the project homepage on your LCC website |
+| Identifier \(Required\) | **Best Management Practice:** Enter ScienceBase ID \(SBID\), if known. mdEditor can use the SBID to locate and publish the metadata to the correct item in ScienceBase.  |
+|  | \(Recommended, if available\) Enter Digital Object Identifier, if available |
+|  | \(Recommended, if available\) Enter any internal project ID, up to 32 characters |
+|  | \(Optional\) Enter funding identifier, if desired |
 
 **In Main/Description**
 
 | Field | Instructions/Notes On Entering |
 | :--- | :--- |
-| Abstract | Consider writing your abstracts for projects in the present tense if the project is underway and past tense if it has been completed. |
+| Abstract | **Best Management Practice**: Write your abstracts for projects in the present tense if the project is underway and past tense if it has been completed. |
 | Short Abstract \(Optional\) | Enter a short description of the project |
 | Supplemental Information \(Optional\) | Enter comments if desired |
 
