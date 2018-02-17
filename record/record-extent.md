@@ -6,7 +6,7 @@
 
 **Record Extent** refers to geographic bounds for the project. It is recommended that you use an extent since they can be used to populate Congressional districts once that capability is available.
 
-![](/assets/extent_screenshot.png)Clicking the **Edit Extent Features** button allows for the addition of **Feature Properties **such as: **ID**; **Name**; or **Description**. You can draw a polygon or a bounding box in the initial window.
+![](/assets/extent_screenshot.png)Clicking the **Edit Extent Features** button allows for the addition of **Feature Properties **such as: **ID**; **Name**; or **Description**. You can draw a polygon or a bounding box in the initial window. The can be used to describe the extremes of the project or product boundries \(I.E. The outermost 
 
 It is possible to export bound features and re-use for other records using the **import feature **button or by dragging and dropping onto the map \(i.e. set up standard geographies\). Features such as geoJSON, shapefiles, and kml can be imported. However, file attributes \(such as name and description\), will not be imported.
 
