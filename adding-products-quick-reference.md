@@ -58,8 +58,7 @@ To see the fields described in this Quick Reference, select the green edit butto
 
 | Field | Instructions/Notes On Entering |
 | :--- | :--- |
-| Date \(Required\) | Time Period refers to project start and end date, or the date that the project was applicable \(time that the project was funded to date of completion\). |
-|  | For each project, add a start, end date, and fiscal year. |
+| Date \(Required\) | Enter Start Date and End Date |
 
 ---
 
@@ -182,4 +181,6 @@ See [Contact New](/contact.md) for information on entering contacts.
 |  |
 
 ---
+
+
 
