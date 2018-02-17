@@ -24,6 +24,16 @@ The **Main **tab allows for the creation or editing of primary metadata from scr
 
 **Resource Types** \(**Type **and **Name**\), will be filled automatically with the information added when you created your record \(as described in [**Record New**](/records\record\new.md)\).
 
+* **For Projects**
+
+  *  Enter “project” from pick-list
+
+* **For Products**
+
+  * Enter appropriate item from pick-list. It is important to properly identify the resource type for improved discoverability. 
+
+    The most commonly used product resource types are: _report, document, publication, presentation, factsheet, user guide, dataset \(geographic\), tile \(geographic raster\), non-geographic dataset, tabular dataset map, model, photographic image, application \(online\), software, and website._
+
 ![](/assets/resource_types.png)
 
 ---
