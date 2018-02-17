@@ -29,9 +29,9 @@ To see the fields described in this Quick Reference, select the green edit butto
 
 | **Field** | **Instructions/Notes On Entering** |
 | :--- | :--- |
-| **Title** | Enter Title |
-| **Alternate Title \(Optional\)** | Enter a shorter title |
-| **Dates \(Optional\)** | Enter _acquisition, creation, revision,_ or another date reference from the pick-list and then enter the date |
+| **Title** \(Auto-Generated\)  | Added automatically based on the title of your record. |
+| **Alternate Title **\(Optional\) | Enter a shorter title |
+| **Dates **\(Optional\) | Enter _acquisition, creation, revision,_ or another date reference from the pick-list and then enter the date |
 | **Responsible Parties** | Corresponds to \[lead\] and \[partner\] required fields. |
 |  | Enter your LCC as “administrator.” |
 |  | Enter the project PI as “principalInvestigator.” |
