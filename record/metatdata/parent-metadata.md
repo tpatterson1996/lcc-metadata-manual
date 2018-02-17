@@ -2,7 +2,7 @@
 
 ---
 
-**Parent Metadata **is used to define the folder on ScienceBase where the project or product will be published to.
+**Parent Metadata **is used to define the folder on ScienceBase where the project or product will be published to. Items added to the parent folder are considered children \(or child items\) of that folder.
 
 The following fields are required for Parent Metadata creation:
 
