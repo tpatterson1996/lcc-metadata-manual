@@ -14,6 +14,8 @@ The **Associated** section is used to connect items with each other. This featur
 
 There are two ways to create associations. You can either associate a product with a project, **or **associate a project with a product.
 
+---
+
 ### Create an Association in Products
 
 #### Step 1: Select Association Type
@@ -33,6 +35,24 @@ There are two ways to create associations. You can either associate a product wi
 ![](/assets/select_a_resource_window.png)
 
 ---
+
+### Create an Association in Projects
+
+#### Step 1: Select Association Type
+
+* Select **product** from the **Association Type **drop down menu. This describes the relationship between the product and its parent project.
+
+![](/assets/product_association_lcc.png)
+
+#### Step 2: Select a Project
+
+* Use the **Select a Record **button to select an associated project.
+
+![](/assets/select_a_record_button.png)
+
+* Select the project that you would like to associate to from the **Select a Resource **list.
+
+![](/assets/select_a_resource_window.png)
 
 > ![](/assets/see_full_manual_for.png)Consult the [**Record Associated**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-associated.html)** **section of the full mdEditor manual for information on associations.
 
