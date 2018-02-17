@@ -10,17 +10,17 @@
 
 You can draw a polygon or a bounding box in the initial window. The can be used to describe the extremes of the project or product boundries \(I.E. The outermost latitude and longitude of the extent\).
 
-Clicking the **Edit Extent Features** button allows for the addition of **Feature Properties **such as: **ID**; **Name**; or **Description**. 
+Clicking the **Edit Extent Features** button allows for the addition of **Feature Properties **such as: **ID**; **Name**; or **Description**.
 
-You can also drag and drop or use the Import Feature button to import geoJSON, shapefiles, and kml to describe the exact extent features.  
-> ![](/assets/note_small.png) File attributes \(such as name and description\), will not be imported and must be added manually.
+You can also drag and drop or use the Import Feature button to import geoJSON, shapefiles, and kml to describe the exact extent features.
 
-> ![](https://adiwg.gitbooks.io/mdeditor/content/assets/note_small.png)
->
-> **Note: **Bounding boxes will not work across dateline. However, you can have more than one extent, so if your area crosses a dateline, split the area and create separate extents.
->
+> ![](/assets/note_small.png)   
+> **Note**: File attributes \(such as name and description\), will not be imported and must be added manually.  
+>   
+> **Note: **Bounding boxes will not work across dateline. However, you can have more than one extent, so if your area crosses a dateline, split the area and create separate extents.  
+>   
 > **Note**: The extent must use geographic coordinates, not projected coordinates
->
+
 > ![](/assets/best_practice_small.png)
 >
 > **Best Practice**: If you are unsure of your projects extent, enter the coordinates of your LCC boundary in the bounding box.
