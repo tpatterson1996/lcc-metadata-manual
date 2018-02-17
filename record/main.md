@@ -54,6 +54,13 @@ From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts
 
 **Description **allows for the addition of the **Abstract.**
 
+* **Abstract **\(Required\) - Enter an Abstract
+
+> ![](/assets/best_practice_small.png)Write your abstracts for projects in the present tense if the project is underway and past tense if it has been completed.
+
+* **Short Abstract **\(Optional\) - Enter a short description, if desired
+* **Supplemental Information **\(Optional\) -** **Enter comments, if desired. 
+
 ![](/assets/description_lcc.png)
 
 > ![](/assets/see_full_manual_for.png) Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the full mdEditor manual for more information on **Description**.
