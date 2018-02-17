@@ -20,7 +20,7 @@ To see the fields described in this Quick Reference, select the green edit butto
 | Title \(Required\) | Enter a title. **Best Management Practice \(BMP\): **Since products and projects are independent records, we recommend having as informative a title as possible. Good titles, when they appear in a search, will be understood and/or traceable. |
 | Status \(Required\) | Choose status ONLY from the four following options: Completed, On Going, Proposed, or Accepted. |
 | Default Locale \(Required\) | Language should be set to _**English**,_ Character set to_ **UTF-**_**8,** Country set to_ **USA. **_ |
-| Resource Type \(Required\) | Resource Type \(Type and Name\), will be filled automatically with the information added when you created your record \(as described in [Record New](/record-new.md)\). |
+| Resource Type \(Required\) | Select "Project" from the pick-list.  |
 | Point of Contact \(Required\) | From the Role drop-down menu, select **pointOfContact**. From the Contacts drop-down menu, select a **contact** from the list of contacts. |
 |  | **Best Management Practice: **Enter \(1\) your** LCC **and \(2\) **the LCC Network Data Steward** as "pointOfContacts." This way there is a point of contact that users can reach even if there is a positional change in an organization |
 |  | **Best Management Practice:** Enter the Project PI as a "principalInvestigator" |
