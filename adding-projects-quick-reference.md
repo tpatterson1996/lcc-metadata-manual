@@ -27,12 +27,14 @@ To see the fields described in this Quick Reference, select the green edit butto
 
 **In Main/Citation**
 
-| **Field** | **Instructions/Notes On Entering** |
+| Field | Instructions/Notes On Entering |
 | :--- | :--- |
-| **Title** \(Auto-Generated\)  | Added automatically based on the title of your record. |
-| **Alternate Title **\(Optional\) | Enter a shorter title |
-| **Dates **\(Optional\) | Enter _acquisition, creation, revision,_ or another date reference from the pick-list and then enter the date |
-| **Responsible Parties** | Corresponds to \[lead\] and \[partner\] required fields. |
+| Title \(Auto-Generated\) | Added automatically based on the title of your record. |
+| Alternate Title \(Optional\) | Enter a shorter title |
+| Dates \(Optional\) | Enter _acquisition, creation, revision,_ or another date reference from the pick-list and then enter the date |
+| Responsible Parties \(Required\)  | This must include a point of contact, but may also include other responsible parties such as a project lead.  |
+|  | **Best Management Practice:** Add at least two responsible parties: your LCC, and the LCC Network Data Steward. Enter your LCC as "administrator" and the Network Data Steward as "pointOfContact." |
+|  | Corresponds to \[lead\] and \[partner\] required fields. |
 |  | Enter your LCC as “administrator.” |
 |  | Enter the project PI as “principalInvestigator.” |
 |  | You can also add funders including your LCC, partners, collaborators, and/or contributors. |
