@@ -144,7 +144,16 @@ See [Record Extent ](/record/record-extent.md)for more information about how to 
 
 ---
 
-### **Associated Tab \(Not Required for Projects\) **
+### Spatial Tab
+
+| Field | Notes |
+| :--- | :--- |
+| Spatial \(Required for Datasets Only\)  | Enter the type of spatial dataset from the pick-list. Common types include: _grid, tin, and vector._ |
+| Spatial Resolution \(Required\)  |  |
+
+---
+
+### **Associated Tab **
 
 | Notes on Associated Records |
 | :--- |
