@@ -6,7 +6,7 @@
 
 The **Associated** section is used to connect items with each other. This feature should be used when items are related. I.E. Products are often the result of projects, and projects often have sub projects. All of these can be linked together by means of association.
 
-> ![](/assets/note_small.png) In ScienceBase **Associated Records **are referred to as **Item Associations. **
+> ![](/assets/note_small.png) **Note**: In ScienceBase **Associated Records **are referred to as **Item Associations. **
 
 ---
 
@@ -21,8 +21,7 @@ There are two ways to create associations. You can either associate a product wi
 #### Step 1: Select Association Type
 
 * Select **parentProject** from the **Association Type **drop down menu. This describes the relationship between the product and its parent project.
-
-![](/assets/parentProject_association_lcc.png)
+  > ![](/assets/parentProject_association_lcc.png)![](blob:https://www.gitbook.com/1afe8c7e-760d-49c2-a426-bd31f9225878)**Note**: The **parentProject  **association type refers to a project that a product is associated with. This differs from a Parent folder on ScienceBase, which is a folder where items uploaded upon publishing.
 
 #### Step 2: Select a Project
 
