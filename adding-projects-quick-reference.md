@@ -54,7 +54,7 @@ To see the fields described in this Quick Reference, select the green edit butto
 
 | Field | Instructions/Notes On Entering |
 | :--- | :--- |
-| Date \(Required\)  | Time Period refers to project start and end date, or the date that the project was applicable \(time that the project was funded to date of completion\). |
+| Date \(Required\) | Time Period refers to project start and end date, or the date that the project was applicable \(time that the project was funded to date of completion\). |
 |  | For each project, add a start, end date, and fiscal year. |
 
 ---
@@ -65,24 +65,25 @@ To see the fields described in this Quick Reference, select the green edit butto
 
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
-| Metadata Status | Choose Status from Metadata Pick-list |
-| Date | Enter a date for "creation" or "last updated" |
+| Metadata Status \(Required\)  | Choose Status from Metadata Pick-list |
+| Date \(Required\)  | Enter a date for "creation" or "last updated" |
 
 **In Metadata/Contacts**
 
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
-| Author \(Optional\) | Enter your LCC data manager as the “author” \(optional\). You do not need to use individual names and can create a generic data manager for your LCC, but this is up to the individual LCC. |
-| Publisher \(Reccomended\) | **Best Management Practice**: Enter your LCC as the "publisher" |
-| Point Of Contact \(Recommended\) | **Best Management Practice**: Enter the LCC Network Data Steward as a “pointOfContact” |
+| Point Of Contact \(Required\) | Enter the LCC Network Data Steward as a “pointOfContact” |
+| Author \(Optional\) | Enter your LCC data manager as the “author.” You do not need to use individual names and can create a generic data manager for your LCC, but this is up to the individual LCC. |
+| Publisher \(Recommended\) | **Best Management Practice**: Enter your LCC as the "publisher" |
 
 **In Metadata/Identifier & Parent Metadata**
 
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
-| Identifier | Enter the ScienceBase ID. If the record was imported from ScienceBase, this field is auto populated; if record is created new in mdEditor, md Editor will populate the identifier field with the and has a corresponding item in ScienceBase, the identification information must be entered here.** ** |
+| Identifier \(Required\)  | _Enter the ScienceBase ID. If the record was imported from ScienceBase, this field will be auto populated; if record is created new in mdEditor, mdEditor will populate the identifier field with the and has a corresponding item in ScienceBase, the identification information must be entered here.** **_ |
 |  | **Best Management Practice**: If you know the ScienceBase identifier, add it in the metadata identifier when you create the record. When you start to associate the item, changing the metadata identifier can break the links. |
-| Parent Metadata | Enter the ScienceBase ID of the parent item--if record was imported from ScienceBase, this field is auto populated; if record is created new in mdEditor and has a corresponding parent item in ScienceBase, the identification information should be populated here, double check that these values are correct; If this record is created new in mdEditor and does not exist in ScienceBase, populate the parent metadata with the parent sciencebase identifier, if present in Sciencebase. Recommended workflow is 1\) complete project metadata, 2\) complete child product metadata and associate the items. In this way, parent-child relationships can be defined. |
+| Parent Metadata \(Required\)  | Parent Metadata** **is used to define the folder on ScienceBase where the project or product will be published to. Items added to the parent folder are considered children \(or child items\) of that folder. |
+|  | Enter the ScienceBase ID of the parent item--if record was imported from ScienceBase, this field is auto populated; if record is created new in mdEditor and has a corresponding parent item in ScienceBase, the identification information should be populated here, double check that these values are correct; If this record is created new in mdEditor and does not exist in ScienceBase, populate the parent metadata with the parent sciencebase identifier, if present in Sciencebase. Recommended workflow is 1\) complete project metadata, 2\) complete child product metadata and associate the items. In this way, parent-child relationships can be defined. |
 |  | **Note:** If items are moved in ScienceBase, and the parent metadata is not changed in mdEditor, when mdEditor publishes to ScienceBase, the parent-child relationships in ScienceBase will be overwritten. |
 
 **In Metadata/Repositories**
@@ -103,6 +104,8 @@ To see the fields described in this Quick Reference, select the green edit butto
 
 ### Keywords Tab
 
+See [Record Keywords ](/record/keywords.md)for more information about editing and adding thesauruses. 
+
 | Thesaurus | Instructions | Notes |
 | :--- | :--- | :--- |
 | LCC Category Thesaurus | Choose from picklist \(Category\) |  |
@@ -121,13 +124,18 @@ To see the fields described in this Quick Reference, select the green edit butto
 
 ### Extent Tab
 
-| Field | Instructions/Notes on Entering |
-| :--- | :--- |
-| Geographic Extent \(Recommended\) | Add bounding box or simple extent in WGS84 coordinate system **Note:** extents are imported from ScienceBase records, can be drawn in mdEditor; and can be dragged and dropped into mdEditor from multiple file types. |
-|  | Bounding box does not work across international dateline. |
-|  | Extents should be simple with a modest number of vertices. |
-|  | The extent is for display and discovery only. |
-|  | Recommended that you use an extent since they can be used to populate Congressional districts once that capability is available. |
+See [Record Extent ](/record/record-extent.md)for more information about how to add Extents. 
+
+| Notes & Best Management Practices |
+| :--- |
+| Extents are recommended, but not required. It is Recommended that you use an extent since they can be used to populate Congressional districts once that capability is available. |
+| **Notes: ** |
+| Add a bounding box or simple extent in WGS84 coordinate system. The extent must use geographic coordinates, not projected coordinates.  |
+| Extents are imported from ScienceBase records, can be drawn in mdEditor, or can be dragged and dropped into mdEditor from multiple file types. |
+| The bounding box does not work across datelines. However, you can have more than one extent, so if your area crosses a dateline, split the area and create separate extents.  |
+| **Best Management Practices: ** |
+| Extents should be simple with a modest number of vertices. The extent is for display and discovery only. |
+| Shapefiles are limited to 5000 vertices. It is recommend that you create only simple polygons or bounding boxes. If you want greater detail, attach high-definition shapefiles instead of trying to draw them. |
 
 ---
 
