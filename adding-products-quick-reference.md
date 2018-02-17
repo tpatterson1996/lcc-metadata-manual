@@ -2,11 +2,11 @@
 
 ---
 
-This page will provide a brief overview of required fields for a metadata Project record, for more in-depth information, rationale and instructions, please see the relevant section page.
+This page will provide a brief overview of required fields for a metadata Product record, for more in-depth information, rationale and instructions, please see the relevant section page.
 
 ---
 
-### Overview of Required/Recommended Fields for Projects:
+### Overview of Required/Recommended Fields for Products:
 
 To see the fields described in this Quick Reference, select the green edit button next to an existing record in the left vertical menu, or [create a new record](/record-new.md).
 
