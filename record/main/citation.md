@@ -4,12 +4,14 @@
 
 The following fields are required in citation:
 
-* **Title: **Added automatically based on the title of your record.
-* **Responsible Parties:  **This must include a point of contact, but may also include other responsible parties such as a project lead.
+* **Title **\(Auto-Generated\)**: **Added automatically based on the title of your record.
+* **Responsible Parties \(**Required\)**: **Add the Network Data Steward as "pointOfContact."** **
 
-  > ![](/assets/best_practice_small.png)**Best Practice**: Add two responsible parties: your LCC, and the LCC Network Data Steward.
+  * Responsible parties must include a point of contact, but may also include other responsible parties such as a project lead, administrators, partners, collaborators, and/or funders \(contributors\). 
 
-* **Online Resource:** Add a URL where your project or product resides online.
+> ![](/assets/best_practice_small.png)**Best Practice**: Add your LCC, and the project PI. Enter your LCC as "administrator" and the Project PI as "principalInvestigator."
+
+* **Online Resource \(**Required, if Available\)**:** Enter the URL for the project homepage on your LCC website
 
 * **Identifier: **Enter a unique identifier for your project or product.
 
