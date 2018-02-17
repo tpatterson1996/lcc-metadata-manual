@@ -2,7 +2,7 @@
 
 ---
 
-Parent Metadata allows for an association between the current project or product and its parent folder on ScienceBase.
+**Parent Metadata **is used to define the folder on ScienceBase where the project or product will be published to.
 
 The following fields are required for Parent Metadata creation:
 
