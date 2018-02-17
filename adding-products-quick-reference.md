@@ -41,6 +41,7 @@ To see the fields described in this Quick Reference, select the green edit butto
 |  | \(Recommended, if available\) Enter any internal project ID, up to 32 characters |
 |  | \(Optional\) Enter funding identifier, if desired |
 |  | \(Optional\) Enter archive folder name, if desired |
+|  | **Note:** If the product metadata was created from copying another metadata record, this identifier needed to be edited/changed since it will reflect the copied record identifier. Only the mdEditor UUID changes to represent a new record when an item is copied. |
 
 **In Main/Description**
 
