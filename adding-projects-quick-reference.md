@@ -20,7 +20,7 @@ To see the fields described in this Quick Reference, select the green edit butto
 | Title \(Required\) | Enter a title. **Best Management Practice \(BMP\): **Since products and projects are independent records, we recommend having as informative a title as possible. Good titles, when they appear in a search, will be understood and/or traceable. |
 | Status \(Required\) | Choose status ONLY from the four following options: Completed, On Going, Proposed, or Accepted. |
 | Default Locale \(Required\) | Language should be set to _**English**,_ Character set to_ **UTF-**_**8,** Country set to_ **USA. **_ |
-| Resource Type \(Required\) | Select "Project" from the pick-list.  |
+| Resource Type \(Required\) | Select "Project" from the pick-list. |
 | Point of Contact \(Required\) | From the Role drop-down menu, select **pointOfContact**. From the Contacts drop-down menu, select a **contact** from the list of contacts. |
 |  | **Best Management Practice: **Enter \(1\) your** LCC **and \(2\) **the LCC Network Data Steward** as "pointOfContacts." This way there is a point of contact that users can reach even if there is a positional change in an organization |
 |  | **Best Management Practice:** Enter the Project PI as a "principalInvestigator" |
@@ -148,14 +148,6 @@ See [Record Extent ](/record/record-extent.md)for more information about how to 
 | If this product record is from ScienceBase and it was linked \(as an Associated Item of type "product of"\) to its ScienceBase Project record, then the Associated tab will already be populated correctly as described below, and should be reviewed. |
 | If not associated from ScienceBase, you can associate in this section. Make sure that the relevant Project record is loaded into mdEditor \(Import it if not, & return here\). Choose "parentProject" as the Association Type when editing the product entry. Choose “product” as the Association Type when editing the project entry. If entering a sub-project of a project, select “subProject” when editing the subproject entry or “project” when editing the project metadata. Click "Select a Record" \(on the right\), find the Project record, and select it. This will fill in all the needed fields for the current association |
 | If entering from scratch, be sure to fill in the Association type as above, as well as an Identifier and Namespace which will uniquely match the referenced Parent, as well as copying the Title and Resource type from the Parent here. It's easier & safer to use the previous method \("Select a Record"\). |
-
----
-
-### Documents **Tab**
-
-| Notes on Documents |
-| :--- |
-| Add documents and resources that describe or are related to the project, but are not products of, such as video, webinar, book, poster, webpage, news release, etc. |
 
 ---
 
