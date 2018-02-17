@@ -46,13 +46,13 @@ There are two ways to create associations. You can either associate a product wi
 
 #### Step 2: Select a Project
 
-* Use the **Select a Record **button to select an associated project.
+* Use the **Select a Record **button to select an associated product.
 
 ![](/assets/select_a_record_button.png)
 
-* Select the project that you would like to associate to from the **Select a Resource **list.
+* Select the product that you would like to associate to from the **Select a Resource **list.
 
-![](/assets/select_a_resource_window.png)
+![](/assets/select_a_resource_product_window.png)
 
 > ![](/assets/see_full_manual_for.png)Consult the [**Record Associated**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-associated.html)** **section of the full mdEditor manual for information on associations.
 
