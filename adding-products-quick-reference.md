@@ -39,7 +39,7 @@ To see the fields described in this Quick Reference, select the green edit butto
 |  | **Best Management Practice:** Add your LCC, and the project PI. Enter your LCC as "administrator" and the Project PI as "principalInvestigator." |
 |  | You can also add funders \(including your LCC, Partners, Collaborators, and/or Contributors\) |
 | Online Resources** **\(Required, If Available\) | Enter the URL for any project related website \(ie. PI has website information\) |
-| Identifier \(Required\) | Enter ScienceBase ID \[gid-optional\], if available. This is recommended if the metadata was developed in mdEditor and there is a corresponding ScienceBase item. mdEditor can use the SBID to locate and publish the metadata to the correct item in ScienceBase. |
+| Identifier \(Required\) | Enter ScienceBase ID \[gid-optional\], if available.** This is recommended if the metadata was developed in mdEditor and there is a corresponding ScienceBase item. **mdEditor can use the SBID to locate and publish the metadata to the correct item in ScienceBase. |
 |  | \(Recommended, if available\) Enter Digital Object Identifier, if available |
 |  | \(Recommended, if available\) Enter any internal project ID, up to 32 characters |
 |  | \(Optional\) Enter funding identifier, if desired |
@@ -69,7 +69,7 @@ To see the fields described in this Quick Reference, select the green edit butto
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
 | Metadata Status \(Required\) | Choose Status from Metadata Pick-list |
-| Date \(Required\) | Enter a date for "creation" or "last updated" |
+| Date \(Required\) | Enter a date for "creation," "last updated," or "finalized." |
 
 **In Metadata/Contacts**
 
@@ -83,8 +83,10 @@ To see the fields described in this Quick Reference, select the green edit butto
 
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
-| Identifier \(Required\) | Enter the ScienceBase ID \(SBID\). If the record was imported from ScienceBase, this field will be auto-populated.  If  the record was created new in mdEditor, mdEditor will populate the identifier field with the and has a corresponding item in ScienceBase, the identification information must be entered here.** ** |
-|  | **Best Management Practice**: If you know the ScienceBase identifier, add it in the metadata identifier when you create the record. When you start to associate the item, changing the metadata identifier can break the links. |
+| Identifier \(Required\) | If record was imported from ScienceBase, this field is auto-populated with the ScienceBase identifier; |
+|  | If record is created new in mdEditor, mdEditor references the mdEditor identifier, UUID. If there is not currently a ScienceBase Identifier, leave the mdEditor UUID; |
+|  | If there is a ScienceBase Identifier, you may enter it here, but if there are associated items, changing this identifier may void those connections. It is recommended to enter the ScienceBase identifier in Main/Citation/Identifier. |
+|  | **Best Management Practice**: If you know the ScienceBase identifier \(SBID\), add it in the metadata identifier _when you create the record_. When you start to associate the item, changing the metadata identifier can break the links. |
 | Parent Metadata \(Required\) | Parent Metadata** **is used to define the folder on ScienceBase where the project or product will be published to. Items added to the parent folder are considered children \(or child items\) of that folder. |
 |  | Enter the ScienceBase ID of the parent item--if record was imported from ScienceBase, this field is auto populated; if record is created new in mdEditor and has a corresponding parent item in ScienceBase, the identification information should be populated here, double check that these values are correct; If this record is created new in mdEditor and does not exist in ScienceBase, populate the parent metadata with the parent sciencebase identifier, if present in Sciencebase. Recommended workflow is 1\) complete project metadata, 2\) complete child product metadata and associate the items. In this way, parent-child relationships can be defined. |
 |  | **Note:** If items are moved in ScienceBase, and the parent metadata is not changed in mdEditor, when mdEditor publishes to ScienceBase, the parent-child relationships in ScienceBase will be overwritten. |
