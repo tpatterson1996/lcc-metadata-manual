@@ -21,7 +21,7 @@ To see the fields described in this Quick Reference, select the green edit butto
 | Status \(Required\) | Choose status ONLY from the four following options: Completed, On Going, Proposed, or Accepted. |
 | Default Locale \(Required\) | Language should be set to _**English**,_ Character set to_ **UTF-**_**8,** Country set to_ **USA. **_ |
 | Resource Type \(Required\) | Enter appropriate item from pick-list. It is important to properly identify the resource type for improved discoverability. The most commonly used product resource types are: _report, document, publication, presentation, factsheet, user guide, dataset \(geographic\), tile \(geographic raster\), non-geographic dataset, tabular dataset map, model, photographic image, application \(online\), software, and website._ |
-| Point of Contact \(Required\)  | Enter the LCC Network Data Steward as a “pointOfContact.” This is important so that there is a point of contact that users can reach even if there is a positional change in an organization |
+| Point of Contact \(Required\) | Enter the LCC Network Data Steward as a “pointOfContact.” This is important so that there is a point of contact that users can reach even if there is a positional change in an organization |
 |  | **Best Management Practice**:  Enter your **LCC** as "administrator" and the Project PI as "principalInvestigator." |
 
 **In Main/Citation**
@@ -31,15 +31,16 @@ To see the fields described in this Quick Reference, select the green edit butto
 | Title \(Auto-Generated\) | Added automatically based on the title of your record. |
 | Alternate Title \(Optional\) | Enter a shorter title. |
 | Dates \(Optional\) | Enter _acquisition, creation, revision,_ or another date reference from the pick-list and then enter the date. |
-| Responsible Parties \(Required\) | Enter your LCC as "administrator."  |
+| Responsible Parties \(Required\) | Enter your LCC as "administrator." |
 |  | Enter the Network Data Steward as "pointOfContact." This is important so that there is a point of contact that users can reach even if there is a positional change in an organization |
 |  | **Best Management Practice:** Add your LCC, and the project PI. Enter your LCC as "administrator" and the Project PI as "principalInvestigator." |
 |  | You can also add funders \(including your LCC, Partners, Collaborators, and/or Contributors\) |
-| Online Resources** **\(Required, If Available\) | Enter the URL for the project homepage on your LCC website |
-| Identifier \(Required\) | **Best Management Practice:** Enter ScienceBase ID \(SBID\), if known. mdEditor can use the SBID to locate and publish the metadata to the correct item in ScienceBase. |
+| Online Resources** **\(Required, If Available\) | Enter the URL for any project related website \(ie. PI has website information\) |
+| Identifier \(Required\) | Enter ScienceBase ID \[gid-optional\], if available. This is recommended if the metadata was developed in mdEditor and there is a corresponding ScienceBase item. mdEditor can use the SBID to locate and publish the metadata to the correct item in ScienceBase. |
 |  | \(Recommended, if available\) Enter Digital Object Identifier, if available |
 |  | \(Recommended, if available\) Enter any internal project ID, up to 32 characters |
 |  | \(Optional\) Enter funding identifier, if desired |
+|  | \(Optional\) Enter archive folder name, if desired |
 
 **In Main/Description**
 
