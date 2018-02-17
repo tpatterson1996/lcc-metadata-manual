@@ -12,15 +12,17 @@ You can draw a polygon or a bounding box in the initial window. The can be used 
 
 Clicking the **Edit Extent Features** button allows for the addition of **Feature Properties **such as: **ID**; **Name**; or **Description**.
 
-You can also drag and drop or use the Import Feature button to import geoJSON, shapefiles, and kml to describe the exact extent features.
+You can also drag and drop or use the **Import Feature** button to import geoJSON, shapefiles, and kml to describe the exact extent features.
 
-> ![](/assets/note_small.png)   
+The **Export Features **button can be used to export your extent features as an mdJSON file.
+
+> ![](/assets/note_small.png)  
 > **Note**: File attributes \(such as name and description\), will not be imported and must be added manually.  
 >   
 > **Note: **Bounding boxes will not work across dateline. However, you can have more than one extent, so if your area crosses a dateline, split the area and create separate extents.  
 >   
 > **Note**: The extent must use geographic coordinates, not projected coordinates
-
+>
 > ![](/assets/best_practice_small.png)
 >
 > **Best Practice**: If you are unsure of your projects extent, enter the coordinates of your LCC boundary in the bounding box.
