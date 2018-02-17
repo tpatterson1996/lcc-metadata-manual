@@ -95,8 +95,8 @@ To see the fields described in this Quick Reference, select the green edit butto
 
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
-| Repository | For Projects that should be listed in the LCC Science Catalog, Enter “LCCScienceCatalog” from the picklist as repository and “LCC Network Science Catalog” as collection title \(these should be entered in your Settings as default repositories.** Note**: this is  a free text field so the title must be exactly the same in order to insure that the metadata is harvested for the LCC Science Catalog.\) |
-|  | For data Products that should be shared with Data.gov, Enter “data.gov” and “data.gov” from the picklist as repository and enter “data.gov” followed by your LCC name as the collection title. |
+| Repository | For Projects that should be listed in the LCC Science Catalog, Enter “LCCScienceCatalog” from the pick-list as repository and “LCC Network Science Catalog” as collection title \(these should be entered in your Settings as default repositories.** Note**: this is  a free text field so the title must be exactly the same in order to insure that the metadata is harvested for the LCC Science Catalog.\) |
+|  | For data Products that should be shared with Data.gov, Enter “data.gov” and “data.gov” from the pick-list as repository and enter “data.gov” followed by your LCC name as the collection title. **Note:** this is a free text field so the title must be exactly the same in order to insure that the metadata is harvested for the LCC Science Catalog.\) |
 |  | **Best Management Practice**: In Settings, create default repositories to help maintain precise titles |
 
 **In Metadata/Online Resources**
