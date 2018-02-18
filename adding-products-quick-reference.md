@@ -193,6 +193,14 @@ See [Record Extent ](/record/record-extent.md)for more information about how to 
 | Notes on Associated Records |
 | :--- |
 | The Associated section is used to connect items with each other. This feature should be used when items are related. I.E. Products are often the result of projects, and projects often have sub projects. All of these can be linked together by means of association. |
+| Associate project with product. For product records, select “parentProject” for Association Type. Select “product” for Linked Association Type. It is recommended to specify the Linked Association Type \(which is usually the reverse of the Association Type because this will make the association go both ways - i.e. parentProject to product and product back to parentProject\). |
+| “Initiative type” is not required  \(for LCC use, it would almost always be project\). |
+| Select "Resource Type"  |
+| Add Identifier  |
+| You can make an association in either direction and it takes care of the association for ScienceBase. But if you have just a one-way association in other metadata formats, it won’t show up both ways. Ideal to have the associations go both ways because projects and all of their products may not be loaded into mdEditor at the same time. Josh can look into injecting references the opposite way upon export, but both would have to be loaded into mdEditor upon export. |
+| Ideally, you should manage/create/edit project and product records together as a set. |
+|  |
+|  |
 | Add items that are products of projects or related product of another product or vise-versa a product to a project or even a subproject of a project. |
 | If this product record is from ScienceBase and it was linked \(as an Associated Item of type "product of"\) to its ScienceBase Project record, then the Associated tab will already be populated correctly as described below, and should be reviewed. |
 | If not associated from ScienceBase, you can associate in this section. Make sure that the relevant Project record is loaded into mdEditor \(Import it if not, & return here\). Choose "parentProject" as the Association Type when editing the product entry. Choose “product” as the Association Type when editing the project entry. If entering a sub-project of a project, select “subProject” when editing the subproject entry or “project” when editing the project metadata. Click "Select a Record" \(on the right\), find the Project record, and select it. This will fill in all the needed fields for the current association |
@@ -200,21 +208,11 @@ See [Record Extent ](/record/record-extent.md)for more information about how to 
 
 ---
 
-### Documents **Tab**
-
-| Notes on Documents |
-| :--- |
-| Add documents and resources that describe or are related to the project, but are not products of, such as video, webinar, book, poster, webpage, news release, etc. |
-
----
-
-### Funding **Tab**
-
-See [Record Funding](/record/record-funding.md) for information on entering funding
+### Funding **Tab \(Not required for Products\) **
 
 | Notes |
 | :--- |
-| Funding is required for projects only. Funding information is not required for products. Funding information is populated from ScienceBase for imported records. |
+| Funding information is not required for products.  |
 
 ---
 
