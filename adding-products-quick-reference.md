@@ -1,6 +1,3 @@
-
----
-
 ## Adding PRODUCTS: Quick Reference
 
 ---
@@ -148,8 +145,21 @@ See [Record Extent ](/record/record-extent.md)for more information about how to 
 
 | Field | Notes |
 | :--- | :--- |
-| Spatial \(Required for Datasets Only\)  | Enter the type of spatial dataset from the pick-list. Common types include: _grid, tin, and vector._ |
-| Spatial Resolution \(Required\)  |  |
+| Spatial \(Required for Datasets Only\) | Enter the type of spatial dataset from the pick-list. Common types include: _grid, tin, and vector._ |
+| Spatial Resolution \(Recommended\) | Often geospatial metadata accompanying the geodata will include this detailed information. |
+|  | You can also import FGDC metadata into mdEditor. |
+|  | **Note**: It is undesirable to have multiple metadata files affiliated with a single product. |
+
+---
+
+### Lineage Tab 
+
+| Notes |
+| :--- |
+| Not required for LCC product metadata, but recommended, designed for documenting the creation of spatial data metadata |
+| Can document who did the process - role and contact |
+| If you have citation for a manual, you can simply create a citation and not have to enter the information into the metadata |
+| Sources: What you used to create the product and then write a statement \(can do instead of writing all of the steps\) |
 
 ---
 
