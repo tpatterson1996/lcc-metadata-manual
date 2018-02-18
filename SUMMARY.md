@@ -3,8 +3,8 @@
 * [Introduction](README.md)
 * [Dashboard and Right Vertical Menu](dashboard.md)
 * [Getting Started](getting-started.md)
-* [Adding Projects: Quick Reference](adding-projects-quick-reference.md)
 * [Adding Products: Quick Reference ](adding-products-quick-reference.md)
+* [Adding Projects: Quick Reference](adding-projects-quick-reference.md)
 * [Adding Contacts: Quick Reference ](adding-contacts-quick-reference.md)
 * [Fields Required for LCC Projects and Products](record/fields-required-for-lcc-projects-and-products.md)
 * [Data Management](data-management.md)
@@ -46,5 +46,4 @@
 * [Contact Show](show.md)
 * [Glossary of Terms](glossary-of-terms.md)
 * [Appendix](appendix.md)
-* Quick Reference
 
