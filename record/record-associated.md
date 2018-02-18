@@ -2,9 +2,7 @@
 
 ---
 
-> ![](/assets/product_required_small.png) **Record Associated is required for Products Only**
-
-The **Associated** section is used to connect items with each other. This feature should be used when items are related. I.E. Products are often the result of projects, and projects often have sub projects. All of these can be linked together by means of association.
+The **Associated** section is used to connect items with each other. This feature should be used when items are related. I.E. Products are often the result of projects, and projects often have sub projects. All of these can be linked together by means of association. Adding associations will give LCC staff the ability to find items that relate to each other in ScienceBase.
 
 > ![](/assets/note_small.png) **Note**: In ScienceBase **Associated Records **are referred to as **Item Associations. **
 
@@ -24,7 +22,7 @@ There are two ways to create associations. You can either associate a product wi
 
 ![](/assets/parentProject_association_lcc.png)
 
-  > ![](/assets/note_small.png)**Note**: The **parentProject  **association type refers to a project that a product is associated with. This differs from a Parent folder on ScienceBase, which is a folder where items are uploaded upon publishing.
+> ![](/assets/note_small.png)**Note**: The **parentProject  **association type refers to a project that a product is associated with. This differs from a Parent folder on ScienceBase, which is a folder where items are uploaded upon publishing.
 
 #### Step 2: Select a Project
 
