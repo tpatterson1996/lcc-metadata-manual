@@ -4,7 +4,7 @@
 * [Getting Started](getting-started.md)
   * [Dashboard and Right Vertical Menu](dashboard.md)
   * [Relationships Between Contacts, Projects, Products, and Funding](concepts-detailing-the-relationship-between-contacts-projects-and-products.md)
-* Quick Reference
+* [Quick Reference](quick-reference.md)
   * [Adding Contacts: Quick Reference ](adding-contacts-quick-reference.md)
   * [Adding Projects: Quick Reference](adding-projects-quick-reference.md)
   * [Adding Products: Quick Reference ](adding-products-quick-reference.md)
