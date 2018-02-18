@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Getting Started](getting-started.md)
 * [Dashboard and Right Vertical Menu](dashboard.md)
+* [Getting Started](getting-started.md)
 * [Adding Projects: Quick Reference](adding-projects-quick-reference.md)
 * [Adding Products: Quick Reference ](adding-products-quick-reference.md)
 * [Data Management](data-management.md)
