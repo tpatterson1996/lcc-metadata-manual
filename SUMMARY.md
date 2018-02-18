@@ -5,6 +5,7 @@
 * [Getting Started](getting-started.md)
 * [Adding Projects: Quick Reference](adding-projects-quick-reference.md)
 * [Adding Products: Quick Reference ](adding-products-quick-reference.md)
+* Adding Contacts: Quick Reference 
 * [Fields Required for LCC Projects and Products](record/fields-required-for-lcc-projects-and-products.md)
 * [Data Management](data-management.md)
   * [File Management](data-management/file-management.md)

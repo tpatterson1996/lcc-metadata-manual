@@ -14,22 +14,26 @@
 
 ## Adding Items
 
-To add a _Project_,_ Product,_ or any other metadata item:
+**To add a **_**Project**_**,**_** Product,**_** or any other metadata item:**
 
 1. Click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to **Metadata Records**.  
 2. Enter a **Record Title**  
 3. Pick a **Resource Type **  
 4. Click **Save**
-5. To learn what other fields are available for your type of record, consult the [**Record Edi**t** **](/record.md)section of this manual.
 
-To add a _Contact_:
+Consult [Adding Projects: Quick Reference](/adding-projects-quick-reference.md), [Adding Products: Quick Reference ](/adding-products-quick-reference.md)or the [Record Edit](https://www.gitbook.com/book/jbadash/mdeditor-for-lccs/edit#) section of this manual for information about required fields, best practices, and general instructions.
+
+**To add a **_**Contact**_**:**
 
 1. Click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to**Contacts**
 2. Enter **Name **and **Position Name**
 3. Click **Save**
-4. To learn what other fields are available for contacts, consult the** **[**Contact New **](/contact.md)section of this manual.
 
----
+
+
+Consult 
+
+To learn what other fields are available for contacts, consult the** **[**Contact New **](/contact.md)section of this manual.
 
 
 
