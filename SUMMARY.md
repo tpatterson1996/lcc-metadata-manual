@@ -1,12 +1,14 @@
 # Summary
 
 * [Introduction](README.md)
-* [Dashboard and Right Vertical Menu](dashboard.md)
 * [Getting Started](getting-started.md)
-* [Adding Products: Quick Reference ](adding-products-quick-reference.md)
-* [Adding Projects: Quick Reference](adding-projects-quick-reference.md)
-* [Adding Contacts: Quick Reference ](adding-contacts-quick-reference.md)
-* [Fields Required for LCC Projects and Products](record/fields-required-for-lcc-projects-and-products.md)
+  * [Dashboard and Right Vertical Menu](dashboard.md)
+  * [Relationships Between Contacts, Projects, Products, and Funding](concepts-detailing-the-relationship-between-contacts-projects-and-products.md)
+* Quick Reference
+  * [Adding Contacts: Quick Reference ](adding-contacts-quick-reference.md)
+  * [Adding Projects: Quick Reference](adding-projects-quick-reference.md)
+  * [Adding Products: Quick Reference ](adding-products-quick-reference.md)
+  * [Fields Required for LCC Projects and Products](record/fields-required-for-lcc-projects-and-products.md)
 * [Data Management](data-management.md)
   * [File Management](data-management/file-management.md)
   * [Export](data-management/export.md)
@@ -23,7 +25,6 @@
 * [Fields Required for LCC Projects and Products](record/fields-required-for-lcc-projects-and-products.md)
 * [Errors and Missing Fields](errors.md)
 * [Defaults](defaults.md)
-* [Relationships Between Contacts, Projects, Products, and Funding](concepts-detailing-the-relationship-between-contacts-projects-and-products.md)
 * [Records](records.md)
 * [Record New](record-new.md)
 * [Record Show](show.md)
