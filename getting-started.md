@@ -21,7 +21,7 @@
 3. Pick a **Resource Type **  
 4. Click **Save**
 
-Consult [Adding Projects: Quick Reference](/adding-projects-quick-reference.md), [Adding Products: Quick Reference ](/adding-products-quick-reference.md)or the [Record Edit](https://www.gitbook.com/book/jbadash/mdeditor-for-lccs/edit#) section of this manual for information about required fields, best practices, and general instructions.
+Consult [Adding Projects: Quick Reference](/adding-projects-quick-reference.md), [Adding Products: Quick Reference ](/adding-products-quick-reference.md) for information about required fields and best practices, or the [Record Edit](https://www.gitbook.com/book/jbadash/mdeditor-for-lccs/edit#) section of this manual for general instructions, required fields, and best practices. 
 
 **To add a **_**Contact**_**:**
 
@@ -29,11 +29,5 @@ Consult [Adding Projects: Quick Reference](/adding-projects-quick-reference.md),
 2. Enter **Name **and **Position Name**
 3. Click **Save**
 
-
-
-Consult 
-
-To learn what other fields are available for contacts, consult the** **[**Contact New **](/contact.md)section of this manual.
-
-
+Consult the [Adding Contacts: Quick Reference](/adding-contacts-quick-reference.md) for information about required fields and best practices or the [Contact New ](/contact.md)section of this manual for general instructions, required fields, and best practices.
 
