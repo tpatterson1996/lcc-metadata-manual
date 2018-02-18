@@ -152,7 +152,7 @@ See [Record Extent ](/record/record-extent.md)for more information about how to 
 
 ---
 
-### Lineage Tab 
+### Lineage Tab
 
 | Notes |
 | :--- |
@@ -160,6 +160,19 @@ See [Record Extent ](/record/record-extent.md)for more information about how to 
 | Can document who did the process - role and contact |
 | If you have citation for a manual, you can simply create a citation and not have to enter the information into the metadata |
 | Sources: What you used to create the product and then write a statement \(can do instead of writing all of the steps\) |
+
+---
+
+### Distribution Tab
+
+| Field | Notes |
+| :--- | :--- |
+| Distribution \(Required\)  | This document how people go about obtaining your product \(e.g., your website, download from PI website, from an archive, etc.\). If it’s not online, describe how to obtain it \(e.g., not available to public but contact someone to obtain\). |
+|  | **Note: **This section will most likely simply involve adding distributer information and URL for data products that are hosted elsewhere. \(e.g., if The Nature Conservancy is hosting a data source, the distributor is The Nature Conservancy and then enter link to location of distribution\). |
+| Transfer Size \(Recommended\)  | Describe size of resource in MB.  |
+| Distribution Units \(If Applicable\)  |  Used for items with unique units \(e.g. USGS quads\). If this is not applicable, leave blank.  |
+| Online Options \(If Applicable\)  | Add URL here and type of URL space. If it’s a direct download, select “download.” If it goes to an informational page, select “information.” |
+| Offline Options \(If Applicable\)  | Add contact information for how to obtain product offline.  |
 
 ---
 
