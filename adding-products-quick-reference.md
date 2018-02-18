@@ -6,11 +6,11 @@ This page will provide a brief overview of required fields for a metadata Produc
 
 ---
 
-### Overview of Required/Recommended Fields for Products:
+### Required/Recommended Fields for Products:
 
 To see the fields described in this Quick Reference, select the green edit button next to an existing record in the left vertical menu, or [create a new record](/record-new.md).
 
-### **Main Tab**
+#### **Main Tab**
 
 ##### **In Main/Basic Information, Resource Type, Point of Contacts**
 
