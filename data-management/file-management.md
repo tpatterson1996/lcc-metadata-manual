@@ -2,7 +2,7 @@
 
 ---
 
-mdEditor.json files can be exported and imported via mdEditor's built in **Export** and **Import **functionality \(described in the [Export](/export.md) and [Import](/import.md) section of this manual\).
+mdEditor.json files can be exported and imported via mdEditor's built in **Export** and **Import **functionality \(described in the [Export](/export.md) and [Import](/import.md) section of this manual\). The Export functionality allows you to back up and share your records between browsers. The Import functionality lets you load the most recent records and load records that were exported from another browser.
 
 ## File Management Notes and Best Practices
 
