@@ -46,9 +46,4 @@
 * [Help](help.md)
 * [Errors and Missing Fields](errors.md)
 * [Glossary of Terms](glossary-of-terms.md)
-* [Contacts \(Duplicate\) ](contacts.md)
-  * [Contact New](contact.md)
-    * [Individual Contact](contact/individual-contact.md)
-    * [Organization Contacts](contact/organization-contacts.md)
-  * [Contact Show](show.md)
 
