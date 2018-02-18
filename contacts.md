@@ -13,7 +13,7 @@ Contacts are individuals or organizations that can be referenced by other contac
 >
 > Consult the [**Individual Contact**](/contact/individual-contact.md) section of this manual to learn how to add this information and create the Network Data Steward.
 >
-> ![](/assets/lcc_required_small.png)You must create an organization contact for your LCC if there is not one already. Consult the [**Organization Contacts**](/contact/organization-contacts.md) section of this manual to learn what fields are required.
+> ![](/assets/lcc_required_small.png)You must create an organization contact for your LCC and any organization that is involved in your project or product \(partner, co-funder, etc.\) if there is not one already. Consult the [**Organization Contacts**](/contact/organization-contacts.md) section of this manual to learn what fields are required.
 
 ### General notes on Contacts
 
