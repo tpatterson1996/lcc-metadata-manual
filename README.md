@@ -12,6 +12,13 @@ A unified LCC Science Catalog requires a standardized metadata format across the
 practices for the creation of LCC data records (Contacts, Projects, and Products) for upload onto the ScienceBase catalog. This guidance was developed by the LCC Data Management Working Group with the leadership of the Architecture Subgroup.
 
  _This manual refers to the creation of LCC metadata specifically_. If you want information on the creation of other metadata records using MDEditor, or more information in general, please refer to the [MDEditor User Manual](https://adiwg.gitbooks.io/mdeditor/content/).
+ 
+ 
+ **LCC Science Catalog**
+ 
+The Landscape Conservation Cooperative Science Catalog collates the metadata from all 22 LCCs and Headquarters. It allows for user-defined searching and filtering of projects and products as well as access to products for download. Users can see what has been funded, which can help prevent duplication of work. The LCC Science Catalog will also enable reporting, such as funding summaries or project examples based on particular geographies, species, organization, year, or other categories of interest.
+
+
 
 
 ## Requirements for using mdEditor
