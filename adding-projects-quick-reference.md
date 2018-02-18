@@ -80,10 +80,9 @@ To see the fields described in this Quick Reference, select the green edit butto
 
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
-| Identifier \(Required\) | If record was imported from ScienceBase, this field is auto-populated with the ScienceBase identifier; |
-|  | If record is created new in mdEditor, mdEditor references the mdEditor identifier, UUID. If there is not currently a ScienceBase Identifier, leave the mdEditor UUID; |
-|  | If there is a ScienceBase Identifier, you may enter it here, but if there are associated items, changing this identifier may void those connections. It is recommended to enter the ScienceBase identifier in Main/Citation/Identifier. |
-|  | **Best Management Practice**: If you know the ScienceBase identifier \(SBID\), add it in the metadata identifier _when you create the record_. When you start to associate the item, changing the metadata identifier can break the links. |
+| Identifier \(Required\) | If record was imported from ScienceBase, this field is auto-populated with the Universally Unique Identifier \(UUID\). |
+|  | If record is created new in mdEditor, mdEditor creates the metadata identifier \(UUID\). It is recommended that you do not change this identifier |
+|  | It is recommended to enter the ScienceBase \(different than the UUID\), identifier in Main/Citation/Identifier. |
 | Parent Metadata \(Required\) | Parent Metadata** **is used to define the folder on ScienceBase where the project or product will be published to. Items added to the parent folder are considered children \(or child items\) of that folder. |
 |  | Enter the ScienceBase ID \(SBID\) of the parent item--if record was imported from ScienceBase, this field is auto populated; if record is created new in mdEditor and has a corresponding parent item in ScienceBase, the identification information should be populated here. Double check that these values are correct; If this record is created new in mdEditor and does not exist in ScienceBase, populate the parent metadata with the parent SBID, if present in ScienceBase. Recommended workflow is 1\) complete project metadata, 2\) complete child product metadata and associate the items. In this way, parent-child relationships can be defined. |
 |  | **Note:** If items are moved in ScienceBase, and the parent metadata is not changed in mdEditor, when mdEditor publishes to ScienceBase, the parent-child relationships in ScienceBase will be overwritten. |
@@ -110,17 +109,12 @@ See [Record Keywords ](/record/keywords.md)for more information about editing an
 
 | Thesaurus | Instructions | Notes |
 | :--- | :--- | :--- |
-| LCC Category Thesaurus | Choose from picklist \(Category\) |  |
-| LCC Delivery Type Thesaurus | Choose from picklist \(Deliver\) |  |
-| LCC End User Type Thesaurus | Choose from picklist \(Usertype-optional\) |  |
-| Custom Thesaurus | Title thesaurus as EndUsers \(endusers-optional\) | Enter enduser keywords that do not appear in the usertype keywords |
-| ISO Topic Category Thesaurus | Choose from picklist \(topicCategory\) |  |
-| Custom Thesaurus | Title thesaurus as subject \(subject-optional\) | Enter Subject Keywords |
-| Custom Thesaurus | Title thesaurus as geographic \(geog-optional\) | Enter geographic keywords |
-| Custom Thesaurus | Title thesaurus as Conservation Target \(ConservationTarget-optional\) | Enter conservation target keywords |
-| Custom Thesaurus | Title thesaurus as State/Province \(state/province-optional\) | Enter state/Province keywords\* |
-| Congressional Districts | \[congdist\] | Recommend to include geographic extent to mdEditor \(see Extent TAB, below\). Congressional districts can be derived later. \(BMP\) |
-| GCMD Science Thesaurus | Choose from picklist and include full path \(recommended\) |  |
+| GCMD Science Keywords | Choose from picklist and include full path. | GCMD \(Global Change Master Directory keywords\) are built and maintained by NASA. GCMD keywords are listed by category. It is recommended that you click Full Path when editing these keywords to maintain their category. |
+| ISO Topic Category Thesaurus | Choose from picklist. | \(International Organization for Standardization\) topics were built and maintained by the ISO Technical Committee and are required for the development of ISO metadata. It's recommended that you use at least one of these keywords so metadata remains ISO compliant. |
+| LCC Project Category Keywords | Choose from picklist. | LCC \(Landscape Conservation Cooperatives\) Keywords are maintained by the national LCCs and required for any LCC metadata. |
+| LCC Deliverable Type Thesaurus | Choose from picklist. |  |
+| LCC End User Type Thesaurus | Choose from picklist. |  |
+| Custom Thesaurus | Title thesaurus as EndUsers, | Enter end user keywords that do not appear in the usertype keywords |
 
 ---
 
@@ -169,7 +163,9 @@ See [Contact New](/contact.md) for information on entering contacts.
 
 | Notes/Best Management Practices |
 | :--- |
-|  |
+| Select **Individual **to add a person. |
+| Select **Organization **to add an organization. |
+| At a minimum, include an email address.  |
 
 ---
 
