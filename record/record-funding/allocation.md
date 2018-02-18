@@ -20,8 +20,7 @@
 
   > ![](/assets/note_small.png)
   >
-  > **Note**: Matching funds should be broken down into separate funding providers, in order to show what partners are supporting the work.  
-  > **Note: **When matching is checked, description** **should describe** **the organization that provided the funds.
+  > **Note**: Matching funds should be broken down into separate funding providers, in order to show what partners are supporting the work.
 
 * **Description**: Add a description for the funding allocation
 
