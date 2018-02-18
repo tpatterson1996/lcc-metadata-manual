@@ -193,10 +193,11 @@ See [Record Extent ](/record/record-extent.md)for more information about how to 
 | Notes on Associated Records |
 | :--- |
 | The Associated section is used to connect items with each other. This feature should be used when items are related. I.E. Products are often the result of projects, and projects often have sub projects. All of these can be linked together by means of association. |
-| Associate project with product. For product records, select “parentProject” for Association Type. Select “product” for Linked Association Type. It is recommended to specify the Linked Association Type \(which is usually the reverse of the Association Type because this will make the association go both ways - i.e. parentProject to product and product back to parentProject\). |
+| Associate project with product. For product records, select “parentProject” for Association Type. |
+|  |
 | “Initiative type” is not required  \(for LCC use, it would almost always be project\). |
-| Select "Resource Type"  |
-| Add Identifier  |
+| Select "Resource Type" |
+| Add Identifier |
 | You can make an association in either direction and it takes care of the association for ScienceBase. But if you have just a one-way association in other metadata formats, it won’t show up both ways. Ideal to have the associations go both ways because projects and all of their products may not be loaded into mdEditor at the same time. Josh can look into injecting references the opposite way upon export, but both would have to be loaded into mdEditor upon export. |
 | Ideally, you should manage/create/edit project and product records together as a set. |
 |  |
@@ -212,7 +213,7 @@ See [Record Extent ](/record/record-extent.md)for more information about how to 
 
 | Notes |
 | :--- |
-| Funding information is not required for products.  |
+| Funding information is not required for products. |
 
 ---
 
