@@ -19,8 +19,7 @@ The Landscape Conservation Cooperative Science Catalog collates the metadata fro
 
 
 **LCC Science Catalog Architecture**
-LCCs edit metadata in mdEditor and then publish the metadata to ScienceBase, where it can be channeled to the LCC Science Catalog and data.gov. The mdTranslator tool
-is integrated with mdEditor so you can create metadata once, and then convert and publish the metadata in your desired format, such as mdJSON for the LCC Science Catalog, sbJSON for ScienceBase, XML for data.gov, and FGDC for geospatial data.
+LCCs edit metadata in mdEditor and then publish the metadata to ScienceBase, where it can be channeled to the LCC Science Catalog and data.gov. The mdTranslator tool is integrated with mdEditor so you can create metadata once, and then convert and publish the metadata in your desired format, such as mdJSON for the LCC Science Catalog, sbJSON for ScienceBase, XML for data.gov, and FGDC for geospatial data.
 
 
 
