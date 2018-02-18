@@ -135,7 +135,7 @@ See [Record Extent ](/record/record-extent.md)for more information about how to 
 
 ---
 
-### **Associated Tab \(Not Required for Projects\) **
+### **Associated Tab **
 
 | Notes on Associated Records |
 | :--- |
@@ -165,7 +165,7 @@ See [Contact New](/contact.md) for information on entering contacts.
 | :--- |
 | Select **Individual **to add a person. |
 | Select **Organization **to add an organization. |
-| At a minimum, include an email address.  |
+| At a minimum, include an email address. |
 
 ---
 
