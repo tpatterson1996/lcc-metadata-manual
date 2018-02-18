@@ -26,11 +26,11 @@ The **Main **tab allows for the creation or editing of primary metadata from scr
 
 * **For Projects**
 
-  *  Enter “project” from pick-list
+  * Enter “project” from pick-list
 
 * **For Products**
 
-  * Enter appropriate item from pick-list. It is important to properly identify the resource type for improved discoverability. 
+  * Enter appropriate item from pick-list. It is important to properly identify the resource type for improved discoverability.
 
     The most commonly used product resource types are: _report, document, publication, presentation, factsheet, user guide, dataset \(geographic\), tile \(geographic raster\), non-geographic dataset, tabular dataset map, model, photographic image, application \(online\), software, and website._
 
@@ -40,11 +40,11 @@ The **Main **tab allows for the creation or editing of primary metadata from scr
 
 #### **Point of Contacts **
 
-**Point Of Contacts **are added by clicking the **Add **button.
+**Point Of Contacts **are added by clicking the **Add **button. Adding a point of contact gives LCC staff information on who to contact should they have a question regarding your project or product.
 
 From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts **drop-down menu, select a contact from the list of contacts. Consult the [**Contact New**](/contact\new.md)** **section of this manual to learn how to add contacts.
 
-> ![](/assets/best_practice_small.png)Best Practice: Select a point of contact that users can contact even if there is a positional change in an organization. One option is the LCC Data Steward. Consult the[** Individual Contact**](/contact/individual-contact.md) section of this manual for more information on adding the LCC Data Steward.
+> ![](/assets/best_practice_small.png)Best Practice: Select a point of contact that users can contact even if there is a positional change in an organization. In addition to any point of contact that you may add from your organization, one contact must be  LCC Network Data Steward. The LCC data steward will serve as the long term contact/backup if LCC staff are not available. Consult the[** Individual Contact**](/contact/individual-contact.md) section of this manual for more information on adding the LCC Data Steward.
 
 ![](/assets/point_of_contacts.png)
 
@@ -54,7 +54,7 @@ From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts
 
 #### **Citation**
 
-**Citation **is used** **to add record citations. Read the [**Main** **Citation**](/record/edit/main/citation.md)** **section of this manual to learn how to edit citations.
+**Citation **is used** **to add record citations. The citation lets LCC staff know pertinent information about your project or product such as: responsible parties; internal and ScienceBase identifier; and any online resources that may relate to your item. Adding information in the citation will also allow LCC staff to find your item when they search for items that contain said information.
 
 #### ![](/assets/citation_updated.png)
 
@@ -81,9 +81,7 @@ From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts
 
 > ![](/assets/project_required_small.png) **Required for** **Projects Only: **For each project, add a start, end date, and fiscal year.
 
-**Time Period** refers to project start and end date, or the date that the project was applicable \(time that the project was funded to date of completion\).
-
-![](/assets/time_period.png)
+**Time Period** refers to project start and end date, or the date that the project was applicable \(time that the project was funded to date of completion\). Adding Time Period information will give LCC staff the ability to find your project or product when they search for items in the given time period.![](/assets/time_period.png)
 
 > ![](/assets/see_full_manual_for.png) Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the full mdEditor manual for more information on **Time Period**.
 
