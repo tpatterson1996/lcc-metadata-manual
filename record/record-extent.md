@@ -4,7 +4,7 @@
 
 > ![](/assets/project_required_small.png)**Record Extent is required for Projects Only**
 
-**Record Extent** refers to geographic bounds for the project. It is recommended that you use an extent since they can be used to populate Congressional districts once that capability is available.
+**Record Extent** refers to geographic bounds for the project. It is recommended that you use an extent since they can be used to populate Congressional districts once that capability is available. Adding an extent lets LCC staff no the location of your project or product, as well as giving the ability to find your project or product when searching for items in a geographic range.
 
 ![](/assets/extent_screenshot.png)
 
