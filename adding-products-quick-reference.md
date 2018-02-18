@@ -169,12 +169,21 @@ See [Record Extent ](/record/record-extent.md)for more information about how to 
 | :--- | :--- |
 | Distribution \(Required\) | This document how people go about obtaining your product \(e.g., your website, download from PI website, from an archive, etc.\). If it’s not online, describe how to obtain it \(e.g., not available to public but contact someone to obtain\). |
 |  | **Note: **This section will most likely simply involve adding distributer information and URL for data products that are hosted elsewhere. \(e.g., if The Nature Conservancy is hosting a data source, the distributor is The Nature Conservancy and then enter link to location of distribution\). |
-| Distributor Contact \(Required\)  | Enter contact from contact list |
-| Distributor Role \(Required\)  | Input “distributor” |
+| Distributor Contact \(Required\) | Enter contact from contact list |
+| Distributor Role \(Required\) | Input “distributor” |
 | Transfer Size \(Recommended\) | Describe size of resource in MB. |
 | Distribution Units \(If Applicable\) | Used for items with unique units \(e.g. USGS quads\). If this is not applicable, leave blank. |
 | Online Options \(If Applicable\) | Add URL here and type of URL space. If it’s a direct download, select “download.” If it goes to an informational page, select “information.” |
 | Offline Options \(If Applicable\) | Add contact information for how to obtain product offline. |
+
+---
+
+### Constraints Tab
+
+| Constraint Type | Definition |
+| :--- | :--- |
+| Use Limitation | Enter text that describes how people should or should not use the product. Depending on the type you select, it will tell you what you have to enter. If your product is licensed, let people know. Most of what we have is public domain, but not always. |
+| Legal | Select the access and property restraints from the controlled value list. _Access constraints_:  apply to assure the protection of privacy or or intellectual property, and any special restrictions or limitations on obtaining the resource._ Use constraints_: detail how the product should be used. _Other constraints: _this a good place to put standard disclaimer. |
 
 ---
 
