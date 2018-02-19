@@ -34,7 +34,7 @@ Contacts are individuals or organizations that can be referenced by other contac
 
 | Best Practice: Maintaining Contacts in mdEditor | Notes: Maintaining Contacts in mdEditor |
 | :--- | :--- |
-| Leave your contacts in mdEditor so that they’re always available. |  |
+| Leave your contacts in mdEditor so that they’re always available. | Leaving contacts in mdEditor makes them available for addition in any new or existing projects or products. |
 
 | Best Practice: Exporting Contacts | Note: Exporting Contacts |
 | :--- | :--- |
