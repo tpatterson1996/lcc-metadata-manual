@@ -30,7 +30,7 @@ The export function will allow the contents of the current metadata recordset to
 
 #### General Notes on Exporting
 
-> ![](/assets/best_practice_small.png)**Best Practice: **When Exporting Contacts, it is recommended that you export all contacts together. If you load a project and the contacts aren’t loaded in mdEditor, you can’t inject the contacts back into the metadata record.
+> ![](/assets/best_practice_small.png)**Best Practice: **When Exporting Contacts, it is recommended that you export all contacts together. If you load a project and the contacts aren’t loaded in mdEditor, the record may show an error andt you will be unable to re-add the contact to the record.
 
 
 

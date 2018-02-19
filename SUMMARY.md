@@ -11,7 +11,6 @@
   * [Fields Required for LCC Projects and Products](record/fields-required-for-lcc-projects-and-products.md)
 * [Data Management](data-management.md)
   * [File Management](data-management/file-management.md)
-* [Import/Export/Copy](importexport.md)
   * [Import](data-management/import.md)
     * [ScienceBase Import](data-management/import/sciencebase-import.md)
   * [Export](data-management/export.md)
