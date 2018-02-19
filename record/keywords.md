@@ -2,22 +2,31 @@
 
 ---
 
-**Keywords **allow for the addition of keywords via selectable thesauruses. Click “+ Add Thesaurus” on the right to add the different thesauruses.
+Adding keywords to your metadata record allows for the record to be found later in a search, keywords are the way to tag your projects or products. The mdEditor is designed using thesauruses that contain pre-determined keywords. These thesauruses thus create a 'controlled vocabulary' so that all LCC staff adding metadata can adhere to the same standards, and future search results can return back clear results of projects and products.
 
-Add from the following pre-populated thesauruses:
+**To add Keywords to your Metadata Record**
 
-1. **ISO Topic Category** - Required for both projects and products.
-   > ![](/assets/project_required_small.png)The following thesauruses are required for projects only
-2. **LCC Deliverable Types**: Required for projects. Optional for products.
-3. ** LCC End User Types**: Required for projects. Optional for products.
+* Click “+ Add Thesaurus” on the right to add the different thesauruses.
 
-> ![](/assets/best_practice_small.png)**Best Practice**: Use the **Custom **thesaurus for any keywords that are not available in the pre-populated lists.
->
-> ![](/assets/note_small.png)Keywords edited in mdEditor will overwrite keywords in ScienceBase.
->
-> **ISO \(International Organization for Standardization\) **topics were built and maintained by the ISO Technical Committee and are required for the development of ISO metadata.
->
-> **LCC \(Landscape Conservation Cooperatives\)**Keywords are maintained by the national LCCs and required for any LCC metadata.
+* Add from the following pre-populated thesauruses
+
+| Thesauruses for LCC Staff | Requirements | Notes |
+| :--- | :--- | :--- |
+| ISO Topic Category  | **Required **for Projects, **Required** for Products | ISO \(International Organization for Standardization\) topics were built and maintained by the ISO Technical Committee and are required for the development of ISO metadata. |
+| LCC Deliverable Types | **Required **for Projects, Optional for Producs | LCC \(Landscape Conservation Cooperatives\) Keywords are maintained by the national LCCs and required for any LCC metadata. |
+| LCC End User Types | **Required **for Projects, Optional for Products | LCC \(Landscape Conservation Cooperatives\) Keywords are maintained by the national LCCs and required for any LCC metadata. |
+
+---
+
+**General Notes And Best Practices for Keywords**
+
+![](/assets/best_practice_small.png)![](/assets/note_small.png)
+
+| Best Practices | Notes |
+| :--- | :--- |
+| **Best Practice:** Use a Custom thesaurus only for  keywords that are not available in a pre-populated lists. | Keywords edited in mdEditor will overwrite keywords in ScienceBase. |
+
+---
 
 ![](/assets/keywords_window.png)
 
