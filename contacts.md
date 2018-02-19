@@ -21,7 +21,7 @@ Copying contacts will change the ID and the name \(the name will be “Copy of �
 
 > ![](/assets/best_practice_small.png)
 >
-> **Best practice**: It is safest to export all contacts whenever you export a project/product. \(Consult the [Export](/export.md) section of this manual to learn more.\)
+> **Best practice**: It is safest to export all contacts whenever you export a project/product. This insures that the most current contact information is available in the mdEditor. \(Consult the [Export](/export.md) section of this manual to learn more.\)
 >
 > **Best Practice: **Leave your contacts in mdEditor so that they’re always available.
 >
