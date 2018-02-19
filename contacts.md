@@ -38,7 +38,7 @@ Contacts are individuals or organizations that can be referenced by other contac
 
 | Best Practice: Exporting Contacts | Note: Exporting Contacts |
 | :--- | :--- |
-| It is safest to export all contacts whenever you export a project/product. |  |
+| It is safest to export all contacts whenever you export a project/product. | If upon loading a project, if the contacts list isn't complete, the record may show an error and you will be unable to re-add the contact to the record. This also insures that the contacts are up to date with the most current information. |
 
 ---
 
