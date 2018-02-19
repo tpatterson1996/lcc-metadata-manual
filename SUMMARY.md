@@ -17,7 +17,6 @@
   * [Copy Records](data-management/copy-records.md)
 * [Records](records.md)
   * [Record New](record-new.md)
-  * [Record Show](show.md)
   * [Record Edit](record.md)
     * [Record Main](record/main.md)
       * [Main Citation](record/main/citation.md)
