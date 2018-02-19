@@ -10,6 +10,8 @@ Adding keywords to your metadata record allows for the record to be found later 
 
 * Add from the following pre-populated thesauruses
 
+* If none of the keywords in the following categories are sufficient for tagging your record, you can create a custom thesaurus.
+
 | Thesauruses for LCC Staff | Requirements | Notes |
 | :--- | :--- | :--- |
 | ISO Topic Category | **Required **for Projects, **Required** for Products | ISO \(International Organization for Standardization\) topics were built and maintained by the ISO Technical Committee and are required for the development of ISO metadata. |
