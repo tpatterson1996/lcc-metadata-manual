@@ -4,11 +4,11 @@
 
 ## Opening mdEditor
 
-* mdEditor is currently hosted on the GitHub website and can be opened by following this URL: [https://jlblcc.github.io/mdEditor/\#/dashboard](https://jlblcc.github.io/mdEditor/#/dashboard)
+* mdEditor is currently hosted on the GitHub website and can be opened by following this URL: [**https://www.mdeditor.org/**](https://www.mdeditor.org/)
 
 * _Chrome_ is the recommended web browser for using mdEditor. The editor will work in other browsers, but has been fully tested in Chrome.
 
-> ![](/assets/note_small.png)Currently, when you open mdEditor, you will see an _Update Alert_ that the application is under development. This is normal and will remain as such until the production version is ready.
+> ![](/assets/note_small.png)Currently, when you open mdEditor, you will see an _Update Alert_ that the application is in beta testing. This is normal and will remain as such until the production version is ready.
 
 ---
 
@@ -21,7 +21,7 @@
 3. Pick a **Resource Type **  
 4. Click **Save**
 
-Consult [Adding Projects: Quick Reference](/adding-projects-quick-reference.md), [Adding Products: Quick Reference ](/adding-products-quick-reference.md) for information about required fields and best practices, or the [Record Edit](https://www.gitbook.com/book/jbadash/mdeditor-for-lccs/edit#) section of this manual for general instructions, required fields, and best practices. 
+Consult [Adding Projects: Quick Reference](/adding-projects-quick-reference.md), [Adding Products: Quick Reference ](/adding-products-quick-reference.md) for information about required fields and best practices, or the [Record Edit](https://www.gitbook.com/book/jbadash/mdeditor-for-lccs/edit#) section of this manual for general instructions, required fields, and best practices.
 
 **To add a **_**Contact**_**:**
 
