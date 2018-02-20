@@ -12,6 +12,10 @@
 
 ---
 
+## Preparing Your Items
+
+You will need to prepare your items before adding them. Make sure you have all metadata on hand before you begin the process of adding items \(consult the [**Fields Required for Projects and Products **](/record/fields-required-for-lcc-projects-and-products.md)section of this manual to learn what metadata you will need\). Projects and products require one or more contacts. Personal and organization contacts require a name and email address at a minimum \(consult the [**Contacts**](/contacts.md) section of this manual to learn how to add contacts\). Some \(but not all\) projects and products will need to be associated with each other. Keep a list of items that will require associations \(the [**Association**](/record/record-associated.md) section of this manual describes the process of making associations, but should not be consulted until the project that will be used in the association has been created.\)
+
 ## Adding Items
 
 **To add a **_**Project**_**,**_** Product,**_** or any other metadata item:**
