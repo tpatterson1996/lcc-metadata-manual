@@ -11,11 +11,13 @@ Citation allows you to add references to people and/or organizations that partic
 The following fields are required in citation:
 
 * **Title **\(Auto-Generated\)**: **Added automatically based on the title of your record.
-* **Responsible Parties \(**Required\)**: **Add the Network Data Steward as "pointOfContact."** **
+* **Alternate Title \(**Optional\): Add an alternate title.
+* **Dates **\(Optional\): Enter _acquisition, creation, revision,_ or another date reference from the picklist and then enter the date
+* **Responsible Parties \(**Required\)**: T**his must include a point of contact, but may also include other responsible parties such as a project lead, administrators, partners, collaborators, and/or funders \(contributors\). 
 
-  * Responsible parties must include a point of contact, but may also include other responsible parties such as a project lead, administrators, partners, collaborators, and/or funders \(contributors\). 
+  * Add the Network Data Steward as "pointOfContact."** **
 
-  > ![](/assets/best_practice_small.png) Add your LCC, and the project PI. Enter your LCC as "administrator" and the Project PI as "principalInvestigator."
+> ![](/assets/best_practice_small.png) Add your LCC, and the project PI. Enter your LCC as "administrator" and the Project PI as "principalInvestigator."
 
 * **Online Resource \(**Required, if Available\)**:** Enter the URL for the project homepage on your LCC website
 
