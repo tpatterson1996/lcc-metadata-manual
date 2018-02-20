@@ -6,12 +6,15 @@ The Import function will allow the contents of an mdEditor or [mdJSON file](http
 
 ![](/assets/import_window.png)
 
-You can click the **Import Data **button to import a local file, or simply drag and drop files onto the button. Files can also be imported using the **Import from Online URL **functionality.
+1. You can click the **Import Data **button to import a local file, or simply drag and drop files onto the button. Files can also be imported using the **Import from Online URL **functionality.
 
-1. Review what was imported. Click the “preview JSON” buttons to sort between multiple entries of the same contact, and decide which version to keep. 
-2. Select the records and contacts you want to import.
+2. Review what was imported. Click the “preview JSON” buttons to sort between multiple entries of the same contact, and decide which version to keep. \(If there is more than one copy of a record/contact, choose the record or contact with the most complete information\).
+3. Select the records and contacts you want to import, and then click on the right hand button “**Click to Import Data**” to import the selected records
    > ![](/assets/best_practice_small.png)**Best Practice: **Choose the record or contact with the most complete information.
-3. Click on the right hand button “**Click to Import Data**” to import the selected records
+
+
+
+
 
 ---
 
