@@ -2,7 +2,7 @@
 
 ---
 
-Contacts are individuals or organizations that can be referenced by other contacts, projects, or products. Contacts contain information such as name of individuals or organization, email address, physical address, website, and phone number so that viewers of metadata can communicate with those affiliated with a metadata record. They also allow LCC staff to know who is responsible for, or who participated in: the creation and maintenance of projects and products; funding of projects; and creation and maintenance of metadata.
+Contacts are individuals or organizations that can be referenced by other contacts, projects, or products. Contacts contain information such as name of individuals or organization, email address, physical address, website, and phone number so that viewers of metadata can communicate with those affiliated with a metadata record. They also allow LCC staff to know who is responsible for or participated in: the creation and maintenance of projects and products; funding of projects; and creation and maintenance of metadata.
 
 ---
 
