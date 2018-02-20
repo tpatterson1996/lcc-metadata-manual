@@ -18,7 +18,7 @@ There are two ways to create associations. You can either associate a product wi
 
 * Select **parentProject** from the **Association Type **drop down menu. This describes the relationship between the product and its parent project.
 
-> ![](blob:https://www.gitbook.com/7645cf37-e534-4961-b7c7-6ef3039409ca)The **parentProject **association type refers to a project that a product is associated with. This differs from a Parent folder on ScienceBase, which is a folder where items are uploaded upon publishing.
+> ![](/assets/note_small.png)The **parentProject **association type refers to a project that a product is associated with. This differs from a Parent folder on ScienceBase, which is a folder where items are uploaded upon publishing.
 
 ![](/assets/parentProject_association_lcc.png)
 
