@@ -33,7 +33,7 @@ mdEditor.json files can be exported and imported via mdEditor's built in **Expor
 
 * **Best Practice**: When exporting projects and products, export all of your contacts.
 
-* **Best Practice**: It is recommended that you use the [Export](/export.md) functionality frequently to a local computer folder of your choosing. It is particularly important that you export your records for backup before using mdEditor's **Clear Storage Cache **functionality \(clearing the storage cache will delete any records or data you have entered into the mdEditor\). Consult the [Settings](/settings.md) section of this manual to learn more.
+* **Best Practice**: It is recommended that you use the [Export](/export.md) functionality frequently to a local computer folder of your choosing. It is particularly important that you export your records for backup before using mdEditor's **Clear Storage Cache **functionality \(clearing the storage cache will delete any records or data you have entered into the mdEditor\). Exporting insures that your data is secure even after clearing the storage cache. Not exporting your data before clearing your cache will result in a permanent loss of records. Consult the [Settings](/settings.md) section of this manual to learn more.
 
 ### mdEditor Contacts:
 
