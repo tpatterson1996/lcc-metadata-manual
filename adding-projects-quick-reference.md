@@ -14,6 +14,8 @@ To_ see the fields described in this Quick Reference, select the green edit butt
 
 ##### **In Main/Basic Information, Resource Type, Point of Contacts**
 
+See [Record Main](/record/main.md) for more information
+
 | **Field** | **Instructions/Notes on Entering** |
 | :--- | :--- |
 | Record ID \(Required\) | The Record ID will be generated automatically. |
@@ -26,6 +28,8 @@ To_ see the fields described in this Quick Reference, select the green edit butt
 |  | **Best Management Practice:** Enter the Project PI as a "principalInvestigator" |
 
 **In Main/Citation**
+
+See [Main Citation ](/record/main/citation.md)for more information
 
 | Field | Instructions/Notes On Entering |
 | :--- | :--- |
@@ -44,6 +48,8 @@ To_ see the fields described in this Quick Reference, select the green edit butt
 
 **In Main/Description**
 
+See [Record Main ](/record/main.md)for more information
+
 | Field | Instructions/Notes On Entering |
 | :--- | :--- |
 | Abstract \(Required\) | **Best Management Practice**: Write your abstracts for projects in the present tense if the project is underway, and past tense if it has been completed. |
@@ -51,6 +57,8 @@ To_ see the fields described in this Quick Reference, select the green edit butt
 | Supplemental Information \(Optional\) | Enter comments, if desired |
 
 **In Main/Time Period**
+
+See [Record Main ](/record/main.md)for more information
 
 | Field | Instructions/Notes On Entering |
 | :--- | :--- |
@@ -63,6 +71,8 @@ To_ see the fields described in this Quick Reference, select the green edit butt
 
 **In Metadata/Basic Information**
 
+See [Record Metadata ](/record/metatdata.md)for more information
+
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
 | Metadata Status \(Required\) | Choose Status from Metadata Pick-list |
@@ -70,24 +80,29 @@ To_ see the fields described in this Quick Reference, select the green edit butt
 
 **In Metadata/Contacts**
 
+See [Record Metadata ](/record/metatdata.md)for more information
+
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
-| Point Of Contact \(Required\) | Enter the LCC Network Data Steward as a “pointOfContact” \(see [Contacts\) ](/contacts.md)for contact information.  |
+| Point Of Contact \(Required\) | Enter the LCC Network Data Steward as a “pointOfContact” \(see [Contacts\) ](/contacts.md)for contact information. |
 | Author \(Optional\) | Enter your LCC data manager as the “author.” You do not need to use individual names and can create a generic data manager for your LCC, but this is up to the individual LCC. |
 | Publisher \(Recommended\) | **Best Management Practice**: Enter your LCC as the "publisher" |
 
 **In Metadata/Identifier & Parent Metadata**
 
+See [Record Metadata ](/record/metatdata.md)for more information
+
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
 | Identifier \(Required\) | If the record was imported from ScienceBase, this field is auto-populated with the Universally Unique Identifier \(UUID\). |
-|  | If the record was created new in mdEditor, mdEditor creates the metadata identifier \(UUID\). It is recommended that you do not change this identifier.  |
-|  | It is recommended to enter the ScienceBase \(different than the UUID\), identifier in Main/Citation/Identifier. |
+|  | If the record was created new in mdEditor, mdEditor creates the metadata identifier \(UUID\). It is recommended that you do not change this identifier. |
 | Parent Metadata \(Required\) | Parent Metadata** **is used to define the folder on ScienceBase where the project or product will be published to. Items added to the parent folder are considered children \(or child items\) of that folder. |
-|  | Enter the ScienceBase ID \(SBID\) of the parent item--if record was imported from ScienceBase, this field is auto populated; if record is created new in mdEditor and has a corresponding parent item in ScienceBase, the identification information should be populated here. Double check that these values are correct; If this record is created new in mdEditor and does not exist in ScienceBase, populate the parent metadata with the parent SBID, if present in ScienceBase. Recommended workflow is 1\) complete project metadata, 2\) complete child product metadata and associate the items. In this way, parent-child relationships can be defined. |
+|  | **Enter the ScienceBase ID \(SBID\) of the parent item**--if the record was imported from ScienceBase, this field is auto populated. If the record was created new in mdEditor \(and has a corresponding parent item in ScienceBase\), the identification information should be put here. Double check that these values are correct; If this record is created new in mdEditor and does not exist in ScienceBase, populate the parent metadata with the parent SBID, if present in ScienceBase. Recommended workflow is 1\) complete project metadata, 2\) complete child product metadata and associate the items. In this way, parent-child relationships can be defined. \(See [Parent Metadata ](/record/metatdata/parent-metadata.md)for more information\) |
 |  | **Note:** If items are moved in ScienceBase, and the parent metadata is not changed in mdEditor, when mdEditor publishes to ScienceBase, the parent-child relationships in ScienceBase will be overwritten. |
 
 **In Metadata/Repositories**
+
+See [Record Metadata ](/record/metatdata.md)for more information
 
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
