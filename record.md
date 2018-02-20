@@ -21,23 +21,24 @@ The profile drop-down menu limits the number of available tabs depending on whic
 
 ### Navigation When Editing Records
 
-![](/assets/high_level.png)
-
 * When editing a Metadata record, navigation **breadcrumbs** appear in light blue on top of the form. These can be used to navigate. 
+
 * The **sub-menu navigation bar** is located below the breadcrumbs.  These change depending on what function is in use.
   * If you hover over the items, there will be a short description of what each section is.
 
-![](/assets/spotlight_tool.png)
+![](/assets/high_level.png)
 
-* The** Spotlight Tool** is a blue box with a white circle at the right of each section.  It grays everything out except the panel you’re working on to help focus on that particular section
+* The** Spotlight Tool** is a blue box with a white circle at the right of each section.  It grays everything out except the panel you’re working on to help focus on that particular section![](/assets/spotlight_tool.png)
 
 ---
 
 ### **Required Fields**
 
+Certain fields are required in order to meet ISO metadata requirements. Required fields are noted by the following.
+
 #### ![](/assets/required_field_icons_annotated.png)
 
-Certain fields are required in order to meet ISO metadata requirements. Required fields are noted by the following.
+
 
 ![](/assets/red_asterisk.png)A red asterisk means that this is required.
 
