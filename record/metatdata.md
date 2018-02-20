@@ -12,6 +12,10 @@ Record Metadata allows you to describe your record's metadata, including a descr
 
 * **Metadata Repositories **indicate where the metadata should be sent. Select the LCCScienceCatalog as your repository. Selecting LCCScienceCatalog insures that your item will appear in the National LCC Science Catalog.
 
+  * For **Projects **that should be listed in the LCC Science Catalog: Enter_ “LCCScienceCatalog” _from the picklist as repository and “_LCC Network Science Catalog_” as collection title \(these should be entered in your Settings as default repositories. **Note:** this is a free text field, so the title must be exactly the same in order to insure that the metadata is harvested for the LCC Science Catalog.\)
+
+  * For **Data Products** that should be shared with Data.gov, Enter “data.gov” and “data.gov” from the pick-list as repository and enter “data.gov” followed by your LCC name as the collection title. **Note**: this is a free text field, so the repository title must be exactly the same for every metadata record to insure proper harvesting of metadata
+
 ![](/assets/metadata_window.png)
 
 > ![](/assets/see_full_manual_for.png)Consult the [**Record Metadata**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/metadata.html) ** **section of the full mdEditor manual for instructions on adding additional information into the Metadata Tab.
