@@ -6,9 +6,9 @@
 
 **Allocation **details where to put the funds. Users can add multiple allocations for same fiscal year.The following fields are required for funding allocation:
 
-* **Amount**: Enter the amount of funding.
+* **Amount \(**Required\): Enter the amount of funding.
 
-* **Currency**: Currency is auto-filled with USD but other currencies can be selected.
+* **Currency \(**Required\): Currency is auto-filled with USD, but other currencies can be selected.
 
 * **Source**: The original sources of funds.
 
