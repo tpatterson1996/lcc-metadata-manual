@@ -25,13 +25,13 @@ The following fields are required in citation:
   >
   > ![](/assets/note_small.png)**Note: **If you know your items ScienceBase ID, you may add it here. If your item does not have a ScienceBase ID, ScienceBase will create one automatically upon publishing. If you edit an item that is already on ScienceBase without using its existing ID, a duplicate item will be created. Consult the [**Publish**](/publish.md)** **section of this manual to learn more.
 
-* The following identifiers are optional but you may add them:
+  * The following identifiers are optional but you may add them:
 
-  * Digital Object Identifier \(DOI\).
+    * Digital Object Identifier \(DOI\).
 
-  * Funding identifier.
+    * Funding identifier.
 
-  * Archive folder name.
+    * Archive folder name.
 
 ![](/assets/see_full_manual_for.png) Consult the [**Main Citation**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main/citation.html) section of the full mdEditor manual for more information on** Citation**.
 
