@@ -4,7 +4,9 @@
 
 Adding keywords to your metadata record allows for the record to be found later in a search, keywords are the way to tag your projects or products. The mdEditor is designed using thesauruses that contain pre-determined keywords. These thesauruses thus create a 'controlled vocabulary' so that all LCC staff adding metadata can adhere to the same standards, and future search results can return back clear results of projects and products.
 
-**To add Keywords to your Metadata Record**
+---
+
+### **To add Keywords to your Metadata Record**
 
 * Click “+ Add Thesaurus” on the right to add the different thesauruses.
 
@@ -20,7 +22,7 @@ Adding keywords to your metadata record allows for the record to be found later 
 
 ---
 
-**General Notes And Best Practices for Keywords**
+### **General Notes And Best Practices for Keywords**
 
 ![](/assets/best_practice_small.png)![](/assets/note_small.png)
 
