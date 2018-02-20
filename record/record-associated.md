@@ -2,7 +2,7 @@
 
 ---
 
-The **Associated** section is used to connect items with each other. This feature should be used when items are related. I.E. Products are often the result of projects, and projects often have sub projects. All of these can be linked together by means of association. Adding associations will give LCC staff the ability to find items that relate to each other in ScienceBase.
+The **Associated** section is used to connect items with each other. This feature should be used when items are related. I.E. Products are often the result of projects, and projects often have sub-projects. All of these can be linked together by means of association. Adding associations will give LCC staff the ability to find items that relate to each other in ScienceBase.
 
 > ![](/assets/note_small.png) **Note**: In ScienceBase **Associated Records **are referred to as **Item Associations. **
 
@@ -11,6 +11,12 @@ The **Associated** section is used to connect items with each other. This featur
 ## Create Associations
 
 There are two ways to create associations. You can either associate a product with a project, **or **associate a project with a product.
+
+| Create an Association in PRODUCTS | Create an Association in PROJECTS |
+| :--- | :--- |
+| Select **parentProject** from the Association Type drop down menu. This describes the relationship between the product and its parent project. | Select **product** from the Association Type drop down menu. This describes the relationship between the product and its parent project. |
+| Use the_ Select a Record _button to select an associated project. | Use the_ Select a Record_ button to select an associated product. |
+| Select the **Project** that you would like to associate to from the _Select a Resource _list. | Select the **Product** that you would like to associate to from the_ Select a Resource_ list. |
 
 #### Create an Association in Products
 
@@ -30,7 +36,7 @@ There are two ways to create associations. You can either associate a product wi
 
 ![](/assets/select_a_record_button.png)
 
-* Select the project that you would like to associate to from the **Select a Resource **list.
+* Select the P**roject** that you would like to associate to from the **Select a Resource **list.
 
 ![](/assets/select_a_resource_window.png)
 
