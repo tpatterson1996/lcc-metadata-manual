@@ -2,6 +2,12 @@
 
 ---
 
+Citation allows you to add references to people and/or organizations that participated in the creation of your item, as well as information about online locations where your item or additional information about your item is stored.
+
+---
+
+**Creating A Citation**
+
 The following fields are required in citation:
 
 * **Title **\(Auto-Generated\)**: **Added automatically based on the title of your record.
