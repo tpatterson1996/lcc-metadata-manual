@@ -25,7 +25,7 @@ mdEditor.json files can be exported and imported via mdEditor's built in **Expor
 
 ### ![](/assets/best_practice_small.png)![](/assets/note_small.png)Exporting:
 
-* The only way to backup your records is by using the [Export](/export.md) functionality.
+* **Note: **The only way to backup your records is by using the [Export](/export.md) functionality.
 
 * **Best Practice**: When exporting projects and products, export all of your contacts.
 
