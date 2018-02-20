@@ -20,7 +20,7 @@ To_ see the fields described in this Quick Reference, select the green edit butt
 | Title \(Required\) | Enter a title. **Best Management Practice \(BMP\): **Since products and projects are independent records, we recommend having as informative a title as possible. Good titles, when they appear in a search, will be understood and/or traceable. |
 | Status \(Required\) | Choose status ONLY from the four following options: Completed, On Going, Proposed, or Accepted. |
 | Default Locale \(Required\) | Language should be set to _**English**,_ Character set to_ **UTF-**_**8,** Country set to_ **USA. **_ |
-| Resource Type \(Required\) | Select "Project" from the pick-list. |
+| Resource Type \(Required\) | Select "Project" from the picklist. |
 | Point of Contact \(Required\) | From the Role drop-down menu, select **pointOfContact**. From the Contacts drop-down menu, select a **contact** from the list of contacts. |
 |  | **Best Management Practice: **Enter \(1\) your** LCC **and \(2\) **the LCC Network Data Steward** as "pointOfContacts." This way there is a point of contact that users can reach even if there is a positional change in an organization |
 |  | **Best Management Practice:** Enter the Project PI as a "principalInvestigator" |
@@ -29,11 +29,11 @@ To_ see the fields described in this Quick Reference, select the green edit butt
 
 | Field | Instructions/Notes On Entering |
 | :--- | :--- |
-| Title \(Auto-Generated\) | Added automatically based on the title of your record. |
+| Title \(Auto-Generated\) | Added automatically, based on the title of your record. |
 | Alternate Title \(Optional\) | Enter a shorter title |
 | Dates \(Optional\) | Enter _acquisition, creation, revision,_ or another date reference from the pick-list and then enter the date |
 | Responsible Parties \(Required\) | This must include a point of contact, but may also include other responsible parties such as a project lead. |
-|  | Enter the Network Data Steward as "pointOfContact" |
+|  | Enter the Network Data Steward as "pointOfContact" \(See [Contacts\)](/contacts.md) |
 |  | **Best Management Practice:** Add your LCC, and the project PI. Enter your LCC as "administrator" and the Project PI as "principalInvestigator." |
 |  | You can also add funders \(including your LCC, Partners, Collaborators, and/or Contributors\) |
 | Online Resources** **\(Required, If Available\) | Enter the URL for the project homepage on your LCC website |
@@ -46,7 +46,7 @@ To_ see the fields described in this Quick Reference, select the green edit butt
 
 | Field | Instructions/Notes On Entering |
 | :--- | :--- |
-| Abstract \(Required\) | **Best Management Practice**: Write your abstracts for projects in the present tense if the project is underway and past tense if it has been completed. |
+| Abstract \(Required\) | **Best Management Practice**: Write your abstracts for projects in the present tense if the project is underway, and past tense if it has been completed. |
 | Short Abstract \(Optional\) | Enter a short description of the project, if desired |
 | Supplemental Information \(Optional\) | Enter comments, if desired |
 
