@@ -15,7 +15,7 @@ The following fields are required in citation:
 
   * Responsible parties must include a point of contact, but may also include other responsible parties such as a project lead, administrators, partners, collaborators, and/or funders \(contributors\). 
 
-  > ![](/assets/best_practice_small.png)**Best Practice**: Add your LCC, and the project PI. Enter your LCC as "administrator" and the Project PI as "principalInvestigator."
+  > ![](/assets/best_practice_small.png) Add your LCC, and the project PI. Enter your LCC as "administrator" and the Project PI as "principalInvestigator."
 
 * **Online Resource \(**Required, if Available\)**:** Enter the URL for the project homepage on your LCC website
 
