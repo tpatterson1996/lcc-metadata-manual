@@ -2,7 +2,7 @@
 
 ---
 
-Record Metadata is the place to enter key metadata into your record.
+Record Metadata allows you to describe your record's metadata, including a description of the process of metadata creation, contributors to the creation of the metadata, and metadata repositories.
 
 * **Metadata Contacts: **are required and selected from your list of contacts. Adding a metadata contact will give LCC staff a contact point should they have any questions about the metadata._ Consult the _[_**Contacts**_](/contacts.md)_** **section of this manual to learn how to add contacts._
 

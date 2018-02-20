@@ -8,11 +8,9 @@ Adding keywords to your metadata record allows for the record to be found later 
 
 ### **To add Keywords to your Metadata Record**
 
-* Click “+ Add Thesaurus” on the right to add the different thesauruses.
-
-* Add from the following pre-populated thesauruses
-
-* If none of the keywords in the following categories are sufficient for tagging your record, you can create a custom thesaurus.
+1. Click “+ Add Thesaurus” on the right to add the different thesauruses.
+2. Add from the following pre-populated thesauruses.
+3. If none of the keywords in the following categories are sufficient for tagging your record, you can create a custom thesaurus.
 
 | Thesauruses for LCC Staff | Requirements | Notes |
 | :--- | :--- | :--- |
