@@ -10,7 +10,7 @@ Edit functionality is only visible when viewing a metadata record. Click the Edi
 
 ![](/assets/profile_drop_down.png)
 
-The profile drop-down menu limits the number of available tabs depending on which profile you select. mdEditor defaults to the **Full **profile which includes all tabs. Other available profiles include:
+The profile drop-down menu limits the number of available tabs depending on which profile you select. mdEditor defaults to the **Full **profile which includes all tabs. Using the other profiles in the drop down will only show the fields required for those profile types. Other available profiles include:
 
 * **Basic-**Limits the tabs to: Main; Metadata; Keywords; Extent; and Distribution
 * **lccProduct**-Limits the tabs to: Main; Metadata; Keywords; Extent; Spatial; Lineage; Distribution; Constraints; Associated; and Documents.
@@ -21,9 +21,10 @@ The profile drop-down menu limits the number of available tabs depending on whic
 
 ### Navigation When Editing Records
 
-* When editing a Metadata record, navigation **breadcrumbs** appear in light blue on top of the form. These can be used to navigate. 
+* When editing a Metadata record, navigation **breadcrumbs** appear in light blue on top of the form. These can be used to navigate.
 
 * The **sub-menu navigation bar** is located below the breadcrumbs.  These change depending on what function is in use.
+
   * If you hover over the items, there will be a short description of what each section is.
 
 ![](/assets/high_level.png)
@@ -37,8 +38,6 @@ The profile drop-down menu limits the number of available tabs depending on whic
 Certain fields are required in order to meet ISO metadata requirements. Required fields are noted by the following.
 
 #### ![](/assets/required_field_icons_annotated.png)
-
-
 
 ![](/assets/red_asterisk.png)A red asterisk means that this is required.
 
