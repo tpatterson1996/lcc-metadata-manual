@@ -35,7 +35,7 @@ mdEditor.json files can be exported and imported via mdEditor's built in **Expor
 
 * **Best Practice**: Export all contacts together \(unless you’re comfortable knowing exactly which contacts are used in your record set\), otherwise if you load a project and the contacts aren’t loaded in mdEditor, you can’t re-add the contacts back into the metadata record.
 * **Best Practice**: Save mdEditor contacts at the end of every work session, load before each work session and ensure they are up to date. Then load the project/product record you want to work on.
-* **Best Practice**: Leave your contacts in mdEditor all the time so they’re always available.
+* **Best Practice**: Leave your contacts in mdEditor all the time so they’re always available. This allows you to readily add contacts to projects and products.
 
 ---
 
