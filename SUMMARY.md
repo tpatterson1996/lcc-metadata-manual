@@ -22,6 +22,8 @@
   * [How to Publish](publish/how-to-publish.md)
   * [FAQ](publish/faq.md)
   * [Help](help.md)
+  * [Settings](settings.md)
+  * [Errors and Missing Fields](errors.md)
 * [Records](records.md)
   * [Record New](record-new.md)
   * [Record Edit](record.md)
@@ -40,7 +42,6 @@
 * [Contacts ](contacts.md)
   * [Organization Contacts](contact/organization-contacts.md)
   * [Individual Contact](contact/individual-contact.md)
-* [Errors and Missing Fields](errors.md)
 * [Glossary of Terms](glossary-of-terms.md)
 * [Defaults](defaults.md)
 
