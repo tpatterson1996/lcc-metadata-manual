@@ -26,7 +26,7 @@ LCCs edit metadata in mdEditor and then publish the metadata to ScienceBase, whe
 ## Requirements for using mdEditor
 
 * Google Chrome Web Browser
-* Meta Information about your project, as needed.
+* Meta Information about your contacts, projects, and products as needed.
 
 ---
 
