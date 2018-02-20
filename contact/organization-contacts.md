@@ -12,7 +12,8 @@ The following fields are required for Organization contacts:
 
   > ![](/assets/best_practice_small.png)**Best Practice**: If you do not have a contact point for the organization, you can use the LCC Data Steward email address: **lccdatasteward@fws.gov**
 
-* **Online Resource: **Add a web URL where your organization resides.
+* **Online Resource: **Add a web URL where your organization resides.  
+  > ![](/assets/note_small.png)**Note: **Online resource may also include social networks.
 
 ![](/assets/organization_contact_page.png)
 

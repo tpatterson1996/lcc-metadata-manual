@@ -40,8 +40,8 @@
       * [Allocation](record/record-funding/allocation.md)
       * [Time Period](record/record-funding/time-period.md)
 * [Contacts ](contacts.md)
-  * [Organization Contacts](contact/organization-contacts.md)
-  * [Individual Contact](contact/individual-contact.md)
+* [Individual Contact](contact/individual-contact.md)
+* [Organization Contacts](contact/organization-contacts.md)
 * [Glossary of Terms](glossary-of-terms.md)
 * [Defaults](defaults.md)
 
