@@ -22,7 +22,7 @@ You will need to prepare some information and settings before adding your metada
 
 ---
 
-## Adding Items
+### Adding Items
 
 **To add a **_**Project**_**,**_** Product,**_** or any other metadata item:**
 

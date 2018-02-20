@@ -1,8 +1,8 @@
-# Dashboard
+## Dashboard
 
 ---
 
-## Overview
+### Overview
 
 The mdEditor application is designed using a two-pane layout. The left _**sidebar**_ \(1\) provides the primary navigation showing a list of **Metadata Records**, **Contacts** and **Data Dictionaries**. The right pane displays a context-sensitive _**main menu **_\(2\) at the top, a primary _**editor region **_\(3\) below that displays and allows for the editing of a selected object and a** **_**status bar **_\(4\) at the very bottom of the display.
 
@@ -42,7 +42,7 @@ The main menu contains several standard menu items that apply to areas of the md
 
 ![](/assets/symbol_cog_16.png) **Settings**. Customize the editor settings. [See Settings](/settings.md).
 
-### Editor region
+### Editor Region
 
 The editor region will display information based on the type of object that is currently selected. Selecting a **list icon** \(![](/assets/symbol_list_16.png)\)will display all of the records contained in the associated object \(metadata, contacts or dictionaries\) in the editor region. Selecting a record will display record specific information and allow the record to be edited.
 
