@@ -20,9 +20,11 @@
 
 6. Records** that have** **parent IDs** in the metadata record will appear below a thick blue line and will be published under the parent ID in their metadata .
 
+![](/assets/publish_screenshot_2.png)
+
 > ![](/assets/note_small.png) Parent-Child refers to how the records are organized and displayed on ScienceBase; this is different than the Project and Product associations that are embedded within the metadata records.
 >
-> If you do not want these parent IDs to change,** do not** drag and drop these records in the publishing outline.
+> ![](/assets/note_small.png)**Note:** If you do not want these parent IDs to change,** do not** drag and drop these records in the publishing outline.
 
 #### ![](/assets/publish_screenshot_2.2.png)
 
