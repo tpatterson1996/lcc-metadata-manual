@@ -6,7 +6,7 @@ The **Main **tab allows for the creation or editing of primary metadata from scr
 
 * **Record ID **and **Title **will be auto-filled, but can be edited.
 
-* The **Status **drop-down menu allows you to select the status of your item.
+* The **Status **drop-down menu allows you to select the status of your item. Choose status ONLY from the four following options: _**Completed, On Going, Proposed, or Accepted.**_
 
 ![](/assets/main_screenshot_updated.png)
 
