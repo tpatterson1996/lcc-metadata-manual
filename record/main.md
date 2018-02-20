@@ -22,15 +22,15 @@ The **Main **tab allows for the creation or editing of primary metadata from scr
 
 #### **Resource Types**
 
-**Resource Types** \(**Type **and **Name**\), will be filled automatically with the information added when you created your record \(as described in [**Record New**](/records\record\new.md)\).
+**Resource Types** \(**Type **and **Name**\), will be filled automatically with the information added when you created your record.
 
 * **For Projects**
 
-  * Enter “project” from pick-list
+  * Enter “project” from picklist
 
 * **For Products**
 
-  * Enter appropriate item from pick-list. It is important to properly identify the resource type for improved discoverability.
+  * Enter appropriate item from picklist. It is important to properly identify the resource type for improved discoverability.
 
     The most commonly used product resource types are: _report, document, publication, presentation, factsheet, user guide, dataset \(geographic\), tile \(geographic raster\), non-geographic dataset, tabular dataset map, model, photographic image, application \(online\), software, and website._
 
@@ -44,11 +44,9 @@ The **Main **tab allows for the creation or editing of primary metadata from scr
 
 From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts **drop-down menu, select a contact from the list of contacts. Consult the [**Contact New**](/contact\new.md)** **section of this manual to learn how to add contacts.
 
-> ![](/assets/best_practice_small.png)Best Practice: Select a point of contact that users can contact even if there is a positional change in an organization. In addition to any point of contact that you may add from your organization, one contact must be  LCC Network Data Steward. The LCC data steward will serve as the long term contact/backup if LCC staff are not available. Consult the[** Individual Contact**](/contact/individual-contact.md) section of this manual for more information on adding the LCC Data Steward.
+> ![](/assets/best_practice_small.png)Best Practice: Select a point of contact that users can contact even if there is a positional change in an organization. In addition to any point of contact that you may add from your organization, one contact must be  LCC Network Data Steward. The LCC data steward will serve as the long term contact/backup if LCC staff are not available. Consult the [Contacts ](/contacts.md)section of this manual for more information on adding the LCC Data Steward.
 
 ![](/assets/point_of_contacts.png)
-
-> ![](/assets/see_full_manual_for.png) Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html) section of the full mdEditor manual for more information on** Point of Contacts**.
 
 ---
 
@@ -62,13 +60,13 @@ From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts
 
 #### **Description**
 
-**Description **allows for the addition of the **Abstract.**
+**Description **allows for the addition of the **Abstract \(Required\) **as well as a Short Abstract, Purpose, Supplemental Information, and an Environment Description. 
 
 * **Abstract **\(Required\) - Enter an Abstract
 
 > ![](/assets/best_practice_small.png)Write your abstracts for projects in the present tense if the project is underway and past tense if it has been completed.
 
-* **Short Abstract **\(Optional\) - Enter a short description, if desired
+* **Short Abstract **\(Optional\) - Enter a short description, limited to 300 characters, if desired
 * **Supplemental Information **\(Optional\) -** **Enter comments, if desired. 
 
 ![](/assets/description_lcc.png)
@@ -79,9 +77,13 @@ From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts
 
 #### **Time Period**
 
-> ![](/assets/project_required_small.png) **Required for** **Projects Only: **For each project, add a start, end date, and fiscal year.
+**Time Period** refers to project start and end date, or the date that the project was applicable \(e.g., time that a map is valid, date of publication, date of presentation\)
 
-**Time Period** refers to project start and end date, or the date that the project was applicable \(time that the project was funded to date of completion\). Adding Time Period information will give LCC staff the ability to find your project or product when they search for items in the given time period.![](/assets/time_period.png)
+> ![](/assets/project_required_small.png) **Required for** **Projects: **For each project, add a start date, end date, and fiscal year.
+>
+> ![](/assets/note_small.png)**Note: **Time Period** **isn’t required for products but if you choose to enter something in time period, you have to enter a date.
+
+![](/assets/time_period.png)
 
 > ![](/assets/see_full_manual_for.png) Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the full mdEditor manual for more information on **Time Period**.
 
