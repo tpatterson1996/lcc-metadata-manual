@@ -60,7 +60,7 @@ From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts
 
 #### **Description**
 
-**Description **allows for the addition of the **Abstract \(Required\) **as well as a Short Abstract, Purpose, Supplemental Information, and an Environment Description.
+**Description **allows for the addition of the** Abstract **as well as a Short Abstract, Purpose, Supplemental Information, and an Environment Description.
 
 * **Abstract **\(Required\) - Enter an Abstract
 
