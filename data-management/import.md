@@ -11,6 +11,7 @@ The Import function will allow the contents of an mdEditor or [mdJSON file](http
 2. Review what was imported. Click the “preview JSON” buttons to sort between multiple entries of the same contact, and decide which version to keep. \(If there is more than one copy of a record/contact, choose the record or contact with the most complete information\).
 
 3. Select the records and contacts you want to import, and then click on the right hand button “**Click to Import Data**” to import the selected records
+
    > ![](/assets/best_practice_small.png)**Best Practice: **Choose the record or contact with the most complete information.
 
 ![](/assets/import_data.png)
@@ -21,7 +22,7 @@ The Import function will allow the contents of an mdEditor or [mdJSON file](http
 
 While importing data, there are three options available in the Action Menu \(on the right side of the import data window\).
 
-![](https://adiwg.gitbooks.io/mdeditor/content/assets/import_data_action_menu.png)
+![](/assets/import_data_action_menu.png)
 
 * **Click to Import Data**
   : Imports selected records and contacts.
@@ -29,7 +30,7 @@ While importing data, there are three options available in the Action Menu \(on 
   : Cancels the current import.
 * **Replace/Merge**
   : Replaces or merges the current record.
-  > ![](https://adiwg.gitbooks.io/mdeditor/content/assets/best_practice_small.png)To import Settings, you should set the import to “Replace.” Generally, it is best practice to set the mode back to “Merge,” once you’ve finished importing the settings.
+  > ![](/assets/best_practice_small.png)To import Settings, you should set the import to “Replace.” Generally, it is best practice to set the mode back to “Merge,” once you’ve finished importing the settings.
 
 
 
