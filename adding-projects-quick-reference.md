@@ -166,8 +166,10 @@ See [Record Funding](/record/record-funding.md) for information on entering fund
 
 | Notes |
 | :--- |
-| Funding is required for projects only. Funding information is populated from ScienceBase for imported records. |
-|  |
+| Funding information is populated from ScienceBase for imported records. |
+| **Allocation \(**Required\): Describes how the funds were allocated. Adding allocation allows LCC staff to see where funding came from and how it was distributed. It also lets staff find your items when searching for specific funders. |
+| **Time Period \(**Required\): Describes the time period during the allocation of funds. Adding a time period lets LCC staff know when your items were funded, and lets them find your item when searching for items funded in a similar time period. |
+| Funding is required for Projects only |
 
 ---
 
