@@ -75,7 +75,7 @@ See [Record Metadata ](/record/metatdata.md)for more information
 
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
-| Metadata Status \(Required\) | Choose Status from Metadata Pick-list |
+| Metadata Status \(Required\) | Choose Status from the Metadata Pick-list |
 | Date \(Required\) | Enter a date for "creation" or "last updated" |
 
 **In Metadata/Contacts**
@@ -84,7 +84,7 @@ See [Record Metadata ](/record/metatdata.md)for more information
 
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
-| Point Of Contact \(Required\) | Enter the LCC Network Data Steward as a “pointOfContact” \(see [Contacts\) ](/contacts.md)for contact information. |
+| Point Of Contact \(Required\) | Enter the LCC Network Data Steward as a “pointOfContact” \(see [Contact ](/contacts.md)for more instructions\). |
 | Author \(Optional\) | Enter your LCC data manager as the “author.” You do not need to use individual names and can create a generic data manager for your LCC, but this is up to the individual LCC. |
 | Publisher \(Recommended\) | **Best Management Practice**: Enter your LCC as the "publisher" |
 
@@ -106,8 +106,8 @@ See [Record Metadata ](/record/metatdata.md)for more information
 
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
-| Repository \(Required\) | For Projects that should be listed in the LCC Science Catalog, Enter “LCCScienceCatalog” from the picklist as repository and “LCC Network Science Catalog” as collection title \(these should be entered in your Settings as default repositories.** Note**: this is  a free-text field, so the title must be exactly the same in order to insure that the metadata is harvested for the LCC Science Catalog.\) |
-|  | For data Products that should be shared with Data.gov, Enter “data.gov” and “data.gov” from the picklist as repository and enter “data.gov” followed by your LCC name as the collection title. **Note**: this is a free-text field, so the repository title must be exactly the same for every metadata record to insure proper harvesting of metadata |
+| Repository \(Required\) | For Projects that should be listed in the LCC Science Catalog, Enter “LCCScienceCatalog” from the picklist as the repository and “LCC Network Science Catalog” as the collection title.** Note**: this is  a free-text field, so the title must be exactly the same in order to insure that the metadata is harvested for the LCC Science Catalog.\) |
+|  | For data Products that should be shared with Data.gov, Enter “data.gov” and “data.gov” from the picklist as the repository and enter “data.gov” followed by your LCC name as the collection title. **Note**: this is a free-text field, so the repository title must be exactly the same for every metadata record to insure proper harvesting of metadata |
 |  | **Best Management Practice**: In Settings, create default repositories to help maintain precise titles |
 
 **In Metadata/Online Resources**

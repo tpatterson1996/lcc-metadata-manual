@@ -2,7 +2,7 @@
 
 ---
 
-The settings menu allows the configuring of user specific options.
+The settings menu allows for the configuring of user-specific options.
 
 ## General Settings
 
