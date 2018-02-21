@@ -24,7 +24,7 @@ While exporting data, there are four options available in the Action Menu \(on t
 
 * **Export All**: will export everything currently loaded in mdEditor into a single file. Exports an mdEditor JSON file.
 
-* **Export Selected**: will only export the items you have selected \(so individual records, contacts, etc.\). If nothing is selected it will be disabled \(i.e., grayed out\). Exports an mdEditor JSON file.
+* **Export Selected**: will only export the items you have selected \(so individual records, contacts, etc.\). If nothing is selected it will be disabled \(i.e., grayed out\). This exports an mdEditor JSON file.
 
 * **Export mdJSON**: only works for metadata records \(i.e., doesn't work for contacts\). Exports just the mdJSON file, which is a standalone JSON file you can load into mdTranslator and have translated into other metadata formats. mdJSON files imported into mdEditor are treated as new records and will not merge/update an existing record.
 
