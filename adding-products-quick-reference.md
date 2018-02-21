@@ -154,7 +154,7 @@ See [Record Extent ](/record/record-extent.md)for more information about how to 
 
 ---
 
-### Spatial Tab
+### Spatial Tab \(Optional for Products, Except Datasets\)
 
 | Field | Notes |
 | :--- | :--- |
@@ -165,7 +165,7 @@ See [Record Extent ](/record/record-extent.md)for more information about how to 
 
 ---
 
-### Lineage Tab
+### Lineage Tab \(Optional for Products\)
 
 | Notes |
 | :--- |
@@ -176,7 +176,7 @@ See [Record Extent ](/record/record-extent.md)for more information about how to 
 
 ---
 
-### Distribution Tab
+### Distribution Tab 
 
 | Field | Notes |
 | :--- | :--- |
