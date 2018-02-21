@@ -17,7 +17,7 @@ Please read through ALL instructions before you begin the publishing process. Af
 _The following diagram describes the science catalog system architecture._
 
 > ![](/assets/note_small.png)**Note:** Currently the mdEditor is used primarily with ScienceBase, a collaborative scientific data and information management platform developed and run by the USGS and used directly by science teams. The mdEditor can work with other databases, but in this manual, ScienceBase will be used as the primary example of a database.
-
+>
 > For more information, see ScienceBase in the glossary of terms.
 
 ![](/assets/science_catalog_system_architecture.png)
