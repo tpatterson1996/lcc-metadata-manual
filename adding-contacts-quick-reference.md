@@ -17,7 +17,7 @@ This page will provide a brief overview of required fields for Individual and Or
 | Individual Contact | Organizational Contact |
 | :--- | :--- |
 | **Individual Name **\(Required\) | **Organization Name **\(Required\): The organization's full name. |
-| **Position Name **\(Required\)  | **Email Address **\(Required\): Add an email address of the primary contact in the organization. _Best Practice:_ If you do not have a contact point for the organization, you can use the LCC Data Steward email address: lccdatasteward@fws.gov |
+| **Position Name **\(Required\) | **Email Address **\(Required\): Add an email address of the primary contact in the organization. _Best Practice:_ If you do not have a contact point for the organization, you can use the LCC Data Steward email address: lccdatasteward@fws.gov |
 | **Email Address** \(Required\) | **Online Resource** \(Required\): Add a web URL where your organization resides. |
 
 | Adding Contacts: General Notes |
