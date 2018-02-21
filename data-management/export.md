@@ -6,7 +6,7 @@ The export function will allow the contents of the current metadata recordset to
 
 ---
 
-> ![](/assets/note_small.png) ![](/assets/best_practice_small.png)
+> ![](/assets/best_practice_small.png)![](/assets/note_small.png)
 >
 > **Note: **mdJSON files can be uploaded and translated to other formats via the mdTranslator application while mdEditor files are exclusive to the mdEditor application and retain all mdEditor information, including settings.
 >
