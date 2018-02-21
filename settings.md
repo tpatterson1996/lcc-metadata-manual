@@ -10,7 +10,7 @@ The settings menu allows the configuring of user specific options.
 
 **Auto-Save**: The Auto-Save option will write all changes to local storage when you exit a data entry field. Changes must be manually saved if the Auto-Save feature is turned off.
 
-> ![](blob:https://www.gitbook.com/d9f78846-447a-40b7-8b6a-be89ba008c07)Auto-Save allows the user to save less frequently, but it makes it harder to undo changes that you make to your records. If you stay on the same record, you can cancel changes. But once you leave the record, the record is saved and you can’t cancel the change except by manually editing the record from a different screen \(See [Records Edit](https://www.gitbook.com/book/jbadash/mdeditor-for-lccs/edit#) for more information\).
+> ![](/assets/note_small.png)Auto-Save allows the user to save less frequently, but it makes it harder to undo changes that you make to your records. If you stay on the same record, you can cancel changes. But once you leave the record, the record is saved and you can’t cancel the change except by manually editing the record from a different screen \(See [Records Edit](https://www.gitbook.com/book/jbadash/mdeditor-for-lccs/edit#) for more information\).
 
 **Clear All Records: **All records can be cleared by clicking the **Clear Storage Cache**.
 
