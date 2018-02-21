@@ -90,17 +90,23 @@ See [Record Metadata ](/record/metatdata.md)for more information
 | Author \(Optional\) | Enter your LCC data manager as the “author.” You do not need to use individual names and can create a generic data manager for your LCC, but this is up to the individual LCC. |
 | Publisher \(Recommended\) | **Best Management Practice**: Enter your LCC as the "publisher" |
 
-**In Metadata/Identifier & Parent Metadata**
-
-See [Record Metadata ](/record/metatdata.md)for more information
+**In Metadata/Identifier**
 
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
-| Identifier \(Required\) | If the record was imported from ScienceBase, this field is auto-populated with the Universally Unique Identifier \(UUID\). |
-|  | If the record was created new in mdEditor, mdEditor creates the metadata identifier \(UUID\). It is recommended that you do not change this identifier. |
+| Identifier \(Required\) | If a record was imported from ScienceBase, this field is auto-populated UUID identifier; |
+|  | If a record is created new in mdEditor, mdEditor creates a UUID.|
+**Parent Metadata**
+See [Parent Metadata](/record/metatdata/parent-metadata.md) for more information
+
+
+| Field | Instructions/Notes on Entering |
+| :--- | :--- |
 | Parent Metadata \(Required\) | Parent Metadata** **is used to define the folder on ScienceBase where the project or product will be published to. Items added to the parent folder are considered children \(or child items\) of that folder. |
-|  | **Enter the ScienceBase ID \(SBID\) of the parent item**--if the record was imported from ScienceBase, this field is auto populated. If the record was created new in mdEditor \(and has a corresponding parent item in ScienceBase\), the identification information should be put here. Double check that these values are correct; If this record is created new in mdEditor and does not exist in ScienceBase, populate the parent metadata with the parent SBID, if present in ScienceBase. Recommended workflow is 1\) complete project metadata, 2\) complete child product metadata and associate the items. In this way, parent-child relationships can be defined. \(See [Parent Metadata ](/record/metatdata/parent-metadata.md)for more information\) |
+|  | Enter the ScienceBase ID of the parent item--if record was imported from ScienceBase, this field is auto populated; if record is created new in mdEditor and has a corresponding parent item in ScienceBase, the identification information should be populated here. Double-check that these values are correct; If this record is created new in mdEditor and does not exist in ScienceBase, populate the parent metadata with the parent ScienceBase identifier, if present in ScienceBase. Recommended workflow is 1\) complete project metadata, 2\) complete child product metadata and associate the items. In this way, parent-child relationships can be defined. |
 |  | **Note:** If items are moved in ScienceBase, and the parent metadata is not changed in mdEditor, when mdEditor publishes to ScienceBase, the parent-child relationships in ScienceBase will be overwritten. |
+
+
 
 **In Metadata/Repositories**
 
