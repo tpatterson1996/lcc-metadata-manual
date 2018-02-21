@@ -146,7 +146,7 @@ See [Record Extent ](/record/record-extent.md)for more information about how to 
 | The bounding box does not work across datelines. However, you can have more than one extent, so if your area crosses a dateline, split the area and create separate extents. |
 | **Best Management Practices: ** |
 | Extents should be simple with a modest number of vertices. The extent is for display and discovery only. |
-| Shapefiles are limited to 5000 vertices. It is recommend that you create only simple polygons or bounding boxes. If you want greater detail, attach high-definition shapefiles instead of trying to draw them. |
+| Shapefiles are limited to 5000 vertices. It is recommended that you create only simple polygons or bounding boxes. If you want greater detail, attach high-definition shapefiles instead of trying to draw them. |
 
 ---
 
