@@ -128,16 +128,12 @@ See [Record Keywords ](/record/keywords.md)for more information about editing an
 
 | Thesaurus | Instructions | Notes |
 | :--- | :--- | :--- |
-| LCC Delivery Type Thesaurus | Choose from picklist \(Deliver\) |  |
-| LCC End User Type Thesaurus | Choose from picklist \(Usertype-optional\) |  |
-| Custom Thesaurus | Title thesaurus as EndUsers \(endusers-optional\) | Enter enduser keywords that do not appear in the usertype keywords |
-| ISO Topic Category Thesaurus | Choose from picklist \(topicCategory\) |  |
-| Custom Thesaurus | Title thesaurus as subject \(subject-optional\) | Enter Subject Keywords |
-| Custom Thesaurus | Title thesaurus as geographic \(geog-optional\) | Enter geographic keywords |
-| Custom Thesaurus | Title thesaurus as Conservation Target \(ConservationTarget-optional\) | Enter conservation target keywords |
-| Custom Thesaurus | Title thesaurus as State/Province \(state/province-optional\) | Enter state/Province keywords\* |
-| Congressional Districts | \[congdist\] | Recommend to include geographic extent to mdEditor \(see Extent TAB, below\). Congressional districts can be derived later. \(BMP\) |
-| GCMD Science Thesaurus | Choose from picklist and include full path \(recommended\) |  |
+| GCMD Science Keywords | Choose from picklist and include full path. | GCMD \(Global Change Master Directory keywords\) are built and maintained by NASA. GCMD keywords are listed by category. It is recommended that you click Full Path when editing these keywords to maintain their category. |
+| ISO Topic Category Thesaurus | Choose from picklist. | \(International Organization for Standardization\) topics were built and maintained by the ISO Technical Committee and are required for the development of ISO metadata. It's recommended that you use at least one of these keywords so metadata remains ISO compliant. |
+| LCC Project Category Keywords | Choose from picklist. | LCC \(Landscape Conservation Cooperatives\) Keywords are maintained by the national LCCs and required for any LCC metadata. |
+| LCC Deliverable Type Thesaurus | Choose from picklist. |  |
+| LCC End User Thesaurus | Choose from picklist. |  |
+| Custom Thesaurus | Title thesaurus as EndUsers, | Enter end user keywords that do not appear in the usertype keywords |
 
 ---
 
