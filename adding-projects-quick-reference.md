@@ -128,7 +128,7 @@ See [Record Keywords ](/record/keywords.md)for more information about editing an
 | ISO Topic Category Thesaurus | Choose from picklist. | \(International Organization for Standardization\) topics were built and maintained by the ISO Technical Committee and are required for the development of ISO metadata. It's recommended that you use at least one of these keywords so metadata remains ISO compliant. |
 | LCC Project Category Keywords | Choose from picklist. | LCC \(Landscape Conservation Cooperatives\) Keywords are maintained by the national LCCs and required for any LCC metadata. |
 | LCC Deliverable Type Thesaurus | Choose from picklist. |  |
-| LCC End User Type Thesaurus | Choose from picklist. |  |
+| LCC End User Thesaurus | Choose from picklist. |  |
 | Custom Thesaurus | Title thesaurus as EndUsers, | Enter end user keywords that do not appear in the usertype keywords |
 
 ---

@@ -128,7 +128,6 @@ See [Record Keywords ](/record/keywords.md)for more information about editing an
 
 | Thesaurus | Instructions | Notes |
 | :--- | :--- | :--- |
-| LCC Category Thesaurus | Choose from picklist \(Category\) |  |
 | LCC Delivery Type Thesaurus | Choose from picklist \(Deliver\) |  |
 | LCC End User Type Thesaurus | Choose from picklist \(Usertype-optional\) |  |
 | Custom Thesaurus | Title thesaurus as EndUsers \(endusers-optional\) | Enter enduser keywords that do not appear in the usertype keywords |
