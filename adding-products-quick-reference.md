@@ -175,9 +175,9 @@ See [Record Extent ](/record/record-extent.md)for more information about how to 
 | Notes |
 | :--- |
 | Not required for LCC product metadata, but recommended. Lineage tab designed for documenting the creation of spatial data metadata |
-| Can document who did the process, including  role and contact.  |
+| Can document who did the process, including  role and contact. |
 | If you have citation for a manual, you can simply create a citation instead of having to enter the information into the metadata |
-| Use the Sources field to indicate what you used to create the product and then write a statement \(can do instead of writing all other steps\).  |
+| Use the Sources field to indicate what you used to create the product and then write a statement \(can do instead of writing all other steps\). |
 
 ---
 
@@ -185,11 +185,11 @@ See [Record Extent ](/record/record-extent.md)for more information about how to 
 
 | Field | Notes |
 | :--- | :--- |
-| Distribution \(Required\) | This document how people go about obtaining your product \(e.g., your website, download from PI website, from an archive, etc.\). If it’s not online, describe how to obtain it \(e.g., not available to public but contact someone to obtain\). |
-|  | **Note: **This section will most likely simply involve adding distributer information and URL for data products that are hosted elsewhere. \(e.g., if The Nature Conservancy is hosting a data source, the distributor is The Nature Conservancy and then enter link to location of distribution\). |
+| Distribution \(Required\) | This documents how people go about obtaining your product \(e.g., your website, download from PI website, from an archive, etc.\). If it’s not online, describe how to obtain it \(e.g., not available to public but contact someone to obtain\). |
+|  | **Note: **This section will most likely simply involve adding distributer information and URL for data products that are hosted elsewhere. \(e.g., if The Nature Conservancy is hosting a data source, the distributor is "The Nature Conservancy" and then enter a link to location of distribution\). |
 | Distributor Contact \(Required\) | Enter contact from contact list |
 | Distributor Role \(Required\) | Input “distributor” |
-| Transfer Size \(Recommended\) | Describe size of resource in MB. |
+| Transfer Size \(Recommended\) | Describe size of resource \(in MB\). |
 | Distribution Units \(If Applicable\) | Used for items with unique units \(e.g. USGS quads\). If this is not applicable, leave blank. |
 | Online Options \(If Applicable\) | Add URL here and type of URL space. If it’s a direct download, select “download.” If it goes to an informational page, select “information.” |
 | Offline Options \(If Applicable\) | Add contact information for how to obtain product offline. |
