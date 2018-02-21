@@ -1,4 +1,4 @@
-# Record Funding
+## Record Funding
 
 ---
 
@@ -8,11 +8,11 @@ Tracking funding in the metadata allows for identification of funding sources, c
 
 ---
 
-Required fields include:
+**Required fields include:**
 
-* **Allocation**: Describes how the funds were allocated. Adding allocation allows LCC staff to see where funding came from and how it was distributed. It also lets staff find your items when searching for specific funders. Consult the [**Allocation**](/record/edit/record-funding/allocation.md) section of this manual to learn how to add allocations. 
+* **Allocation**: Describes how the funds were allocated. Adding allocation allows LCC staff to see where funding came from and how it was distributed. It also lets staff find your items when searching for specific funders. Consult the [**Allocation**](/record/edit/record-funding/allocation.md) section of this manual to learn how to add allocations.
 
-* **Time Period**: Describes the time period during the allocation of funds. Adding a time period lets LCC staff know when your items were funded, and lets them find your item when searching for items funded in a similar time period. Consult the** **[**Time Period**](/record/edit/record-funding/time-period.md) section of this manual to learn how to edit the time period. 
+* **Time Period**: Describes the time period during the allocation of funds. Adding a time period lets LCC staff know when your items were funded, and lets them find your item when searching for items funded in a similar time period. Consult the** **[**Time Period**](/record/edit/record-funding/time-period.md) section of this manual to learn how to edit the time period.
 
 ---
 

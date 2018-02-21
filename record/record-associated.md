@@ -1,4 +1,4 @@
-# Record Associated
+## Record Associated
 
 ---
 
@@ -10,15 +10,17 @@ The **Associated** section is used to connect items with each other. This featur
 
 ## Create Associations
 
-There are two ways to create associations. You can either associate a product with a project, **or **associate a project with a product.
+There are two ways to create associations. You can either associate a product with a project, **or **associate a project with a product \(detailed explanation with screenshots included below chart\).
 
-| Create an Association in PRODUCTS | Create an Association in PROJECTS |
+| Create an Association in PRODUCTS  | Create an Association in PROJECTS  |
 | :--- | :--- |
 | Select **parentProject** from the Association Type drop down menu. This describes the relationship between the product and its parent project. | Select **product** from the Association Type drop down menu. This describes the relationship between the product and its parent project. |
 | Use the\_ Select a Record \_button to select an associated project. | Use the_ Select a Record_ button to select an associated product. |
 | Select the **Project** that you would like to associate to from the _Select a Resource_ list. | Select the **Product** that you would like to associate to from the_ Select a Resource_ list. |
 
-#### Create an Association in Products
+---
+
+### Create an Association in Products
 
 **Step 1: Select Association Type**
 
