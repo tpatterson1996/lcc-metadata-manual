@@ -24,7 +24,7 @@
 
 > ![](/assets/note_small.png) Parent-Child refers to how the records are organized and displayed on ScienceBase; this is different than the Project and Product associations that are embedded within the metadata records.
 >
-> ![](/assets/note_small.png)**Note:** If you do not want these parent IDs to change,** do not** drag and drop these records in the publishing outline.
+> ![](/assets/note_small.png)If you do not want these parent IDs to change,** do not** drag and drop these records in the publishing outline.
 
 ---
 
@@ -81,6 +81,7 @@ _You** have **existing parent-child relationships on ScienceBase and/or you have
 1. To select a record to publish, click on it and it will turn green \(click again to un-select it\).
 
    > ![](/assets/note_small.png)**Note:** You cannot publish a record without a parent ID.
+   >
    > * Sending a non-existent parent ID to ScienceBase will return an error.
    > * If records contain parent IDs in the metadata, you can choose to publish products without publishing their parent projects.
 
