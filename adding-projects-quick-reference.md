@@ -157,7 +157,7 @@ See [Record Extent ](/record/record-extent.md)for more information about how to 
 | Notes on Associated Records |
 | :--- |
 | The Associated section is used to connect items with each other. This feature should be used when items are related. I.E. Products are often the result of projects, and projects often have sub-projects. All of these can be linked together by means of association. |
-| If the product record is from ScienceBase and it was linked \(as an Associated Item of type "product of"\) to its ScienceBase Project record, then the Associated tab will already should be populated correctly, but should be reviewed for accuracy. |
+| If the product record is from ScienceBase and it was linked \(as an Associated Item of type "product of"\) to its ScienceBase Project record, then the Associated tab will already be populated correctly, but should be reviewed for accuracy. |
 | If not associated from ScienceBase, you can associate in this section. Make sure that the relevant Product record is loaded into mdEditor. Choose “product” as the Association Type. If entering a sub-project of a project, select “subProject”. Click "Select a Record" \(on the right\), find the product record, and select it. This will fill in all the needed fields for the current association |
 
 ---
