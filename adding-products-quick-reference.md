@@ -8,11 +8,13 @@ This page will provide a brief overview of required fields for a metadata Produc
 
 ### Required/Recommended Fields for Products:
 
-To see the fields described in this Quick Reference, select the green edit button next to an existing record in the left vertical menu, or [create a new record](/record-new.md).
+_To see the fields described in this Quick Reference, select the green edit button next to an existing record in the left vertical menu, or _[_create a new record_](/record-new.md)_._
 
 #### **Main Tab**
 
 ##### **In Main/Basic Information, Resource Type, Point of Contacts**
+
+See [Record Main](/record/main.md) for more information
 
 | **Field** | **Instructions/Notes on Entering** |
 | :--- | :--- |
@@ -20,11 +22,13 @@ To see the fields described in this Quick Reference, select the green edit butto
 | Title \(Required\) | Enter a title. **Best Management Practice \(BMP\): **Since products and projects are independent records, we recommend having as informative a title as possible. Good titles, when they appear in a search, will be understood and/or traceable. |
 | Status \(Required\) | Choose status ONLY from the four following options: Completed, On Going, Proposed, or Accepted. |
 | Default Locale \(Required\) | Language should be set to _**English**,_ Character set to_ **UTF-**_**8,** Country set to_ **USA. **_ |
-| Resource Type \(Required\) | Enter appropriate item from pick-list. It is important to properly identify the resource type for improved discoverability. The most commonly used product resource types are: _report, document, publication, presentation, factsheet, user guide, dataset \(geographic\), tile \(geographic raster\), non-geographic dataset, tabular dataset map, model, photographic image, application \(online\), software, and website._ |
-| Point of Contact \(Required\) | Enter the LCC Network Data Steward as a “pointOfContact.” This is important so that there is a point of contact that users can reach even if there is a positional change in an organization |
-|  | **Best Management Practice**:  Enter your **LCC** as "administrator" and the Project PI as "principalInvestigator." |
+| Resource Type \(Required\) | Enter appropriate item from picklist. It is important to properly identify the resource type for improved discoverability. The most commonly used product resource types are: _report, document, publication, presentation, factsheet, user guide, dataset \(geographic\), tile \(geographic raster\), non-geographic dataset, tabular dataset map, model, photographic image, application \(online\), software, and website._ |
+| Point of Contact \(Required\) | Enter the LCC Network Data Steward as a “pointOfContact.” This is important so that there is a point of contact that users can reach even if there is a positional change in an organization \(see [Contacts ](/contacts.md)for more information\).  |
+|  | **Best Management Practice**:  Enter your LCC as "administrator" and the Project PI as "principalInvestigator." |
 
 **In Main/Citation**
+
+See [Main Citation ](/record/main/citation.md)for more information
 
 | Field | Instructions/Notes On Entering |
 | :--- | :--- |
