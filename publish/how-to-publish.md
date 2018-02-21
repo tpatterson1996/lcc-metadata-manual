@@ -40,7 +40,7 @@ Items directly below the ScienceBase header will be published under the ScienceB
 
 You can drag and drop records to establish the parent-child relationship, eliminating the need to establish the relationship in ScienceBase. This will also allow you to move items around \(e.g., move a product from one project to another\) and have that change be reflected on ScienceBase. Remember, this is only about parent-child relationships on ScienceBase, not about project-product associations.
 
-> ![](blob:https://www.gitbook.com/fe16359f-99e9-4581-8efc-13de9259ee38)If you do not want these parent IDs to change, **do not **drag and drop these records in the publishing outline.
+> ![](/assets/note_small.png)If you do not want these parent IDs to change, **do not **drag and drop these records in the publishing outline.
 
 **General Notes on Parent IDs:**
 
