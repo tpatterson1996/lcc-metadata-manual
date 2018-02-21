@@ -108,8 +108,8 @@ See [Record Metadata ](/record/metatdata.md)for more information
 
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
-| Repository | For **Projects **that should be listed in the LCC Science Catalog, Enter “LCCScienceCatalog” from the pick-list as the repository and “LCC Network Science Catalog” as the collection title.** Note**: this is  a free-text field so the title must be exactly the same in order to insure that the metadata is harvested for the LCC Science Catalog.\) |
-|  | For **Data Products **that should be shared with Data.gov, Enter “data.gov” and “data.gov” from the picklist as the repository and enter “data.gov” followed by your LCC name as the collection title. **Note:** this is a free-text field so the title must be exactly the same in order to insure that the metadata is harvested for the LCC Science Catalog. |
+| Repository | For **Projects **that should be listed in the LCC Science Catalog, Enter “LCCScienceCatalog” from the pick-list as the repository and “LCC Network Science Catalog” as the collection title.** Note**: this is  a free-text field so the title must be exactly the same in order to ensure that the metadata is harvested for the LCC Science Catalog.\) |
+|  | For **Data Products **that should be shared with Data.gov, Enter “data.gov” and “data.gov” from the picklist as the repository and enter “data.gov” followed by your LCC name as the collection title. **Note:** this is a free-text field so the title must be exactly the same in order to ensure that the metadata is harvested for the LCC Science Catalog. |
 |  | **Best Management Practice**: In Settings, create default repositories to help maintain precise titles |
 
 **In Metadata/Online Resources**
@@ -176,7 +176,7 @@ See [Record Extent ](/record/record-extent.md)for more information about how to 
 
 ---
 
-### Distribution Tab 
+### Distribution Tab
 
 | Field | Notes |
 | :--- | :--- |
