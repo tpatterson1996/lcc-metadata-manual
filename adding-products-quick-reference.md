@@ -10,8 +10,6 @@ This page will provide a brief overview of required fields for a metadata Produc
 
 _To see the fields described in this Quick Reference, select the green edit button next to an existing record in the left vertical menu, or _[_create a new record_](/record-new.md)_._
 
-
-
 #### **Main Tab**
 
 ##### **In Main/Basic Information, Resource Type, Point of Contacts**
@@ -110,8 +108,8 @@ See [Record Metadata ](/record/metatdata.md)for more information
 
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
-| Repository | For **Projects **that should be listed in the LCC Science Catalog, Enter “LCCScienceCatalog” from the pick-list as repository and “LCC Network Science Catalog” as collection title \(these should be entered in your Settings as default repositories.** Note**: this is  a free-text field so the title must be exactly the same in order to insure that the metadata is harvested for the LCC Science Catalog.\) |
-|  | For **Data Products **that should be shared with Data.gov, Enter “data.gov” and “data.gov” from the pick-list as repository and enter “data.gov” followed by your LCC name as the collection title. **Note:** this is a free-text field so the title must be exactly the same in order to insure that the metadata is harvested for the LCC Science Catalog.\) |
+| Repository | For **Projects **that should be listed in the LCC Science Catalog, Enter “LCCScienceCatalog” from the pick-list as the repository and “LCC Network Science Catalog” as the collection title.** Note**: this is  a free-text field so the title must be exactly the same in order to insure that the metadata is harvested for the LCC Science Catalog.\) |
+|  | For **Data Products **that should be shared with Data.gov, Enter “data.gov” and “data.gov” from the picklist as the repository and enter “data.gov” followed by your LCC name as the collection title. **Note:** this is a free-text field so the title must be exactly the same in order to insure that the metadata is harvested for the LCC Science Catalog. |
 |  | **Best Management Practice**: In Settings, create default repositories to help maintain precise titles |
 
 **In Metadata/Online Resources**
