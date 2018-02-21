@@ -21,7 +21,7 @@ The profile drop-down menu limits the number of available tabs depending on whic
 
 ### Navigation When Editing Records
 
-* When editing a Metadata record, navigation **breadcrumbs** appear in light blue on top of the form. These can be used to navigate.
+* When editing a Metadata record, navigation **breadcrumbs** appear in light blue on top of the form. These can be used to navigate while editing a record.
 
 * The **sub-menu navigation bar** is located below the breadcrumbs.  These change depending on what function is in use.
 
