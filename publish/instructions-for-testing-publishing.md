@@ -8,9 +8,7 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 
    If You** do not already** have items on ScienceBase. Choose a project and its products to test.
 
-   > ![](/assets/best_practice_small.png)
-   >
-   > **Best Practice**: It's recommended that you export a project and its products into its own mdEditor file. Set default parent identifier as a test folder.
+   > ![](/assets/best_practice_small.png)It's recommended that you export a project and its products into its own mdEditor file. Set default parent identifier as a test folder.
 
    If you** DO** already have items on ScienceBase, chose one of the following approaches. Note that it will be harder to test without it affecting your real records.
 
@@ -26,9 +24,9 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 
 5. Look for any errors in the third column. If you see an error that is 400 and red, it’s a problem that you can address. However, If it’s a 500 level error in red, that is a ScienceBase error that is outside the scope of the mdEditor.
 
-   > ![](/assets/publishing_error.png)![](/assets/note_small.png)**Note**: Any unsolvable issues can be submitted on the issues page for mdEditor: [https://github.com/adiwg/mdEditor/issues](https://www.gitbook.com/book/adiwg/mdeditor/edit#). You must have a github account in order to post.
+   > ![](/assets/publishing_error.png)![](/assets/note_small.png)Any unsolvable issues can be submitted on the issues page for mdEditor: [https://github.com/adiwg/mdEditor/issues](https://www.gitbook.com/book/adiwg/mdeditor/edit#). You must have a github account in order to post.
    >
-   > ![](/assets/note_small.png)**Note:** Advanced users can check errors using the console. Consult the **Advanced Users **section of this manual to learn more.
+   > ![](/assets/note_small.png)Advanced users can check errors using the console. Consult the **Advanced Users **section of this manual to learn more.
 
 6. Verify that your test records have published as expected in your test folder on ScienceBase \(or to the real record if that’s how you are testing\).
 
