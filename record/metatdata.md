@@ -18,7 +18,7 @@ Record Metadata allows you to describe your record's metadata, including a descr
 
   * For **Data Products** that should be shared with Data.gov, Enter “data.gov” and “data.gov” from the picklist as repository and enter “data.gov” followed by your LCC name as the collection title. **Note**: this is a free-text field, so the repository title must be exactly the same for every metadata record to insure proper harvesting of metadata
 
-> ![](/assets/best_practice_small.png)**Best Management Practice**: In Settings, create default repositories to help maintain precise titles
+> ![](/assets/best_practice_small.png)In Settings, create default repositories to help maintain precise titles
 
 ![](/assets/metadata_window.png)
 
