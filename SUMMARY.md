@@ -38,6 +38,9 @@
     * [Record Funding](record/record-funding.md)
       * [Allocation](record/record-funding/allocation.md)
       * [Time Period](record/record-funding/time-period.md)
+* [Contacts](contacts.md)
+  * [Individual Contacts](contacts/individual-contact.md)
+  * [Organization Contacts](contacts/organization-contacts.md)
 * [Glossary of Terms](glossary-of-terms.md)
 * [Appendix](appendix.md)
 
