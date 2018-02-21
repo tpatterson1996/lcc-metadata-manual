@@ -10,6 +10,8 @@ This page will provide a brief overview of required fields for a metadata Produc
 
 _To see the fields described in this Quick Reference, select the green edit button next to an existing record in the left vertical menu, or _[_create a new record_](/record-new.md)_._
 
+![](/assets/products_pencil_button.png)
+
 #### **Main Tab**
 
 ##### **In Main/Basic Information, Resource Type, Point of Contacts**
