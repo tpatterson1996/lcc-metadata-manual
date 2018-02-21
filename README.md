@@ -1,4 +1,4 @@
-# User Manual: mdEditor for LCCs
+# User Manual: mdEditor for LCCs 
 
 ---
 
@@ -36,6 +36,4 @@ _The following diagram describes the science catalog system architecture._
 > For more information, see ScienceBase in the glossary of terms.
 
 ![](/assets/science_catalog_system_architecture.png)
-
-
 
