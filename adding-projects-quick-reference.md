@@ -77,7 +77,7 @@ See [Record Metadata ](/record/metatdata.md)for more information
 
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
-| Metadata Status \(Required\) | Choose Status from the Metadata Pick-list |
+| Metadata Status \(Required\) | Choose Status from the Metadata Picklist |
 | Date \(Required\) | Enter a date for "creation" or "last updated" |
 
 **In Metadata/Contacts**
