@@ -8,7 +8,9 @@ This page will provide a brief overview of required fields for a metadata Projec
 
 ### Overview of Required/Recommended Fields for Projects:
 
-To_ see the fields described in this Quick Reference, select the green edit button next to an existing record in the left vertical menu, or _[_create a new record_](/record-new.md)_._
+To_ see the fields described in this Quick Reference, select the green pencil button next to an existing record in the left menu, or _[_create a new record_](/record-new.md)_._
+
+![](/assets/pencil_button.png)
 
 ### **Main Tab**
 
@@ -21,7 +23,7 @@ See [Record Main](/record/main.md) for more information
 | Record ID \(Required\) | The Record ID will be generated automatically. |
 | Title \(Required\) | Enter a title. **Best Management Practice \(BMP\): **Since products and projects are independent records, we recommend having as informative a title as possible. Good titles, when they appear in a search, will be understood and/or traceable. |
 | Status \(Required\) | Choose status ONLY from the four following options: _Completed, On Going, Proposed, or Accepted._ |
-| Default Locale \(Required\) | Language should be set to _English,_ Character set to_ UTF-_8, Country set to_ USA. _ |
+| Default Locale \(Required\) | Language should be set to _English,_ Character set to_ UTF-\_8, Country set to_ USA. \_ |
 | Resource Type \(Required\) | Select "Project" from the picklist. |
 | Point of Contact \(Required\) | From the Role drop-down menu, select **pointOfContact**. From the Contacts drop-down menu, select **contact** from the list of contacts. |
 |  | **Best Management Practice: **Enter \(1\) your** LCC **and \(2\) **the LCC Network Data Steward** as "pointOfContacts." This way there is a point of contact that users can reach even if there is a positional change in an organization |
