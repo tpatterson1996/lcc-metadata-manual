@@ -2,7 +2,11 @@
 
 ---
 
-The Import function will allow the contents of an mdEditor or [mdJSON file](https://github.com/adiwg/mdJson-schemas/blob/master/test/draft-04.json)  file to be incorporated into the current metadata record.
+The Import function will allow the contents of an mdEditor or [mdJSON file](https://github.com/adiwg/mdJson-schemas/blob/master/test/draft-04.json)  file to be incorporated into the current metadata record. The Import functionality lets you load the most recent records and load records that were exported from another browser
+
+---
+
+.
 
 ![](/assets/import_window.png)
 
@@ -25,12 +29,12 @@ While importing data, there are three options available in the Action Menu \(on 
 ![](/assets/import_data_action_menu.png)
 
 * **Click to Import Data**
-  : Imports selected records and contacts.
+  *  Imports selected records and contacts.
 * **Cancel Import**
-  : Cancels the current import.
+  *  Cancels the current import.
 * **Replace/Merge**
-  : Replaces or merges the current record.
-  > ![](/assets/best_practice_small.png)To import Settings, you should set the import to “Replace.” Generally, it is best practice to set the mode back to “Merge,” once you’ve finished importing the settings.
+  *  Replaces or merges the current record.
+    > ![](/assets/best_practice_small.png)To import Settings, you should set the import to “Replace.” Generally, it is best practice to set the mode back to “Merge,” once you’ve finished importing the settings.
 
 
 
