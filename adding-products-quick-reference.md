@@ -2,7 +2,7 @@
 
 ---
 
-This page will provide a brief overview of required fields for a metadata Product record, for more in-depth information, rationale and instructions, please see the relevant section page.
+This page will provide a brief overview of required fields for a metadata Product record, for more in-depth information, rationale, and instructions, please see the relevant section page.
 
 ---
 
