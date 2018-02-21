@@ -36,7 +36,7 @@ While exporting data, there are four options available in the Action Menu \(on t
 
 #### General Notes on Exporting
 
-> ![](/assets/best_practice_small.png)**Best Practice: **When Exporting Contacts, it is recommended that you export all contacts together. When you import a project, if the contacts list isn't complete, the record may show an error and you will be unable to re-add the contact to the record.
+> ![](/assets/best_practice_small.png)** **When Exporting Contacts, it is recommended that you export all contacts together. When you import a project, if the contacts list isn't complete, the record may show an error and you will be unable to re-add the contact to the record.
 
 
 
