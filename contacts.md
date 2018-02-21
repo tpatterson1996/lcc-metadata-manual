@@ -2,22 +2,24 @@
 
 ---
 
-Contacts are individuals or organizations that can be referenced by other contacts, projects, or products. Contacts contain information such as name of individuals or organization, email address, physical address, website, and phone number so that viewers of metadata can communicate with those affiliated with a metadata record. They also allow LCC staff to know who is responsible for or participated in: the creation and maintenance of projects and products; funding of projects; and creation and maintenance of metadata.
+Contacts are individuals or organizations that can be referenced by other contacts, projects, or products. Contacts contain information such as name of individuals or organization, email address, physical address, website, and phone number so that viewers of metadata can communicate with those affiliated with a metadata record. They also allow LCC staff to know who is responsible for, or participated in: the creation and maintenance of projects and products; funding of projects; and creation and maintenance of metadata.
 
 ---
 
 ### Minimum Requirements
 
-> ![](/assets/lcc_required_small.png)All LCC records require at least one contact to serve as a point of contact for projects and products. One contact must be  LCC Network Data Steward. The LCC data steward will serve as the long term contact/backup if LCC staff are not available. The LCC Network Data Steward's contact information is as follows.
+> ![](/assets/lcc_required_small.png)All LCC records require at least one contact to serve as a point of contact for projects and products. One contact must be  LCC Network Data Steward. The LCC data steward will serve as the long term contact/backup if LCC staff are not available. 
+>
+> **The LCC Network Data Steward's contact information is as follows.**
 >
 > * Individual Name: **LCC Network Data Steward**
 > * Position Name: **LCC Network Data Manager**
 > * Contact Type: **lcc**
 > * E-mail Addresses: **lccdatasteward@fws.gov**
 >
-> Consult the [**Individual Contact**](/contact/individual-contact.md) section of this manual to learn how to add this information and create the Network Data Steward.
+> Consult the [**Individual Contact**](/contact/individual-contact.md) section of this manual to learn how to add this information. 
 >
-> ![](/assets/lcc_required_small.png)You must create an organization contact for your LCC and any organization that is involved in your project or product \(partner, co-funder, etc.\) if there is not one already. Consult the [**Organization Contacts**](/contact/organization-contacts.md) section of this manual to learn what fields are required.
+> ![](/assets/lcc_required_small.png)You must create an organization contact for your LCC and any organization that is involved in your project or product \(partner, co-funder, etc\), if there is not one already. Consult the [**Organization Contacts**](/contact/organization-contacts.md) section of this manual to learn what fields are required.
 
 ---
 
