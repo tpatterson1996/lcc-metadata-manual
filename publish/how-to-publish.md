@@ -48,7 +48,7 @@ You can drag and drop records to establish the parent-child relationship, elimin
 * Parent IDs established through the relationships in the publishing outline will overwrite existing parent IDs in the metadata.
 * Dragging and dropping a record onto the ScienceBase header at the top will set that record’s parent ID to the default parent ID you identified in settings.
 * If you have existing parent IDs in your metadata \(and want to keep them as is\), **do not** drag and drop those records onto the ScienceBase header-- this will erase the existing parent ID and insert what you have set as the default parent identifier.
-  > ![](/assets/best_practice_small.png)**Best practice: **If you have projects and associated products, make sure you have them in mdEditor at the same time and manage them at the same time.
+  > ![](/assets/best_practice_small.png)If you have projects and associated products, make sure you have them in mdEditor at the same time and manage them at the same time.
 
 ---
 
@@ -80,7 +80,7 @@ _You** have **existing parent-child relationships on ScienceBase and/or you have
 
 1. To select a record to publish, click on it and it will turn green \(click again to un-select it\).
 
-   > ![](/assets/note_small.png)**Note:** You cannot publish a record without a parent ID.
+   > ![](/assets/note_small.png) You cannot publish a record without a parent ID.
    >
    > * Sending a non-existent parent ID to ScienceBase will return an error.
    > * If records contain parent IDs in the metadata, you can choose to publish products without publishing their parent projects.
