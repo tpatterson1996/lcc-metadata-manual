@@ -107,7 +107,7 @@ See [Record Metadata ](/record/metatdata.md)for more information
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
 | Repository \(Required\) | For Projects that should be listed in the LCC Science Catalog, Enter “LCCScienceCatalog” from the picklist as repository and “LCC Network Science Catalog” as collection title \(these should be entered in your Settings as default repositories.** Note**: this is  a free-text field, so the title must be exactly the same in order to insure that the metadata is harvested for the LCC Science Catalog.\) |
-|  | For data Products that should be shared with Data.gov, Enter “data.gov” and “data.gov” from the pick-list as repository and enter “data.gov” followed by your LCC name as the collection title. **Note**: this is a free text field, so the repository title must be exactly the same for every metadata record to insure proper harvesting of metadata |
+|  | For data Products that should be shared with Data.gov, Enter “data.gov” and “data.gov” from the picklist as repository and enter “data.gov” followed by your LCC name as the collection title. **Note**: this is a free-text field, so the repository title must be exactly the same for every metadata record to insure proper harvesting of metadata |
 |  | **Best Management Practice**: In Settings, create default repositories to help maintain precise titles |
 
 **In Metadata/Online Resources**
@@ -154,9 +154,8 @@ See [Record Extent ](/record/record-extent.md)for more information about how to 
 
 | Notes on Associated Records |
 | :--- |
-| The Associated section is used to connect items with each other. This feature should be used when items are related. I.E. Products are often the result of projects, and projects often have sub projects. All of these can be linked together by means of association. |
-| Add items that are products of projects. |
-| If the product record is from ScienceBase and it was linked \(as an Associated Item of type "product of"\) to its ScienceBase Project record, then the Associated tab will already be populated correctly as described below, and should be reviewed. |
+| The Associated section is used to connect items with each other. This feature should be used when items are related. I.E. Products are often the result of projects, and projects often have sub-projects. All of these can be linked together by means of association. |
+| If the product record is from ScienceBase and it was linked \(as an Associated Item of type "product of"\) to its ScienceBase Project record, then the Associated tab will already should be populated correctly, but should be reviewed for accuracy. |
 | If not associated from ScienceBase, you can associate in this section. Make sure that the relevant Product record is loaded into mdEditor. Choose “product” as the Association Type. If entering a sub-project of a project, select “subProject”. Click "Select a Record" \(on the right\), find the product record, and select it. This will fill in all the needed fields for the current association |
 
 ---
@@ -167,7 +166,8 @@ See [Record Funding](/record/record-funding.md) for information on entering fund
 
 | Notes |
 | :--- |
-| Funding is required for projects only. Funding information is not required for products. Funding information is populated from ScienceBase for imported records. |
+| Funding is required for projects only. Funding information is populated from ScienceBase for imported records. |
+|  |
 
 ---
 
