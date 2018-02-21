@@ -23,7 +23,7 @@ See [Record Main](/record/main.md) for more information
 | Status \(Required\) | Choose status ONLY from the four following options: Completed, On Going, Proposed, or Accepted. |
 | Default Locale \(Required\) | Language should be set to _**English**,_ Character set to_ **UTF-**_**8,** Country set to_ **USA. **_ |
 | Resource Type \(Required\) | Enter appropriate item from picklist. It is important to properly identify the resource type for improved discoverability. The most commonly used product resource types are: _report, document, publication, presentation, factsheet, user guide, dataset \(geographic\), tile \(geographic raster\), non-geographic dataset, tabular dataset map, model, photographic image, application \(online\), software, and website._ |
-| Point of Contact \(Required\) | Enter the LCC Network Data Steward as a “pointOfContact.” This is important so that there is a point of contact that users can reach even if there is a positional change in an organization \(see [Contacts ](/contacts.md)for more information\).  |
+| Point of Contact \(Required\) | Enter the LCC Network Data Steward as a “pointOfContact.” This is important so that there is a point of contact that users can reach even if there is a positional change in an organization \(see [Contacts ](/contacts.md)for more information\). |
 |  | **Best Management Practice**:  Enter your LCC as "administrator" and the Project PI as "principalInvestigator." |
 
 **In Main/Citation**
@@ -34,9 +34,9 @@ See [Main Citation ](/record/main/citation.md)for more information
 | :--- | :--- |
 | Title \(Auto-Generated\) | Added automatically based on the title of your record. |
 | Alternate Title \(Optional\) | Enter a shorter title. |
-| Dates \(Optional\) | Enter _acquisition, creation, revision,_ or another date reference from the pick-list and then enter the date. |
+| Dates \(Optional\) | Enter _acquisition, creation, revision,_ or another date reference from the picklist and then enter the date. |
 | Responsible Parties \(Required\) | Enter your LCC as "administrator." |
-|  | Enter the Network Data Steward as "pointOfContact." This is important so that there is a point of contact that users can reach even if there is a positional change in an organization |
+|  | Enter the Network Data Steward as "pointOfContact." This is important so that there is a point of contact that users can reach even if there is a positional change in an organization \(see [Contacts ](/contacts.md)for more information\). |
 |  | **Best Management Practice:** Add your LCC, and the project PI. Enter your LCC as "administrator" and the Project PI as "principalInvestigator." |
 |  | You can also add funders \(including your LCC, Partners, Collaborators, and/or Contributors\) |
 | Online Resources** **\(Required, If Available\) | Enter the URL for any project related website \(ie. PI has website information\) |
@@ -49,6 +49,8 @@ See [Main Citation ](/record/main/citation.md)for more information
 
 **In Main/Description**
 
+See [Record Main](/record/main.md) for more information
+
 | Field | Instructions/Notes On Entering |
 | :--- | :--- |
 | Abstract \(Required\) | **Best Management Practice**: Write your abstracts for projects in the present tense if the project is underway and past tense if it has been completed. |
@@ -56,6 +58,8 @@ See [Main Citation ](/record/main/citation.md)for more information
 | Supplemental Information \(Optional\) | Enter comments, if desired |
 
 **In Main/Time Period**
+
+See [Record Main](/record/main.md) for more information
 
 | Field | Instructions/Notes On Entering |
 | :--- | :--- |
@@ -67,12 +71,16 @@ See [Main Citation ](/record/main/citation.md)for more information
 
 **In Metadata/Basic Information**
 
+See [Record Metadata ](/record/metatdata.md)for more information
+
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
-| Metadata Status \(Required\) | Choose Status from Metadata Pick-list |
+| Metadata Status \(Required\) | Choose Status from Metadata Picklist |
 | Date \(Required\) | Enter a date for "creation," "last updated," or "finalized." |
 
 **In Metadata/Contacts**
+
+See [Record Metadata ](/record/metatdata.md)for more information
 
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
@@ -82,6 +90,8 @@ See [Main Citation ](/record/main/citation.md)for more information
 
 **In Metadata/Identifier & Parent Metadata**
 
+See [Parent Metadata](/record/metatdata/parent-metadata.md) for more information
+
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
 | Identifier \(Required\) | If record was imported from ScienceBase, this field is auto-populated with the ScienceBase identifier; |
@@ -89,18 +99,22 @@ See [Main Citation ](/record/main/citation.md)for more information
 |  | If there is a ScienceBase Identifier, you may enter it here, but if there are associated items, changing this identifier may void those connections. It is recommended to enter the ScienceBase identifier in Main/Citation/Identifier. |
 |  | **Best Management Practice**: If you know the ScienceBase identifier \(SBID\), add it in the metadata identifier _when you create the record_. When you start to associate the item, changing the metadata identifier can break the links. |
 | Parent Metadata \(Required\) | Parent Metadata** **is used to define the folder on ScienceBase where the project or product will be published to. Items added to the parent folder are considered children \(or child items\) of that folder. |
-|  | Enter the ScienceBase ID of the parent item--if record was imported from ScienceBase, this field is auto populated; if record is created new in mdEditor and has a corresponding parent item in ScienceBase, the identification information should be populated here, double check that these values are correct; If this record is created new in mdEditor and does not exist in ScienceBase, populate the parent metadata with the parent sciencebase identifier, if present in Sciencebase. Recommended workflow is 1\) complete project metadata, 2\) complete child product metadata and associate the items. In this way, parent-child relationships can be defined. |
+|  | Enter the ScienceBase ID of the parent item--if record was imported from ScienceBase, this field is auto populated; if record is created new in mdEditor and has a corresponding parent item in ScienceBase, the identification information should be populated here. Double-check that these values are correct; If this record is created new in mdEditor and does not exist in ScienceBase, populate the parent metadata with the parent ScienceBase identifier, if present in ScienceBase. Recommended workflow is 1\) complete project metadata, 2\) complete child product metadata and associate the items. In this way, parent-child relationships can be defined. |
 |  | **Note:** If items are moved in ScienceBase, and the parent metadata is not changed in mdEditor, when mdEditor publishes to ScienceBase, the parent-child relationships in ScienceBase will be overwritten. |
 
 **In Metadata/Repositories**
 
+See [Record Metadata ](/record/metatdata.md)for more information
+
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
-| Repository | For Projects that should be listed in the LCC Science Catalog, Enter “LCCScienceCatalog” from the pick-list as repository and “LCC Network Science Catalog” as collection title \(these should be entered in your Settings as default repositories.** Note**: this is  a free text field so the title must be exactly the same in order to insure that the metadata is harvested for the LCC Science Catalog.\) |
-|  | For data Products that should be shared with Data.gov, Enter “data.gov” and “data.gov” from the pick-list as repository and enter “data.gov” followed by your LCC name as the collection title. **Note:** this is a free text field so the title must be exactly the same in order to insure that the metadata is harvested for the LCC Science Catalog.\) |
+| Repository | For **Projects **that should be listed in the LCC Science Catalog, Enter “LCCScienceCatalog” from the pick-list as repository and “LCC Network Science Catalog” as collection title \(these should be entered in your Settings as default repositories.** Note**: this is  a free-text field so the title must be exactly the same in order to insure that the metadata is harvested for the LCC Science Catalog.\) |
+|  | For **Data Products **that should be shared with Data.gov, Enter “data.gov” and “data.gov” from the pick-list as repository and enter “data.gov” followed by your LCC name as the collection title. **Note:** this is a free-text field so the title must be exactly the same in order to insure that the metadata is harvested for the LCC Science Catalog.\) |
 |  | **Best Management Practice**: In Settings, create default repositories to help maintain precise titles |
 
 **In Metadata/Online Resources**
+
+See [Record Metadata ](/record/metatdata.md)for more information
 
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
@@ -149,7 +163,7 @@ See [Record Extent ](/record/record-extent.md)for more information about how to 
 
 | Field | Notes |
 | :--- | :--- |
-| Spatial \(Required for Datasets Only\) | Enter the type of spatial dataset from the pick-list. Common types include: _grid, tin, and vector._ |
+| Spatial \(Required for Datasets Only\) | Enter the type of spatial dataset from the picklist. Common types include: _grid, tin, and vector._ |
 | Spatial Resolution \(Recommended\) | Often geospatial metadata accompanying the geodata will include this detailed information. |
 |  | You can also import FGDC metadata into mdEditor. |
 |  | **Note**: It is undesirable to have multiple metadata files affiliated with a single product. |
@@ -160,10 +174,10 @@ See [Record Extent ](/record/record-extent.md)for more information about how to 
 
 | Notes |
 | :--- |
-| Not required for LCC product metadata, but recommended, designed for documenting the creation of spatial data metadata |
-| Can document who did the process - role and contact |
-| If you have citation for a manual, you can simply create a citation and not have to enter the information into the metadata |
-| Sources: What you used to create the product and then write a statement \(can do instead of writing all of the steps\) |
+| Not required for LCC product metadata, but recommended. Lineage tab designed for documenting the creation of spatial data metadata |
+| Can document who did the process, including  role and contact.  |
+| If you have citation for a manual, you can simply create a citation instead of having to enter the information into the metadata |
+| Use the Sources field to indicate what you used to create the product and then write a statement \(can do instead of writing all other steps\).  |
 
 ---
 
