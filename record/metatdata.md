@@ -4,6 +4,8 @@
 
 Record Metadata allows you to describe your record's metadata, including a description of the process of metadata creation, contributors to the creation of the metadata, and metadata repositories.
 
+---
+
 * **Metadata Contacts: **are required and selected from your list of contacts. Adding a metadata contact will give LCC staff a contact point should they have any questions about the metadata._ Consult the _[_**Contacts**_](/contacts.md)_** **section of this manual to learn how to add contacts._
 
 * The **Metadata** **Identifier **is automatically created by mdEditor. The metadata identifier gives each of your projects and products a unique ID and differentiates them from other similar projects and products.
@@ -12,9 +14,9 @@ Record Metadata allows you to describe your record's metadata, including a descr
 
 * **Metadata Repositories **indicate where the metadata should be sent. Select the LCCScienceCatalog as your repository. Selecting LCCScienceCatalog insures that your item will appear in the National LCC Science Catalog.
 
-  * For **Projects **that should be listed in the LCC Science Catalog: Enter_ “LCCScienceCatalog” from the picklist as repository and “LCC Network Science Catalog_” as collection title \(these should be entered in your Settings as default repositories. **Note:** this is a free text field, so the title must be exactly the same in order to insure that the metadata is harvested for the LCC Science Catalog.\)
+  * For **Projects **that should be listed in the LCC Science Catalog: Enter_ “LCCScienceCatalog” from the picklist as repository and “LCC Network Science Catalog_” as collection title \(these should be entered in your Settings as default repositories. **Note:** this is a free-text field, so the title must be exactly the same in order to insure that the metadata is harvested for the LCC Science Catalog.\)
 
-  * For **Data Products** that should be shared with Data.gov, Enter “data.gov” and “data.gov” from the picklist as repository and enter “data.gov” followed by your LCC name as the collection title. **Note**: this is a free text field, so the repository title must be exactly the same for every metadata record to insure proper harvesting of metadata
+  * For **Data Products** that should be shared with Data.gov, Enter “data.gov” and “data.gov” from the picklist as repository and enter “data.gov” followed by your LCC name as the collection title. **Note**: this is a free-text field, so the repository title must be exactly the same for every metadata record to insure proper harvesting of metadata
 
 > ![](/assets/best_practice_small.png)**Best Management Practice**: In Settings, create default repositories to help maintain precise titles
 
