@@ -94,8 +94,8 @@ See [Parent Metadata](/record/metatdata/parent-metadata.md) for more information
 
 | Field | Instructions/Notes on Entering |
 | :--- | :--- |
-| Identifier \(Required\) | If record was imported from ScienceBase, this field is auto-populated with the ScienceBase identifier; |
-|  | If record is created new in mdEditor, mdEditor references the mdEditor identifier, UUID. If there is not currently a ScienceBase Identifier, leave the mdEditor UUID; |
+| Identifier \(Required\) | If a record was imported from ScienceBase, this field is auto-populated with the ScienceBase identifier; |
+|  | If a record is created new in mdEditor, mdEditor references the mdEditor identifier, UUID. If there is not currently a ScienceBase Identifier, leave the mdEditor UUID; |
 |  | If there is a ScienceBase Identifier, you may enter it here, but if there are associated items, changing this identifier may void those connections. It is recommended to enter the ScienceBase identifier in Main/Citation/Identifier. |
 |  | **Best Management Practice**: If you know the ScienceBase identifier \(SBID\), add it in the metadata identifier _when you create the record_. When you start to associate the item, changing the metadata identifier can break the links. |
 | Parent Metadata \(Required\) | Parent Metadata** **is used to define the folder on ScienceBase where the project or product will be published to. Items added to the parent folder are considered children \(or child items\) of that folder. |
