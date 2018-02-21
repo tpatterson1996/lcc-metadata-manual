@@ -32,7 +32,6 @@ LCCs edit metadata in mdEditor and then publish the metadata to ScienceBase, whe
 
 > ![](/assets/see_full_manual_for.png)**Note: **This manual has been revised for LCC use. You may access the full mdEditor manual [**here**](https://adiwg.gitbooks.io/mdeditor/content/), or anywhere that you see the arrow symbol above:
 
-{% include "git+https://github.com/adiwg/mdEditor-doc.git/README.md" %}
 
 
 
