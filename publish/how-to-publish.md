@@ -23,8 +23,6 @@
 ![](/assets/publish_screenshot_2.png)
 
 > ![](/assets/note_small.png) Parent-Child refers to how the records are organized and displayed on ScienceBase; this is different than the Project and Product associations that are embedded within the metadata records.
->
-> ![](/assets/note_small.png)If you do not want these parent IDs to change,** do not** drag and drop these records in the publishing outline.
 
 ---
 
@@ -41,6 +39,8 @@ Items directly below the ScienceBase header will be published under the ScienceB
 * Items listed at the root level in the publishing outline don't have a parentID that correspond with a record loaded in mdEditor \(Note: you could have other parent IDs identified in those records, but those records aren't loaded in mdEditor\)
 
 You can drag and drop records to establish the parent-child relationship, eliminating the need to establish the relationship in ScienceBase. This will also allow you to move items around \(e.g., move a product from one project to another\) and have that change be reflected on ScienceBase. Remember, this is only about parent-child relationships on ScienceBase, not about project-product associations.
+
+> ![](blob:https://www.gitbook.com/fe16359f-99e9-4581-8efc-13de9259ee38)If you do not want these parent IDs to change, **do not **drag and drop these records in the publishing outline.
 
 **General Notes on Parent IDs:**
 
