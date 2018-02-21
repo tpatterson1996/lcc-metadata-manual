@@ -26,13 +26,13 @@ The settings menu allows the configuring of user specific options.
 
 ![](/assets/settings_defaults.png)
 
-Also included in **Defaults** are the **Metadata Repositories **\(a server where the metadata is published to\)**. **Once entered in **Settings **these can then be selected for projects and products so that they are flagged to a metadata repository of your choice.
-
 The following defaults will be pre-loaded:
 
 * default language: English
 * default character set: UTF-8
 * default location: USA
+
+Also included in **Defaults** are the **Metadata Repositories **\(a server where the metadata is published to\)**. **Once entered in **Settings **these can then be selected for projects and products so that they are flagged to a metadata repository of your choice.
 
 ---
 
