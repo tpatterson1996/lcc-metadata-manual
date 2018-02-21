@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Getting Started](getting-started.md)
-  * [Dashboard and Right Vertical Menu](dashboard.md)
+  * [Dashboard](dashboard.md)
   * [Relationships Between Contacts, Projects, Products, and Funding](concepts-detailing-the-relationship-between-contacts-projects-and-products.md)
 * [Quick Reference](quick-reference.md)
   * [Adding Projects: Quick Reference](adding-projects-quick-reference.md)
