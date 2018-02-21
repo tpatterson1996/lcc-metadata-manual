@@ -2,7 +2,7 @@
 
 ---
 
-This page will provide a brief overview of required fields for a metadata Project record, for more in-depth information, rationale and instructions, please see the relevant section in [Records](/records.md).
+This page will provide a brief overview of required fields for a metadata Project record, for more in-depth information, rationale, and instructions, please see the relevant section in [Record](/records.md).
 
 ---
 
@@ -20,10 +20,10 @@ See [Record Main](/record/main.md) for more information
 | :--- | :--- |
 | Record ID \(Required\) | The Record ID will be generated automatically. |
 | Title \(Required\) | Enter a title. **Best Management Practice \(BMP\): **Since products and projects are independent records, we recommend having as informative a title as possible. Good titles, when they appear in a search, will be understood and/or traceable. |
-| Status \(Required\) | Choose status ONLY from the four following options: Completed, On Going, Proposed, or Accepted. |
-| Default Locale \(Required\) | Language should be set to _**English**,_ Character set to_ **UTF-**_**8,** Country set to_ **USA. **_ |
+| Status \(Required\) | Choose status ONLY from the four following options: _Completed, On Going, Proposed, or Accepted._ |
+| Default Locale \(Required\) | Language should be set to _English,_ Character set to_ UTF-_8, Country set to_ USA. _ |
 | Resource Type \(Required\) | Select "Project" from the picklist. |
-| Point of Contact \(Required\) | From the Role drop-down menu, select **pointOfContact**. From the Contacts drop-down menu, select a **contact** from the list of contacts. |
+| Point of Contact \(Required\) | From the Role drop-down menu, select **pointOfContact**. From the Contacts drop-down menu, select **contact** from the list of contacts. |
 |  | **Best Management Practice: **Enter \(1\) your** LCC **and \(2\) **the LCC Network Data Steward** as "pointOfContacts." This way there is a point of contact that users can reach even if there is a positional change in an organization |
 |  | **Best Management Practice:** Enter the Project PI as a "principalInvestigator" |
 
@@ -35,14 +35,14 @@ See [Main Citation ](/record/main/citation.md)for more information
 | :--- | :--- |
 | Title \(Auto-Generated\) | Added automatically, based on the title of your record. |
 | Alternate Title \(Optional\) | Enter a shorter title |
-| Dates \(Optional\) | Enter _acquisition, creation, revision,_ or another date reference from the pick-list and then enter the date |
+| Dates \(Optional\) | Enter _acquisition, creation, revision,_ or another date reference from the picklist and then enter the date |
 | Responsible Parties \(Required\) | This must include a point of contact, but may also include other responsible parties such as a project lead. |
-|  | Enter the Network Data Steward as "pointOfContact" \(See [Contacts\)](/contacts.md) |
+|  | Enter the Network Data Steward as "pointOfContact" \(See [Contacts ](/contacts.md)for instructions[\)](/contacts.md) |
 |  | **Best Management Practice:** Add your LCC, and the project PI. Enter your LCC as "administrator" and the Project PI as "principalInvestigator." |
 |  | You can also add funders \(including your LCC, Partners, Collaborators, and/or Contributors\) |
 | Online Resources** **\(Required, If Available\) | Enter the URL for the project homepage on your LCC website |
 | Identifier \(Required\) | **Best Management Practice:** Enter ScienceBase ID \(SBID\), if known. mdEditor can use the SBID to locate and publish the metadata to the correct item in ScienceBase. |
-|  | \(Recommended, if available\) Enter Digital Object Identifier, if available |
+|  | \(Recommended, if available\) Enter Digital Object Identifier |
 |  | \(Recommended, if available\) Enter any internal project ID, up to 32 characters |
 |  | \(Optional\) Enter funding identifier, if desired |
 
