@@ -30,7 +30,7 @@ mdEditor.json files can be exported and imported via mdEditor's built-in **Expor
 
 ### Exporting:
 
-### ![](/assets/best_practice_small.png)![](/assets/note_small.png)
+### ![](/assets/note_small.png)![](/assets/best_practice_small.png)
 
 * **Note: **The only way to backup your records is by using the [Export](/export.md) functionality.
 
