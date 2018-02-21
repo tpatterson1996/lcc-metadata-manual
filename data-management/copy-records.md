@@ -20,7 +20,7 @@ _Making a copy will generate a new ID for the copied record and be named “Copy
 * Populate multiple products faster \(e.g., multiple workshop reports, a poster based on a publication\)
 * Create a 'template record' for a project that can be used as a starting place for each full metadata record
 
-> ![](/assets/note_small.png)**Note**: Before saving, carefully review all info in copied record to ensure all copied info is still relevant to the copied record, particularly any identifiers.
+> ![](/assets/note_small.png)Before saving, carefully review all info in copied record to ensure all copied info is still relevant to the copied record, particularly any identifiers.
 
 
 
