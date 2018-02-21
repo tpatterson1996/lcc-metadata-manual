@@ -8,7 +8,9 @@ This page will provide a brief overview of required fields for a metadata Projec
 
 ### Overview of Required/Recommended Fields for Projects:
 
-To_ see the fields described in this Quick Reference, select the green edit button next to an existing record in the left vertical menu, or _[_create a new record_](/record-new.md)_._
+To_ see the fields described in this Quick Reference, select the green pencil button next to an existing record in the left menu, or _[_create a new record_](/record-new.md)_._
+
+![](/assets/pencil_button.png)
 
 ### **Main Tab**
 
