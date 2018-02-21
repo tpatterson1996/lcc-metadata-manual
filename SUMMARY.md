@@ -39,4 +39,5 @@
       * [Allocation](record/record-funding/allocation.md)
       * [Time Period](record/record-funding/time-period.md)
 * [Glossary of Terms](glossary-of-terms.md)
+* [Appendix](appendix.md)
 

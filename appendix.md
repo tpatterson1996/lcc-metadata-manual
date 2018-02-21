@@ -33,12 +33,12 @@ Certain fields are required for successful LCC product and project creation. The
 | **Time Period** | [**Metadata Tab**](/record/metatdata.md) |
 | Start | Metadata Contacts |
 | End | Metadata Identifier |
-| [**Metadata Tab**](/record/metatdata.md) | [**Parent Metadata**](/record/metatdata/parent-metadata.md) |
+| [**Metadata Tab**](/record/metatdata.md) | **Parent Metadata** |
 | Metadata Contacts | Title |
-| Metadata Identifier | [**Identifier**](/record/metatdata/parent-metadata/identifier.md) |
-| [**Parent Metadata**](/record/metatdata/parent-metadata.md) | Identifier |
+| Metadata Identifier | **Identifier** |
+| **Parent Metadata** | Identifier |
 | Title | Namespace |
-| [**Identifier**](/record/metatdata/parent-metadata/identifier.md) | Metadata Repositories |
+| **Identifier** | Metadata Repositories |
 | Identifier | [**Keyword Tab**](/record/keywords.md) |
 | Namespace | ISO 19115 Topic Category |
 | Metadata Repositories | [**Associated Tab**](/record/record-associated.md) |
@@ -49,12 +49,12 @@ Certain fields are required for successful LCC product and project creation. The
 | [**Extent Tab**](/record/record-extent.md) |  |
 | Bounding Box |  |
 | [**Funding Tab**](/record/record-funding.md) |  |
-| [**Allocation**](/record/record-funding/allocation.md) |  |
+| **Allocation** |  |
 | Amount |  |
 | Currency |  |
 | Source |  |
 | Recipient |  |
-| [**Time Period**](/record/record-funding/time-period.md) |  |
+| **Time Period** |  |
 | Start Date |  |
 | End Date |  |
 | Year |  |
