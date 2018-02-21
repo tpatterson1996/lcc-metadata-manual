@@ -69,9 +69,9 @@ From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts
 
 **Time Period** refers to project start and end date, or the date that the project was applicable \(e.g., time that a map is valid, date of publication, date of presentation\)
 
-> ![](/assets/project_required_small.png) **Required for** **Projects: **For each project, add a start date, end date, and fiscal year.
+> ![](/assets/project_required_small.png) For each project, add a start date, end date, and fiscal year.
 >
-> ![](/assets/note_small.png)**Note: **Time Period** **isn’t required for products but if you choose to enter something in time period, you have to enter a date.
+> ![](/assets/note_small.png)Time Period** **isn’t required for products but if you choose to enter something in time period, you have to enter a date.
 
 ![](/assets/time_period.png)
 
