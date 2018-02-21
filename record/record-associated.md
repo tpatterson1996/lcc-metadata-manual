@@ -10,11 +10,11 @@ The **Associated** section is used to connect items with each other. This featur
 
 ## Create Associations
 
-There are two ways to create associations. You can either associate a product with a project, **or **associate a project with a product \(detailed explanation with screenshots included below chart\).
+There are two ways to create associations. You can either associate a product with a project **or **associate a project with a product \(detailed explanation with screenshots included below chart\).
 
 | Create an Association in PRODUCTS | Create an Association in PROJECTS |
 | :--- | :--- |
-| Select **parentProject** from the Association Type drop down menu. This describes the relationship between the product and its parent project. | Select **product** from the Association Type drop down menu. This describes the relationship between the product and its parent project. |
+| Select **parentProject** from the Association Type drop-down menu. This describes the relationship between the product and its parent project. | Select **product** from the Association Type drop-down menu. This describes the relationship between the product and its parent project. |
 | Use the\_ Select a Record \_button to select an associated project. | Use the_ Select a Record_ button to select an associated product. |
 | Select the **Project** that you would like to associate to from the _Select a Resource_ list. | Select the **Product** that you would like to associate to from the_ Select a Resource_ list. |
 
@@ -24,7 +24,7 @@ There are two ways to create associations. You can either associate a product wi
 
 **Step 1: Select Association Type**
 
-* Select **parentProject** from the **Association Type **drop down menu. This describes the relationship between the product and its parent project.
+* Select **parentProject** from the **Association Type **drop-down menu. This describes the relationship between the product and its parent project.
 
 > ![](/assets/note_small.png)The **parentProject **association type refers to a project that a product is associated with. This differs from a Parent folder on ScienceBase, which is a folder where items are uploaded upon publishing.
 
@@ -48,7 +48,7 @@ There are two ways to create associations. You can either associate a product wi
 
 #### Step 1: Select Association Type
 
-* Select **product** from the **Association Type **drop down menu. This describes the relationship between the product and its parent project.
+* Select **product** from the **Association Type **drop-down menu. This describes the relationship between the product and its parent project.
 
 ![](/assets/product_association_lcc.png)
 
