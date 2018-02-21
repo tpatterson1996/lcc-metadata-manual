@@ -28,9 +28,9 @@ While exporting data, there are four options available in the Action Menu \(on t
 
 * **Export mdJSON**: only works for metadata records \(i.e., doesn't work for contacts\). Exports just the mdJSON file, which is a standalone JSON file you can load into mdTranslator and have translated into other metadata formats. mdJSON files imported into mdEditor are treated as new records and will not merge/update an existing record.
 
-* Clicking the **Include Settings** switch will also export mdEditor settings. Consult the Settings section of this manual to learn about settings.
+* Clicking the **Include Settings** switch will also export mdEditor settings. Consult the [Settings](/settings.md) section of this manual to learn about settings.
 
-> ![](https://adiwg.gitbooks.io/mdeditor/content/assets/note_small.png)If you need to switch browsers for [mdEditor](https://adiwg.gitbooks.io/mdeditor/content/GLOSSARY.html#mdeditor), or want to send your settings to someone else, you can export them.
+> ![](https://adiwg.gitbooks.io/mdeditor/content/assets/note_small.png)If you need to switch browsers for [mdEditor](https://adiwg.gitbooks.io/mdeditor/content/GLOSSARY.html#mdeditor), or want to send your settings to someone else, you can export the settings.
 
 ---
 
