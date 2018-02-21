@@ -201,7 +201,7 @@ See [Record Extent ](/record/record-extent.md)for more information about how to 
 | Constraint Type | Definition |
 | :--- | :--- |
 | Use Limitation | Enter text that describes how people should or should not use the product. Depending on the type you select, it will tell you what you have to enter. If your product is licensed, let people know. Most of what we have is public domain, but not always. |
-| Legal | Select the access and property restraints from the controlled value list. _Access constraints_:  apply to assure the protection of privacy or or intellectual property, and any special restrictions or limitations on obtaining the resource._ Use constraints_: detail how the product should be used. \_Other constraints: \_this a good place to put standard disclaimer. |
+| Legal | Select the access and property restraints from the controlled value list. _Access constraints_: apply to assure the protection of privacy or or intellectual property, and any special restrictions or limitations on obtaining the resource._ Use constraints_: detail how the product should be used. _Other constraints_: this a good place to put a standard disclaimer. |
 | Security Constraints | Describe legal constraints or security pertaining to security of the resource, need to choose classification. _Classification is the Identify class of security \(e.g., top secret, public access\)._ |
 
 ---
