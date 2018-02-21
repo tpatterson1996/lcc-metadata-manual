@@ -2,7 +2,7 @@
 
 ---
 
-**See the following guides for an overview of required fields, notes and best practices.**
+**See the following guides for an overview of required fields, notes, and best practices.**
 
 [Adding Projects: Quick Reference](/adding-projects-quick-reference.md)
 
