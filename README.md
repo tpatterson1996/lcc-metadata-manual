@@ -37,3 +37,4 @@ _The following diagram describes the science catalog system architecture._
 
 ![](/assets/science_catalog_system_architecture.png)
 
+{% include "git+https://github.com/adiwg/mdEditor-doc.git/README.md" %}
