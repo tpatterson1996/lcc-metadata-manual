@@ -6,9 +6,11 @@
 
 **Configuring The LCC Profile **
 
-**Information You Will Need**
 
-**General Instructions**
+
+**Information You Will Need to Create a Metadata Entry **
+
+**General Instructions **
 
 ---
 
@@ -74,8 +76,6 @@
   * Fund Recipient Type
   * Fund Recipient Amount 
   * AwardID 
-
-
 
 
 
