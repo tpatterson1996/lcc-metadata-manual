@@ -4,6 +4,14 @@
 * [Getting Started](getting-started.md)
   * [Dashboard](dashboard.md)
   * [Relationships Between Contacts, Projects, Products, and Funding](concepts-detailing-the-relationship-between-contacts-projects-and-products.md)
+* [Project Entry Guidance ](project-entry-guidance.md)
+  * Main Tab
+  * Metadata Tab
+  * Keywords Tab
+  * Extent Tab
+  * Funding Tab
+* [Product Entry Guidance](product-entry-guidance.md)
+* [Contact Entry Guidance](product-entry-guidance/contact-entry-guidance.md)
 * [Quick Reference](quick-reference.md)
   * [Adding Projects: Quick Reference](adding-projects-quick-reference.md)
   * [Adding Products: Quick Reference ](adding-products-quick-reference.md)
