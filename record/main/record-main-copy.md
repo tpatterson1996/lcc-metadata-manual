@@ -4,17 +4,15 @@
 
 The **Main **tab allows for the creation and/or editing of primary metadata. The Main Tab will usually be used when creating a record that has not been imported from somewhere else.
 
-**Quick Reference: Required Fields: **
-
-| FIELD | INSTRUCTIONS |
-| :--- | :--- |
-| Record ID \(Required\) | The Record ID will be generated automatically. |
-| Title \(Required\) | Enter a descriptive title. |
-| Status \(Required\) | Choose status ONLY from the four following options: _Completed, On Going, Proposed, or Accepted._ |
-| Default Locale \(Required\) | Language should be set to English. Character set to UTF-8. Country set to USA. |
-| Resource Type \(Required\) | Select "Project" from the picklist. |
-| Point of Contact \(Required\) | From the Role drop-down menu, select "pointOfContact." From the Contacts drop-down menu, select "contact."** See the "Point of Contacts" section below for required and recommended contacts. ** |
-|  |  |
+| Quick Reference: Required Metadata Sections |
+| :--- |
+| Basic Information \(Required\)  |
+| Default Locale \(Required\) |
+| Resource Type \(Required\)  |
+| Point of Contact \(Required\) |
+| Citation \(Required\)  |
+| Description \(Required\)  |
+| Time Period \(Required\)  |
 
 ---
 
@@ -62,7 +60,7 @@ From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts
 
 ---
 
-#### CITATION
+### CITATION
 
 **The citation **lets LCC staff know pertinent information about your project or product such as: responsible parties; internal and ScienceBase identifier; and any online resources that may relate to your item. Adding information in the citation will also allow LCC staff to find your item when they search for items that contain said information.
 
@@ -81,10 +79,12 @@ The following fields are required in citation:
 * **Identifier: **Enter a unique identifier for your project or product.
 
   * **RECOMMENDED: **Use the identifier that your LCC is already using, or create something unique that is easily identifiable.
+  * **NOTE: **If you know your items ScienceBase ID, you may add it here. If your item does not have a ScienceBase ID, ScienceBase will create one automatically upon publishing. If you edit an item that is already on ScienceBase without using its existing ID, a duplicate item will be created. Consult the Publish section of this manual to learn more.
+  * The following identifiers are optional but you may add them: _Digital Object Identifier \(DOI\), Funding identifier, Archive folder name._
 
 ---
 
-#### DESCRIPTION
+### DESCRIPTION 
 
 **Description **allows for the addition of the** Abstract **as well as a Short Abstract, Purpose, Supplemental Information, and an Environment Description.
 
@@ -97,23 +97,17 @@ The following fields are required in citation:
 
 ![](/assets/description_lcc.png)
 
-> ![](/assets/see_full_manual_for.png) Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the full mdEditor manual for more information on **Description**.
-
 ---
 
-#### **Time Period**
+#### **TIME PERIOD**
 
 **Time Period** refers to project start and end date, or the date that the project was applicable \(e.g., time that a map is valid, date of publication, date of presentation\)
 
 > ![](/assets/project_required_small.png) For each project, add a start date, end date, and fiscal year.
->
-> ![](/assets/note_small.png)Time Period** **isn’t required for products but if you choose to enter something in time period, you have to enter a date.
 
 ![](/assets/time_period.png)
 
-> ![](/assets/see_full_manual_for.png) Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the full mdEditor manual for more information on **Time Period**.
 
----
 
 
 
