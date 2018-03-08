@@ -1,21 +1,23 @@
-# Main \(COPY\) 
+# Main \(COPY\)
 
 ---
 
-The **Main **tab allows for the creation and/or editing of primary metadata. The Main Tab will usually be used when creating a record that has not been imported from somewhere else. 
+The **Main **tab allows for the creation and/or editing of primary metadata. The Main Tab will usually be used when creating a record that has not been imported from somewhere else.
 
-**Required Field Quick Reference **
+**Quick Reference: Required Fields: **
 
-| FIELD |  INSTRUCTIONS |
+| FIELD | INSTRUCTIONS |
 | :--- | :--- |
 | Record ID \(Required\) | The Record ID will be generated automatically. |
-| Title \(Required\) | Enter a descriptive title.  |
+| Title \(Required\) | Enter a descriptive title. |
 | Status \(Required\) | Choose status ONLY from the four following options: _Completed, On Going, Proposed, or Accepted._ |
 | Default Locale \(Required\) | Language should be set to English. Character set to UTF-8. Country set to USA. |
 | Resource Type \(Required\) | Select "Project" from the picklist. |
 | Point of Contact \(Required\) | From the Role drop-down menu, select **pointOfContact**. From the Contacts drop-down menu, select **contact** from the list of contacts. |
 |  | **Best Management Practice: **Enter \(1\) your** LCC **and \(2\) **the LCC Network Data Steward** as "pointOfContacts." This way there is a point of contact that users can reach even if there is a positional change in an organization |
 |  | **Best Management Practice:** Enter the Project PI as a "principalInvestigator" |
+
+---
 
 ### **BASIC INFORMATION**
 
@@ -29,7 +31,7 @@ The **Main **tab allows for the creation and/or editing of primary metadata. The
 
 ---
 
-#### DEFAULT LOCALE
+### DEFAULT LOCALE
 
 **Default Locale **allows for selection of **Language**, **Character Set**, and **Country**. English, UTF-8, and USA will be selected by default, but you may change them if necessary.
 
@@ -37,13 +39,17 @@ The **Main **tab allows for the creation and/or editing of primary metadata. The
 
 ---
 
-#### RESOURCE TYPES
+### RESOURCE TYPES
 
 **Resource Types** \(**Type **and **Name**\), will be filled automatically with the information added when you created your record.
 
 ![](/assets/resource_types.png)
 
 ---
+
+#### 
+
+#### 
 
 #### **Point of Contacts **
 
