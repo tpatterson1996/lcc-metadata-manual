@@ -8,7 +8,7 @@
   * [Main Tab](record/main/record-main-copy.md)
   * [Metadata Tab](record/main/metadata-tab.md)
   * [Keywords Tab](record/main/keywords-tab.md)
-  * Extent Tab
+  * [Extent Tab](record/main/extent-tab.md)
   * Funding Tab
 * [Product Entry Guidance](product-entry-guidance.md)
 * [Contact Entry Guidance](product-entry-guidance/contact-entry-guidance.md)
