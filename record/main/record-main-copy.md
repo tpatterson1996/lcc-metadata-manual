@@ -1,4 +1,4 @@
-# Main \(COPY\)
+# Project Entry Guidance: Main Tab
 
 ---
 
@@ -6,13 +6,13 @@ The **Main **tab allows for the creation and/or editing of primary metadata. The
 
 | Quick Reference: Required Metadata Sections |
 | :--- |
-| Basic Information \(Required\)  |
+| Basic Information \(Required\) |
 | Default Locale \(Required\) |
-| Resource Type \(Required\)  |
+| Resource Type \(Required\) |
 | Point of Contact \(Required\) |
-| Citation \(Required\)  |
-| Description \(Required\)  |
-| Time Period \(Required\)  |
+| Citation \(Required\) |
+| Description \(Required\) |
+| Time Period \(Required\) |
 
 ---
 
@@ -84,7 +84,7 @@ The following fields are required in citation:
 
 ---
 
-### DESCRIPTION 
+### DESCRIPTION
 
 **Description **allows for the addition of the** Abstract **as well as a Short Abstract, Purpose, Supplemental Information, and an Environment Description.
 
@@ -106,8 +106,4 @@ The following fields are required in citation:
 > ![](/assets/project_required_small.png) For each project, add a start date, end date, and fiscal year.
 
 ![](/assets/time_period.png)
-
-
-
-
 

@@ -5,10 +5,10 @@
   * [Dashboard](dashboard.md)
   * [Relationships Between Contacts, Projects, Products, and Funding](concepts-detailing-the-relationship-between-contacts-projects-and-products.md)
 * [Project Entry Guidance ](project-entry-guidance.md)
-  * Main Tab
-  * Metadata Tab
+  * [Main Tab](record/main/record-main-copy.md)
   * Keywords Tab
   * Extent Tab
+  * Metadata Tab
   * Funding Tab
 * [Product Entry Guidance](product-entry-guidance.md)
 * [Contact Entry Guidance](product-entry-guidance/contact-entry-guidance.md)
@@ -31,22 +31,7 @@
   * [FAQ](publish/faq.md)
 * [Settings](settings.md)
 * [Help](help.md)
-* [Records](records.md)
-  * [Record New](record-new.md)
-  * [Record Edit](record.md)
-    * [Fields Required for LCC Projects and Products](record/fields-required-for-lcc-projects-and-products.md)
-    * [Record Main](record/main.md)
-      * [Main Citation](record/main/citation.md)
-      * [Record Main Copy](record/main/record-main-copy.md)
-    * [Record Metadata](record/metatdata.md)
-      * [Parent Metadata](record/metatdata/parent-metadata.md)
-        * [Identifier](record/metatdata/parent-metadata/identifier.md)
-    * [Record Keywords](record/keywords.md)
-    * [Record Extent](record/record-extent.md)
-    * [Record Associated](record/record-associated.md)
-    * [Record Funding](record/record-funding.md)
-      * [Allocation](record/record-funding/allocation.md)
-      * [Time Period](record/record-funding/time-period.md)
+* [Record Main Copy](record/main/record-main-copy.md)
 * [Contacts](contacts.md)
   * [Individual Contacts](contacts/individual-contact.md)
   * [Organization Contacts](contacts/organization-contacts.md)
