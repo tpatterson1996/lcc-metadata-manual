@@ -46,13 +46,11 @@ The **Main **tab allows for the creation and/or editing of primary metadata. The
 
 ### POINT OF CONTACT\(S\)
 
-**Point Of Contacts **are added by clicking the **Add **button. Adding a point of contact gives LCC staff information on who to contact should they have a question regarding your project or product.
+Adding a point of contact gives LCC staff information on who to contact should they have a question regarding your project or product. From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts **drop-down menu, select a contact from the list of contacts. 
 
-From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts **drop-down menu, select a contact from the list of contacts. Consult the [**Contact New**](/contact\new.md)** **section of this manual to learn how to add contacts.
+**REQUIRED: **Enter **the LCC Network Data Steward **as "pointOfContact"
 
-**REQUIRED: **Enter \(1\) your **LCC **and \(2\) **the LCC Network Data Steward **as "pointOfContacts."
-
-**BEST MANAGEMENT PRACTICE:** Enter the Project PI as a "principalInvestigator"
+**BEST MANAGEMENT PRACTICE:** Enter your LCC
 
 > ![](/assets/best_practice_small.png)Select a point of contact that users can contact even if there is a positional change in an organization. In addition to any point of contact that you may add from your organization, one contact must be  LCC Network Data Steward. The LCC data steward will serve as the long term contact/backup if LCC staff are not available. Consult the [Contacts ](/contacts.md)section of this manual for more information on adding the LCC Data Steward.
 
