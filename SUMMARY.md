@@ -9,7 +9,7 @@
   * [Metadata Tab](record/main/metadata-tab.md)
   * [Keywords Tab](record/main/keywords-tab.md)
   * [Extent Tab](record/main/extent-tab.md)
-  * Funding Tab
+  * [Funding Tab](record/main/funding-tab.md)
 * [Product Entry Guidance](product-entry-guidance.md)
 * [Contact Entry Guidance](product-entry-guidance/contact-entry-guidance.md)
 * [Quick Reference](quick-reference.md)
