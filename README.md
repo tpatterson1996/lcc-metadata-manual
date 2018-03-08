@@ -24,7 +24,7 @@ LCCs edit metadata in mdEditor and then publish the metadata to ScienceBase, whe
 
 ## Overall Science Catalog System Architecture
 
-_The following diagram describes the science catalog system architecture._
+_The following diagram details the science catalog system architecture._
 
 
 ![](/assets/science_catalog_system_architecture.png)
