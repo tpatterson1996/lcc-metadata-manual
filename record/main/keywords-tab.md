@@ -6,17 +6,23 @@ Adding keywords to your metadata record allows for the record to be found later 
 
 ---
 
+| Quick Reference: Required Thesauruses  |
+| :--- |
+| ISO Topic Category \(Required\)  |
+| LCC Deliverable Types \(Required\)  |
+| LCC End User Types \(Required\)  |
+
 ### **To add Keywords to your Metadata Record**
 
 1. Click “+ Add Thesaurus” on the right to add the different thesauruses.
 2. Add from the following pre-populated thesauruses.
 3. If none of the keywords in the following categories are sufficient for tagging your record, you can create a custom thesaurus.
 
-| Thesauruses for LCC Staff | Requirements | Notes |
-| :--- | :--- | :--- |
-| ISO Topic Category | **Required **for Projects, **Required** for Products | ISO \(International Organization for Standardization\) topics were built and maintained by the ISO Technical Committee and are required for the development of ISO metadata. Adding ISO Topic Keywords lets your products and projects meet an international standard for controlled vocabulary. |
-| LCC Deliverable Types | **Required **for Projects, Optional for Producs | LCC \(Landscape Conservation Cooperatives\) Keywords are maintained by the national LCCs and required for any LCC projects. Adding LCC keywords lets your products and projects meet a standard that was defined by the national LCCs. |
-| LCC End User Types | **Required **for Projects, Optional for Products | LCC \(Landscape Conservation Cooperatives\) Keywords are maintained by the national LCCs and required for any LCC projects. Adding LCC keywords lets your products and projects meet a standard that was defined by the national LCCs. |
+| Thesauruses for LCC Staff | Requirements |
+| :--- | :--- |
+| ISO Topic Category \(Required\)  | ISO \(International Organization for Standardization\) topics were built and maintained by the ISO Technical Committee and are required for the development of ISO metadata. Adding ISO Topic Keywords lets your products and projects meet an international standard for controlled vocabulary. |
+| LCC Deliverable Types \(Required\)  | LCC \(Landscape Conservation Cooperatives\) Keywords are maintained by the national LCCs and required for any LCC projects. Adding LCC keywords lets your products and projects meet a standard that was defined by the national LCCs. |
+| LCC End User Types \(Required\) | LCC \(Landscape Conservation Cooperatives\) Keywords are maintained by the national LCCs and required for any LCC projects. Adding LCC keywords lets your products and projects meet a standard that was defined by the national LCCs. |
 
 ---
 
@@ -31,8 +37,6 @@ Adding keywords to your metadata record allows for the record to be found later 
 ---
 
 ![](/assets/keywords_window.png)
-
-> ![](/assets/see_full_manual_for.png)Consult the [**Record Keywords**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/keywords.html)** **section of the full mdEditor manual for more information on adding Keywords and about Keywords in general.
 
 
 
