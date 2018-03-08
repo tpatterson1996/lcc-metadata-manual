@@ -14,7 +14,6 @@ The **Main **tab allows for the creation and/or editing of primary metadata. The
 | Default Locale \(Required\) | Language should be set to English. Character set to UTF-8. Country set to USA. |
 | Resource Type \(Required\) | Select "Project" from the picklist. |
 | Point of Contact \(Required\) | From the Role drop-down menu, select "pointOfContact." From the Contacts drop-down menu, select "contact."** See the "Point of Contacts" section below for required and recommended contacts. ** |
-|  | **Best Management Practice:** Enter the Project PI as a "principalInvestigator" |
 
 ---
 
@@ -55,8 +54,6 @@ From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts
 **REQUIRED: **Enter \(1\) your **LCC **and \(2\) **the LCC Network Data Steward **as "pointOfContacts."
 
 **BEST MANAGEMENT PRACTICE:** Enter the Project PI as a "principalInvestigator"
-
-
 
 > ![](/assets/best_practice_small.png)Select a point of contact that users can contact even if there is a positional change in an organization. In addition to any point of contact that you may add from your organization, one contact must be  LCC Network Data Steward. The LCC data steward will serve as the long term contact/backup if LCC staff are not available. Consult the [Contacts ](/contacts.md)section of this manual for more information on adding the LCC Data Steward.
 
