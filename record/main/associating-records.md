@@ -1,4 +1,4 @@
-## Record Associated
+## Project Entry Guidance: Record Associated
 
 ---
 
@@ -37,8 +37,4 @@ There are two ways to create associations. You can either associate a product wi
 * Select the product that you would like to associate to from the **Select a Resource **list.
 
 ![](/assets/select_a_resource_product_window.png)
-
-
-
-
 
