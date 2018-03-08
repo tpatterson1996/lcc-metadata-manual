@@ -62,15 +62,24 @@ From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts
 
 ---
 
-#### CITATION 
+#### CITATION
 
 **The citation **lets LCC staff know pertinent information about your project or product such as: responsible parties; internal and ScienceBase identifier; and any online resources that may relate to your item. Adding information in the citation will also allow LCC staff to find your item when they search for items that contain said information.
 
 #### ![](/assets/citation_updated.png)
 
+The following fields are required in citation:
+
+* **Title **\(Auto-Generated\)**: **Added automatically based on the title of your record.
+* **Alternate Title \(**Optional\): Add an alternate title.
+* **Dates **\(Optional\): Enter _acquisition, creation, revision,_ or another date reference from the picklist and then enter the date
+* **Responsible Parties \(**Required\)**: **This must include a point of contact, but may also include other responsible parties such as a project lead, administrators, partners, collaborators, and/or funders \(contributors\).
+  * **REQUIRED: **Add the Network Data Steward as "pointOfContact."** **
+  * 
+
 ---
 
-#### DESCRIPTION 
+#### DESCRIPTION
 
 **Description **allows for the addition of the** Abstract **as well as a Short Abstract, Purpose, Supplemental Information, and an Environment Description.
 
