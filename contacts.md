@@ -1,4 +1,4 @@
-# Contacts
+# Contact Entry Guidance
 
 ---
 
@@ -8,20 +8,21 @@ Contacts are individuals or organizations that can be referenced by other contac
 
 ### Minimum Requirements
 
-> ![](/assets/lcc_required_small.png)All LCC records require at least one contact to serve as a point of contact for projects and products. One contact must be  LCC Network Data Steward. The LCC data steward will serve as the long term contact/backup if LCC staff are not available. 
->
-> **The LCC Network Data Steward's contact information is as follows.**
->
-> * Individual Name: **LCC Network Data Steward**
-> * Position Name: **LCC Network Data Manager**
-> * Contact Type: **lcc**
-> * E-mail Addresses: **lccdatasteward@fws.gov**
->
-> Consult the [**Individual Contact**](/contact/individual-contact.md) section of this manual to learn how to add this information. 
->
-> ![](/assets/lcc_required_small.png)You must create an organization contact for your LCC and any organization that is involved in your project or product \(partner, co-funder, etc\), if there is not one already. Consult the [**Organization Contacts**](/contact/organization-contacts.md) section of this manual to learn what fields are required.
+![](/assets/lcc_required_small.png)All LCC records require that the LCC Network Data Steward be listed as a contact. 
 
----
+**The LCC Network Data Steward's contact information is as follows.**
+
+* **Individual Name: **LCC Network Data Steward
+* **Contact Type:** lcc
+* **Email Address:** lccdatasteward@fws.gov
+
+
+
+![](/assets/lcc_required_small.png)You must create an organization contact for your LCC and any organization that is involved in your project or product \(partner, co-funder, etc\), if there is not one already. 
+
+
+
+> > ---
 
 ### General Notes on Contacts
 

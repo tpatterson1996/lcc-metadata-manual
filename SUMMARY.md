@@ -33,11 +33,7 @@
   * [Export](data-management/export.md)
   * [Copy Records](data-management/copy-records.md)
 * [Translate](translate.md)
-* [Settings](settings.md)
 * [Help](help.md)
-* [Contacts](contacts.md)
-  * [Individual Contacts](contacts/individual-contact.md)
-  * [Organization Contacts](contacts/organization-contacts.md)
 * [Glossary of Terms](glossary-of-terms.md)
 * [Appendix](appendix.md)
 
