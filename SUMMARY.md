@@ -7,7 +7,7 @@
 * [Project Entry Guidance ](project-entry-guidance.md)
   * [Main Tab](record/main/record-main-copy.md)
   * [Metadata Tab](record/main/metadata-tab.md)
-  * Keywords Tab
+  * [Keywords Tab](record/main/keywords-tab.md)
   * Extent Tab
   * Funding Tab
 * [Product Entry Guidance](product-entry-guidance.md)
