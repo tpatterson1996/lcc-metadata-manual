@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Getting Started](getting-started.md)
-  * [Dashboard](dashboard.md)
   * [Relationships Between Contacts, Projects, Products, and Funding](concepts-detailing-the-relationship-between-contacts-projects-and-products.md)
 * [Settings](settings.md)
 * [Project Entry Guidance ](project-entry-guidance.md)
