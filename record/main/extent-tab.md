@@ -1,4 +1,4 @@
-# Record Extent
+# Project Entry Guidance: Record Extent
 
 ---
 

@@ -10,6 +10,7 @@
   * [Keywords Tab](record/main/keywords-tab.md)
   * [Extent Tab](record/main/extent-tab.md)
   * [Funding Tab](record/main/funding-tab.md)
+  * [Associating Records](record/main/associating-records.md)
 * [Product Entry Guidance](product-entry-guidance.md)
 * [Contact Entry Guidance](product-entry-guidance/contact-entry-guidance.md)
 * [Quick Reference](quick-reference.md)

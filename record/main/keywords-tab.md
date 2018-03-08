@@ -1,4 +1,4 @@
-# Keywords
+# Project Entry Guidance: Keywords
 
 ---
 
