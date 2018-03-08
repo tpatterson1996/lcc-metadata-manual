@@ -21,16 +21,16 @@ LCCs edit metadata in mdEditor and then publish the metadata to ScienceBase, whe
 
 ---
 
-> ![](/assets/see_full_manual_for.png)**Note: **This manual has been revised for LCC use. You may access the full mdEditor manual [**here**](https://adiwg.gitbooks.io/mdeditor/content/), or anywhere that you see the arrow symbol above.
 
 ## Overall Science Catalog System Architecture
 
 _The following diagram describes the science catalog system architecture._
 
-> ![](/assets/note_small.png)Currently the mdEditor is used primarily with ScienceBase, a collaborative scientific data and information management platform developed and run by the USGS and used directly by science teams. The mdEditor can work with other databases, but in this manual, ScienceBase will be used as the primary example of a database.
->
-> For more information, see ScienceBase in the glossary of terms.
 
 ![](/assets/science_catalog_system_architecture.png)
 
 {% include "git+https://github.com/adiwg/mdEditor-doc.git/README.md" %}
+
+---
+ ![](/assets/see_full_manual_for.png)**Note: **This manual has been revised for LCC use. You may access the full mdEditor manual [**here**](https://adiwg.gitbooks.io/mdeditor/content/), or anywhere that you see the arrow symbol above.
+
