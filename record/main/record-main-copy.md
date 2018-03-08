@@ -13,8 +13,7 @@ The **Main **tab allows for the creation and/or editing of primary metadata. The
 | Status \(Required\) | Choose status ONLY from the four following options: _Completed, On Going, Proposed, or Accepted._ |
 | Default Locale \(Required\) | Language should be set to English. Character set to UTF-8. Country set to USA. |
 | Resource Type \(Required\) | Select "Project" from the picklist. |
-| Point of Contact \(Required\) | From the Role drop-down menu, select **pointOfContact**. From the Contacts drop-down menu, select **contact** from the list of contacts. |
-|  | **Best Management Practice: **Enter \(1\) your** LCC **and \(2\) **the LCC Network Data Steward** as "pointOfContacts." This way there is a point of contact that users can reach even if there is a positional change in an organization |
+| Point of Contact \(Required\) | From the Role drop-down menu, select "pointOfContact." From the Contacts drop-down menu, select "contact."** See the "Point of Contacts" section below for required and recommended contacts. ** |
 |  | **Best Management Practice:** Enter the Project PI as a "principalInvestigator" |
 
 ---
@@ -47,15 +46,17 @@ The **Main **tab allows for the creation and/or editing of primary metadata. The
 
 ---
 
-#### 
-
-#### 
-
-#### **Point of Contacts **
+### POINT OF CONTACT\(S\)
 
 **Point Of Contacts **are added by clicking the **Add **button. Adding a point of contact gives LCC staff information on who to contact should they have a question regarding your project or product.
 
 From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts **drop-down menu, select a contact from the list of contacts. Consult the [**Contact New**](/contact\new.md)** **section of this manual to learn how to add contacts.
+
+**REQUIRED: **Enter \(1\) your **LCC **and \(2\) **the LCC Network Data Steward **as "pointOfContacts."
+
+**BEST MANAGEMENT PRACTICE:** Enter the Project PI as a "principalInvestigator"
+
+
 
 > ![](/assets/best_practice_small.png)Select a point of contact that users can contact even if there is a positional change in an organization. In addition to any point of contact that you may add from your organization, one contact must be  LCC Network Data Steward. The LCC data steward will serve as the long term contact/backup if LCC staff are not available. Consult the [Contacts ](/contacts.md)section of this manual for more information on adding the LCC Data Steward.
 
