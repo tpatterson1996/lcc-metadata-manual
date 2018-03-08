@@ -37,6 +37,7 @@
     * [Fields Required for LCC Projects and Products](record/fields-required-for-lcc-projects-and-products.md)
     * [Record Main](record/main.md)
       * [Main Citation](record/main/citation.md)
+      * [Record Main Copy](record/main/record-main-copy.md)
     * [Record Metadata](record/metatdata.md)
       * [Parent Metadata](record/metatdata/parent-metadata.md)
         * [Identifier](record/metatdata/parent-metadata/identifier.md)
