@@ -4,7 +4,7 @@
 
 The **Main **tab allows for the creation and/or editing of primary metadata. The Main Tab will usually be used when creating a record that has not been imported from somewhere else.
 
-| Quick Reference: Required Metadata Sections |
+| Quick Reference: Required Sections |
 | :--- |
 | Basic Information \(Required\) |
 | Default Locale \(Required\) |

@@ -6,9 +6,9 @@
   * [Relationships Between Contacts, Projects, Products, and Funding](concepts-detailing-the-relationship-between-contacts-projects-and-products.md)
 * [Project Entry Guidance ](project-entry-guidance.md)
   * [Main Tab](record/main/record-main-copy.md)
+  * [Metadata Tab](record/main/metadata-tab.md)
   * Keywords Tab
   * Extent Tab
-  * Metadata Tab
   * Funding Tab
 * [Product Entry Guidance](product-entry-guidance.md)
 * [Contact Entry Guidance](product-entry-guidance/contact-entry-guidance.md)
