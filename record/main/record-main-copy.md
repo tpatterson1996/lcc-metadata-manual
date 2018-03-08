@@ -14,6 +14,7 @@ The **Main **tab allows for the creation and/or editing of primary metadata. The
 | Default Locale \(Required\) | Language should be set to English. Character set to UTF-8. Country set to USA. |
 | Resource Type \(Required\) | Select "Project" from the picklist. |
 | Point of Contact \(Required\) | From the Role drop-down menu, select "pointOfContact." From the Contacts drop-down menu, select "contact."** See the "Point of Contacts" section below for required and recommended contacts. ** |
+|  |  |
 
 ---
 
@@ -61,15 +62,15 @@ From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts
 
 ---
 
-#### **Citation**
+#### CITATION 
 
-**Citation **is used** **to add record citations. The citation lets LCC staff know pertinent information about your project or product such as: responsible parties; internal and ScienceBase identifier; and any online resources that may relate to your item. Adding information in the citation will also allow LCC staff to find your item when they search for items that contain said information.
+**The citation **lets LCC staff know pertinent information about your project or product such as: responsible parties; internal and ScienceBase identifier; and any online resources that may relate to your item. Adding information in the citation will also allow LCC staff to find your item when they search for items that contain said information.
 
 #### ![](/assets/citation_updated.png)
 
 ---
 
-#### **Description**
+#### DESCRIPTION 
 
 **Description **allows for the addition of the** Abstract **as well as a Short Abstract, Purpose, Supplemental Information, and an Environment Description.
 
