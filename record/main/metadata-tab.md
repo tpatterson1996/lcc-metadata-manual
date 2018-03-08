@@ -22,7 +22,9 @@ Record Metadata allows you to describe your record's metadata, including a descr
 
 #### METADATA IDENTIFIER
 
-* The **Metadata** **Identifier **is automatically created by mdEditor. The metadata identifier gives each of your projects and products a unique ID and differentiates them from other similar projects and products.
+* The **Metadata** **Identifier **is automatically populated by mdEditor. The metadata identifier gives each of your projects and products a unique ID and differentiates them from other similar projects and products.
+  * If the record was imported from Science Base, the Metadata Identifier will be auto-populated with the ScienceBase ID \(SBID\)
+  * If the record was made in mdEditor, the will generate a universally unique identifier \(UUID\).
 
 #### **PARENT METADATA **
 
@@ -30,13 +32,13 @@ Record Metadata allows you to describe your record's metadata, including a descr
 
 **The following fields are required for Parent Metadata creation:**
 
-* **Title \(**Required\) 
+* **Title \(**Required\)
 
-* **Identifier **\(Required\) Lets you define the location of the parent folder \(the folder where the item will be uploaded to\) in the database repository. 
+* **Identifier **\(Required\) Lets you define the location of the parent folder \(the folder where the item will be uploaded to\) in the database repository.
 
   * **Identifier** \(Required\) is typically a string of numbers in a parent items URL.  A ScienceBase identifier is the section of the URL immediately following "**item/"  **
 
-    > For Example **59b97600e4b091459a54d9f3c ** is the SBID for a parent item at the URL: _"https://www.sciencebase.gov/catalog/item/59b97600e4b091459a54d9f3c"_
+    > For Example **59b97600e4b091459a54d9f3c ** is the SBID for a parent item at the URL: _"_[https://www.sciencebase.gov/catalog/item/59b97600e4b091459a54d9f3c](https://www.sciencebase.gov/catalog/item/59b97600e4b091459a54d9f3c)_"_
 
   * **Namespace: **\(Required\) The Namespace field** **allows for the selection of the database that you are adding to. Select **ScienceBase **from the Namespace.
 
