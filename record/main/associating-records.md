@@ -10,31 +10,27 @@ The **Associated** section is used to connect items with each other. This featur
 
 ## Create Associations
 
-There are two ways to create associations. You can either associate a product with a project **or **associate a project with a product.
+There are two ways to create associations. You can either associate a product with a project **or **associate a project with a product. If your records were imported from ScienceBase, the record associations may be automatically created, but sometimes you may have to create the associations manually \(as described below\).
 
-| Quick Reference: Create an Association in Projects |
+| Quick Reference: Creating an Association in Projects |
 | :--- |
-| Select **product** from the Association Type drop-down menu. This describes the relationship between the product and its parent project. |
-| Use the Select a Record button to select an associated product. |
-| Select the Product that you would like to associate to from the Select a Resource list. |
+| Select **product** from the Association Type drop-down menu. |
+| Use the _Select a Record_ button to select an associated product. |
+| Choose the product that you would like to associate to from the \_Select a Resource \_list. |
 
 ---
 
-### Step-by-Step Create an Association in Projects
+### Step-by-Step: Creating an Association in Projects
 
-#### Step 1: Select Association Type
-
-* Select **product** from the **Association Type **drop-down menu. This describes the relationship between the product and its parent project.
+**Step 1: **Select **product** from the **Association Type **drop-down menu. This describes the relationship between the product and its parent project.
 
 ![](/assets/product_association_lcc.png)
 
-#### Step 2: Select a Project
-
-* Use the **Select a Record **button to select an associated product.
+**Step 2:** Use the **Select a Record **button to select an associated product.
 
 ![](/assets/select_a_record_button.png)
 
-* Select the product that you would like to associate to from the **Select a Resource **list.
+**Step 3: **Choose the product that you would like to associate to from the **Select a Resource **list.
 
 ![](/assets/select_a_resource_product_window.png)
 
