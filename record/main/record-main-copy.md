@@ -75,7 +75,12 @@ The following fields are required in citation:
 * **Dates **\(Optional\): Enter _acquisition, creation, revision,_ or another date reference from the picklist and then enter the date
 * **Responsible Parties \(**Required\)**: **This must include a point of contact, but may also include other responsible parties such as a project lead, administrators, partners, collaborators, and/or funders \(contributors\).
   * **REQUIRED: **Add the Network Data Steward as "pointOfContact."** **
-  * 
+  * **RECOMMENDED: **Add your LCC, and the project Principal Investigator. Enter your LCC as "administrator" and the Project Principal Investigator as "principalInvestigator."
+* **Online Resource \(**Required, if Available\)**:** Enter the Name and URL for the project homepage on your LCC website
+
+* **Identifier: **Enter a unique identifier for your project or product.
+
+  * **RECOMMENDED: **Use the identifier that your LCC is already using, or create something unique that is easily identifiable.
 
 ---
 
