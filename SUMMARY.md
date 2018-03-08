@@ -12,6 +12,10 @@
   * [Funding Tab](record/main/funding-tab.md)
   * [Associating Records](record/main/associating-records.md)
 * [Product Entry Guidance](product-entry-guidance.md)
+  * [Main Tab: Product](product-entry-guidance/main-tab-product.md)
+  * [Metadata Tab: Product](product-entry-guidance/metadata-tab-product.md)
+  * [Keyword Tab: Product](product-entry-guidance/keyword-tab-product.md)
+  * Associating Records: Products
 * [Contact Entry Guidance](product-entry-guidance/contact-entry-guidance.md)
 * [Quick Reference](quick-reference.md)
   * [Adding Projects: Quick Reference](adding-projects-quick-reference.md)
