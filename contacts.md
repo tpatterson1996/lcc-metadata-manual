@@ -6,15 +6,29 @@ Contacts are individuals or organizations that can be referenced by other contac
 
 ---
 
+### General Notes on Contacts
+
+In mdEditor, contacts are created separately from individual records, and then stored within a library in mdEditor. 
+
+
+
+There are three places in a metadata record where contacts can/must be added. 
+
+1. The "Point of Contact” Section of the Main Tab
+2. The “Responsible Parties” Section in the Citation of the Main Tab
+3. The “Contacts” Section of the Metadata Tab
+
+
+
 ### Required and Recommended Contacts for LCC's
 
-| **Summary Required/Recommended/Optional Contacts** |
+| S**ummary of Required, Recommended & Optional Contacts** |
 | :--- |
 | **LCC Network Data Steward **\(Required\) |
 | **LCC** \(Recommended\) |
 | **Project PI  \(**Recommended\) |
 | **LCC Data Manager** \(Optional\) |
-|  |
+| **Funders, Partners, Collaborators ** |
 
 **The LCC Network Data Steward:**
 
@@ -28,11 +42,7 @@ Contacts are individuals or organizations that can be referenced by other contac
 * **Contact Type:** lcc
 * **Email Address**: 
 
-
-
-![](/assets/lcc_required_small.png)You must create an organization contact for your LCC and any organization that is involved in your project or product \(partner, co-funder, etc\), if there is not one already.
-
-> > ---
+---
 
 ### Create a New Contact
 
@@ -46,7 +56,7 @@ Consult the [Organization Contact](/contact/new/organization.md) section of this
 
 ---
 
-### General Notes on Contacts
+### Best Practices for Contacts
 
 ![](/assets/best_practice_small.png)![](/assets/note_small.png)
 
