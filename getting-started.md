@@ -41,3 +41,4 @@ Consult [Adding Projects: Quick Reference](/adding-projects-quick-reference.md),
 
 Consult the [Adding Contacts: Quick Reference](/adding-contacts-quick-reference.md) for information about required fields and best practices or the [Contact New ](/contact.md)section of this manual for general instructions, required fields, and best practices.
 
+{% include "git+https://github.com/adiwg/mdEditor-doc.git/getting-started.md" %}
