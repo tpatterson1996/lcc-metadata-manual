@@ -10,11 +10,11 @@ Contacts are individuals or organizations that can be referenced by other contac
 
 In mdEditor, contacts are created separately from individual records, and then stored within a library in mdEditor. Once contacts have been entered or imported into mdEditor, they can be used in metadata records. Editing a contact in the mdEditor contact library will update the contact information included in any metadata record that uses that contact. Editing a contact in mdEditor will also update contact information on Science Base once the record is published.
 
-It is recommended that you leave contacts in mdEditor in-between work sessions. That way, your contacts will always be available for you to use.
+It is recommended that you leave contacts in mdEditor in-between work sessions. This allows you to readily add contacts to projects and products.
 
-It is also recommended that when you export records, you also export your \_entire \_contact list. If you do not export your contact list, and you later import a record that contains a contact not in your library, you may receive an error and have to re-enter the contact to that record.
+It is also recommended that when you export records, you also export your entire contact list when you export records. If you do not export your contact list, and you later import a record that contains a contact not in your library, you may receive an error and have to re-enter the contact to that record.
 
-**There are three places in a metadata record where contacts can/must be added. **
+**Once your contacts have been added to mdEditor, there are three places in a metadata record where contacts can/must be added. **
 
 _Please see the corresponding sections for which contacts should be added where. _
 
@@ -64,10 +64,9 @@ Consult the [Organization Contact](/contact/new/organization.md) section of this
 
 ![](/assets/best_practice_small.png)![](/assets/note_small.png)
 
-**Notes on Entering Contacts**
-
 * Always spell out acronyms and organization names.
 * Copying contacts will change the ID and the name \(the name will be “Copy of ….”\) but all the other information will be the same.
+* Make sure your contacts are loaded and accurate in mdEditor before beginning to create your metadata records. 
 
 ---
 

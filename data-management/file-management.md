@@ -18,10 +18,8 @@ mdEditor.json files can be exported and imported via mdEditor's built-in **Expor
 >   * _Save each project and affiliated products together** as a set**_**.** To do this, select “Export” from the top menu, then select the appropriate records \(i.e., the target project and its affiliated products\) and then click “Export Selected.” 
 >     * Consult the [**Export**](/export.md)** **section of this manual to learn more about export functionality.
 >   * Save the resulting mdEditor JSON file to your hard drive in a working folder. There should be a separate mdEditor JSON file for each project and all of its products. 
->   * When exporting projects and products, export all of your contacts. 
->
-> * **Best Practice**: Leave your dictionaries in mdEditor all the time so they’re always available.
->
+>   * When exporting projects and products, export all of your contacts.
+
 > * **Best Practice**: Leave your contacts in mdEditor all the time so they’re always available.
 >
 > * **Best Practice**: Set up a metadata directory so you can always find the metadata file.
