@@ -13,7 +13,7 @@ The following fields are available for individual contacts:
 
   * You can make an individual part of multiple organizations.
 
-* All other fields are optional but recommended.
+* _All other fields are optional but recommended._
 
 ![](/assets/individual_contact_window.png)
 

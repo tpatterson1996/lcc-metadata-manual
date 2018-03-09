@@ -2,13 +2,13 @@
 
 ---
 
-Contacts are individuals or organizations that can be referenced by other contacts, projects, or products. Contacts contain information such as name of individuals or organization, email address, physical address, website, and phone number so that viewers of metadata can communicate with those affiliated with a metadata record. They also allow LCC staff to know who is responsible for, or participated in: the creation and maintenance of projects and products; funding of projects; and creation and maintenance of metadata.
+Contacts are individuals or organizations that can be referenced by other contacts, projects, or products. Contacts contain information such as the names of individuals or organization, email address, physical address, website, and phone number so that viewers of metadata can communicate with those affiliated with a metadata record. They also allow LCC staff to know who is responsible for, or participated in: the creation and maintenance of projects and products; funding of projects; and creation and maintenance of metadata.
 
 ---
 
-### Minimum Requirements
+### Contact Requirements for LCC's
 
-![](/assets/lcc_required_small.png)All LCC records require that the LCC Network Data Steward be listed as a contact. 
+![](/assets/lcc_required_small.png)In addition to other contacts you wish to provide, All LCC records require that the LCC Network Data Steward be listed as a contact.
 
 **The LCC Network Data Steward's contact information is as follows.**
 
@@ -16,40 +16,9 @@ Contacts are individuals or organizations that can be referenced by other contac
 * **Contact Type:** lcc
 * **Email Address:** lccdatasteward@fws.gov
 
-
-
-![](/assets/lcc_required_small.png)You must create an organization contact for your LCC and any organization that is involved in your project or product \(partner, co-funder, etc\), if there is not one already. 
-
-
+![](/assets/lcc_required_small.png)You must create an organization contact for your LCC and any organization that is involved in your project or product \(partner, co-funder, etc\), if there is not one already.
 
 > > ---
-
-### General Notes on Contacts
-
-![](/assets/best_practice_small.png)![](/assets/note_small.png)
-
-###### Best Practices & General Notes
-
-| Best Practice: **Creating/Editing Contacts ** | Notes: **Creating/Editing Contacts** |
-| :--- | :--- |
-| Always spell out acronyms and organization names. | When you edit a contact, the information will also update the metadata records that include that contact, and the edited contact will update to ScienceBase when you publish the records. |
-|  | Copying contacts will change the ID and the name \(the name will be “Copy of ….”\) but all the other information will be the same. |
-
-| Best Practice: Maintaining Contacts in mdEditor | Notes: Maintaining Contacts in mdEditor |
-| :--- | :--- |
-| Leave your contacts in mdEditor so that they’re always available. | Leaving contacts in mdEditor makes them available for addition in any new or existing projects or products. |
-
-| Best Practice: Exporting Contacts | Note: Exporting Contacts |
-| :--- | :--- |
-| It is safest to export all contacts whenever you export a project/product. | When you import a contact, if the contacts list isn't complete, the record may show an error and you will be unable to re-add the contact to the record. |
-
----
-
-### Show Contacts
-
-Click the **angle-down icon** \(![](/assets/symbol_angle-down_16.png)\) to expand the contact group panel and display a list of contacts in the sidebar. Click on the contact that you would like to view.
-
----
 
 ### Create a New Contact
 
@@ -60,6 +29,34 @@ Click the **angle-down icon** \(![](/assets/symbol_angle-down_16.png)\) to expan
 Consult the [Individual Contact](/contact/new/individual.md) section of this manual to learn about fields that are specific to individual contacts.
 
 Consult the [Organization Contact](/contact/new/organization.md) section of this manual to learn about fields that are specific to organizations.
+
+---
+
+### General Notes on Contacts
+
+![](/assets/best_practice_small.png)![](/assets/note_small.png)
+
+**Notes on Entering Contacts**
+
+* Always spell out acronyms and organization names.
+* When you edit a contact, the information will also update the metadata records that include that contact, and the edited contact will update to ScienceBase when you publish the records.
+* Copying contacts will change the ID and the name \(the name will be “Copy of ….”\) but all the other information will be the same.
+
+**Notes on Maintaining Contacts in mdEditor**
+
+* Leave your contacts in mdEditor so that they’re always available.
+* Leaving contacts in mdEditor makes them available for addition in any new or existing projects or products.
+
+**Notes on Exporting Contacts**
+
+* It is safest to export all contacts whenever you export a project/product.
+* When you import a contact, if the contacts list isn't complete, the record may show an error and you will be unable to re-add the contact to the record.
+
+---
+
+### Show Contacts
+
+Click the **angle-down icon** \(![](/assets/symbol_angle-down_16.png)\) to expand the contact group panel and display a list of contacts in the sidebar. Click on the contact that you would like to view.
 
 ---
 
