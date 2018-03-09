@@ -30,7 +30,11 @@
   * [Export](data-management/export.md)
   * [Copy Records](data-management/copy-records.md)
 * [Translate](translate.md)
+* [Publish](publish.md)
+  * [Requirements for Publishing](publish/requirements-for-publishing.md)
+  * [Instructions for Testing Publishing](publish/instructions-for-testing-publishing.md)
+  * [How to Publish](publish/how-to-publish.md)
+  * [FAQ](publish/faq.md)
 * [Help](help.md)
 * [Glossary of Terms](glossary-of-terms.md)
-* [Appendix](appendix.md)
 
