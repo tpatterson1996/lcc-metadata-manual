@@ -1,66 +1,87 @@
-# Contacts
+# Contact Entry Guidance
 
 ---
 
-Contacts are individuals or organizations that can be referenced by other contacts, projects, or products. Contacts contain information such as name of individuals or organization, email address, physical address, website, and phone number so that viewers of metadata can communicate with those affiliated with a metadata record. They also allow LCC staff to know who is responsible for, or participated in: the creation and maintenance of projects and products; funding of projects; and creation and maintenance of metadata.
-
----
-
-### Minimum Requirements
-
-> ![](/assets/lcc_required_small.png)All LCC records require at least one contact to serve as a point of contact for projects and products. One contact must be  LCC Network Data Steward. The LCC data steward will serve as the long term contact/backup if LCC staff are not available. 
->
-> **The LCC Network Data Steward's contact information is as follows.**
->
-> * Individual Name: **LCC Network Data Steward**
-> * Position Name: **LCC Network Data Manager**
-> * Contact Type: **lcc**
-> * E-mail Addresses: **lccdatasteward@fws.gov**
->
-> Consult the [**Individual Contact**](/contact/individual-contact.md) section of this manual to learn how to add this information. 
->
-> ![](/assets/lcc_required_small.png)You must create an organization contact for your LCC and any organization that is involved in your project or product \(partner, co-funder, etc\), if there is not one already. Consult the [**Organization Contacts**](/contact/organization-contacts.md) section of this manual to learn what fields are required.
+Contacts are individuals or organizations that can be referenced by other contacts, projects, or products. Contacts contain information such as the names of individuals or organization, email address, physical address, website, and phone number so that viewers of metadata can communicate with those affiliated with a metadata record. They also allow LCC staff to know who is responsible for, or participated in: the creation and maintenance of projects and products; funding of projects; and creation and maintenance of metadata.
 
 ---
 
 ### General Notes on Contacts
 
-![](/assets/best_practice_small.png)![](/assets/note_small.png)
+In mdEditor, contacts are created separately from individual records and then stored within a library in mdEditor. Once contacts have been entered or imported into mdEditor, they can be used in metadata records. Editing a contact in the mdEditor contact library will update the contact information included in any metadata record that uses that contact. Editing a contact in mdEditor will also update contact information on Science Base once the record is published.
 
-###### Best Practices & General Notes
+It is recommended that you leave contacts in mdEditor in-between work sessions. This allows you to readily add contacts to projects and products.
 
-| Best Practice: **Creating/Editing Contacts ** | Notes: **Creating/Editing Contacts** |
-| :--- | :--- |
-| Always spell out acronyms and organization names. | When you edit a contact, the information will also update the metadata records that include that contact, and the edited contact will update to ScienceBase when you publish the records. |
-|  | Copying contacts will change the ID and the name \(the name will be “Copy of ….”\) but all the other information will be the same. |
+It is also recommended that when you export records, you also export your entire contact list. If you do not export your contact list, and you later import a record that contains a contact not in your library, you may receive an error and have to re-enter the contact to that record.
 
-| Best Practice: Maintaining Contacts in mdEditor | Notes: Maintaining Contacts in mdEditor |
-| :--- | :--- |
-| Leave your contacts in mdEditor so that they’re always available. | Leaving contacts in mdEditor makes them available for addition in any new or existing projects or products. |
+**Once your contacts have been added to mdEditor, there are five places in a metadata record where contacts can/must be added. **
 
-| Best Practice: Exporting Contacts | Note: Exporting Contacts |
-| :--- | :--- |
-| It is safest to export all contacts whenever you export a project/product. | When you import a contact, if the contacts list isn't complete, the record may show an error and you will be unable to re-add the contact to the record. |
+_Please see the corresponding sections for which contacts should be added where. _
 
----
-
-### Show Contacts
-
-Click the **angle-down icon** \(![](/assets/symbol_angle-down_16.png)\) to expand the contact group panel and display a list of contacts in the sidebar. Click on the contact that you would like to view.
+1. The "Point of Contact” Section of the [Main Tab](/record/main/record-main-copy.md)
+2. The “Responsible Parties” Section in the Citation of the [Main Tab](/record/main/record-main-copy.md)
+3. The “Contacts” Section of the [Metadata Tab](/record/main/metadata-tab.md)
+4. The “Allocation”  Section of the[ Funding Tab](/record/main/funding-tab.md) for Projects
+5. The “Contacts” Section in the [Distribution Tab ](/distribution.md)for Products
 
 ---
 
-### Create a New Contact
+### Summary of Contact Requirements & Best Management Practices
 
-1. Click the plus \(![](/assets/symbol_plus_16.png)\) sign by **Contacts**.
-2. Specify if the contact is an **Individual** or an **Organization.**
-3. The **Contact ID **is auto generated by mdEditor.
+#### **In Main /Point of Contact**
 
-Consult the [Individual Contact](/contact/new/individual.md) section of this manual to learn about fields that are specific to individual contacts.
+* Enter your LCC as a “pointOfContact” \(required\).
 
-Consult the [Organization Contact](/contact/new/organization.md) section of this manual to learn about fields that are specific to organizations.
+* Enter the LCC Network Data Steward as a “pointOfContact” \(required\).
+
+* Enter the project PI as “principalInvestigator” \(best management practice\).
+
+#### **In Main / Citation /Responsible Parties**
+
+* Enter your LCC as “administrator” \(required\).
+
+* Enter the project PI as “principalInvestigator” \(best management practice\).
+
+* Can also add funders \(including your LCC\), partners, collaborators, contributors. \(best management practice\)
+
+#### **In Metadata /Contacts**
+
+* At least one contact with the role of “author” is required. Does not necessarily have to be the LCC \(e.g., imported FGDC metadata can list the original author\)
+
+  * Can be an individual or an organization.
+
+  * You can enter your LCC data manager as the “author”. You do not need to use individual names and can create a generic data manager for your LCC, but this is up to the individual LCC.
+
+* Enter the LCC Network Data Steward as a “pointOfContact” \(required\).
+
+* Enter a “publisher.” In most cases, it will be the LCC \(best management practice\).
+
+#### **In Funding / Allocation \(for Projects only\)**
+
+* Add the relevant contact for “source” of the project funding \(required\).
+
+  * Should be an organization, not an individual. For LCC projects, the most common sources are U.S. Fish and Wildlife Service, Bureau of Land Management, and Bureau of Reclamation.
+
+* Add the relevant contact for “recipient” of the project funding \(required\).
+
+  * Should be an organization, not an individual.
+
+#### **In Distribution \(for Products only\)**
+
+* Add the relevant contact for “distributor” of the product \(if you fill out anything in the Distribution section, a contact for Distributor is required\).
 
 ---
 
+### Best Practices for Contacts
 
+* Always spell out acronyms and organization names.
+* Copying contacts will change the ID and the name \(the name will be “Copy of ….”\) but all the other information will be the same.
+* Make sure your contacts are loaded and accurate in mdEditor before beginning to create your metadata records. 
+* Code lists, including the contact type options/dropdown list, are maintained by ADIwg.
+
+---
+
+### Importing Contacts
+
+When you import a ScienceBase record for the first time,  mdTranslator will automatically load all sbJSON contacts into Main/Citation/Responsible Parties. However, this MUST be reviewed to check for errors and inconsistencies introduced during translation. Delete any duplicate or extraneous contacts or errors from this section. Ensure you meet requirements, follow BMPs, and you can include other contacts as desired.
 

@@ -4,17 +4,15 @@
 
 Contacts, projects, and products all share a relationship in mdEditor.
 
-**Contacts** are the creators, curators, contributors, and funders of projects and products. Contacts can be individuals, organizations, or individuals who are members of organizations.
+* **Contacts** are the creators, curators, contributors, and funders of projects and products. Contacts can be individuals, organizations, or individuals who are members of organizations.
 
-> Consult the [Contacts](/contacts.md) section of this manual for more information on adding contacts.
+  > Consult the [Contacts](/contacts.md) section of this manual for information on adding contacts.
 
-**Projects and Products **will always have a relationship to a contact. Projects will always have at least one point of contact. Additional contact relationships may include: project author; metadata creator; and many other roles. One crucial contact relationship between contacts, projects, and products is the role of the individual\(s\) and/or organization\(s\) who contributed funding. This may include a direct full contributor, or any partners that helped with funding.
+* **Projects and Products **will always have a relationship with a contact. Projects will always have at least one point of contact \(The LCC Network Data Steward\). Additional contact relationships may include project authors; metadata creators; funders; project PIs; publishers; distributors; and many others.  One crucial contact relationship between contacts, projects, and products is the role of the individual\(s\) and/or organization\(s\) who contributed funding. This may include a direct full contributor or any partners that helped with funding.
 
-> Consult the [Record Edit](/record.md) section of this manual for more information making contact relationships.
+* **Products are often the creation of projects**. mdEditor allows for the notation of the relationship between projects and products by using the Associated feature,
 
-Finally, **products are often the creation of projects**. mdEditor allows for the notation of the relationship between projects and products by using the Associated feature,
-
-> Consult the [Record Associated](/record/record-associated.md) section of this manual for more information\).
+  > Consult either the [Associating Records: Product](/product-entry-guidance/associating-records-products.md) or [Associating Records: Project](/record/main/associating-records.md) section of this manual for more information\).
 
 
 
