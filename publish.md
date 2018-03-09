@@ -2,13 +2,13 @@
 
 ---
 
-Users can publish records to an online platform. The current option is ScienceBase, a collaborative data cataloging and data management platform developed by the United States Geological Survey. It provides a centralized, searchable, and publicly-available repository for data. You must have a ScienceBase user account with publishing rights in order to publish to ScienceBase. Publishing adds your items to ScienceBase database as well as the National Science Catalogue.
+LCC metadata is published to ScienceBase in your LCC community's project folder. You must have a ScienceBase user account with write access to this folder. Once the mdJSON metadata is published in ScienceBase, the records will be synced w the LCC Science Catalog.
 
 ---
 
 ### ![](/assets/publish_screenshot_overview.png)
 
-### Before You Begin
+## Before You Begin
 
 Please read through ALL instructions before you begin the publishing process. After you understand how the publishing function works, please read the[** testing instructions**](/publish/instructions-for-testing-publishing.md) and proceed with testing a record before you try to publish any of your real records.
 
@@ -16,15 +16,13 @@ Please read through ALL instructions before you begin the publishing process. Af
 
 ## Overall Science Catalog System Architecture
 
-Currently the mdEditor is used primarily with ScienceBase, a collaborative scientific data and information management platform developed and run by the USGS and used directly by science teams.
-
-The following describes the process of publishing from mdEditor
+The following describes the process of publishing from mdEditor:
 
 1. mdEditor outputs an mdJSON file.
 2. The mdJSON file is transmitted via a web service to mdTranslator.
 3. mdTranslator translates the mdJSON file into sbJSON and XML.
-4. ScienceBase imports the sbJSON and XML.
-5. Depending on the default repository that you defined in settings, the records are exported from ScienceBase to DATA.GOV, the LCC Science Catalog Website, or both.
+4. ScienceBase imports the sbJSON and attaches the XML and mdJSON files to the ScienceBase item.
+5. The record is sent to data.doi.gov and the LCC Science Catalog if the requisite metadata repositories were specified. 
 
 _The following diagram describes the overall science catalog system architecture._
 

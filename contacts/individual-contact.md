@@ -2,7 +2,7 @@
 
 ---
 
-### Create a New Contact
+## Create a New Contact
 
 * Click the plus \(![](/assets/symbol_plus_16.png)\) sign by **Contacts**.
 * Specify if the contact is an **Individual** or an **Organization.**
@@ -25,7 +25,7 @@ _All other fields are optional but recommended._
 
 ---
 
-### NETWORK DATA STEWARD
+## LCC Network Data Steward
 
 _The LCC Network Data Steward is required as a "PointOfContact" in the Point of Contact section of the Main Tab and in the Contacts section of the Metadata Tab._
 

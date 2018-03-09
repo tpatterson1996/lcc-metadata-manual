@@ -2,7 +2,7 @@
 
 ---
 
-### Create a New Contact
+## Create a New Contact
 
 * Click the plus \(![](/assets/symbol_plus_16.png)\) sign by **Contacts**.
 * Specify if the contact is an **Individual** or an **Organization.**

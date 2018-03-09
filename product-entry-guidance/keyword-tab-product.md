@@ -6,13 +6,13 @@ Adding keywords to your metadata record allows for the record to be found later 
 
 | Quick Reference: Recommended Thesauruses for LCC Products |
 | :--- |
-| ISO Topic Category \(Recommended\)  |
-| LCC Deliverable Types \(Recommended\)  |
-| LCC End User Types \(Recommended\)  |
+| ISO Topic Category \(Recommended\) |
+| LCC Deliverable Types \(Recommended\) |
+| LCC End User Types \(Recommended\) |
 
 ---
 
-### **To add Keywords to your Metadata Record**
+## **To add Keywords to your Metadata Record**
 
 1. Click “+ Add Thesaurus” on the right to add the different thesauruses.
 2. Add keywords from the following pre-populated thesauruses.
@@ -26,13 +26,13 @@ Adding keywords to your metadata record allows for the record to be found later 
 
 ---
 
-### **Custom Thesaurus **
+## **Custom Thesaurus **
 
 It is recommended that you use a custom thesaurus only for keywords that are not available in a pre-populated lists. For example, If a certain end-user type is not available in the LCC End User Types thesaurus, you can add the type using the Custom thesaurus. However, you can add a Custom thesaurus for any terms that you see fit.
 
 ---
 
-### **General Notes And Best Practices for Keywords**
+## **General Notes And Best Practices for Keywords**
 
 **NOTES: **Keywords edited in mdEditor will overwrite keywords in ScienceBase.
 

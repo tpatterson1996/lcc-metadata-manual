@@ -1,4 +1,4 @@
-## Copying Records
+# Copying Records
 
 ---
 
@@ -6,7 +6,7 @@ The **Copy** button is located in the mdEditor action menu on the right-hand sid
 
 ---
 
-### Copying Records
+## Copying Records
 
 **Making a copy of a record can be used to:**
 

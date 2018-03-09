@@ -6,7 +6,7 @@
 
 ---
 
-**PUBLISHING OVERVIEW**
+## **Publishing Overview**
 
 **Step One:** Log Into ScienceBase
 
@@ -16,7 +16,7 @@
 
 ---
 
-#### STEP ONE: Logging into ScienceBase
+### STEP ONE: Logging into ScienceBase
 
 1. Click the **Publish** button from the top menu in mdEditor.
 2. You will be asked to select a _publishing service_. Click on ScienceBase.
@@ -40,7 +40,7 @@ Items directly below the ScienceBase header will be published under the ScienceB
 
 ---
 
-#### STEP TWO: Moving Records in the Publishing Outline
+### STEP TWO: Moving Records in the Publishing Outline
 
 _Before you move records in the publishing outline please select your scenario below and follow the corresponding guidance._
 
@@ -79,7 +79,7 @@ You can drag and drop records to establish the parent-child relationship, elimin
 
 ---
 
-#### STEP THREE: Submitting for Publishing
+### STEP THREE: Submitting for Publishing
 
 1. To select a record to publish, click on it and it will turn green \(click again to un-select it\).
 
