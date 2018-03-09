@@ -14,6 +14,8 @@ The **Main **tab allows for the creation and/or editing of primary metadata. The
 | Description \(Required\) |
 | Time Period \(Required\) |
 
+_To see the fields discussed in this guide, select the green pencil button next to an existing record in the left-hand menu, or create a new record. _
+
 ---
 
 ### **BASIC INFORMATION**
@@ -30,7 +32,7 @@ The **Main **tab allows for the creation and/or editing of primary metadata. The
 
 ### DEFAULT LOCALE
 
-**Default Locale **allows for selection of **Language**, **Character Set**, and **Country**. English, UTF-8, and USA will be selected by default, but you may change them if necessary.
+**Default Locale **allows for the selection of **Language**, **Character Set**, and **Country**. English, UTF-8, and USA will be selected by default, but you may change them if necessary.
 
 ![](/assets/default_locale.png)
 
@@ -38,7 +40,7 @@ The **Main **tab allows for the creation and/or editing of primary metadata. The
 
 ### RESOURCE TYPES
 
-**Resource Types** \(**Type **and **Name**\), will be filled automatically with the information added when you created your record.
+**Resource Types** \(**Type **and **Name**\), should be filled automatically with the information added when you created your record.
 
 ![](/assets/resource_types.png)
 
@@ -50,13 +52,11 @@ Adding a point of contact gives LCC staff information on who to contact should t
 
 **REQUIRED: **Enter **the LCC Network Data Steward **as a "pointOfContact."
 
-The LCC Network Data Steward will serve as the long term contact/backup if LCC staff are not available. This way, users have a point of contact even if there is a positional change within an organization. The LCC Network Data Steward should be included in addition to any point of contact that you want to add from your organization
+The LCC Network Data Steward will serve as the long term contact/backup. This way, users have a point of contact even if there is a positional change within an organization. The LCC Network Data Steward should be included in addition to any point of contact that you want to add from your organization
 
 See the [Contact ](/product-entry-guidance/contact-entry-guidance.md)Section for Information on how to add the LCC Network Data Steward contact.
 
 **BEST MANAGEMENT PRACTICE:** Enter your LCC as "pointOfContact." See the [Contact ](/product-entry-guidance/contact-entry-guidance.md)Section for Information on how to add an LCC contact.
-
-
 
 ![](/assets/point_of_contacts.png)
 

@@ -6,8 +6,6 @@
 
 **Configuring The LCC Profile **
 
-
-
 **Information You Will Need to Create a Metadata Entry **
 
 **General Instructions **
