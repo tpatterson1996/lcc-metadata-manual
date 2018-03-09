@@ -8,17 +8,21 @@ Contacts are individuals or organizations that can be referenced by other contac
 
 ### General Notes on Contacts
 
-In mdEditor, contacts are created separately from individual records, and then stored within a library in mdEditor. 
+In mdEditor, contacts are created separately from individual records, and then stored within a library in mdEditor. Once contacts have been entered or imported into mdEditor, they can be used in metadata records. Editing a contact in the mdEditor contact library will update the contact information included in any metadata record that uses that contact. Editing a contact in mdEditor will also update contact information on Science Base once the record is published.
 
+It is recommended that you leave contacts in mdEditor in-between work sessions. That way, your contacts will always be available for you to use.
 
+It is also recommended that when you export records, you also export your \_entire \_contact list. If you do not export your contact list, and you later import a record that contains a contact not in your library, you may receive an error and have to re-enter the contact to that record.
 
-There are three places in a metadata record where contacts can/must be added. 
+**There are three places in a metadata record where contacts can/must be added. **
 
-1. The "Point of Contact” Section of the Main Tab
-2. The “Responsible Parties” Section in the Citation of the Main Tab
-3. The “Contacts” Section of the Metadata Tab
+_Please see the corresponding sections for which contacts should be added where. _
 
+1. The "Point of Contact” Section of the [Main Tab](/record/main/record-main-copy.md)
+2. The “Responsible Parties” Section in the Citation of the [Main Tab](/record/main/record-main-copy.md)
+3. The “Contacts” Section of the [Metadata Tab](/record/main/metadata-tab.md)
 
+---
 
 ### Required and Recommended Contacts for LCC's
 
@@ -63,18 +67,7 @@ Consult the [Organization Contact](/contact/new/organization.md) section of this
 **Notes on Entering Contacts**
 
 * Always spell out acronyms and organization names.
-* When you edit a contact, the information will also update the metadata records that include that contact, and the edited contact will update to ScienceBase when you publish the records.
 * Copying contacts will change the ID and the name \(the name will be “Copy of ….”\) but all the other information will be the same.
-
-**Notes on Maintaining Contacts in mdEditor**
-
-* Leave your contacts in mdEditor so that they’re always available.
-* Leaving contacts in mdEditor makes them available for addition in any new or existing projects or products.
-
-**Notes on Exporting Contacts**
-
-* It is safest to export all contacts whenever you export a project/product.
-* When you import a contact, if the contacts list isn't complete, the record may show an error and you will be unable to re-add the contact to the record.
 
 ---
 
