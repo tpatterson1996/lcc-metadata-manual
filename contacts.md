@@ -48,14 +48,6 @@ _Please see the corresponding sections for which contacts should be added where.
 
 ---
 
-### 
-
-Consult the [Individual Contact](/contact/new/individual.md) section of this manual to learn about fields that are specific to individual contacts.
-
-Consult the [Organization Contact](/contact/new/organization.md) section of this manual to learn about fields that are specific to organizations.
-
----
-
 ### Best Practices for Contacts
 
 ![](/assets/best_practice_small.png)![](/assets/note_small.png)
