@@ -4,11 +4,11 @@
 
 ### Before You Begin
 
-**Configuring The LCC Profile **
-
 **Information You Will Need to Create a Metadata Entry **
 
 **General Instructions **
+
+**Select the LCC Product Profile**: After initial creation of your product, and before you begin adding metadata, select **lccProduct **from the **Profile** drop down in the main menu. This will limit the number of available tabs and only show tabs that contain fields that are required for product creation.
 
 ---
 
@@ -41,16 +41,4 @@
   * Metadata Repositories
 
 **Keywords Tab**
-
-
-
-
-
-
-
-
-
-
-
-
 
