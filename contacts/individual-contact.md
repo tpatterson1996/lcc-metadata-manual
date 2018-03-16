@@ -13,8 +13,13 @@ _The following fields are available for** Individual Contacts:**_
 * **Individual name \(**Required\): Enter individuals full name
 * **Position name** \(Required\): Enter individuals full title, avoid acronyms
 * **Contact Type **\(Required\): Enter the contact type from the picklist
-* **Email Address **\(Required\): Enter email
 * **Member Organization **\(Required\): Select organization\(s\), you can make an individual part of multiple organizations.
+* **Email Address **\(Required\): Enter email
+* **Physical Address **\(Best Management Practice\): Enter a physical address
+* **Logo **\(Optional\): 
+  * You can either select or drop an image. If you choose to load an image, mdEditor will create a URI and will have a size limit for the logo. If have a larger image, link to it rather than loading it into mdEditor. 
+  * If an organization has a logo associated with it, individuals will inherit the logos from the organization 
+  * If your contact contains a logo, you must include a filename for the logo or else you will get an error on metadata records that include that contact.
 
 _All other fields are optional but recommended._
 
