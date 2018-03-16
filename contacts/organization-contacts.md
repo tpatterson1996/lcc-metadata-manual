@@ -11,8 +11,7 @@
 _The following fields are required for **Organization Contacts:**_
 
 * **Organization Name \(**Required\): The organization's full name, avoid acronyms
-* **Email Address **\(Required\)**:** Add an email address of the primary contact in the organization
-  * If you do not have a contact point for the organization, you can use the LCC Data Steward email address: lccdatasteward@fws.gov
+* **Email Address **\(Required\)**:** Add an email address of the primary contact in the organization. 
 * **Online Resource** \(Required\): Add a web URL where your organization resides. Online resource may also include social networks.
 
 _All other fields are optional, but recommended._

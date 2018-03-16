@@ -12,7 +12,7 @@ _The following fields are available for** Individual Contacts:**_
 
 * **Individual name \(**Required\): Enter individuals full name
 * **Position name** \(Required\): Enter individuals full title, avoid acronyms
-* **Contact Type **\(Required\): lcc** **
+* **Contact Type **\(Required\): Contact type will depend on the individual 
 * **Email Address **\(Required\): Enter email
 * **Member Organization **\(Required\): Select the organization\(s\). You can make an individual part of multiple organizations.
 
