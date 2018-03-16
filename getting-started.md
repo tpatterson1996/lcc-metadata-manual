@@ -12,6 +12,19 @@
 
 ---
 
+### Suggested Workflow for Creating Metadata Records 
+
+1. Gather information needed for metadata entry.
+2. Set default Settings, including ScienceBase import URL and LCC metadata repositories.
+3. Create or import Contacts.
+4. Create or import Projects.
+5. Create or import Products.
+6. Publish. 
+7. Export for backup, transfer, or sharing.
+   * **Note: **You can export working backups before publishing but archival exports should be done after publishing since publishing can do things like add or change SBIDs in the records.
+
+---
+
 ### Preparing to Add Items
 
 You will need to prepare some information and settings before adding your metadata records.
@@ -40,3 +53,4 @@ Consult [Adding Projects: Quick Reference](/adding-projects-quick-reference.md),
 3. Click **Save**
 
 Consult the [Adding Contacts: Quick Reference](/adding-contacts-quick-reference.md) for information about required fields and best practices or the [Contact New ](/contact.md)section of this manual for general instructions, required fields, and best practices.
+
