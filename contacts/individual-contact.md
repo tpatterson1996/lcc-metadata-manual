@@ -12,9 +12,9 @@ _The following fields are available for** Individual Contacts:**_
 
 * **Individual name \(**Required\): Enter individuals full name
 * **Position name** \(Required\): Enter individuals full title, avoid acronyms
-* **Contact Type **\(Required\): Contact type will depend on the individual 
+* **Contact Type **\(Required\): Enter the contact type from the picklist
 * **Email Address **\(Required\): Enter email
-* **Member Organization **\(Required\): Select the organization\(s\). You can make an individual part of multiple organizations.
+* **Member Organization **\(Required\): Select organization\(s\), you can make an individual part of multiple organizations.
 
 _All other fields are optional but recommended._
 
