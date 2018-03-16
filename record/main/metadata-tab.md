@@ -18,7 +18,17 @@ Record Metadata allows you to describe your record's metadata, including a descr
 
 * **Metadata Status: **
 
-* **Metadata Contacts: **are required and selected from your list of contacts. Adding a metadata contact will give LCC staff a contact point should they have any questions about the metadata._ Consult the _[_**Contacts**_](/contacts.md)_** **section of this manual to learn how to add contacts._
+#### **METADATA CONTACTS**
+
+**Metadata Contacts **are required and selected from your list of contacts. Adding a metadata contact will give LCC staff a contact point should they have any questions about the metadata._ _
+
+* **REQUIRED:** At least one contact with the role of “author” is required. Does not necessarily have to be the LCC \(e.g., imported FGDC metadata can list the original author\)
+  * "Author" can be an individual or an organization. 
+
+  * You can enter your LCC data manager as the “author”. You do not need to use individual names, if you want, you can create a generic data manager for your LCC, but this is up to each individual LCC.
+* **REQUIRED: **Enter the LCC Network Data Steward as a “pointOfContact.”
+
+* **BEST MANAGEMENT PRACTICE:** Enter a “publisher.” In most cases it will be the LCC**.**
 
 #### METADATA IDENTIFIER
 

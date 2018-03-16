@@ -73,17 +73,18 @@ The following fields are required in citation:
 * **Title **\(Auto-Generated\)**: **Added automatically based on the title of your record.
 * **Alternate Title \(**Optional\): Add an alternate title.
 * **Dates **\(Optional\): Enter _acquisition, creation, revision,_ or another date reference from the picklist and then enter the date.
-* **Responsible Parties \(**Required\)**: **This must include a point of contact, but may also include other responsible parties such as a project lead, administrators, partners, collaborators, and/or funders \(contributors\). To add contacts to a metadata record, you must first create/upload the contacts into mdEditor. See the [_Contact_](https://www.gitbook.com/book/jbadash/mdeditor-for-lccs/edit#) s_ection for more information._
+* **Responsible Parties \(**Required\)**: **This must include a point of contact, but may also include other responsible parties such as a project lead, administrators, partners, collaborators, and/or funders \(contributors\). 
   * **REQUIRED: **Add the Network Data Steward as "pointOfContact."** **
   * **REQUIRED: **Enter your LCC as "Administrator." 
-  * **BEST MANAGEMENT PRACTICE: **Enter the Project PI as the "principalInvestigator."
+  * **BEST MANAGEMENT PRACTICE: **Enter the Project PI as the "principalInvestigator.
+    > To add contacts to a metadata record, you must first create/upload the contacts into mdEditor. See the Contact section for more information.
 * **Online Resource \(**Required, if Available\)**:** Enter the Name and URL for the project homepage on your LCC website
 
 * **Identifier: **Enter a unique identifier for your project or product.
 
-  * **RECOMMENDED: **Use the identifier that your LCC is already using, or create something unique that is easily identifiable.
+  * **RECOMMENDED: **Use the identifier that your LCC is already using, or create something unique that is easily identifiable. 
 
-  > > **NOTE: **If you know your items ScienceBase ID, you may add it here. If your item does not have a ScienceBase ID, ScienceBase will create one automatically upon publishing. If you edit an item that is already on ScienceBase without using its existing ID, a duplicate item will be created. Consult the Publish section of this manual to learn more.
+  > **NOTE: **If you know your items ScienceBase ID, you may add it here. If your item does not have a ScienceBase ID, ScienceBase will create one automatically upon publishing. If you edit an item that is already on ScienceBase without using its existing ID, a duplicate item will be created. Consult the Publish section of this manual to learn more.
 
   * The following identifiers are optional but you may add them: 
     * _Digital Object Identifier \(DOI\)_
