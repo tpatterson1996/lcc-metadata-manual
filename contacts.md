@@ -44,7 +44,7 @@ Corresponds to the “lead” and “partner” sections in the required fields 
 
 * Enter the project PI as “principalInvestigator” \(best management practice\).
 
-* Can also add funders \(including your LCC\), partners, collaborators \(intellectually only?\), contributors \(intellectually and financially?\). \(best management practice\)
+* Can also add funders \(including your LCC\), partners, collaborators, contributors. \(best management practice\)
 
 #### **In Metadata /Contacts**
 
@@ -81,6 +81,7 @@ Corresponds to the “lead” and “partner” sections in the required fields 
 * Always spell out acronyms and organization names.
 * Copying contacts will change the ID and the name \(the name will be “Copy of ….”\) but all the other information will be the same.
 * Make sure your contacts are loaded and accurate in mdEditor before beginning to create your metadata records. 
+* Code lists, including the contact type options/dropdown list are maintained by ADIwg
 
 ---
 
@@ -91,6 +92,12 @@ Corresponds to the “lead” and “partner” sections in the required fields 
 * **Individual Name: **LCC Network Data Steward
 * **Contact Type:** lcc
 * **Email Address:** lccdatasteward@fws.gov
+
+---
+
+### Importing Contacts
+
+When you import a ScienceBase record for the first time,  mdTranslator will automatically load all sbJSON contacts into Main/Citation/Responsible Parties. However, this MUST be reviewed to check for errors and inconsistencies introduced during translation. Delete any duplicate or extraneous contacts or errors from this section. Ensure you meet requirements, follow BMPs, and you can include other contacts as desired. 
 
 
 
