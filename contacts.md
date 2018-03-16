@@ -26,11 +26,9 @@ _Please see the corresponding sections for which contacts should be added where.
 
 ---
 
-
-
 ### Summary of Contact Requirements & Best Management Practices
 
-**In Main /Point of Contact**
+#### **In Main /Point of Contact**
 
 * Enter your LCC as a “pointOfContact” \(required\).
 
@@ -38,9 +36,7 @@ _Please see the corresponding sections for which contacts should be added where.
 
 * Enter the project PI as “principalInvestigator” \(best management practice\).
 
-
-
-**In Main / Citation /Responsible Parties**
+#### **In Main / Citation /Responsible Parties**
 
 Corresponds to the “lead” and “partner” sections in the required fields list.
 
@@ -50,9 +46,7 @@ Corresponds to the “lead” and “partner” sections in the required fields 
 
 * Can also add funders \(including your LCC\), partners, collaborators \(intellectually only?\), contributors \(intellectually and financially?\). \(best management practice\)
 
-
-
-**In Metadata /Contacts**
+#### **In Metadata /Contacts**
 
 * At least one contact with the role of “author” is required. Does not necessarily have to be the LCC \(e.g., imported FGDC metadata can list the original author\)
 
@@ -64,9 +58,7 @@ Corresponds to the “lead” and “partner” sections in the required fields 
 
 * Enter the LCC Network Data Steward as a “pointOfContact” \(required\).
 
-
-
-**In Funding / Allocation \(for Projects only\)**
+#### **In Funding / Allocation \(for Projects only\)**
 
 * Add the relevant contact for “source” of the project funding \(required\).
 
@@ -76,9 +68,7 @@ Corresponds to the “lead” and “partner” sections in the required fields 
 
   * Should be an organization, not an individual.
 
-
-
-**In Distribution \(for Products only\)**
+#### **In Distribution \(for Products only\)**
 
 * Add the relevant contact for “distributor” of the product \(if you fill out anything in the Distribution section, a contact for distributor is required\).
 
@@ -94,7 +84,13 @@ Corresponds to the “lead” and “partner” sections in the required fields 
 
 ---
 
-### 
+### Contact Information for Network Data Steward
+
+**The LCC Network Data Steward:**
+
+* **Individual Name: **LCC Network Data Steward
+* **Contact Type:** lcc
+* **Email Address:** lccdatasteward@fws.gov
 
 
 
