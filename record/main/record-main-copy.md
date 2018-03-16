@@ -48,15 +48,15 @@ _To see the fields discussed in this guide, select the green pencil button next 
 
 ### POINT OF CONTACT\(S\)
 
-Adding a point of contact gives LCC staff information on who to contact should they have a question regarding your project or product. From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts **drop-down menu, select a contact from the list of contacts.
+Adding a point of contact gives LCC staff information on who to contact should they have a question regarding your project or product. From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts **drop-down menu, select a contact from the list of contacts. _To add contacts, you have to have created contacts prior to making a metadata record. See the _[_Contact _](/product-entry-guidance/contact-entry-guidance.md)_Section for information on how to create contacts._
 
-**REQUIRED: **Enter **the LCC Network Data Steward **as a "pointOfContact."
+* **REQUIRED: **Enter **the LCC Network Data Steward **as a "pointOfContact."
 
-The LCC Network Data Steward will serve as the long term contact/backup. This way, users have a point of contact even if there is a positional change within an organization. The LCC Network Data Steward should be included in addition to any point of contact that you want to add from your organization
+> The LCC Network Data Steward will serve as the long term contact/backup. This way, users have a point-of-contact even if there is a positional change within an organization. The LCC Network Data Steward should be included in addition to any point of contact that you want to add from your organization
 
-See the [Contact ](/product-entry-guidance/contact-entry-guidance.md)Section for Information on how to add the LCC Network Data Steward contact.
+* **REQUIRED:** Enter your LCC as "pointOfContact."
 
-**BEST MANAGEMENT PRACTICE:** Enter your LCC as "pointOfContact." See the [Contact ](/product-entry-guidance/contact-entry-guidance.md)Section for Information on how to add an LCC contact.
+* **BEST MANAGEMENT PRACTICE**: Enter the Project PI as "principalInvestigator."
 
 ![](/assets/point_of_contacts.png)
 

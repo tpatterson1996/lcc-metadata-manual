@@ -14,13 +14,15 @@ It is recommended that you leave contacts in mdEditor in-between work sessions. 
 
 It is also recommended that when you export records, you also export your entire contact list when you export records. If you do not export your contact list, and you later import a record that contains a contact not in your library, you may receive an error and have to re-enter the contact to that record.
 
-**Once your contacts have been added to mdEditor, there are three places in a metadata record where contacts can/must be added. **
+**Once your contacts have been added to mdEditor, there are five places in a metadata record where contacts can/must be added. **
 
 _Please see the corresponding sections for which contacts should be added where. _
 
 1. The "Point of Contact” Section of the [Main Tab](/record/main/record-main-copy.md)
 2. The “Responsible Parties” Section in the Citation of the [Main Tab](/record/main/record-main-copy.md)
 3. The “Contacts” Section of the [Metadata Tab](/record/main/metadata-tab.md)
+4. “Source” and “Recipient” of the Allocation Section of the Funding Tab for Projects
+5. “Contacts” in the Distribution Tab for Products
 
 ---
 
@@ -45,6 +47,63 @@ _Please see the corresponding sections for which contacts should be added where.
 * **Organization Name: ** Use the organization's full name, avoid acronyms.
 * **Contact Type:** lcc
 * **Email Address**: 
+
+---
+
+### Summary of Contact Requirements & Best Management Practices
+
+**In Main /Point of Contact**
+
+* Enter your LCC as a “pointOfContact” \(required\).
+
+* Enter the LCC Network Data Steward as a “pointOfContact” \(required\).
+
+* Enter the project PI as “principalInvestigator” \(best management practice\).
+
+
+
+**In Main / Citation /Responsible Parties**
+
+Corresponds to the “lead” and “partner” sections in the required fields list.
+
+* Enter your LCC as “administrator” \(required\).
+
+* Enter the project PI as “principalInvestigator” \(best management practice\).
+
+* Can also add funders \(including your LCC\), partners, collaborators \(intellectually only?\), contributors \(intellectually and financially?\). \(best management practice\)
+
+
+
+**In Metadata /Contacts**
+
+* At least one contact with the role of “author” is required. Does not necessarily have to be the LCC \(e.g., imported FGDC metadata can list the original author\)
+
+  * Can be an individual or an organization. 
+
+  * You can enter your LCC data manager as the “author”. You do not need to use individual names and can create a generic data manager for your LCC, but this is up to the individual LCC.
+
+* Enter a “publisher.” In most cases it will be the LCC \(best management practice\).
+
+* Enter the LCC Network Data Steward as a “pointOfContact” \(required\).
+
+**  
+**
+
+**In Funding / Allocation \(for Projects only\)**
+
+* Add the relevant contact for “source” of the project funding \(required\). 
+
+  * Should be an organization, not an individual. For LCC projects, the most common sources are U.S. Fish and Wildlife Service, Bureau of Land Management, and Bureau of Reclamation.
+
+* Add the relevant contact for “recipient” of the project funding \(required\). 
+
+  * Should be an organization, not an individual.
+
+
+
+**In Distribution \(for Products only\)**
+
+* Add the relevant contact for “distributor” of the product \(if you fill out anything in the Distribution section, a contact for distributor is required\).
 
 ---
 
