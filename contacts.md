@@ -26,29 +26,7 @@ _Please see the corresponding sections for which contacts should be added where.
 
 ---
 
-### Required and Recommended Contacts for LCC's
 
-| S**ummary of Required, Recommended & Optional Contacts** |
-| :--- |
-| **LCC Network Data Steward **\(Required\) |
-| **LCC** \(Recommended\) |
-| **Project PI  \(**Recommended\) |
-| **LCC Data Manager** \(Optional\) |
-| **Funders, Partners, Collaborators ** |
-
-**The LCC Network Data Steward:**
-
-* **Individual Name: **LCC Network Data Steward
-* **Contact Type:** lcc
-* **Email Address:** lccdatasteward@fws.gov
-
-**LCC**
-
-* **Organization Name: ** Use the organization's full name, avoid acronyms.
-* **Contact Type:** lcc
-* **Email Address**: 
-
----
 
 ### Summary of Contact Requirements & Best Management Practices
 
@@ -78,7 +56,7 @@ Corresponds to the “lead” and “partner” sections in the required fields 
 
 * At least one contact with the role of “author” is required. Does not necessarily have to be the LCC \(e.g., imported FGDC metadata can list the original author\)
 
-  * Can be an individual or an organization. 
+  * Can be an individual or an organization.
 
   * You can enter your LCC data manager as the “author”. You do not need to use individual names and can create a generic data manager for your LCC, but this is up to the individual LCC.
 
@@ -86,16 +64,15 @@ Corresponds to the “lead” and “partner” sections in the required fields 
 
 * Enter the LCC Network Data Steward as a “pointOfContact” \(required\).
 
-**  
-**
+
 
 **In Funding / Allocation \(for Projects only\)**
 
-* Add the relevant contact for “source” of the project funding \(required\). 
+* Add the relevant contact for “source” of the project funding \(required\).
 
   * Should be an organization, not an individual. For LCC projects, the most common sources are U.S. Fish and Wildlife Service, Bureau of Land Management, and Bureau of Reclamation.
 
-* Add the relevant contact for “recipient” of the project funding \(required\). 
+* Add the relevant contact for “recipient” of the project funding \(required\).
 
   * Should be an organization, not an individual.
 

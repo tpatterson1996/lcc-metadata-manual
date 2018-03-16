@@ -20,7 +20,15 @@ _All other fields are optional but recommended._
 
 ---
 
+### NETWORK DATA STEWARD
+
+**The LCC Network Data Steward:**
+
+* **Individual Name: **LCC Network Data Steward
+* **Contact Type:** lcc
+* **Email Address:** lccdatasteward@fws.gov
+
+---
+
 ![](/assets/individual_contact_window.png)
-
-
 
