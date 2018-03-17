@@ -5,8 +5,8 @@
   * [Relationships Between Contacts, Projects, Products, and Funding](concepts-detailing-the-relationship-between-contacts-projects-and-products.md)
   * [Settings](settings.md)
 * [Project Entry Guidance ](project-entry-guidance.md)
-  * [Metadata Tab](record/main/metadata-tab.md)
   * [Main Tab](record/main/record-main-copy.md)
+  * [Metadata Tab](record/main/metadata-tab.md)
   * [Keywords Tab](record/main/keywords-tab.md)
   * [Extent Tab](record/main/extent-tab.md)
   * [Funding Tab](record/main/funding-tab.md)
@@ -15,7 +15,7 @@
   * [Main Tab: Product](product-entry-guidance/main-tab-product.md)
   * [Metadata Tab: Product](product-entry-guidance/metadata-tab-product.md)
   * [Keyword Tab: Product](product-entry-guidance/keyword-tab-product.md)
-  * Associating Records: Products
+  * [Associating Records: Products](product-entry-guidance/associating-records-products.md)
 * [Contact Entry Guidance ](contacts.md)
   * [Individual Contacts](contacts/individual-contact.md)
   * [Organization Contacts](contacts/organization-contacts.md)

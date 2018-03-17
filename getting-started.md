@@ -10,40 +10,25 @@ Currently, when you open mdEditor, you will see an _Update Alert_ that the appli
 
 ---
 
-### Suggested Workflow for Creating Metadata Records
+### Suggested Workflow for Using mdEditor
 
-1. Gather information needed for metadata entry.
-2. Set default [Settings](/settings.md) \(including ScienceBase import URL and LCC metadata repositories\).
-3. Create or import [Contacts](/contacts.md).
-4. Create or import [Projects](/project-entry-guidance.md).
-5. Create or import [Products](/product-entry-guidance.md).
-6. [Publish ](/publish.md)your records. 
-7. [Export](/data-management.md) your records and contacts for backup, transfer, or sharing.
-
-> **Note: **You may want to export working backups before publishing depending on your situation, but archival exports should be done after publishing since publishing can alter records, like adding or changing a ScienceBase ID.
-
----
-
-### Preparing to Add Items
-
-You will need to prepare some information and settings before adding your metadata records.
-
-* Make sure you have all metadata information on hand before you begin the process of adding items \(consult the [**Quick Reference** ](/quick-reference.md)or** **[**Fields Required for Projects and Products **](/record/fields-required-for-lcc-projects-and-products.md)section of this manual to learn what metadata you will need\). 
-* Make sure to add Contacts into mdEditor. Projects and products require one or more contacts. Personal and organization contacts require a name and email address at a minimum \(consult the [**Contacts**](/contacts.md) section of this manual to learn how to add contacts\). 
-* Some \(but not all\) projects and products will need to be associated with each other. Keep a list of items that will require associations. \(The [**Association**](/record/record-associated.md) section of this manual describes the process of making associations, but does not need to be consulted until the project that will be used in the association has been created.\)
+1. **Gather information needed for metadata entry.**
+   * Have information about \_\_\_\_\_ on hand before you begin creating metadata records. 
+2. **Set default **[**Settings**](/settings.md)** **
+   * In addition to the default settings, you will need to set the LCC specific settings for the ScienceBase import URL and LCC metadata repositories.
+3. **Create or import **[**Contacts**](/contacts.md)**.**
+   * Contacts must be created or uploaded before they can be used in metadata records. 
+4. **Create or import **[**Projects**](/project-entry-guidance.md)**.**
+5. **Create or import **[**Products**](/product-entry-guidance.md)**.**
+6. **Create any desired Associations between Projects and/or Products**
+   * Associations can be either [associated from a project ](/record/main/associating-records.md)or [associated from a product.](/product-entry-guidance/associating-records-products.md)
+7. [**Publish **](/publish.md)**your records to ScienceBase.**
+8. [**Export**](/data-management.md)** your records and contacts for backup, transfer, or sharing.**
+   * **Note: **You may want to export working backups before publishing depending on your situation, but archival exports should be done after publishing since publishing can alter records, like adding or changing a ScienceBase ID.
 
 ---
 
-### Adding Items
 
-**To add a **_**Project**_**,**_** Product,**_** or any other metadata item:**
-
-1. Click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to **Metadata Records**.  
-2. Enter a **Record Title**  
-3. Pick a **Resource Type **  
-4. Click **Save**
-
-Consult [Adding Projects: Quick Reference](/adding-projects-quick-reference.md), [Adding Products: Quick Reference ](/adding-products-quick-reference.md) for information about required fields and best practices, or the [Record Edit](https://www.gitbook.com/book/jbadash/mdeditor-for-lccs/edit#) section of this manual for general instructions, required fields, and best practices.
 
 **To add a **_**Contact**_**:**
 
