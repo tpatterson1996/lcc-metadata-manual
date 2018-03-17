@@ -19,7 +19,8 @@ Currently, when you open mdEditor, you will see an _Update Alert_ that the appli
 5. Create or import [Products](/product-entry-guidance.md).
 6. [Publish ](/publish.md)your records. 
 7. [Export](/data-management.md) your records and contacts for backup, transfer, or sharing.
-   * **Note: **You may want to export working backups before publishing depending on your situation, but archival exports should be done after publishing since publishing can do things like add or change Science Base IDs in the records.
+
+> **Note: **You may want to export working backups before publishing depending on your situation, but archival exports should be done after publishing since publishing can alter records, like adding or changing a ScienceBase ID.
 
 ---
 
