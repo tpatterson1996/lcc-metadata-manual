@@ -4,6 +4,17 @@
 
 The settings menu allows for the configuring of user-specific options.
 
+---
+
+## LCC Specific Settings
+
+_These must be implemented before you begin creating metadata records_
+
+* **Metadata Repositories**: In the Default Selection of the Settings, click "Add Metadata Repository." Select **LCCScienceCatalog **from the Repository drop down menu. 
+* **Parent Identifier: **In the publishing settings, enter your LCC's ScienceBase project folder's identifier in the "Default Parent Identifier" field.
+
+---
+
 ## General Settings
 
 **mdEditor Version:** The mdEditor version notes the current version of mdEditor. Use this when reporting errors. Errors can be reported at [https://github.com/adiwg/mdEditor/issues](https://github.com/adiwg/mdEditor/issues). You must have a github account in order to post.
