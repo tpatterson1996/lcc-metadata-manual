@@ -28,10 +28,13 @@
 4. Click **Save**
 5. From the Main Menu \(Top Navigation Bar\) select **lccProject **from the profile drop-down menu. 
 6. Fill out metadata information for the following tabs
+
    * [Main Tab](/record/main/record-main-copy.md)
+
    * [Metadata Tab](/record/main/metadata-tab.md)
 
    * [Keywords Tab](/record/main/keywords-tab.md)
+
    * [Extent Tab](/record/main/extent-tab.md)
 
    * [Associated Tab](/record/main/associating-records.md)
