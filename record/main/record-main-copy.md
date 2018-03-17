@@ -14,8 +14,6 @@ The **Main **tab allows for the creation and/or editing of primary metadata. The
 | Description \(Required\) |
 | Time Period \(Required\) |
 
-_To see the fields discussed in this guide, select the green pencil button next to an existing record in the left-hand menu, or create a new record. _
-
 ---
 
 ### **BASIC INFORMATION**
@@ -112,7 +110,7 @@ The following fields are required in citation:
 
 **Time Period** refers to project start and end date, or the date that the project was applicable \(e.g., time that a map is valid, date of publication, date of presentation\)
 
-> ![](/assets/project_required_small.png) For each project, add a start date, end date, and fiscal year.
+* **REQUIRED: **For each project, add a start date, end date, and fiscal year.
 
 ![](/assets/time_period.png)
 
