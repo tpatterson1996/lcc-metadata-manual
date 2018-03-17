@@ -4,22 +4,22 @@
 
 ### Opening mdEditor
 
-* mdEditor is currently hosted on the GitHub website and can be opened by following this URL: [**https://www.mdeditor.org/**](https://www.mdeditor.org/)
+mdEditor is currently hosted on the GitHub website and can be opened by following this URL: [**https://www.mdeditor.org/**](https://www.mdeditor.org/)
 
-> ![](/assets/note_small.png)Currently, when you open mdEditor, you will see an _Update Alert_ that the application is in beta testing. This is normal and will remain as such until the production version is ready.
+Currently, when you open mdEditor, you will see an _Update Alert_ that the application is in beta testing. This is normal and will remain as such until the production version is ready.
 
 ---
 
 ### Suggested Workflow for Creating Metadata Records
 
 1. Gather information needed for metadata entry.
-2. Set default Settings, including ScienceBase import URL and LCC metadata repositories.
-3. Create or import Contacts.
-4. Create or import Projects.
-5. Create or import Products.
-6. Publish. 
-7. Export for backup, transfer, or sharing.
-   * **Note: **You can export working backups before publishing but archival exports should be done after publishing since publishing can do things like add or change SBIDs in the records.
+2. Set default [Settings](/settings.md) \(including ScienceBase import URL and LCC metadata repositories\).
+3. Create or import [Contacts](/contacts.md).
+4. Create or import [Projects](/project-entry-guidance.md).
+5. Create or import [Products](/product-entry-guidance.md).
+6. [Publish ](/publish.md)your records. 
+7. [Export](/data-management.md) your records and contacts for backup, transfer, or sharing.
+   * **Note: **You may want to export working backups before publishing depending on your situation, but archival exports should be done after publishing since publishing can do things like add or change Science Base IDs in the records.
 
 ---
 
