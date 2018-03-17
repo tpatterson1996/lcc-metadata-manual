@@ -13,7 +13,7 @@ Currently, when you open mdEditor, you will see an _Update Alert_ that the appli
 ### Suggested Workflow for Using mdEditor
 
 1. **Gather information needed for metadata entry.**
-   * Have information about \_\_\_\_\_ on hand before you begin creating metadata records. 
+   * Have information about your contacts, projects and products on hand before you begin creating metadata records. 
 2. **Set default **[**Settings**](/settings.md)** **
    * In addition to the default settings, you will need to set the LCC specific settings for the ScienceBase import URL and LCC metadata repositories.
 3. **Create or import **[**Contacts**](/contacts.md)**.**
@@ -29,12 +29,4 @@ Currently, when you open mdEditor, you will see an _Update Alert_ that the appli
 ---
 
 
-
-**To add a **_**Contact**_**:**
-
-1. Click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to**Contacts**
-2. Enter **Name **and **Position Name**
-3. Click **Save**
-
-Consult the [Adding Contacts: Quick Reference](/adding-contacts-quick-reference.md) for information about required fields and best practices or the [Contact New ](/contact.md)section of this manual for general instructions, required fields, and best practices.
 
