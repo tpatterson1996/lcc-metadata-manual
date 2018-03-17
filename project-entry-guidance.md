@@ -4,17 +4,18 @@
 
 ### Before You Begin
 
-**Select the LCC Project Profile**: 
+* **Adjust your mdEditor settings: **
+  * 
 
-After initial creation of your project, and before you begin adding metadata, select **lccProject **from the **Profile** drop down in the main menu. This will limit the number of available tabs and only show tabs that contain fields that are required for project creation.
+* **Select the LCC Project Profile**:
+  * After initial creation of your project, and before you begin adding metadata, select **lccProject **from the **Profile** drop down in the main menu. This will limit the number of available tabs and only show tabs that contain fields that are required for project creation.
 
-**Information You Will Need to Create a Metadata Entry **
-
-**General Instructions **
+* **Make sure your contacts are loaded into mdEditor:**
+  * In mdEditor, contacts are created separately from individual records, and then stored within a library in mdEditor. Once contacts have been entered or imported into mdEditor, they can be used in metadata records.
 
 ---
 
-### Required Fields
+### Summary of Required Fields
 
 **Main Tab**
 
