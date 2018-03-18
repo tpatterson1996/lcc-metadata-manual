@@ -10,7 +10,7 @@ The settings menu allows for the configuring of user-specific options.
 
 _These must be implemented before you begin creating metadata records_
 
-* **Metadata Repositories**: In the Default Selection of the Settings, click "Add Metadata Repository." Select **LCCScienceCatalog **from the Repository drop down menu. 
+* **Metadata Repositories**: In the Default Selection of the Settings, click "Add Metadata Repository." Select **LCCScienceCatalog **from the Repository drop down menu. If you wish to add your items to data.gov, once again click "Add Metadata Repository" and select **data.gov **from the repository drop down menu.
 * **Parent Identifier: **In the publishing settings, enter your LCC's ScienceBase project folder's identifier in the "Default Parent Identifier" field.
 
 ---
