@@ -43,8 +43,6 @@
 
    * [Funding Tab](/record/main/funding-tab.md)
 
-
-
 ---
 
 ### Summary of Required Fields

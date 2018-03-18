@@ -43,9 +43,11 @@ The **Metadata** **Identifier **is automatically populated by mdEditor. The meta
 * If the record was imported from Science Base, the Metadata Identifier will be auto-populated with the ScienceBase ID \(SBID\)
 * If the record was made in mdEditor, the will generate a universally unique identifier \(UUID\).
 
+---
+
 #### **PARENT METADATA **
 
-The **Parent Metadata **is used to define the folder on ScienceBase where the project or product will be published to. Adding parent metadata lets mdEditor know where the data should go when it is published to ScienceBase. It also lets LCC staff search for other items that may be in the same location in ScienceBase. 
+The **Parent Metadata **is used to define the folder on ScienceBase where the project or product will be published to. Adding parent metadata lets mdEditor know where the data should go when it is published to ScienceBase. It also lets LCC staff search for other items that may be in the same location in ScienceBase.
 
 _The following fields are required for Parent Metadata creation:_
 

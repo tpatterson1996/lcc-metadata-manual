@@ -13,11 +13,13 @@ Tracking funding in the metadata allows for identification of funding sources, c
 
 #### **ALLOCATION**
 
-**Allocation**: Describes how the funds were allocated. Adding allocation allows LCC staff to see where funding came from and how it was distributed. It also lets staff find your items when searching for specific funders. 
+**Allocation**: Describes how the funds were allocated. Adding allocation allows LCC staff to see where funding came from and how it was distributed. It also lets staff find your items when searching for specific funders.
 
 * **REQUIRED**: Add the relevant contact for “source” of the project funding. Should be an organization, not an individual. For LCC projects, the most common sources are U.S. Fish and Wildlife Service, Bureau of Land Management, and Bureau of Reclamation.
 
 * **REQUIRED: **Add the relevant contact for “recipient” of the project funding. Should be an organization, not an individual.
+
+---
 
 #### TIME PERIOD
 
