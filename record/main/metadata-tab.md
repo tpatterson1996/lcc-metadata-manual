@@ -59,7 +59,7 @@ _The following fields are required for Parent Metadata creation:_
 
     > For Example **59b97600e4b091459a54d9f3c ** is the SBID for a parent item at the URL: _"_[https://www.sciencebase.gov/catalog/item/59b97600e4b091459a54d9f3c](https://www.sciencebase.gov/catalog/item/59b97600e4b091459a54d9f3c)_"_
 
-  * **Namespace: **\(Required\) The Namespace field** **allows for the selection of the database that you are adding to. Select **ScienceBase **from the Namespace.
+  * **Namespace: **\(Required\) The Namespace field** **allows for the selection of the database that you are adding to. Select **scienceBase **from the Namespace.
 
 ---
 
