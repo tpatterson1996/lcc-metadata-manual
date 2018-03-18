@@ -30,7 +30,7 @@ While exporting data, there are four options available in the Action Menu \(on t
 
 * Clicking the **Include Settings** switch will also export mdEditor settings. Consult the [Settings](/settings.md) section of this manual to learn about settings.
 
-> ![](https://adiwg.gitbooks.io/mdeditor/content/assets/note_small.png)If you need to switch browsers for [mdEditor](https://adiwg.gitbooks.io/mdeditor/content/GLOSSARY.html#mdeditor), or want to send your settings to someone else, you can export the settings. Someone else can then re-import your settings which include the default publishing settings.  Consult the [Settings](/settings.md) section of this manual to learn about settings.
+> ![](https://adiwg.gitbooks.io/mdeditor/content/assets/note_small.png)If you need to switch browsers for [mdEditor](https://adiwg.gitbooks.io/mdeditor/content/GLOSSARY.html#mdeditor), or want to send your settings to someone else, you can export the settings. Someone else can then re-import your settings which include the default Metadata Repositories and Publishing Settings.  This will give users that you share with information on your items' folder location on ScienceBase and let users know what your default repository is. Consult the [Settings](/settings.md) section of this manual to learn about settings.
 
 ---
 
