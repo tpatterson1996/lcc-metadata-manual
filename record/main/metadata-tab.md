@@ -4,8 +4,6 @@
 
 Record Metadata allows you to describe your record's metadata, including a description that outlines the process of metadata creation, contributors to the creation of the metadata, and metadata repositories.
 
----
-
 | **Quick Reference: Required Metadata Sections** |
 | :--- |
 | Basic Information \(Required\) |
@@ -13,6 +11,8 @@ Record Metadata allows you to describe your record's metadata, including a descr
 | Metadata Identifier \(Required\) |
 | Parent Metadata \(Required\) |
 | Identifier \(Required\) |
+
+---
 
 #### **BASIC INFORMATION**
 
