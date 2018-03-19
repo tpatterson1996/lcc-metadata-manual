@@ -28,3 +28,7 @@ _All other fields are optional, but recommended._
 
 ![](/assets/organization_contact_page.png)
 
+> Consult the [**Organization Contacts**](https://adiwg.gitbooks.io/mdeditor/content/contact/new/organization.html)** **section of the full mdEditor manual for information on Organization Contacts.
+
+
+
