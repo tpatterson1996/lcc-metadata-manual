@@ -2,11 +2,15 @@
 
 ---
 
+The Project Entry Guidance section will cover how to create a metadata record for an LCC project.
+
+---
+
 ### Before You Begin
 
-* **Adjust your mdEditor settings: **
+* **Adjust your mdEditor**[** Settings**](/settings.md)**: **
 
-  * **Metadata Repositories**: In the Default Selection of the Settings, click "Add Metadata Repository." Select **LCCScienceCatalog **from the Repository drop down menu. If you wish to add your items to data.gov, once again click "Add Metadata Repository" and select **data.gov **from the repository drop down menu.
+  * **Metadata Repositories**: In the Default Section of Settings, click "Add Metadata Repository." Select "LCCScienceCatalog" from the Repository drop down menu. If you wish to add your items to data.gov, once again click "Add Metadata Repository" and select "data.gov" from the repository drop down menu.
   * **Parent Identifier: **In the publishing settings, enter your LCC's ScienceBase project folder's identifier in the "Default Parent Identifier" field.
 
 * **Select the LCC Project Profile**:
@@ -23,11 +27,11 @@
 
 **To begin adding a **_**Project**_**:**
 
-1. Click the plus \(![](blob:https://www.gitbook.com/69dc1ef6-5f0e-4c3a-97ae-3706dfb75ae0)\) symbol next to **Metadata Records**
+1. Click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to **Metadata Records**
 2. Enter a **Record Title**
 3. Pick "project" as the **Resource Type**
 4. Click **Save**
-5. From the Main Menu \(Top Navigation Bar\) select **lccProject **from the profile drop-down menu. 
+5. From the Main Menu \(Top Navigation Bar\) select "**lccProject" **from the profile drop-down menu. 
 6. Fill out metadata information for the following tabs
 
    * [Main Tab](/record/main/record-main-copy.md)
