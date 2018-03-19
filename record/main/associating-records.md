@@ -22,15 +22,15 @@ There are two ways to create associations. You can either associate a product wi
 
 ### Step-by-Step: Creating an Association in Projects
 
-**Step 1: **Select "**product"** from the **Association Type **drop-down menu. This field will describe the relationship between the product and its parent project.
+* **Step 1: **Select "**product"** from the **Association Type **drop-down menu. This field will describe the relationship between the product and its parent project.
 
 ![](/assets/product_association_lcc.png)
 
-**Step 2: **Click the "**Select a Record" **button to select an associated product.
+* **Step 2: **Click the "**Select a Record" **button to select an associated product.
 
 ![](/assets/select_a_record_button.png)
 
-**Step 3: **Choose the product that you would like to associate to from the **Select a Resource **list.
+* **Step 3: **Choose the product that you would like to associate to from the **Select a Resource **list.
 
 ![](/assets/select_a_resource_product_window.png)
 
