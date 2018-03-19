@@ -16,7 +16,7 @@ Record Metadata allows you to describe your record's metadata, including a descr
 
 #### **BASIC INFORMATION**
 
-* **Metadata Status: **Select the appropriate status of the creation of your metadata from the drop down menu._ For example, If you have added all of your metadata, select "**completed,**" if you still have metadata to add, select "**onGoing**."_
+**Metadata Status: **Select the appropriate status of the creation of your metadata from the drop down menu._ For example, If you have added all of your metadata, select "**completed,**" if you still have metadata to add, select "**onGoing**."_
 
 ---
 
@@ -49,7 +49,7 @@ The **Metadata** **Identifier **is automatically populated by mdEditor. The meta
 
 The **Parent Metadata **is used to define the folder on ScienceBase where the project or product will be published to. Adding parent metadata lets mdEditor know where the data should go when it is published to ScienceBase. It also lets LCC staff search for other items that may be in the same location in ScienceBase.
 
-> ![](/assets/note_small.png) The Parent Metadata Identifier** **can be added in **mdEditor** **Settings**, or in the **Parent** **Metadata **section of the **Metadata **tab, or both. Adding the identifier to Settings insures that every item in mdEditor is published to ScienceBase, and it helps to maintain a precise identifier. However, if the identifier is only added in settings, the Parent Metadata Identifier is not written to the mdEditor records. If the records are then shared, \(I.E. downloaded from ScienceBase\), they will not include the ScienceBase Parent Folder Identifier. If the Parent Metadata Identifier is added in the Parent Metadata section of the Metadata tab, the Identifier will be adding to the record, insuring that shared records will note where the ScienceBase parent folder resides.
+> **NOTE:** The Parent Metadata Identifier** **can be added in **mdEditor** **Settings**, or in the **Parent** **Metadata **section of the **Metadata **tab, or both. Adding the identifier to Settings insures that every item in mdEditor is published to ScienceBase, and it helps to maintain a precise identifier. However, if the identifier is only added in settings, the Parent Metadata Identifier is not written into the mdEditor records. If the records are then shared, \(I.E. downloaded from ScienceBase\), they will not include the ScienceBase Parent Folder Identifier. If the Parent Metadata Identifier is added in the Parent Metadata section of the Metadata tab, the Identifier will be adding to the record, insuring that shared records will note where the ScienceBase parent folder resides.
 
 _The following fields are required for Parent Metadata creation:_
 
@@ -67,11 +67,11 @@ _The following fields are required for Parent Metadata creation:_
 
 #### **METADATA REPOSTITORIES**
 
-**Metadata Repositories **indicate where the metadata should be sent. Select the LCCScienceCatalog as your repository. Selecting LCCScienceCatalog insures that your item will appear in the National LCC Science Catalog.
+**Metadata Repositories **indicate where the metadata should be sent. Select the "LCCScienceCatalog" as your repository. Selecting LCCScienceCatalog insures that your item will appear in the National LCC Science Catalog.
 
-* For **Projects **that should be listed in the LCC Science Catalog: Select_ “LCCScienceCatalog” from the picklist as repository and “LCC Network Science Catalog_” as collection title \(these should be entered in your Settings as default repositories. Additionally adding the record in the Metadata Repositories section of the Metadata tab insures that the repository is written to your record.
+* For **Projects **that should be listed in the LCC Science Catalog: Select_ “LCCScienceCatalog” from the picklist as repository and “LCC Network Science Catalog_” as collection title \(these should be entered in your [settings](/settings.md) as default repositories. Additionally, adding the record in the Metadata Repositories section of the Metadata tab insures that the repository is written to your record.
 
-> ![](/assets/best_practice_small.png)In Settings, create default repositories to help maintain precise titles
+> **BEST MANAGEMENT PRACTICE:** In[ settings](/settings.md), create default repositories to help maintain precise titles
 
 ---
 
