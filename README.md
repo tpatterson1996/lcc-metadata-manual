@@ -40,5 +40,4 @@ _The following diagram details the science catalog system architecture._
 {% include "git+https://github.com/adiwg/mdEditor-doc.git/README.md" %}
 
 ---
- ![](/assets/see_full_manual_for.png)**Note: **This manual has been revised for LCC use. You may access the full mdEditor manual [**here**](https://adiwg.gitbooks.io/mdeditor/content/), or anywhere that you see the arrow symbol above.
-
+ ![]**Note: **This manual has been revised for LCC use. You may access the full mdEditor manual [**here**](https://adiwg.gitbooks.io/mdeditor/content/).
