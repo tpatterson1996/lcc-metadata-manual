@@ -4,19 +4,19 @@
 
 Adding keywords to your metadata record allows for the record to be found later through a search engine, keywords are the way to tag your projects or products. The mdEditor is designed using thesauruses that contain pre-determined keywords. These thesauruses create a 'controlled vocabulary' so that all LCC staff adding metadata can adhere to the same standards, and future search results can return clear results of projects and products.
 
----
-
-| Quick Reference: Required Thesauruses |
+| Quick Reference: Required Thesauruses for LCC Projects |
 | :--- |
 | ISO Topic Category \(Required\) |
 | LCC Deliverable Types \(Required\) |
 | LCC End User Types \(Required\) |
 
+---
+
 ### **To add Keywords to your Metadata Record**
 
 1. Click “+ Add Thesaurus” on the right to add the different thesauruses.
-2. Add from the following pre-populated thesauruses.
-3. If none of the keywords in the following categories are sufficient for tagging your record, you can create a custom thesaurus.
+2. Add keywords from the following pre-populated thesauruses.
+3. If none of the keywords in the following categories are sufficient for tagging your record, you can create a custom thesaurus \(see below for more information\).
 
 | Thesauruses for LCC Staff | Requirements |
 | :--- | :--- |
@@ -26,14 +26,22 @@ Adding keywords to your metadata record allows for the record to be found later 
 
 ---
 
+### **Custom Thesaurus **
+
+ Use a Custom thesaurus only for keywords that are not available in a pre-populated lists. I.E. If a certain end user type is not available in the LCC End User Types thesaurus, you can add the type using the Custom thesaurus. However, you can add a Custom thesaurus for any terms that you see fit.
+
+---
+
 ### **General Notes And Best Practices for Keywords**
 
-![](/assets/best_practice_small.png)![](/assets/note_small.png)
+**NOTES: **Keywords edited in mdEditor will overwrite keywords in ScienceBase.
+
+**BEST MANAGEMENT PRACTICE: **Look for useful keywords in the GCMD Science Keywords.
 
 | Best Practices | Notes |
 | :--- | :--- |
-| **Best Practice:** Use a Custom thesaurus only for keywords that are not available in a pre-populated lists. I.E. If a certain end user type is not available in the LCC End User Types thesaurus, you can add the type using the Custom thesaurus. However, you can add a Custom thesaurus for any terms that you see fit. | Keywords edited in mdEditor will overwrite keywords in ScienceBase. |
-| **Best Practice: **Look for** **useful keywords in the GCMD Science Keywords. | GCMD Science keywords would be the only ones applicable to LCCs. There are GCMD Platforms and Instruments but they are extremely unlikely to apply to LCCs. |
+|  |  |
+|  | GCMD Science keywords would be the only ones applicable to LCCs. There are GCMD Platforms and Instruments but they are extremely unlikely to apply to LCCs. |
 
 ---
 
