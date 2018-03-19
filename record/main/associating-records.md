@@ -22,7 +22,7 @@ There are two ways to create associations. You can either associate a product wi
 
 ### Step-by-Step: Creating an Association in Projects
 
-**Step 1: **Select "**product"** from the **Association Type **drop-down menu. This describes the relationship between the product and its parent project.
+**Step 1: **Select "**product"** from the **Association Type **drop-down menu. This field will describe the relationship between the product and its parent project.
 
 ![](/assets/product_association_lcc.png)
 
