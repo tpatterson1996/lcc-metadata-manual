@@ -29,13 +29,9 @@ Tracking funding in the metadata allows for identification of funding sources, c
 
 > **NOTE: **If you put in a start and end date, mdEditor will calculate fiscal year off the end date. Fiscal Year can be selected independently from start and end date.
 
-
-
 ![](/assets/Time_Period.png)
 
 ---
-
-
 
 > ![](/assets/see_full_manual_for.png)Consult the [**Record Funding**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-funding.html)** **section of the full mdEditor manual for information on Funding.
 
