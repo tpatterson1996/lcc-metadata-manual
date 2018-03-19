@@ -8,18 +8,18 @@ The Project Entry Guidance section will cover how to create a metadata record fo
 
 ### Before You Begin
 
-* **Adjust your mdEditor**[** Settings**](/settings.md)**: **
+##### **Adjust your mdEditor**[** Settings**](/settings.md)**: **
 
-  * **Metadata Repositories**: In the Default Section of Settings, click "Add Metadata Repository." Select "LCCScienceCatalog" from the Repository drop down menu. If you wish to add your items to data.gov, once again click "Add Metadata Repository" and select "data.gov" from the repository drop down menu.
-  * **Parent Identifier: **In the publishing settings, enter your LCC's ScienceBase project folder's identifier in the "Default Parent Identifier" field.
+* **Metadata Repositories**: In the Default Section of Settings, click "Add Metadata Repository." Select "LCCScienceCatalog" from the Repository drop down menu. If you wish to add your items to data.gov, once again click "Add Metadata Repository" and select "data.gov" from the repository drop down menu.
+* **Parent Identifier: **In the publishing settings, enter your LCC's ScienceBase project folder's identifier in the "Default Parent Identifier" field.
 
-* **Select the LCC Project Profile**:
+##### **Select the LCC Project Profile**:
 
-  * After initial creation of your project, and before you begin adding metadata, select **lccProject **from the **Profile** drop down in the main menu. This will limit the number of available tabs and only show tabs that contain fields that are required for project creation.
+* After initial creation of your project, and before you begin adding metadata, select **lccProject **from the **Profile** drop down in the main menu. This will limit the number of available tabs and only show tabs that contain fields that are required for project creation.
 
-* **Make sure your contacts are loaded into mdEditor:**
+##### **Make sure your contacts are loaded into mdEditor:**
 
-  * In mdEditor, contacts are created separately from individual records, and then stored within a library in mdEditor. Once contacts have been entered or imported into mdEditor, they can be used in metadata records.
+* In mdEditor, contacts are created separately from individual records, and then stored within a library in mdEditor. Once contacts have been entered or imported into mdEditor, they can be used in metadata records.
 
 ---
 
@@ -31,7 +31,7 @@ The Project Entry Guidance section will cover how to create a metadata record fo
 2. Enter a **Record Title**
 3. Pick "project" as the **Resource Type**
 4. Click **Save**
-5. From the Main Menu \(Top Navigation Bar\) select "**lccProject" **from the profile drop-down menu. 
+5. Select the LCC Project Profile: from the Main Menu \(Top Navigation Bar\) select "**lccProject" **from the profile drop-down menu. 
 6. Fill out metadata information for the following tabs
 
    * [Main Tab](/record/main/record-main-copy.md)
