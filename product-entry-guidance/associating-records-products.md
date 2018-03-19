@@ -34,3 +34,7 @@ There are two ways to create associations. You can either associate a product wi
 
 ![](/assets/select_a_resource_product_window.png)
 
+> Consult the [**Record Associated **](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-associated.html)section of the full mdEditor manual for information on Associations.
+
+
+

@@ -42,3 +42,7 @@ It is recommended that you use a custom thesaurus only for keywords that are not
 
 ![](/assets/keywords_window.png)
 
+> Consult the [**Record Keywords**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/keywords.html) section of the full mdEditor manual for instructions on adding additional information into the Keywords Tab.
+
+
+
