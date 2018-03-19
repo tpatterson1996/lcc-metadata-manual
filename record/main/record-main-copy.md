@@ -2,7 +2,7 @@
 
 ---
 
-The **Main **tab allows for the creation and/or editing of primary metadata. The Main Tab will usually be used when creating a record that has not been imported from somewhere else.
+The **Main **tab allows for the creation and/or editing of primary metadata. 
 
 | Quick Reference: Required Sections |
 | :--- |
@@ -62,7 +62,7 @@ Adding a point of contact gives LCC staff information on who to contact should t
 
 ### CITATION
 
-**The citation **lets LCC staff know pertinent information about your project or product such as: responsible parties; internal and ScienceBase identifier; and any online resources that may relate to your item. Adding information in the citation will also allow LCC staff to find your item when they search for items that contain said information.
+**The Citation **lets LCC staff know pertinent information about your project or product such as: responsible parties; internal and ScienceBase identifier; and any online resources that may relate to your item. Adding information in the citation will also allow LCC staff to find your item when they search for items that contain said information.
 
 #### ![](/assets/citation_updated.png)
 
@@ -80,9 +80,9 @@ The following fields are required in citation:
 
 * **Identifier: **Enter a unique identifier for your project or product.
 
-  * **RECOMMENDED: **Use the identifier that your LCC is already using, or create something unique that is easily identifiable. 
+  * **BEST MANAGEMENT PRACTICE: **Use the identifier that your LCC is already using, or create something unique that is easily identifiable. 
 
-  > **NOTE: **If you know your items ScienceBase ID, you may add it here. If your item does not have a ScienceBase ID, ScienceBase will create one automatically upon publishing. If you edit an item that is already on ScienceBase without using its existing ID, a duplicate item will be created. Consult the Publish section of this manual to learn more.
+  > **NOTE: **If you know your items ScienceBase ID, you may add it here. If your item does not have a ScienceBase ID, ScienceBase will create one automatically upon publishing. If you edit an item that is already on ScienceBase without using its existing ID, a duplicate item will be created. Consult the [Publish](/publish.md) section of this manual to learn more.
 
   * The following identifiers are optional but you may add them: 
     * _Digital Object Identifier \(DOI\)_
@@ -97,7 +97,7 @@ The following fields are required in citation:
 
 * **Abstract **\(Required\) - Enter an Abstract
 
-> ![](/assets/best_practice_small.png)Write your abstracts for projects in the present tense if the project is underway and past tense if it has been completed.
+> **BEST MANAGEMENT PRACTICE**: Write your abstracts for projects in the present tense if the project is underway and past tense if it has been completed.
 
 * **Short Abstract **\(Optional\) - Enter a short description, limited to 300 characters, if desired
 * **Supplemental Information **\(Optional\) -** **Enter comments, if desired. 
