@@ -2,7 +2,7 @@
 
 ---
 
-The **Main **tab allows for the creation and/or editing of primary metadata. 
+The **Main **tab allows for the creation and/or editing of primary metadata.
 
 | Quick Reference: Required Sections |
 | :--- |
@@ -113,4 +113,6 @@ The following fields are required in citation:
 * **REQUIRED: **For each project, add a start date, end date, and fiscal year.
 
 ![](/assets/time_period.png)
+
+Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the full mdEditor manual for instructions on adding additional information into the Main Tab.
 
