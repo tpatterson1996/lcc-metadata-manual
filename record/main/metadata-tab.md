@@ -16,7 +16,7 @@ Record Metadata allows you to describe your record's metadata, including a descr
 
 #### **BASIC INFORMATION**
 
-* **Metadata Status: **Select the appropriate status of the creation of your metadata from the drop down menu. I.E. If you have added all of your metadata, select "**completed.**" If you still have metadata to add, select "**onGoing**."
+* **Metadata Status: **Select the appropriate status of the creation of your metadata from the drop down menu._ For example, If you have added all of your metadata, select "**completed,**" if you still have metadata to add, select "**onGoing**."_
 
 ---
 
