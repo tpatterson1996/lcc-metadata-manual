@@ -113,9 +113,5 @@ The Project Entry Guidance section will cover how to create a metadata record fo
   * Fund Recipient Amount 
   * AwardID 
 
----
-
-For more information, consult the mdEditor Main Manual. 
-
 
 
