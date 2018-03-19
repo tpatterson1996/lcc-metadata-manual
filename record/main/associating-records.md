@@ -10,7 +10,7 @@ The **Associated** section is used to connect metadata records with each other. 
 
 ## Create Associations
 
-There are two ways to create associations. You can either associate a product with a project **or **associate a project with a product. If your records were imported from ScienceBase, the record associations may be automatically created, but sometimes you may have to create the associations manually \(as described below\).
+There are two ways to create associations. You can either associate a product with a project **or **associate a project with a product. If you import records from ScienceBase, the record associations might be automatically created, but sometimes you may have to create the associations manually \(as described below\).
 
 | Quick Reference: Creating an Association in Projects |
 | :--- |
