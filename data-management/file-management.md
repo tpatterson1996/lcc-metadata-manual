@@ -2,23 +2,28 @@
 
 ---
 
-mdEditor.json files can be exported and imported via mdEditor's built-in **Export** and **Import **functionality \(described in the [Export](/export.md) and [Import](/import.md) section of this manual\). The Export functionality allows you to back up and share your records between browsers. The Import functionality lets you load the most recent records and load records that were exported from another browser.
+mdEditor.json files can be exported and imported via mdEditor's built-in [**Export** ](/data-management/export.md)and [**Import**](/data-management/import.md)** **functionality. The Export functionality allows you to back up and share your records between browsers. The Import functionality lets you load the most recent records, and load records that were exported from another browser.
 
 ---
 
-### File Management Notes and Best Practices
+### mdEditor File Management Strategies: 
 
-### **General Workflow:**
+##### 
 
-> ### ![](/assets/best_practice_small.png)
->
-> * **Best practice: Work on project-by-project basis.**
->
->   * In order to keep file size manageable, it is recommended that you work on, and then export one project \(and its related products and contacts\) at a time. You should group said project, products, and contacts together using the same scheme that your organization uses to organize data.
->   * _Save each project and affiliated products together** as a set**_**.** To do this, select “Export” from the top menu, then select the appropriate records \(i.e., the target project and its affiliated products\) and then click “Export Selected.” 
->     * Consult the [**Export**](/export.md)** **section of this manual to learn more about export functionality.
->   * Save the resulting mdEditor JSON file to your hard drive in a working folder. There should be a separate mdEditor JSON file for each project and all of its products. 
->   * When exporting projects and products, export all of your contacts.
+**Work on project-by-project basis.**
+
+* In order to keep file size manageable, it is recommended that you work on, and then export one project \(and its related products and contacts\) at a time. You should group said project, products, and contacts together using the same scheme that your organization uses to organize data.
+* _Save each project and affiliated products together** as a set**_**.** To do this, select “Export” from the top menu, then select the appropriate records \(i.e., the target project and its affiliated products\) and then click “Export Selected.
+
+* Save the resulting mdEditor JSON file to your hard drive in a working folder. There should be a separate mdEditor JSON file for each project and all of its products. 
+
+**Export your files**
+
+
+
+**Leave Information in mdEditor in-between work sessions**
+
+> * When exporting projects and products, export all of your contacts.
 >
 > * **Best Practice**: Leave your contacts in mdEditor all the time so they’re always available.
 >
@@ -35,8 +40,6 @@ mdEditor.json files can be exported and imported via mdEditor's built-in **Expor
 > * **Best Practice**: When exporting projects and products, export all of your contacts.
 >
 > * **Best Practice**: It is recommended that you use the [Export](/export.md) functionality frequently to a local computer folder of your choosing. It is particularly important that you export your records for backup before using mdEditor's **Clear Storage Cache **functionality \(clearing the storage cache will delete any records or data you have entered into the mdEditor\). Exporting insures that your data is secure even after clearing the storage cache. Not exporting your data before clearing your cache will result in a permanent loss of records. Consult the [Settings](/settings.md) section of this manual to learn more.
-
-
 
 
 

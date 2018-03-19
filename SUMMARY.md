@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [Getting Started](getting-started.md)
-  * [Settings](settings.md)
   * [Relationships Between Contacts, Projects, Products, and Funding](concepts-detailing-the-relationship-between-contacts-projects-and-products.md)
+* [Settings](settings.md)
 * [Project Entry Guidance ](project-entry-guidance.md)
   * [Main Tab: Project](record/main/record-main-copy.md)
   * [Metadata Tab: Project](record/main/metadata-tab.md)
@@ -30,7 +30,6 @@
   * [Instructions for Testing Publishing](publish/instructions-for-testing-publishing.md)
   * [How to Publish](publish/how-to-publish.md)
   * [FAQ](publish/faq.md)
-* [Translate](translate.md)
 * [Help](help.md)
 * [Glossary of Terms](glossary-of-terms.md)
 
