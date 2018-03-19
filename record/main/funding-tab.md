@@ -1,4 +1,4 @@
-## Project Entry Guidance: Record Funding
+## Project Entry Guidance: Funding Tab
 
 ---
 

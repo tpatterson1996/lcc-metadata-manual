@@ -1,4 +1,4 @@
-## Project Entry Guidance: Associating Records
+## Project Entry Guidance: Associated Tab
 
 ---
 

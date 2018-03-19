@@ -1,4 +1,4 @@
-# Project Entry Guidance: Record Extent
+# Project Entry Guidance: Extent Tab
 
 ---
 

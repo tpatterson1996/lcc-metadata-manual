@@ -1,4 +1,4 @@
-# Project Entry Guidance: Keywords
+# Project Entry Guidance: Keywords Tab
 
 ---
 
