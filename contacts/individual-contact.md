@@ -37,3 +37,7 @@ _All other fields are optional but recommended._
 
 ![](/assets/individual_contact_window.png)
 
+> Consult the [**Individual Contact**](https://adiwg.gitbooks.io/mdeditor/content/contact/new/individual.html)** **section of the full mdEditor manual for information on Individual Contacts.
+
+
+
