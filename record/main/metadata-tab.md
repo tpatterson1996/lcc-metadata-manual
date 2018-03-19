@@ -1,4 +1,4 @@
-# Project Entry Guidance: Record Metadata
+# Project Entry Guidance: Metadata Tab
 
 ---
 

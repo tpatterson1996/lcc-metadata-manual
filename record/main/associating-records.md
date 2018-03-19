@@ -1,4 +1,4 @@
-## Project Entry Guidance: Record Associated
+## Project Entry Guidance: Associating Records
 
 ---
 
