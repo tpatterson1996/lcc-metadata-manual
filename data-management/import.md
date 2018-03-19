@@ -32,7 +32,7 @@ While importing data, there are three options available in the Action Menu \(on 
   * Cancels the current import.
 * **Replace/Merge**
   * Replaces or merges the current record.
-    > ![](/assets/best_practice_small.png)To import Settings, you should set the import to “Replace.” Generally, it is best practice to set the mode back to “Merge,” once you’ve finished importing the settings.
+    * To import Settings, you should set the import to “Replace.” Generally, it is best practice to set the mode back to “Merge,” once you’ve finished importing the settings.
 
 
 
