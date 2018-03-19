@@ -28,7 +28,7 @@ Adding keywords to your metadata record allows for the record to be found later 
 
 ### **Custom Thesaurus **
 
- Use a Custom thesaurus only for keywords that are not available in a pre-populated lists. I.E. If a certain end user type is not available in the LCC End User Types thesaurus, you can add the type using the Custom thesaurus. However, you can add a Custom thesaurus for any terms that you see fit.
+It is recommended that you use a custom thesaurus only for keywords that are not available in a pre-populated lists. For example, If a certain end user type is not available in the LCC End User Types thesaurus, you can add the type using the Custom thesaurus. However, you can add a Custom thesaurus for any terms that you see fit.
 
 ---
 
@@ -36,12 +36,7 @@ Adding keywords to your metadata record allows for the record to be found later 
 
 **NOTES: **Keywords edited in mdEditor will overwrite keywords in ScienceBase.
 
-**BEST MANAGEMENT PRACTICE: **Look for useful keywords in the GCMD Science Keywords.
-
-| Best Practices | Notes |
-| :--- | :--- |
-|  |  |
-|  | GCMD Science keywords would be the only ones applicable to LCCs. There are GCMD Platforms and Instruments but they are extremely unlikely to apply to LCCs. |
+**BEST MANAGEMENT PRACTICE: **Look for useful keywords in the GCMD Science Keywords. GCMD Science keywords would be the only ones applicable to LCCs. There are GCMD Platforms and Instruments but they are  unlikely to apply to LCCs.
 
 ---
 
