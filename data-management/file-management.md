@@ -18,9 +18,9 @@ In order to keep file size manageable, it is recommended that you work on, and t
 
 #### **Leave Information in mdEditor in-between work sessions**
 
-It is recommended that you leave your contacts in mdEditor between work sessions so that they will be available the next time you need to create metadata records.
+It is recommended that you leave your contacts in mdEditor between work sessions so that they will be available the next time you need to create metadata records. You can also export your contacts independently of your records for use between browsers.
 
-You can also set up a metadata directory so you can always find the metadata file.
+You can also set up a metadata directory so you can always find the metadata file. This directory can be any folder on your local computer that is easily accessible and will not be deleted.
 
 #### **Export your contacts with your records**
 
