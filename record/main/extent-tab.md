@@ -24,3 +24,5 @@ It is possible to export bound features and re-use for other records using the *
 
 ![](/assets/edit_extent_page.png)
 
+Consult the [**Record Extent**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-extent.html) section of the full mdEditor manual for instructions on adding additional information into the Extent Tab.
+
