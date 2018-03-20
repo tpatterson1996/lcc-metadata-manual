@@ -10,7 +10,7 @@ The Product Entry Guidance section will cover how to create a metadata record fo
 
 ##### **Adjust your mdEditor**[** Settings**](/settings.md)**: **
 
-* **Metadata Repositories**: In the Default Section of Settings, click "Add Metadata Repository." Select "LCCScienceCatalog" from the Repository drop down menu. If you wish to add your items to data.gov, once again click "Add Metadata Repository" and select "data.gov" from the repository drop down menu.
+* **Metadata Repositories**: In the Default Section of Settings, click "Add Metadata Repository." Select "LCCScienceCatalog" from the Repository drop-down menu. If you wish to also add your items to data.gov, once again click "Add Metadata Repository" and select "data.gov" from the repository drop-down menu.
 * **Parent Identifier: **In the publishing settings, enter your LCC's ScienceBase project folder's identifier in the "Default Parent Identifier" field.
 
 ##### **Select the LCC Product Profile**:
