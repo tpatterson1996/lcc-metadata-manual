@@ -27,7 +27,7 @@
 #### **How the publishing outline works:**
 
 1. Once you are logged in, you will see a list of every valid record in mdEditor in the publishing outline with its ScienceBase Identifier \(if the record already exists on ScienceBase\) and its parent ScienceBase Identifier \(if present in the metadata\). This publishing outline shows records in a parent-child relationship and reflects what you would see when you publish in ScienceBase.
-   * Records **without parent IDs** already in their metadata will appear directly under the ScienceBase header, indicating that they will be published under the default parent identifier established in the settings. This information is visible on the header, which is hyperlinked to the record on ScienceBase. 
+   * Records **without parent IDs** already in their metadata will appear directly under the ScienceBase header, indicating that they will be published under the default parent identifier established in the settings. This information is visible in the header, which is hyperlinked to the record on ScienceBase. 
    * Records** that have** **parent IDs** in the metadata record will appear below a thick blue line and will be published under the parent ID in their metadata .
 
 > ![](/assets/publish_screenshot_2.png)
@@ -60,7 +60,7 @@ _You** have **existing parent-child relationships on ScienceBase and/or you have
 
 * If you have parent-child relationships already established on ScienceBase \(and those IDs are reflected in the mdEditor records\), you likely do not want to move the records around in the publishing outline.
 * If your products are housed in a “Products” folder on ScienceBase \(or other intermediate folders between the project item and the products\), then your products **will not** be nested under projects in the publishing outline. 
-  * The parent ID for those products is the “Products” folder \(which would not have a record in mdEditor\). If this is your situation, do not change  the structure in the publishing outline and publish as is \(i.e., with every item organized at the root level in the outline\).
+  * The parent ID for those products is the “Products” folder \(which would not have a record in mdEditor\). If this is your situation, do not change the structure in the publishing outline and publish as is \(i.e., with every item organized at the root level in the outline\).
 
 ---
 
@@ -95,7 +95,7 @@ You can drag and drop records to establish the parent-child relationship, elimin
 
 4. Once publishing is done, refresh ScienceBase to ensure everything is showing up how you expected it would show up.
 
-   * SB items should have an mdJSON and xml file attached
+   * SB items should have an mdJSON and XML file attached
 
    * SB items should be in the location reflected in the mdEditor publishing outline.
 
