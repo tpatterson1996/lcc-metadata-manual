@@ -4,7 +4,7 @@
 
 _Available fields in transfer options include:_
 
-* **Transfer Size**: Describes the size of resource in MB.
+* **Transfer Size**: Describes the size of the resource in MB.
 
 * **Distribution Units**: Used for items with unique units \(e.g. USGS quads\).
 
