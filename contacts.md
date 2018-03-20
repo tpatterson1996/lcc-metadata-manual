@@ -76,8 +76,6 @@ Corresponds to the “lead” and “partner” sections in the required fields 
 
 ### Best Practices for Contacts
 
-![](/assets/best_practice_small.png)![](/assets/note_small.png)
-
 * Always spell out acronyms and organization names.
 * Copying contacts will change the ID and the name \(the name will be “Copy of ….”\) but all the other information will be the same.
 * Make sure your contacts are loaded and accurate in mdEditor before beginning to create your metadata records. 
