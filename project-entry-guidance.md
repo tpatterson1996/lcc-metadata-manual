@@ -48,6 +48,8 @@ The Project Entry Guidance section will cover how to create a metadata record fo
 
    * [Funding Tab](/record/main/funding-tab.md)
 
+7. If applicable, [associate ](/record/main/associating-records.md)your project with other metadata records. 
+
 ---
 
 ### Summary of Required Fields
