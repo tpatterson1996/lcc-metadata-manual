@@ -19,8 +19,6 @@
     * [Process Step](product-entry-guidance/lineage/process-step.md)
   * [Distribution Tab: Product](distribution.md)
     * [Transfer Options](edit-distributors.md)
-      * [Online Options](edit-distributors/online-options.md)
-      * [Offline Options](edit-distributors/offline-options.md)
     * [Order Process](order-process.md)
   * [Constraints Tab: Product](record-constraints.md)
   * [Associating Records: Product](product-entry-guidance/associating-records-products.md)
