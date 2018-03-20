@@ -16,6 +16,8 @@
 | Online Options \(If Applicable\) |
 | Offline Options \(If Applicable\) |
 
+**Note: **This section involves adding distributor information and URL for data products that are hosted anywhere. \(e.g., if The Nature Conservancy is hosting a data source, the distributor is "The Nature Conservancy" and then enter a link to location of distribution\).
+
 _Click **Add Distribution Section** and then **Edit Distributors** to begin adding distributors._
 
 ![](/assets/editing_distributors.png)
