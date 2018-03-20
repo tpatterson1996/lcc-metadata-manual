@@ -16,7 +16,9 @@
 | Online Options \(If Applicable\) |
 | Offline Options \(If Applicable\) |
 
+Click Add Distribution Section and then Edit Distributors to begin adding distributors.
 
+![](/assets/editing_distributors.png)
 
 ---
 
