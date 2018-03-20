@@ -38,8 +38,6 @@ _Please see the corresponding sections for which contacts should be added where.
 
 #### **In Main / Citation /Responsible Parties**
 
-Corresponds to the “lead” and “partner” sections in the required fields list.
-
 * Enter your LCC as “administrator” \(required\).
 
 * Enter the project PI as “principalInvestigator” \(best management practice\).
@@ -54,9 +52,9 @@ Corresponds to the “lead” and “partner” sections in the required fields 
 
   * You can enter your LCC data manager as the “author”. You do not need to use individual names and can create a generic data manager for your LCC, but this is up to the individual LCC.
 
-* Enter a “publisher.” In most cases, it will be the LCC \(best management practice\).
-
 * Enter the LCC Network Data Steward as a “pointOfContact” \(required\).
+
+* Enter a “publisher.” In most cases, it will be the LCC \(best management practice\).
 
 #### **In Funding / Allocation \(for Projects only\)**
 
