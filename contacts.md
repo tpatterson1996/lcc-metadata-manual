@@ -12,7 +12,7 @@ In mdEditor, contacts are created separately from individual records and then st
 
 It is recommended that you leave contacts in mdEditor in-between work sessions. This allows you to readily add contacts to projects and products.
 
-It is also recommended that when you export records, you also export your entire contact list when you export records. If you do not export your contact list, and you later import a record that contains a contact not in your library, you may receive an error and have to re-enter the contact to that record.
+It is also recommended that when you export records, you also export your entire contact list. If you do not export your contact list, and you later import a record that contains a contact not in your library, you may receive an error and have to re-enter the contact to that record.
 
 **Once your contacts have been added to mdEditor, there are five places in a metadata record where contacts can/must be added. **
 
