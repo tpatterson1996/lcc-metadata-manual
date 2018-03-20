@@ -23,6 +23,33 @@ The Product Entry Guidance section will cover how to create a metadata record fo
 
 ---
 
+### Adding a New Product
+
+**To begin adding a Product:**
+
+1. Click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to **Metadata Records**
+2. Enter a **Record Title**
+3. Pick "product" as the **Resource Type**
+4. Click **Save**
+5. Select the LCC Product Profile: from the Main Menu \(Top Navigation Bar\) select "**lccProduct" **from the profile drop-down menu. 
+6. Fill out metadata information for the following tabs
+
+   * [Main Tab: Product](/product-entry-guidance/main-tab-product.md)
+
+   * [Metadata Tab: Product](/product-entry-guidance/metadata-tab-product.md)
+
+   * [Keyword Tab: Product](/product-entry-guidance/keyword-tab-product.md)
+
+   * [Lineage Tab: Product](/product-entry-guidance/lineage.md)
+
+   * [Associated Tab](/record/main/associating-records.md)
+
+   * Documents Tab
+
+   * [Funding Tab](/record/main/funding-tab.md)
+
+---
+
 #### **Product Required Fields**
 
 **Main Tab**
