@@ -10,7 +10,7 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 
    If You** do not already** have items on ScienceBase. Choose a project and its products to test.
 
-   > **BEST MANAGEMENT PRACTICE: I**t's recommended that you export a project and its products into its own mdEditor file. Set default parent identifier as a test folder.
+   > **BEST MANAGEMENT PRACTICE: I**t's recommended that you export a project and its products into its own mdEditor file. Set default parent identifier as a ScienceBase folder.
 
    If you** DO** already have items on ScienceBase, chose one of the following approaches. _Note that it will be harder to test without it affecting your real records._
 
