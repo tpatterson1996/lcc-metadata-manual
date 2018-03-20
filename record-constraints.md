@@ -26,7 +26,7 @@ Identify concerns over how people should or should not use the product.
 
 ### **Legal**
 
-* **Access Constraints: **Access constraints are applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations on obtaining the resource.
+* **Access Constraints: **Access constraints are applied to assure the protection of privacy or intellectual property and any special restrictions or limitations on obtaining the resource.
 * **Use constraint**s: How the product should be used.
 * **Other constraints:** This is a place to put standard disclaimers.
 
