@@ -1,4 +1,4 @@
-# Process Step
+# Product Entry Guidance: Process Step
 
 ---
 
@@ -6,12 +6,12 @@
 
 ---
 
-The following are available and required:
+_The following are available and required:_
 
 * **Step ID: **\(Auto filled depending on the number of Process Steps added\).
 * **Description**: Add a description of the process step.
 
-The follow fields are available but optional:
+_The follow fields are available but optional:_
 
 * **Step Sources**: Information about the source data used in the process step.
 * **Step Products**: Information about an intermediate data set.
@@ -32,6 +32,8 @@ The follow fields are available but optional:
   * **Duration**: Describe the time period in terms of **Years**, **Months**, **Days, Hours**, **Minutes**, and **Seconds**.
 
 * **Scope**: Select the type of resource from the drop down menu.
+
+---
 
 ![](/assets/process_step_window.png)
 
