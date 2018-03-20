@@ -8,7 +8,7 @@ The export function will allow the contents of the current metadata recordset to
 
 ### **Using Export to Backup Records**
 
-Exporting records is the only way to save records in mdEditor. Maintain an “Export All” JSON file each time you finish a work session in mdEditor or switch browsers.
+Exporting records is the only way to save records in mdEditor. You should backup by creating a JSON file each time you finish a work session in mdEditor or switch browsers. 
 
 **BEST MANAGEMENT PRACTICES**
 
