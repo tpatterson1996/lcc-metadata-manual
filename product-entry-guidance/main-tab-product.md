@@ -62,7 +62,7 @@ Adding a point of contact gives LCC staff information on who to contact should t
 
 ### CITATION
 
-**The Citation **lets LCC staff know pertinent information about your project or product such as: responsible parties; internal and ScienceBase identifier; and any online resources that may relate to your item. Adding information in the citation will also allow LCC staff to find your item when they search for items that contain said information.
+**The Citation **lets LCC staff know pertinent information about your project or product such as responsible parties; internal and ScienceBase identifier; and any online resources that may relate to your item. Adding information in the citation will also allow LCC staff to find your item when they search for items that contain said information.
 
 #### ![](/assets/citation_updated.png)
 
