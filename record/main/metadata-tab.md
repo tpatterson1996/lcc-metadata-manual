@@ -28,7 +28,7 @@ Record Metadata allows you to describe your record's metadata, including a descr
 
   * "Author" can be an individual or an organization.
 
-  * You can enter your LCC data manager as the “author”. You do not need to use individual names, if you want, you can create a generic data manager for your LCC, but this is up to each individual LCC.
+  * You can enter your LCC data manager as the “author”. You do not need to use individual names, if you want, you can create a generic data manager for your LCC, but this is up to each l LCC
 
 * **REQUIRED: **Enter the LCC Network Data Steward as a “pointOfContact.”
 

@@ -108,7 +108,7 @@ The following fields are required in citation:
 
 ---
 
-#### **TIME PERIOD**
+### **TIME PERIOD**
 
 **Time Period** refers to project start and end date, or the date that the project was applicable \(e.g., time that a map is valid, date of publication, date of presentation\)
 
