@@ -6,7 +6,7 @@
 
 ---
 
-| Quick Reference: Recommended for LCC Products
+| Quick Reference: Recommended for LCC Products |
 | :--- |
 | Distribution \(Required\) |
 | Distributor Contact \(Required\) |
@@ -16,7 +16,7 @@
 | Online Options \(If Applicable\) |
 | Offline Options \(If Applicable\) |
 
-Click **Add Distribution Section** and then **Edit Distributors** to begin adding distributors.
+_Click **Add Distribution Section** and then **Edit Distributors** to begin adding distributors._
 
 ![](/assets/editing_distributors.png)
 
@@ -24,15 +24,13 @@ Click **Add Distribution Section** and then **Edit Distributors** to begin addin
 
 ## Editing Distributors for Distribution
 
-**Contacts **are required and can be selected from the list of contacts. Consult the [**Contact Entry Guidance**](/contacts.md)** **section of this manual to learn how to add contacts.
+If anything is filled out in the distribution section, a "distributor" contact must be added. Consult the [**Contact Entry Guidance**](/contacts.md)** **for information about how to add contacts.
 
-* **Role **is required and can be added or selected from dropdown menu.
-* **Transfer Options **provide details regarding obtaining the product. Online and offline options are available.
+* **Contacts** and **Role \(**Required\)**: **Select a contact from your contact list and select "distributor" for the role. 
+* **Transfer Options \(**Optional\):** **provide details regarding obtaining the product. Online and offline options are available.
   * Consult the [**Transfer Options**](/edit-distributors.md)** **section of this manual to learn how to edit transfer options.
-* **Order Process** describes the steps necessary for ordering the product. 
+* **Order Process** \(Optional\): describes the steps necessary for ordering the product. 
   * Consult the [**Order Process**](/order-process.md) section of this manual to learn about editing the order process.
 
 ![](/assets/editing_distributors_for_distribution_window.png)
-
-
 
