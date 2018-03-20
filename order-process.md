@@ -1,8 +1,12 @@
-# Order Process
+# Product Entry Guidance: Order Process
+
+---
 
 The order process describes the steps necessary to order the product.
 
-Available fields include:
+---
+
+_Available fields include:_
 
 * **Fees**: Describes fees and terms for retrieving the resource.
 * **Planned Availability**: A date when the resource will be available.
@@ -10,6 +14,4 @@ Available fields include:
 * **Turnaround**: Expected turnaround for delivery after ordering. 
 
 ![](/assets/order_process.png)
-
-
 
