@@ -71,7 +71,7 @@ The following fields are required in citation:
 * **Title **\(Auto-Generated\)**: **Added automatically based on the title of your record.
 * **Alternate Title \(**Optional\): Add an alternate title.
 * **Dates **\(Optional\): Enter _acquisition, creation, revision,_ or another date reference from the picklist and then enter the date.
-* **Responsible Parties \(**Required\)**: **This must include a point of contact, but may also include other responsible parties such as a project lead, administrators, partners, collaborators, and/or funders \(contributors\). 
+* **Responsible Parties \(**Required\)**: **This must include a point of contact, but may also include other responsible parties such as funders \(including your LCC\), partners, collaborators, and contributors. Collaborators could be intellectual participants while contributors could be intellectual and financial participants.
   * **REQUIRED: **Add the Network Data Steward as "pointOfContact."** **
   * **REQUIRED: **Enter your LCC as "Administrator." 
   * **BEST MANAGEMENT PRACTICE: **Enter the Project PI as the "principalInvestigator.
