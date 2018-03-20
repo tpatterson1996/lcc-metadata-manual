@@ -83,6 +83,8 @@ The following fields are required in citation:
   * **BEST MANAGEMENT PRACTICE: **Use the identifier that your LCC is already using, or create something unique that is easily identifiable. 
 
   > **NOTE: **If you know your items ScienceBase ID, you may add it here. If your item does not have a ScienceBase ID, ScienceBase will create one automatically upon publishing. If you edit an item that is already on ScienceBase without using its existing ID, a duplicate item will be created. Consult the [Publish](/publish.md) section of this manual to learn more.
+  >
+  > **Note: **If the product metadata was created by copying some other mdEditor metadata record, this identifier needs to be edited/changed since it will reflect the copied record identifier. Only the mdEditor UUID changes to represent a new record when an item is copied. Consult the [Copy Records](/data-management/copy-records.md) section of this manual to learn how to make a copy.
 
   * The following identifiers are optional but you may add them: 
     * _Digital Object Identifier \(DOI\)_
