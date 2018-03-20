@@ -1,6 +1,12 @@
 # Spatial
 
-The **Spatial** function will allow you to graphically describe locations relevant to the metadata record.
+The **Spatial** function will allow you to graphically describe locations relevant to the metadata record. Spatial entries are required for Datasets only.
+
+| **Quick Reference: Recommended Spatial Sections** |
+| :--- |
+| Representation Type \(Recommended\) |
+| Spatial Reference System \(Recommended\) |
+| Spatial Resolution \(Recommended\) |
 
 ![](https://lh5.googleusercontent.com/vBulDG2bPjyGWqUH_YZWLcwdkSXVHsEkAWWAK3KeUQk-N2fAhRiRKddt74Gie32x6z-Ax8IADtU0xlFGpNmT34w7qQ43iNdVxyR-x41i7oALWtIQHeghgZB3Z5WdLCMpznXTwaod)
 
