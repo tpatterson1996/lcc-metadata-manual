@@ -1,4 +1,4 @@
-# User Manual: mdEditor for LCCs
+### ### # User Manual: mdEditor for LCCs
 
 ---
 
@@ -40,4 +40,4 @@ _The following diagram details the science catalog system architecture._
 {% include "git+https://github.com/adiwg/mdEditor-doc.git/README.md" %}
 
 ---
-**Note: **This manual has been revised for LCC use. You may access the full mdEditor manual [**here**](https://adiwg.gitbooks.io/mdeditor/content/).
+**NOTE: **This manual has been revised for LCC use. You may access the full mdEditor manual [**here**](https://adiwg.gitbooks.io/mdeditor/content/).
