@@ -12,10 +12,10 @@ Currently, when you open mdEditor, you will see an _Update Alert_ that the appli
 
 ### Suggested Workflow for Using mdEditor
 
-1. **Gather information needed for metadata entry.**
+1. **Gather information needed for your metadata entries.**
    * Have information about your contacts, projects, and products on hand before you begin creating metadata records. 
-2. **Set default **[**Settings**](/settings.md)** **
-   * In addition to the general settings, you will need to set the LCC specific settings for the Metadata Repositories and the Publishing Settings.
+2. **Set the correct default **[**Settings**](/settings.md)** **
+   * In mdEditor settings, you will need to set the LCC specific settings for the Metadata Repositories and the Publishing Settings.
 3. **Create or import **[**Contacts**](/contacts.md)**.**
    * Contacts must be created or uploaded before they can be used in metadata records. 
 4. **Create or import **[**Projects**](/project-entry-guidance.md)**.**
