@@ -6,7 +6,17 @@
 
 ---
 
-#### Step One: Logging Into ScienceBase
+**PUBLISHING OVERVIEW**
+
+**Step One:** Log Into ScienceBase
+
+**Step Two:** Move Records In The Publishing Outline
+
+**Step Three:** Submit for Publishing
+
+---
+
+#### Step One: Logging into ScienceBase
 
 1. Click the **Publish** button from the top menu in mdEditor.
 2. You will be asked to select a _publishing service_. Click on ScienceBase.
