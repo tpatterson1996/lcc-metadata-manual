@@ -12,7 +12,7 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 
    If you** DO** already have items on ScienceBase, chose one of the following approaches. _Note that it will be harder to test without it affecting your real records._
 
-   > _**Approach 1**_ - Take a simple project and product set, and make a copy of the mdEditor records. In the test version, delete all ScienceBase IDs \(SBIDs\) and parent IDs. The SBID will either be located in the citation, or if you imported the record from SB, the SBID will be the record identifier. Set default parent identifier as a test folder.
+   > _**Approach 1**_ - Take a simple project and product set, and make a copy of the mdEditor records. In the test version, delete all ScienceBase IDs \(SBIDs\) and parent IDs. The SBID will either be located in the citation, or if you imported the record from SB, the SBID will be the record identifier. Set default parent identifier as a folder.
    >
    > _** Approach 2** _- Publish directly to a real record if you are okay with the risk it presents.
 
