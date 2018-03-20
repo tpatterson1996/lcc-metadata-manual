@@ -42,8 +42,6 @@ Items directly below the ScienceBase header will be published under the ScienceB
 
 #### STEP TWO: Moving Records in the Publishing Outline
 
-
-
 Before you move records in the publishing outline please select your scenario below and follow the corresponding guidance.
 
 #### Scenario A
@@ -70,39 +68,30 @@ _You** have **existing parent-child relationships on ScienceBase and/or you have
 
 You can drag and drop records to establish the parent-child relationship, eliminating the need to establish the relationship in ScienceBase. This will also allow you to move items around \(e.g., move a product from one project to another\) and have that change be reflected on ScienceBase. _Remember, this is only about parent-child relationships on ScienceBase, not about project-product associations._
 
-> ![](/assets/caution.png)If you do not want these parent IDs to change, **do not **drag and drop these records in the publishing outline.
+![](/assets/caution.png)If you do not want these parent IDs to change, **do not **drag and drop these records in the publishing outline.
 
-**General Notes on Parent IDs:**
+#### **General Notes on Parent IDs:**
 
 * If you move a product under a different project, it will update that product’s parent ID.
 * Parent IDs established through the relationships in the publishing outline will overwrite existing parent IDs in the metadata.
 * Dragging and dropping a record onto the ScienceBase header at the top will set that record’s parent ID to the default parent ID you identified in settings.
 * If you have existing parent IDs in your metadata \(and want to keep them as is\), **do not** drag and drop those records onto the ScienceBase header-- this will erase the existing parent ID and insert what you have set as the default parent identifier.
 
-**BEST MANAGEMENT PRACTICE:** If you have projects and associated products, make sure you have them in mdEditor at the same time and manage them at the same time.
-
-
-
 ---
 
-#### Step Three: Submitting for Publishing
+#### STEP THREE: Submitting for Publishing
 
 1. To select a record to publish, click on it and it will turn green \(click again to un-select it\).
 
-   **NOTE:** You cannot publish a record without a parent ID.
+   > **NOTE:** You cannot publish a record without a parent ID. Sending a non-existent parent ID to ScienceBase will return an error. If your records contain parent IDs in the metadata, you can choose to publish products without publishing their parent projects.
 
-   > * Sending a non-existent parent ID to ScienceBase will return an error.
-   > * If records contain parent IDs in the metadata, you can choose to publish products without publishing their parent projects.
+2. mdEditor will publish your records sequentially, starting with the top record \(it will publish the project first, then the products nested below it\).
 
-2. mdEditor publishes sequentially, starting with the top record \(it will publish the project first, then the products nested below it\).
-
-   * If you are publishing to your _default parent identifier_ or you have changed any project-product relationships in the publishing outline, you will see the updated parent IDs appear in the outline as publishing occurs \(if you’re publishing to the existing locations on ScienceBase, the IDs won’t change\).
+   * If you are publishing to your _**default parent identifier**_** **or you have changed any project-product relationships in the publishing outline, you will see the updated parent IDs appear in the outline as publishing occurs \(if you’re publishing to the existing locations on ScienceBase, the IDs won’t change\).
 
    * These new/updated IDs will be injected directly into the mdJSON file in mdEditor. However, these updated IDs will not be included in the mdJSON file that is attached to ScienceBase as part of the publishing process. You would have to publish the record a second time to update the mdJSON file attached on ScienceBase.
 
-3. Upon successfully publishing to ScienceBase, the third column will display a date and time. The record's ScienceBase ID will be displayed in the first column, and the Parent ID will be displayed in the second column.
-
-   If there are any errors during publishing, they will be noted in the third column.
+3. Upon successfully publishing to ScienceBase, the third column will display a date and time. The record's ScienceBase ID will be displayed in the first column, and the Parent ID will be displayed in the second column. If there are any errors during publishing, they will be noted in the third column.
 
 4. Once publishing is done, refresh ScienceBase to ensure everything is showing up how you expected it would show up.
 
