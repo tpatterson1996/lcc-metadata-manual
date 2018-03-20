@@ -32,7 +32,7 @@ Record Metadata allows you to describe your record's metadata, including a descr
 
 * **REQUIRED: **Enter the LCC Network Data Steward as a “pointOfContact.”
 
-* **BEST MANAGEMENT PRACTICE:** Enter a “publisher.” In most cases it will be the LCC**.**
+* **BEST MANAGEMENT PRACTICE:** Enter a “publisher.” In most cases, it will be the LCC**.**
 
 ---
 
@@ -65,7 +65,7 @@ _The following fields are required for Parent Metadata creation:_
 
 ---
 
-#### **METADATA REPOSTITORIES**
+#### **METADATA REPOSITORIES**
 
 **Metadata Repositories **indicate where the metadata should be sent. Select the "LCCScienceCatalog" as your repository. Selecting LCCScienceCatalog insures that your item will appear in the National LCC Science Catalog.
 
