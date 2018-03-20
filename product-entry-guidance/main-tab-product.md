@@ -18,7 +18,7 @@ The **Main **tab allows for the creation and/or editing of primary metadata.
 
 ### **BASIC INFORMATION**
 
-* **Record ID **will be auto-generated, but can be edited.
+* **Record ID **will be auto-generated but can be edited.
 
 * **Title: **Enter as informative a title as possible. Good titles, when they appear in a search, will be understood and/or traceable.
 
