@@ -10,7 +10,7 @@ mdEditor.json files can be exported and imported via mdEditor's built-in [**Expo
 
 #### **Work on project-by-project basis.**
 
-In order to keep file size manageable, it is recommended that you work on, and then export one project \(and its related products and contacts\) at a time. You should group said project, products, and contacts together using the same scheme that your organization uses to organize data.
+In order to keep file size manageable, it is recommended that you work on and then export one project \(and its related products and contacts\) at a time. You should group said project, products, and contacts together using the same scheme that your organization uses to organize data.
 
 * _Save each project and affiliated products together** as a set**_**.** To do this, select “Export” from the top menu, then select the appropriate records \(i.e., the target project and its affiliated products\) and then click “Export Selected".
 
