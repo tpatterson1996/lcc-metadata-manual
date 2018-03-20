@@ -19,6 +19,11 @@ Tracking funding in the metadata allows for identification of funding sources, c
 
 * **REQUIRED: **Add the relevant contact for “recipient” of the project funding. Should be an organization, not an individual.
 
+> Note: Award ID is required if it is available. These may include grant or cooperative agreement numbers, contract numbers, etc.
+
+  
+
+
 ![](/assets/Allocationg_Screenshot.png)
 
 ---
