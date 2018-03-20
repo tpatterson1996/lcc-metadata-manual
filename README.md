@@ -1,4 +1,4 @@
-### ### # User Manual: mdEditor for LCCs
+###  User Manual: mdEditor for LCCs
 
 ---
 

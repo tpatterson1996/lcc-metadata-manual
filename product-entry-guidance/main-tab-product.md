@@ -4,6 +4,8 @@
 
 The **Main **tab allows for the creation and/or editing of primary metadata.
 
+---
+
 | Quick Reference: Required Sections |
 | :--- |
 | Basic Information \(Required\) |
