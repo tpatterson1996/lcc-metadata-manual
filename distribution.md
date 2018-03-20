@@ -6,7 +6,7 @@
 
 ---
 
-| Distribution \(Required\) |
+| Quick Reference: Recommended for LCC Products
 | :--- |
 | Distribution \(Required\) |
 | Distributor Contact \(Required\) |
