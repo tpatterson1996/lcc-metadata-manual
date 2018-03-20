@@ -2,7 +2,7 @@
 
 ---
 
-The export function will allow the contents of the current metadata recordset to be saved as a mdEditor or a mdJSON file. The files can then be shared with collaborators and imported into another record set, imported into another browser using mdEditor, or saved to a local workstation as a backup or archival copy. Files are automatically named as “mdeditor-timestamp.json”.
+The export function will allow the contents of the current metadata recordset to be saved as an mdEditor or an mdJSON file. The files can then be shared with collaborators and imported into another record set, imported into another browser using mdEditor, or saved to a local workstation as a backup or archival copy. Files are automatically named as “mdeditor-timestamp.json”.
 
 ---
 
