@@ -21,8 +21,8 @@ _Please see the corresponding sections for which contacts should be added where.
 1. The "Point of Contact” Section of the [Main Tab](/record/main/record-main-copy.md)
 2. The “Responsible Parties” Section in the Citation of the [Main Tab](/record/main/record-main-copy.md)
 3. The “Contacts” Section of the [Metadata Tab](/record/main/metadata-tab.md)
-4. “Source” and “Recipient” of the Allocation Section of the Funding Tab for Projects
-5. “Contacts” in the Distribution Tab for Products
+4. The “Allocation”  Section of the[ Funding Tab](/record/main/funding-tab.md) for Projects
+5. The “Contacts” Section in the [Distribution Tab ](/distribution.md)for Products
 
 ---
 
