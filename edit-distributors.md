@@ -14,7 +14,7 @@ _Available fields in transfer options include:_
   * **URI \(**Required\): URI where your resource resides.
   * **Protocol: **Protocol for accessing the resource online.
   * **Description**: Description of the online resource.
-  * **Function**: Allows for selection of a function that describes the online resource.
+  * **Function**: Allows for the selection of a function that describes the online resource.
 
 * **OFFLINE OPTIONS**
 
