@@ -1,10 +1,20 @@
 # Product Entry Guidance: Constraints Tab \(Optional for Products\)
 
-
-
 # Record Constraints
 
 Puts information about how the record can and cannot be used into the metadata.
+
+| Constraint Type |
+| :--- |
+
+
+|  |
+| :--- |
+| Use Limitation |
+| Legal |
+| Security Constraints |
+
+
 
 ---
 
