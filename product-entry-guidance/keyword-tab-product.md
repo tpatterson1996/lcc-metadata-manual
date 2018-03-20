@@ -6,9 +6,9 @@ Adding keywords to your metadata record allows for the record to be found later 
 
 | Quick Reference: Recommended Thesauruses for LCC Products |
 | :--- |
-| ISO Topic Category |
-| LCC Deliverable Types |
-| LCC End User Types |
+| ISO Topic Category \(Recommended\)  |
+| LCC Deliverable Types \(Recommended\)  |
+| LCC End User Types \(Recommended\)  |
 
 ---
 
