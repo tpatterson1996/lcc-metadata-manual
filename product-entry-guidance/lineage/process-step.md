@@ -16,7 +16,7 @@ _The following fields are available but optional:_
 * **Step Sources**: Information about the source data used in the process step.
 * **Step Products**: Information about an intermediate data set.
 * **Processors**: Processors of the process step.
-  * Select or enter a role from the **Role** dropdown and select a contact** **from the **Contacts **drop down.
+  * Select or enter a role from the **Role** drop-down and select a contact** **from the **Contacts **drop down.
   * Consult the [**Contacts**](/contacts.md)** **section of this manual to learn about adding contacts.
 * **Step Reference: **Add a citation noting your step process references.
 * **Time Period: **Add a time period noting the **Start Date,** **End Date**,** **and **Fiscal Year**.
