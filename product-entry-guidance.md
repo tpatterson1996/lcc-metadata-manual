@@ -42,11 +42,9 @@ The Product Entry Guidance section will cover how to create a metadata record fo
 
    * [Lineage Tab: Product](/product-entry-guidance/lineage.md)
 
-   * [Associated Tab](/record/main/associating-records.md)
+   * [Distribution Tab: Product](/distribution.md)
 
-   * Documents Tab
-
-   * [Funding Tab](/record/main/funding-tab.md)
+   * [Constraints Tab: Product](/record-constraints.md)
 
 ---
 
