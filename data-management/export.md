@@ -6,13 +6,21 @@ The export function will allow the contents of the current metadata recordset to
 
 ---
 
-> ![](/assets/note_small.png)![](/assets/best_practice_small.png)
->
-> **Note: **mdJSON files can be uploaded and translated to other formats via the mdTranslator application while mdEditor files are exclusive to the mdEditor application and retain all mdEditor information, including settings.
->
-> **Best Practice**: For a complete backup, use the **Export All **button. This exports an [mdEditor](https://adiwg.gitbooks.io/mdeditor/content/GLOSSARY.html#mdeditor) file containing all records and contacts.
->
-> **Best Practice: **Click **Export All **each time you finish a work session in [mdEditor](https://adiwg.gitbooks.io/mdeditor/content/GLOSSARY.html#mdeditor)\(or switch browsers, URLs, etc.\).
+### **Using Export to Backup Records**
+
+Exporting records is the only way to save records in mdEditor. Maintain an “Export All” JSON file each time you finish a work session in mdEditor or switch browsers.
+
+**BEST MANAGEMENT PRACTICES**
+
+* For a complete backup, use the **Export All **button. This exports an [mdEditor](https://adiwg.gitbooks.io/mdeditor/content/GLOSSARY.html#mdeditor) file containing all records and contacts.
+
+* ** **When exporting products or projects,  you should also export your entire contact list. If you do not export your contact list, and you later import a record that contains a contact not in your library, you may receive an error and have to re-create and re-enter the contact to that record.
+
+* It is particularly important that you export your records for backup before using mdEditor's **Clear Storage Cache **functionality \(clearing the storage cache will delete any records or data you have entered into the mdEditor\). Exporting insures that your data is secure even after clearing the storage cache. Not exporting your data before clearing your cache will result in a permanent loss of records. Consult the [Settings](/settings.md) section of this manual to learn more.
+
+**GENERAL NOTES:**
+
+* mdJSON files can be uploaded and translated to other formats via the mdTranslator application while mdEditor files are exclusive to the mdEditor application and retain all mdEditor information, including settings.
 
 ---
 
@@ -34,9 +42,7 @@ While exporting data, there are four options available in the Action Menu \(on t
 >
 > ---
 
-#### General Notes on Exporting
 
-> ![](/assets/best_practice_small.png)** **When Exporting Contacts, it is recommended that you export all contacts together. When you import a project, if the contacts list isn't complete, the record may show an error and you will be unable to re-add the contact to the record.
 
 
 
