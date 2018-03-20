@@ -8,16 +8,16 @@ _Available fields in transfer options include:_
 
 * **Distribution Units**: Used for items with unique units \(e.g. USGS quads\).
 
-* **Online Options Include**:
+* **ONLINE OPTIONS**
+
   * **Name**: Name of your URI
   * **URI \(**Required\): URI where your resource resides.
   * **Protocol: **Protocol for accessing the resource online.
   * **Description**: Description of the online resource.
   * **Function**: Allows for selection of a function that describes the online resource.
 
+* **OFFLINE OPTIONS**
 
-
-* **Offline Options**:
   * **Medium Title**: The title of the medium.
   * **Storage**: Describes the storage format of the item. IE: Size and type of the medium.
   * **Identifier \(**Required\): Provides a unique identity of the medium.
