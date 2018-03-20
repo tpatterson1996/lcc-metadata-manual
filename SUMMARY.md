@@ -36,5 +36,5 @@
   * [Instructions for Testing Publishing](publish/instructions-for-testing-publishing.md)
   * [How to Publish](publish/how-to-publish.md)
 * [Help](help.md)
-* [Glossary of Terms](glossary-of-terms.md)
+* [Glossary of Terms](GLOSSARY.md)
 
