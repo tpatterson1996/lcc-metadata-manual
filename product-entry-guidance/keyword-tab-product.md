@@ -21,14 +21,14 @@ Adding keywords to your metadata record allows for the record to be found later 
 | Thesauruses for LCC Staff | Recommendations |
 | :--- | :--- |
 | ISO Topic Category \(Recommended\) | ISO \(International Organization for Standardization\) topics were built and maintained by the ISO Technical Committee and are required for the development of ISO metadata. Adding ISO Topic Keywords lets your products and projects meet an international standard for controlled vocabulary. |
-| LCC Deliverable Types \(Recommended\)  | LCC \(Landscape Conservation Cooperatives\) Keywords are maintained by the national LCCs and required for any LCC projects. Adding LCC keywords lets your products and projects meet a standard that was defined by the national LCCs. |
+| LCC Deliverable Types \(Recommended\) | LCC \(Landscape Conservation Cooperatives\) Keywords are maintained by the national LCCs and required for any LCC projects. Adding LCC keywords lets your products and projects meet a standard that was defined by the national LCCs. |
 | LCC End User Types \(Recommended\) | LCC \(Landscape Conservation Cooperatives\) Keywords are maintained by the national LCCs and required for any LCC projects. Adding LCC keywords lets your products and projects meet a standard that was defined by the national LCCs. |
 
 ---
 
 ### **Custom Thesaurus **
 
-It is recommended that you use a custom thesaurus only for keywords that are not available in a pre-populated lists. For example, If a certain end user type is not available in the LCC End User Types thesaurus, you can add the type using the Custom thesaurus. However, you can add a Custom thesaurus for any terms that you see fit.
+It is recommended that you use a custom thesaurus only for keywords that are not available in a pre-populated lists. For example, If a certain end-user type is not available in the LCC End User Types thesaurus, you can add the type using the Custom thesaurus. However, you can add a Custom thesaurus for any terms that you see fit.
 
 ---
 
