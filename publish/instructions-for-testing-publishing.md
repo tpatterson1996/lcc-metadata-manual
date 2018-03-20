@@ -16,7 +16,7 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
    >
    > _** Approach 2** _- Publish directly to a real record if you are okay with the risk it presents.
 
-2. Set your** Default Parent Identifier **in Settings for a test folder.
+2. Set your** Default Parent Identifier **in Settings.
 
 3. Select one project with its associated products to test.
 
