@@ -4,6 +4,8 @@
 
 For tracking issues, please use the github thread [here](https://github.com/adiwg/mdEditor/issues/128) and sign up for notifications via email.
 
+---
+
 1. Determine your workflow for testing:
 
    If You** do not already** have items on ScienceBase. Choose a project and its products to test.
@@ -24,9 +26,9 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 
 5. Look for any errors in the third column. If you see an error that is 400 and red, it’s a problem that you can address. However, If it’s a 500 level error in red, that is a ScienceBase error that is outside the scope of the mdEditor.
 
-   > ![](/assets/publishing_error.png)![](/assets/note_small.png)Any unsolvable issues can be submitted on the issues page for mdEditor: [https://github.com/adiwg/mdEditor/issues](https://www.gitbook.com/book/adiwg/mdeditor/edit#). You must have a github account in order to post.
-   >
-   > ![](/assets/note_small.png)Advanced users can check errors using the console. Consult the **Advanced Users **section of this manual to learn more.
+   > ![](/assets/publishing_error.png)**NOTE:** Any unsolvable issues can be submitted on the issues page for mdEditor: [https://github.com/adiwg/mdEditor/issues](https://www.gitbook.com/book/adiwg/mdeditor/edit#). You must have a github account in order to post.
+
+   > Advanced users can check errors using the console. Consult the **Advanced Users **section of this manual to learn more.
 
 6. Verify that your test records have published as expected in your test folder on ScienceBase \(or to the real record if that’s how you are testing\).
 
