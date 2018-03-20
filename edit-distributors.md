@@ -6,9 +6,9 @@ Available fields in transfer options include:
 
 * **Distribution Units**: Used for items with unique units \(e.g. USGS quads\).
 
-* **Online Options**: Consult the [**Online Options**](/record/edit/quality/edit-distributors/online-option.md) section of this manual to learn how to add online options.
+* **Online Options**: Consult the [**Online Options**](/edit-distributors/online-options.md) section of this manual to learn how to add online options.
 
-* **Offline Options**: Consult the [**Offline Options**](/record/edit/quality/edit-distributors/offline-options.md) of this manual to learn how to add offline options.
+* **Offline Options**: Consult the [**Offline Options**](/edit-distributors/offline-options.md) of this manual to learn how to add offline options.
 
 * **Distribution Formats**: Allows for the description of distribution formats including; Format Name; Version; Compression Method; and URL.
 
