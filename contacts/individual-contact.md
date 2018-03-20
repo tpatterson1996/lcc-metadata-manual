@@ -27,15 +27,13 @@ _All other fields are optional but recommended._
 
 ### NETWORK DATA STEWARD
 
-The Network Data Steward is a required as a "PointOfContact" in the Point of Contact section of the Main Tab and in the Contacts section of the Metadata Tab. 
+_The LCC Network Data Steward is required as a "PointOfContact" in the Point of Contact section of the Main Tab and in the Contacts section of the Metadata Tab._
 
 **The LCC Network Data Steward:**
 
 * **Individual Name: **LCC Network Data Steward
 * **Contact Type:** lcc
 * **Email Address:** lccdatasteward@fws.gov
-
----
 
 ![](/assets/individual_contact_window.png)
 
