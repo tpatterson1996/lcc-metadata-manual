@@ -42,7 +42,7 @@ Items directly below the ScienceBase header will be published under the ScienceB
 
 #### STEP TWO: Moving Records in the Publishing Outline
 
-Before you move records in the publishing outline please select your scenario below and follow the corresponding guidance.
+_Before you move records in the publishing outline please select your scenario below and follow the corresponding guidance._
 
 #### Scenario A
 
@@ -87,7 +87,7 @@ You can drag and drop records to establish the parent-child relationship, elimin
 
 2. mdEditor will publish your records sequentially, starting with the top record \(it will publish the project first, then the products nested below it\).
 
-   * If you are publishing to your _**default parent identifier**_** **or you have changed any project-product relationships in the publishing outline, you will see the updated parent IDs appear in the outline as publishing occurs \(if you’re publishing to the existing locations on ScienceBase, the IDs won’t change\).
+   * If you are publishing to your _default parent identifier_ or if you have changed any project-product relationships in the publishing outline, you will see the updated parent IDs appear in the outline as publishing occurs \(if you’re publishing to the existing locations on ScienceBase, the IDs won’t change\).
 
    * These new/updated IDs will be injected directly into the mdJSON file in mdEditor. However, these updated IDs will not be included in the mdJSON file that is attached to ScienceBase as part of the publishing process. You would have to publish the record a second time to update the mdJSON file attached on ScienceBase.
 
