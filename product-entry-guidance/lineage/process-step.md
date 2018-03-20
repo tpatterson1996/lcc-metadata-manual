@@ -31,7 +31,7 @@ _The following fields are available but optional:_
 
   * **Duration**: Describe the time period in terms of **Years**, **Months**, **Days, Hours**, **Minutes**, and **Seconds**.
 
-* **Scope**: Select the type of resource from the drop down menu.
+* **Scope**: Select the type of resource from the drop-down menu.
 
 ---
 
