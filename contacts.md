@@ -8,7 +8,7 @@ Contacts are individuals or organizations that can be referenced by other contac
 
 ### General Notes on Contacts
 
-In mdEditor, contacts are created separately from individual records, and then stored within a library in mdEditor. Once contacts have been entered or imported into mdEditor, they can be used in metadata records. Editing a contact in the mdEditor contact library will update the contact information included in any metadata record that uses that contact. Editing a contact in mdEditor will also update contact information on Science Base once the record is published.
+In mdEditor, contacts are created separately from individual records and then stored within a library in mdEditor. Once contacts have been entered or imported into mdEditor, they can be used in metadata records. Editing a contact in the mdEditor contact library will update the contact information included in any metadata record that uses that contact. Editing a contact in mdEditor will also update contact information on Science Base once the record is published.
 
 It is recommended that you leave contacts in mdEditor in-between work sessions. This allows you to readily add contacts to projects and products.
 
@@ -54,7 +54,7 @@ Corresponds to the “lead” and “partner” sections in the required fields 
 
   * You can enter your LCC data manager as the “author”. You do not need to use individual names and can create a generic data manager for your LCC, but this is up to the individual LCC.
 
-* Enter a “publisher.” In most cases it will be the LCC \(best management practice\).
+* Enter a “publisher.” In most cases, it will be the LCC \(best management practice\).
 
 * Enter the LCC Network Data Steward as a “pointOfContact” \(required\).
 
@@ -70,7 +70,7 @@ Corresponds to the “lead” and “partner” sections in the required fields 
 
 #### **In Distribution \(for Products only\)**
 
-* Add the relevant contact for “distributor” of the product \(if you fill out anything in the Distribution section, a contact for distributor is required\).
+* Add the relevant contact for “distributor” of the product \(if you fill out anything in the Distribution section, a contact for Distributor is required\).
 
 ---
 
@@ -81,7 +81,7 @@ Corresponds to the “lead” and “partner” sections in the required fields 
 * Always spell out acronyms and organization names.
 * Copying contacts will change the ID and the name \(the name will be “Copy of ….”\) but all the other information will be the same.
 * Make sure your contacts are loaded and accurate in mdEditor before beginning to create your metadata records. 
-* Code lists, including the contact type options/dropdown list are maintained by ADIwg.
+* Code lists, including the contact type options/dropdown list, are maintained by ADIwg.
 
 ---
 
