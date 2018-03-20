@@ -83,7 +83,7 @@ You can drag and drop records to establish the parent-child relationship, elimin
 
 1. To select a record to publish, click on it and it will turn green \(click again to un-select it\).
 
-   > **NOTE:** You cannot publish a record without a parent ID. Sending a non-existent parent ID to ScienceBase will return an error. If your records contain parent IDs in the metadata, you can choose to publish products without publishing their parent projects.
+   > **NOTE:** You cannot publish a record without a parent ID. Sending a non-existent parent ID to ScienceBase will return an error. If your records contain parent IDs in the metadata, you can choose to publish products without publishing their associated projects.
 
 2. mdEditor will publish your records sequentially, starting with the top record \(it will publish the project first, then the products nested below it\).
 
