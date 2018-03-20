@@ -15,6 +15,7 @@
   * [Main Tab: Product](product-entry-guidance/main-tab-product.md)
   * [Metadata Tab: Product](product-entry-guidance/metadata-tab-product.md)
   * [Keyword Tab: Product](product-entry-guidance/keyword-tab-product.md)
+  * [Spatial](spatial.md)
   * [Associating Records: Products](product-entry-guidance/associating-records-products.md)
 * [Contact Entry Guidance ](contacts.md)
   * [Individual Contacts](contacts/individual-contact.md)
