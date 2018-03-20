@@ -46,6 +46,8 @@ The Product Entry Guidance section will cover how to create a metadata record fo
 
    * [Constraints Tab: Product](/record-constraints.md)
 
+7. If applicable, [associate ](/product-entry-guidance/associating-records-products.md)your products with other records. 
+
 ---
 
 #### **Product Required Fields**
