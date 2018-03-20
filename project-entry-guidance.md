@@ -19,7 +19,7 @@ The Project Entry Guidance section will cover how to create a metadata record fo
 
 ##### **Make sure your contacts are loaded into mdEditor:**
 
-* In mdEditor, contacts are created separately from individual records, and then stored within a library in mdEditor. Once contacts have been entered or imported into mdEditor, they can be used in metadata records.
+* In mdEditor, contacts are created separately from individual records and then stored within a library in mdEditor. Once contacts have been entered or imported into mdEditor, they can be used in metadata records.
 
 ---
 
