@@ -1,4 +1,4 @@
-# Organization Contacts
+# Contact Entry Guidance: Creating Organization Contacts
 
 ---
 
