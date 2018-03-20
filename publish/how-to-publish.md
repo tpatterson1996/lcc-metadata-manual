@@ -16,7 +16,7 @@
 
 ---
 
-#### Step One: Logging into ScienceBase
+#### STEP ONE: Logging into ScienceBase
 
 1. Click the **Publish** button from the top menu in mdEditor.
 2. You will be asked to select a _publishing service_. Click on ScienceBase.
@@ -40,26 +40,9 @@ Items directly below the ScienceBase header will be published under the ScienceB
 
 ---
 
+#### STEP TWO: Moving Records in the Publishing Outline
 
 
-
-
-You can drag and drop records to establish the parent-child relationship, eliminating the need to establish the relationship in ScienceBase. This will also allow you to move items around \(e.g., move a product from one project to another\) and have that change be reflected on ScienceBase. _Remember, this is only about parent-child relationships on ScienceBase, not about project-product associations._
-
-> ![](/assets/caution.png)If you do not want these parent IDs to change, **do not **drag and drop these records in the publishing outline.
-
-**General Notes on Parent IDs:**
-
-* If you move a product under a different project, it will update that product’s parent ID.
-* Parent IDs established through the relationships in the publishing outline will overwrite existing parent IDs in the metadata.
-* Dragging and dropping a record onto the ScienceBase header at the top will set that record’s parent ID to the default parent ID you identified in settings.
-* If you have existing parent IDs in your metadata \(and want to keep them as is\), **do not** drag and drop those records onto the ScienceBase header-- this will erase the existing parent ID and insert what you have set as the default parent identifier.
-
-**BEST MANAGEMENT PRACTICE:** If you have projects and associated products, make sure you have them in mdEditor at the same time and manage them at the same time.
-
----
-
-#### Step Two: Moving Records in the Publishing Outline
 
 Before you move records in the publishing outline please select your scenario below and follow the corresponding guidance.
 
@@ -80,6 +63,25 @@ _You** have **existing parent-child relationships on ScienceBase and/or you have
 * If you have parent-child relationships already established on ScienceBase \(and those IDs are reflected in the mdEditor records\), you likely do not want to move the records around in the publishing outline.
 * If your products are housed in a “Products” folder on ScienceBase \(or other intermediate folders between the project item and the products\), then your products **will not** be nested under projects in the publishing outline. 
   * The parent ID for those products is the “Products” folder \(which would not have a record in mdEditor\). If this is your situation, do not change  the structure in the publishing outline and publish as is \(i.e., with every item organized at the root level in the outline\).
+
+---
+
+### Notes on Moving Records
+
+You can drag and drop records to establish the parent-child relationship, eliminating the need to establish the relationship in ScienceBase. This will also allow you to move items around \(e.g., move a product from one project to another\) and have that change be reflected on ScienceBase. _Remember, this is only about parent-child relationships on ScienceBase, not about project-product associations._
+
+> ![](/assets/caution.png)If you do not want these parent IDs to change, **do not **drag and drop these records in the publishing outline.
+
+**General Notes on Parent IDs:**
+
+* If you move a product under a different project, it will update that product’s parent ID.
+* Parent IDs established through the relationships in the publishing outline will overwrite existing parent IDs in the metadata.
+* Dragging and dropping a record onto the ScienceBase header at the top will set that record’s parent ID to the default parent ID you identified in settings.
+* If you have existing parent IDs in your metadata \(and want to keep them as is\), **do not** drag and drop those records onto the ScienceBase header-- this will erase the existing parent ID and insert what you have set as the default parent identifier.
+
+**BEST MANAGEMENT PRACTICE:** If you have projects and associated products, make sure you have them in mdEditor at the same time and manage them at the same time.
+
+
 
 ---
 
