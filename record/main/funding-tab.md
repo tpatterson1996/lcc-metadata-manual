@@ -25,7 +25,7 @@ Tracking funding in the metadata allows for identification of funding sources, c
 
 #### TIME PERIOD
 
-* **Time Period**: Describes the time period during the allocation of funds. Adding a time period lets LCC staff know when your items were funded, and lets them find your item when searching for items funded in a similar time period.
+* **Time Period**: Describes the time period of the fiscal year\(s\) of allocation of funds. Adding a time period lets LCC staff know when your items were funded, and lets them find your item when searching for items funded in a similar time period.
 
 > **NOTE: **If you put in a start and end date, mdEditor will calculate fiscal year off the end date. Fiscal Year can be selected independently from start and end date.
 
