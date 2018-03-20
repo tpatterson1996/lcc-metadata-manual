@@ -1,4 +1,4 @@
-# Individual Contacts
+# Contact Entry Guidance: Creating Individual Contacts
 
 ---
 
