@@ -4,11 +4,7 @@
 
 Puts information about how the record can and cannot be used into the metadata.
 
-| Constraint Type |
-| :--- |
-
-
-|  |
+| Quick Reference: Recommended LCC Products|
 | :--- |
 | Use Limitation |
 | Legal |
