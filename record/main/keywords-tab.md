@@ -28,7 +28,7 @@ Adding keywords to your metadata record allows for the record to be found later 
 
 ### **Custom Thesaurus **
 
-It is recommended that you use a custom thesaurus only for keywords that are not available in a pre-populated lists. For example, If a certain end user type is not available in the LCC End User Types thesaurus, you can add the type using the Custom thesaurus. However, you can add a Custom thesaurus for any terms that you see fit.
+A custom thesaurus can contain any keywords you would like to add to your record. It is recommended that you use a custom thesaurus only for keywords that are not available in a pre-populated lists. For example, If a certain end user type is not available in the LCC End User Types thesaurus, you can add the type using the Custom thesaurus. 
 
 ---
 
