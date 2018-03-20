@@ -15,15 +15,15 @@ The Import function will allow the content files from ScienceBase to be incorpor
 
    ## ![](/assets/raw_text_screenshot.png)
 
-3. Right click in the text area and select “save as” and add “.json” to the end of the file name. This will download the JSON file to your computer.
+3. Right-click in the text area and select “save as” and add “.json” to the end of the file name. This will download the JSON file to your computer.
 
-4. You can either drag the JSON file to the drop box in mdEditor from the download link visible in your browser, or from the location on your computer where you saved the file.
+4. You can either drag the JSON file to the drop box in mdEditor from the download link visible in your browser or from the location on your computer where you saved the file.
 
 5. Review what was imported. Click the “preview JSON” buttons to sort between multiple entries of the same contact, and decide which version to keep.
 
 6. Select the Records and Contacts you want to Import
 
-7. Click on the right hand button “**Click to Import Data**” to import the selected records
+7. Click on the right-hand button “**Click to Import Data**” to import the selected records
 
 ---
 
@@ -37,7 +37,7 @@ Use this method for items where no mdJSON already exists, may or may not have Sc
   * The SBID is the string of letters/numbers at the end of the item’s ScienceBase URL. For Example,  "5947e765e4b062508e34424" would be the SBID for an item at the URL [https://www.sciencebase.gov/catalog/item/\*\*5947e765e4b062508e34424a\*\*](https://www.sciencebase.gov/catalog/item/**5947e765e4b062508e34424a**%29%29\)
 * Review what was imported. Click the “preview JSON” buttons to sort between multiple entries of the same contact, and decide which version to keep. 
 * Select the Records and Contacts you want to Import
-* Click on the right hand button “**Click to Import Data**” to import the selected records
+* Click on the right-hand button “**Click to Import Data**” to import the selected records
 
 
 
