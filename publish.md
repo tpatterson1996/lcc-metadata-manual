@@ -16,7 +16,7 @@ Please read through ALL instructions before you begin the publishing process. Af
 
 ## Overall Science Catalog System Architecture
 
-Currently the mdEditor is used primarily with ScienceBase, a collaborative scientific data and information management platform developed and run by the USGS and used directly by science teams. The mdEditor can work with other databases, but in this manual, ScienceBase will be used as the primary example of a database. For more information, see ScienceBase in the glossary of terms.
+Currently the mdEditor is used primarily with ScienceBase, a collaborative scientific data and information management platform developed and run by the USGS and used directly by science teams. 
 
 The following describes the process of publishing from mdEditor
 
@@ -24,7 +24,7 @@ The following describes the process of publishing from mdEditor
 2. The mdJSON file is transmitted via a webservice to mdTranslator.
 3. mdTranslator translates the mdJSON file into sbJSON and XML.
 4. ScienceBase imports the sbJSON and XML.
-5. Depending on the default repository that you defined in settings, the records are outout from ScienceBase to DATA.GOV, the LCC Science Catalog Website, or both.
+5. Depending on the default repository that you defined in settings, the records are exported from ScienceBase to DATA.GOV, the LCC Science Catalog Website, or both.
 
 _The following diagram describes the overall science catalog system architecture._
 
