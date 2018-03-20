@@ -36,7 +36,7 @@ It is recommended that you use a custom thesaurus only for keywords that are not
 
 **NOTES: **Keywords edited in mdEditor will overwrite keywords in ScienceBase.
 
-**BEST MANAGEMENT PRACTICE: **Look for useful keywords in the GCMD Science Keywords. GCMD Science keywords would be the only ones applicable to LCCs. There are GCMD Platforms and Instruments but they are  unlikely to apply to LCCs.
+**BEST MANAGEMENT PRACTICE: **Look for useful keywords in the GCMD Science Keywords. GCMD Science keywords would be the only ones applicable to LCCs. There are GCMD Platforms and Instruments but they are unlikely to apply to LCCs.
 
 ---
 
