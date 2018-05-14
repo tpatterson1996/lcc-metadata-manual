@@ -22,7 +22,7 @@ The **Main **tab allows for the creation and/or editing of primary metadata.
 
 * **Title: **Enter as informative a title as possible. Good titles, when they appear in a search, will be understood and/or traceable.
 
-* The **Status **drop-down menu allows you to select the status of your item. Choose status ONLY from the four following options: _Completed, On Going, Proposed, or Accepted._
+* The **Status **drop-down menu allows you to select the status of your item. Choose status ONLY from the four following options: c_ompleted, ongoing, proposed, or accepted._
 
 ![](/assets/main_screenshot_updated.png)
 
