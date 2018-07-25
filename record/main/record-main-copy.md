@@ -46,7 +46,7 @@ The **Main **tab allows for the creation and/or editing of primary metadata.
 
 ### POINT OF CONTACT\(S\)
 
-Adding a point of contact gives LCC staff information on who to contact should they have a question regarding your project or product. From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts **drop-down menu, select a contact from the list of contacts. _To add contacts to a metadata record, you must first create/upload the contacts into mdEditor. See the _[_Contact _](/product-entry-guidance/contact-entry-guidance.md)_Section for more information._
+Adding a point of contact gives users information on who to contact should they have a question regarding your project or product. From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts **drop-down menu, select a contact from the list of contacts. _To add contacts to a metadata record, you must first create/upload the contacts into mdEditor. See the _[_Contact _](/product-entry-guidance/contact-entry-guidance.md)_Section for more information._
 
 * **REQUIRED: **Enter **the LCC Network Data Steward **as a "pointOfContact."
 
@@ -62,7 +62,7 @@ Adding a point of contact gives LCC staff information on who to contact should t
 
 ### CITATION
 
-**The Citation **lets LCC staff know pertinent information about your project or product such as: responsible parties; internal and ScienceBase identifier; and any online resources that may relate to your item. Adding information in the citation will also allow LCC staff to find your item when they search for items that contain said information.
+**The Citation **lets users know pertinent information about your project or product such as: responsible parties, internal and ScienceBase identifiers, and any online resources that may relate to your item. Adding information in the citation will also improve users' abilities to find your items.
 
 #### ![](/assets/citation_updated.png)
 
@@ -111,13 +111,13 @@ The following fields are required in citation:
 
 #### **TIME PERIOD**
 
-**Time Period** refers to project start and end date, or the date that the project was applicable \(e.g., time that a map is valid, date of publication, date of presentation\)
+**Time Period** refers to project start and end date.
 
-* **REQUIRED: **For each project, add a start date, end date, and fiscal year.
+* **REQUIRED: **For each project, add a Start Date and End Date. If the project spanned a single fiscal year, you can select the relevant year from the Fiscal Year dropdown. Selecting a Fiscal Year will automatically update the Start and End Dates.
 
 ![](/assets/time_period.png)
 
-> Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the full mdEditor manual for instructions on adding additional information into the Main Tab.
+> For more information, consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the mdEditor manual.
 
 
 

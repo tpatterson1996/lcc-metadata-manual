@@ -112,7 +112,7 @@ The following fields are required in citation:
 
 ### **TIME PERIOD**
 
-**Time Period** refers to project start and end date, or the date that the project was applicable \(e.g., time that a map is valid, date of publication, date of presentation\)
+**Time Period** refers to project start and end date, or the date that the product was applicable \(e.g., time that a map is valid, date of publication, date of presentation\).
 
 * **REQUIRED: **For each project, add a start date, end date, and fiscal year.
 

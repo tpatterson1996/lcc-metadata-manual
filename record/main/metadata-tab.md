@@ -77,7 +77,7 @@ _The following fields are required for Parent Metadata creation:_
 
 ![](/assets/metadata_window.png)
 
-> Consult the [**Record Metadata**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html) ** **section of the full mdEditor manual for instructions on adding additional information into the Metadata Tab.
+> For more information, consult the [**Record Metadata**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html) section of the mdEditor manual.
 
 
 

@@ -21,9 +21,6 @@ Tracking funding in the metadata allows for identification of funding sources, c
 
 > Note: Award ID is required if it is available. These may include grant or cooperative agreement numbers, contract numbers, etc.
 
-  
-
-
 ![](/assets/Allocationg_Screenshot.png)
 
 ---
@@ -38,7 +35,7 @@ Tracking funding in the metadata allows for identification of funding sources, c
 
 ---
 
-> Consult the [**Record Funding**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-funding.html)** **section of the full mdEditor manual for information on Funding.
+> For more information, consult the [**Record Funding**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-funding.html)** **section of the mdEditor manual.
 
 
 

@@ -28,7 +28,7 @@ Adding keywords to your metadata record allows for the record to be found later 
 
 ### **Custom Thesaurus **
 
-A custom thesaurus can contain any keywords you would like to add to your record. It is recommended that you use a custom thesaurus only for keywords that are not available in a pre-populated lists. For example, If a certain end user type is not available in the LCC End User Types thesaurus, you can add the type using the Custom thesaurus. 
+A custom thesaurus can contain any keywords you would like to add to your record. It is recommended that you use a custom thesaurus only for keywords that are not available in a pre-populated lists. For example, If a certain end user type is not available in the LCC End User Types thesaurus, you can add the type using the Custom thesaurus.
 
 ---
 
@@ -42,7 +42,7 @@ A custom thesaurus can contain any keywords you would like to add to your record
 
 ![](/assets/keywords_window.png)
 
-> Consult the [**Record Keywords**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/keywords.html) section of the full mdEditor manual for instructions on adding additional information into the Keywords Tab.
+> For more information, consult the [**Record Keywords**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/keywords.html) section of the mdEditor manual.
 
 
 
