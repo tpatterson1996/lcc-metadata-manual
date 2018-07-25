@@ -11,8 +11,9 @@ The settings menu allows for the configuring of user-specific options. Settings 
 _These must be implemented before you begin creating metadata records. Adding these in settings ensures that your items are added to the correct repository and published correctly._
 
 * **Metadata Repositories**: In the Default Section, add two metadata repositories.  
-  * Select **LCCScienceCatalog **from the Repository drop-down menu. Enter “LCC     Network Science Catalog” as the collection title.
+  * Select **LCCScienceCatalog **from the Repository drop-down menu. Enter “LCC Network Science Catalog” as the collection title.
   * Select **data.gov** from the Repository drop-down menu. For the collection title, enter "data.gov" followed by the LCC name without acronyms. For example "data.gov Great Northern Landscape Conservation Cooperative".
+  * Note: 
 * **Parent Identifier: **In the publishing settings, enter your LCC's ScienceBase project folder's identifier in the "Default Parent Identifier" field.
 
 ---
@@ -22,17 +23,17 @@ _These must be implemented before you begin creating metadata records. Adding th
 * **mdEditor Version:** The mdEditor version notes the current version of mdEditor. Use this when reporting errors. Errors can be reported at [https://github.com/adiwg/mdEditor/issues](https://github.com/adiwg/mdEditor/issues). You must have a github account in order to post.
 * **Auto-Save**: The Auto-Save option will write all changes to local storage when you exit a data entry field. Changes must be manually saved if the Auto-Save feature is turned off.
 
-  > **NOTE:** Auto-Save allows the user to save less frequently, but it makes it harder to undo changes that you make to your records. If you stay on the same record, you can cancel changes. But once you leave the record, the record is saved and you can’t cancel the change except by manually reediting the record.
+  > **NOTE:** Auto-Save allows the user to save less frequently, but it makes it harder to undo changes that you make to your records. If you stay on the same record, you can cancel changes. But once you leave the record, the record is saved and you can’t cancel the change except by manually re-editing the record.
 
 * **Clear All Records: **All records can be cleared by clicking the "Clear Storage Cache."
 
-> ![](/assets/caution.png)** **_**CAUTION! Clearing all records will delete your current set of records.**_** If you wish to retain your records for future use, be sure and make a backup with the **[**export**](/export.md)** function before clearing the cache.  **
+> ![](/assets/caution.png)** **_**CAUTION! Clearing all records will delete the all record currently loaded in mdEditor.**_** If you wish to retain your records for future use, be sure to make a backup with the **[**export**](/export.md)** function before clearing the cache.  **
 
 ---
 
 ### Defaults
 
-**Defaults **include settings for **Language**, **Character Set**, **Country**, and the **Import URL \(**used for defining the default URL for importing\). To Set the default import URL for importing items from ScienceBase, enter [https://api.sciencebase.gov/sbmd-service/mdjson/](https://api.sciencebase.gov/sbmd-service/mdjson/).
+**Defaults **include settings for **Language**, **Character Set**, **Country**, and the **Import URL **\(used for defining the default URL for importing\). To set the default import URL for importing items from ScienceBase, enter [https://api.sciencebase.gov/sbmd-service/mdjson/](https://api.sciencebase.gov/sbmd-service/mdjson/).
 
 ![](/assets/settings_defaults.png)
 

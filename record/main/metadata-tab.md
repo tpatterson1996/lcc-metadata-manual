@@ -22,13 +22,13 @@ Record Metadata allows you to describe your record's metadata, including a descr
 
 #### **METADATA CONTACTS**
 
-**Metadata Contacts **are required and selected from your list of contacts. Adding a metadata contact will give LCC staff a contact point should they have any questions about the metadata._ _
+**Metadata Contacts **are required and selected from your list of contacts. Adding a metadata contact will give users a contact point should they have any questions about the metadata._ _
 
 * **REQUIRED:** At least one contact with the role of “author” is required. Does not necessarily have to be the LCC \(e.g., imported FGDC metadata can list the original author\)
 
   * "Author" can be an individual or an organization.
 
-  * You can enter your LCC data manager as the “author”. You do not need to use individual names, if you want, you can create a generic data manager for your LCC, but this is up to each l LCC
+  * You can enter your LCC data manager as the “author”. You do not need to use individual names. You can create a generic data manager for your LCC, but this is up to each LCC.
 
 * **REQUIRED: **Enter the LCC Network Data Steward as a “pointOfContact.”
 
@@ -40,7 +40,7 @@ Record Metadata allows you to describe your record's metadata, including a descr
 
 The **Metadata** **Identifier **is automatically populated by mdEditor. The metadata identifier gives each of your projects and products a unique ID and differentiates them from other similar projects and products.
 
-* If the record was imported from Science Base, the Metadata Identifier will be auto-populated with the ScienceBase ID \(SBID\)
+* If the record was imported from ScienceBase, the Metadata Identifier will be auto-populated with the ScienceBase ID \(SBID\)
 * If the record was made in mdEditor, the will generate a universally unique identifier \(UUID\).
 
 ---
@@ -49,7 +49,7 @@ The **Metadata** **Identifier **is automatically populated by mdEditor. The meta
 
 The **Parent Metadata **is used to define the folder on ScienceBase where the project or product will be published to. Adding parent metadata lets mdEditor know where the data should go when it is published to ScienceBase. It also lets LCC staff search for other items that may be in the same location in ScienceBase.
 
-> **NOTE:** The Parent Metadata Identifier** **can be added in **mdEditor** **Settings**, or in the **Parent** **Metadata **section of the **Metadata **tab, or both. Adding the identifier to Settings insures that every item in mdEditor is published to ScienceBase, and it helps to maintain a precise identifier. However, if the identifier is only added in settings, the Parent Metadata Identifier is not written into the mdEditor records. If the records are then shared from ScienceBase, they will not include the ScienceBase Parent Folder Identifier. If the Parent Metadata Identifier is added in the Parent Metadata section of the Metadata tab, the Identifier will be added to the record, insuring that shared records will note where the ScienceBase parent folder resides.
+> **NOTE:** The Parent Metadata Identifier** **can be added in **mdEditor** **Settings**, or in the **Parent** **Metadata **section of the **Metadata **tab, or both. Adding the identifier to Settings ensures that every item in mdEditor is published to ScienceBase, and it helps to maintain a precise identifier. However, if the identifier is only added in settings, the Parent Metadata Identifier is not written into the mdEditor records. If the records are then shared from ScienceBase, they will not include the ScienceBase Parent Folder Identifier. If the Parent Metadata Identifier is added in the Parent Metadata section of the Metadata tab, the Identifier will be added to the record, insuring that shared records will note where the ScienceBase parent folder resides.
 
 _The following fields are required for Parent Metadata creation:_
 
@@ -65,11 +65,11 @@ _The following fields are required for Parent Metadata creation:_
 
 ---
 
-#### **METADATA REPOSTITORIES**
+#### **METADATA REPOSITORIES**
 
 **Metadata Repositories **indicate where the metadata should be sent. Select the "LCCScienceCatalog" as your repository. Selecting LCCScienceCatalog insures that your item will appear in the National LCC Science Catalog.
 
-* For **Projects **that should be listed in the LCC Science Catalog: Select_ “LCCScienceCatalog” from the picklist as repository and “LCC Network Science Catalog_” as the collection title \(these should be entered in your [settings](/settings.md) as default repositories. Additionally, adding the record in the Metadata Repositories section of the Metadata tab insures that the repository is written to your record.
+* For **Projects **that should be listed in the LCC Science Catalog: Select_ “LCCScienceCatalog” from the picklist as repository and “LCC Network Science Catalog_” as the collection title \(these should be entered in your [settings](/settings.md) as default repositories. 
 
 > **BEST MANAGEMENT PRACTICE:** In[ settings](/settings.md), create default repositories to help maintain precise titles
 
