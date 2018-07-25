@@ -20,7 +20,7 @@ Currently, when you open mdEditor, you will see an _Update Alert_ that the appli
    * Contacts must be created or uploaded before they can be used in metadata records. 
 4. **Create or import **[**Projects**](/project-entry-guidance.md)**.**
 5. **Create or import **[**Products**](/product-entry-guidance.md)**.**
-6. **Create any desired Associations between Projects and/or Products**
+6. **Create desired Associations between Projects and/or Products**
    * Associations can be either [associated from a project ](/record/main/associating-records.md)or [associated from a product.](/product-entry-guidance/associating-records-products.md)
 7. [**Publish **](/publish.md)**your records to ScienceBase.**
 8. [**Export**](/data-management.md)** your records and contacts for backup, transfer, or sharing.**
