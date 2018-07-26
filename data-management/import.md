@@ -16,6 +16,8 @@ The Import function will allow the contents of an mdEditor or [mdJSON](https://g
 
 3. Select the records and contacts you want to import, and then click on the right hand button “**Click to Import Data**” to import the selected records. If there is more than one of the same record, use the "preview JSON" button to choose the record or contact with the more complete information.
 
+> Note: The **Replace/Merge **toggle allows you to either replace or merge the imported records with the records currently loaded in mdEditor. In most instances you should select "Merge." If you want to import the Settings associated with a record, you should set the import to “Replace” \(and set the mode back to "Merge” once you’ve finished importing the settings\).
+
 ![](/assets/import_data.png)
 
 ---
@@ -57,19 +59,7 @@ Use this method for items where no mdJSON already exists, may or may not have Sc
 
 ---
 
-## Import Action Menu
 
-While importing data, there are three options available in the Action Menu \(on the right side of the import data window\).
-
-![](/assets/import_data_action_menu.png)
-
-* **Click to Import Data**
-  * Imports selected records and contacts.
-* **Cancel Import**
-  * Cancels the current import.
-* **Replace/Merge**
-  * Replaces or merges the current record.
-    * To import Settings, you should set the import to “Replace.” Generally, it is best practice to set the mode back to “Merge,” once you’ve finished importing the settings.
 
 
 
