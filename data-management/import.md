@@ -50,7 +50,7 @@ This function should be used when you have existing ScienceBase items that have 
 Use this method for items where no mdJSON already exists, may or may not have ScienceBase Project facet.
 
 1. In Import URL field, paste: [https://api.sciencebase.gov/sbmd-service/mdjson/](https://api.sciencebase.gov/sbmd-service/mdjson/)
-   > **NOTE:** You can set default import URL to the "ScienceBase API link" in settings section and it will pre-populate this field. Please refer to the [Settings](/settings.md) section of this manual.
+   > **NOTE:** You can set default import URL to the "ScienceBase API link" in settings section and it will pre-populate this field. Refer to the [Settings](/settings.md) section.
 2. Copy and paste the **ScienceBase ID \(SBID\) **of the item that you are trying to import at the end of the URL in the import field, and click the **Import** button.
    * The SBID is the string of letters and numbers at the end of the item’s ScienceBase URL. For example,  "5a70c2d6e4b0a9a2e9dafbdf" would be the SBID for an item at the URL [https://www.sciencebase.gov/catalog/item/5a70c2d6e4b0a9a2e9dafbdf](https://www.sciencebase.gov/catalog/item/5a70c2d6e4b0a9a2e9dafbdf) 
 3. Review what was imported. Click the “preview JSON” buttons to sort between multiple entries of the same contact, and decide which version to keep. 
@@ -58,8 +58,6 @@ Use this method for items where no mdJSON already exists, may or may not have Sc
 5. Click on the right-hand button “**Click to Import Data**” to import the selected records.
 
 ---
-
-
 
 
 
