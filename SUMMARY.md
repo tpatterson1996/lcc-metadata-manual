@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Getting Started](getting-started.md)
+* [Suggested Workflow](getting-started.md)
   * [Relationships Between Contacts, Projects, Products, and Funding](concepts-detailing-the-relationship-between-contacts-projects-and-products.md)
 * [Settings](settings.md)
 * [Data Management](data-management.md)
