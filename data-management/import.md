@@ -2,7 +2,7 @@
 
 ---
 
-The Import function will allow the contents of an mdEditor or [mdJSON](https://github.com/adiwg/mdJson-schemas/blob/master/test/draft-04.json) file to be incorporated into the current metadata record. The Import functionality lets you load the most recently edited records and load records that were exported from another browser.
+The Import function allows an mdEditor or [mdJSON](https://github.com/adiwg/mdJson-schemas/blob/master/test/draft-04.json) file to be loaded into the current mdEditor session. You can also import an existing ScienceBase item into mdEditor to create mdJSON. 
 
 ---
 
