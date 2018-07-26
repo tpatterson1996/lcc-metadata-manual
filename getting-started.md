@@ -16,15 +16,15 @@ The following is a basic suggested workflow for using mdEditor to create, publis
 
 ### **Step 1. Gather information needed for your metadata entries.**
 
-Have information about your contacts, projects, and products on hand before you begin creating metadata records. Key information to gather includes project proposals, funding agreements and amounts, project reports, product information, and contact information for individuals and organizations involved in the projects. 
+Have information about your contacts, projects, and products on hand before you begin creating metadata records. Key information to gather includes project proposals, funding agreements and amounts, project reports, product information, and contact information for individuals and organizations involved in the projects.
 
 ### **Step 2. Set the correct default **[**Settings**](/settings.md).** **
 
-In mdEditor settings, you will need to set the LCC-specific settings for Metadata Repositories and Publishing.
+In mdEditor settings, set the LCC-specific settings for Importing, Metadata Repositories, and Publishing.
 
 ### **Step 3. Create or import **[**Contacts**](/contacts.md)**.**
 
-Contacts must be created or uploaded before they can be used in metadata records.
+Contacts must be created or uploaded before they can be added to project and product metadata records.
 
 ### **Step 4. Create or import **[**Projects**](/project-entry-guidance.md)**.**
 
@@ -44,13 +44,13 @@ If you have already created an mdEditor record for the product, import the mdEdi
 
 ### **Step 6. Create desired Associations between Projects and/or Products**
 
-* Associations can be either [associated from a project ](/record/main/associating-records.md)or [associated from a product.](/product-entry-guidance/associating-records-products.md)
+Associations can be either [associated from a project ](/record/main/associating-records.md)or [associated from a product.](/product-entry-guidance/associating-records-products.md)
 
 ### **Step 7. **[**Publish **](/publish.md)**your records to ScienceBase.**
 
 ### **Step 8. **[**Export**](/data-management.md)** your records and contacts for backup, transfer, or sharing.**
 
-* You may want to export working backups before publishing depending on your situation, but archival exports should be done after publishing since publishing can alter records, like adding or changing a ScienceBase ID.
+You may want to export working backups before publishing depending on your situation, but archival exports should be done after publishing since publishing can alter records, like adding or changing a ScienceBase ID.
 
 ---
 
