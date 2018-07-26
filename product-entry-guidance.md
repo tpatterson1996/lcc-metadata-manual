@@ -6,26 +6,26 @@ The Product Entry Guidance section will cover how to create a metadata record fo
 
 ---
 
-### Before You Begin
+## Before You Begin
 
-##### **Adjust your mdEditor**[** Settings**](/settings.md)**: **
+### **Adjust your mdEditor**[** Settings**](/settings.md)**: **
 
 * **Metadata Repositories**: In the Default Section of Settings, click "Add Metadata Repository." Select "LCCScienceCatalog" from the Repository drop-down menu. If you wish to also add your items to data.gov, once again click "Add Metadata Repository" and select "data.gov" from the repository drop-down menu.
 * **Parent Identifier: **In the publishing settings, enter your LCC's ScienceBase project folder's identifier in the "Default Parent Identifier" field.
 
-##### **Select the LCC Product Profile**:
+### **Select the LCC Product Profile**:
 
 * After initial creation of your product, and before you begin adding metadata, select **lccProduct **from the **Profile** drop down in the main menu. This will limit the number of available tabs and only show tabs that contain fields that are required for product creation.
 
-##### **Make sure your contacts are loaded into mdEditor:**
+### **Make sure your contacts are loaded into mdEditor:**
 
 * In mdEditor, contacts are created separately from individual records, and then stored within a library in mdEditor. Once contacts have been entered or imported into mdEditor, they can be used in metadata records.
 
 ---
 
-### Adding a New Product
+## Adding a New Product
 
-**To begin adding a Product:**
+### **To begin adding a Product:**
 
 1. Click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to **Metadata Records**
 2. Enter a **Record Title**
@@ -50,9 +50,9 @@ The Product Entry Guidance section will cover how to create a metadata record fo
 
 ---
 
-#### **Product Required Fields**
+## **Product Required Fields**
 
-**Main Tab**
+### **Main Tab**
 
 * Title 
 * Status
@@ -67,7 +67,7 @@ The Product Entry Guidance section will cover how to create a metadata record fo
 * Description 
   * Abastract
 
-**Metadata Tab**
+### **Metadata Tab**
 
 * Metadata Contacts
 * Metadata Identifier 
@@ -78,5 +78,7 @@ The Product Entry Guidance section will cover how to create a metadata record fo
   * Namespace
   * Metadata Repositories
 
-**Keywords Tab**
+### **Keywords Tab**
+
+
 

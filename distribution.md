@@ -1,4 +1,4 @@
-# Product Entry Guidance: Distribution Tab \(Optional for Products\)
+# Product Entry Guidance: Distribution Tab
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-| Quick Reference: Recommended for LCC Products |
+| Quick Reference: Required for LCC Products |
 | :--- |
 | Contacts and Role \(Required\) |
 | Transfer Options \(Optional\) |
@@ -18,7 +18,7 @@ _Click **Add Distribution Section** and then **Edit Distributors** to begin addi
 
   * ** **If anything is filled out in the distribution section, a "distributor" contact must be added.
 
-  * This section involves adding distributor information and a URL for data products that are hosted anywhere. \(e.g., if The Nature Conservancy is hosting a data source, the distributor is "The Nature Conservancy"\) 
+  * This section involves adding distributor information and a URL for data products that are hosted anywhere. \(e.g., if The Nature Conservancy is hosting a data source, the distributor is "The Nature Conservancy"\)
 
 * **Transfer Options **\(Optional\):** **provide details regarding obtaining the product. Online and offline options are available.
 

@@ -14,13 +14,13 @@ Record Metadata allows you to describe your record's metadata, including a descr
 
 ---
 
-#### **BASIC INFORMATION**
+## **Basic Information**
 
 **Metadata Status: **Select the appropriate status of the creation of your metadata from the drop-down menu._ For example, If you have added all of your metadata, select "**completed,**" if you still have metadata to add, select "**onGoing**."_
 
 ---
 
-#### **METADATA CONTACTS**
+## **Metadata Contacts**
 
 **Metadata Contacts **are required and selected from your list of contacts. Adding a metadata contact will give LCC staff a contact point should they have any questions about the metadata._ _
 
@@ -36,7 +36,7 @@ Record Metadata allows you to describe your record's metadata, including a descr
 
 ---
 
-#### METADATA IDENTIFIER
+## Metadata Identifier
 
 The **Metadata** **Identifier **is automatically populated by mdEditor. The metadata identifier gives each of your projects and products a unique ID and differentiates them from other similar projects and products.
 
@@ -45,7 +45,7 @@ The **Metadata** **Identifier **is automatically populated by mdEditor. The meta
 
 ---
 
-#### **PARENT METADATA **
+## **Parent Metadata **
 
 The **Parent Metadata **is used to define the folder on ScienceBase where the project or product will be published to. Adding parent metadata lets mdEditor know where the data should go when it is published to ScienceBase. It also lets LCC staff search for other items that may be in the same location in ScienceBase.
 
@@ -65,7 +65,7 @@ _The following fields are required for Parent Metadata creation:_
 
 ---
 
-#### **METADATA REPOSITORIES**
+## **Metadata Repositories**
 
 **Metadata Repositories **indicate where the metadata should be sent. Select the "LCCScienceCatalog" as your repository. Selecting LCCScienceCatalog insures that your item will appear in the National LCC Science Catalog.
 
@@ -77,7 +77,7 @@ _The following fields are required for Parent Metadata creation:_
 
 ![](/assets/metadata_window.png)
 
-> Consult the [**Record Metadata**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/metadata.html) ** **section of the full mdEditor manual for instructions on adding additional information into the Metadata Tab.
+> Consult the [**Record Metadata**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/metadata.html) section of the full mdEditor manual for instructions on adding additional information into the Metadata Tab.
 
 
 

@@ -1,4 +1,4 @@
-## Product Entry Guidance: Associated Tab
+# Product Entry Guidance: Associated Tab
 
 ---
 
