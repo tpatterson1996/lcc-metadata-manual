@@ -18,7 +18,6 @@
   * [Lineage Tab: Product](product-entry-guidance/lineage.md)
     * [Process Step](product-entry-guidance/lineage/process-step.md)
   * [Distribution Tab: Product](distribution.md)
-    * [Transfer Options](edit-distributors.md)
     * [Order Process](order-process.md)
   * [Constraints Tab: Product](record-constraints.md)
   * [Associating Records: Product](product-entry-guidance/associating-records-products.md)

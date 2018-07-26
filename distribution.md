@@ -14,6 +14,8 @@
 
 _Click **Add Distribution Section** and then **Edit Distributors** to begin adding distributors._
 
+## Distributor
+
 * **Contacts** and **Role \(**Required\)**: **Select a contact from your contact list and select "distributor" for the role.
 
   * ** **If anything is filled out in the distribution section, a "distributor" contact must be added.
@@ -27,6 +29,55 @@ _Click **Add Distribution Section** and then **Edit Distributors** to begin addi
 * **Order Process** \(Optional\): describes the steps necessary for ordering the product.
 
   * Consult the [**Order Process**](/order-process.md) section of this manual to learn about editing the order process.
+
+---
+
+### Transfer Options
+
+_Available fields in transfer options include:_
+
+* **Transfer Size**: Describes the size of the resource in MB.
+
+* **Distribution Units**: Used for items with unique units \(e.g. USGS quads\).
+
+* **ONLINE OPTIONS**
+
+  * **Name**: Name of your URI
+  * **URI \(**Required\): URI where your resource resides.
+  * **Protocol: **Protocol for accessing the resource online.
+  * **Description**: Description of the online resource.
+  * **Function**: Allows for the selection of a function that describes the online resource.
+
+* **OFFLINE OPTIONS**
+
+  * **Medium Title**: The title of the medium.
+  * **Storage**: Describes the storage format of the item \(i.e., the size and type of the medium.
+  * **Identifier \(**Required\): Provides a unique identity of the medium.
+  * **Namespace**: Provides a database the identifier is related to.
+  * **Version**: Provides a version of the identifier.
+  * **Description**: Describes the identifier. 
+  * **Note**: Users can also add a note with further description of the offline item
+
+* **Distribution Formats**: Allows for the description of distribution formats including Format Name, Version, Compression Method, and URL.
+
+* **Transfer Frequency**: Describes the frequency that products were transferred.
+
+![](/assets/distribution_transfer_options_window.png)
+
+---
+
+### Order Process
+
+The order process describes the steps necessary to order the product.
+
+_Available fields include:_
+
+* **Fees**: Describes fees and terms for retrieving the resource.
+* **Planned Availability**: A date when the resource will be available.
+* **Ordering Instructions**: Instructions necessary for ordering the product.
+* **Turnaround**: Expected turnaround for delivery after ordering. 
+
+![](/assets/order_process.png)
 
 ---
 
