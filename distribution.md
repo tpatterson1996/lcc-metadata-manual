@@ -2,7 +2,7 @@
 
 ---
 
-**Distribution **gives users the ability to document how or where products are obtained. Distribution methods may include online \(website, database, etc\) or offline \(Delivery via Mail, Library, etc\) options.
+**Distribution **provides documentation on how or where users can obtain products. Distribution methods may include online options \(e.g., website, database\) or offline options \(e.g., delivery via mail, library\).
 
 ---
 
