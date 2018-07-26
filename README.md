@@ -1,4 +1,4 @@
-# User Manual: mdEditor for LCCs
+# LCC Metadata Requirements and mdEditor User Manual
 
 ---
 
