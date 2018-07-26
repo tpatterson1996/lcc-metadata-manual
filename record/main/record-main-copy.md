@@ -16,7 +16,7 @@ The **Main **tab allows for the creation and/or editing of primary metadata.
 
 ---
 
-### **Basic Information**
+## **Basic Information**
 
 * **Record ID **will be auto-generated but can be edited.
 
@@ -28,7 +28,7 @@ The **Main **tab allows for the creation and/or editing of primary metadata.
 
 ---
 
-### Default Locale
+## Default Locale
 
 **Default Locale **allows for the selection of **Language**, **Character Set**, and **Country**. English, UTF-8, and USA will be selected by default, but you may change them if necessary.
 
@@ -36,7 +36,7 @@ The **Main **tab allows for the creation and/or editing of primary metadata.
 
 ---
 
-### Resource Types
+## Resource Types
 
 **Resource Types** \(**Type **and **Name**\), should be filled automatically with the information added when you created your record.
 
@@ -44,7 +44,7 @@ The **Main **tab allows for the creation and/or editing of primary metadata.
 
 ---
 
-### Point of Contact
+## Point of Contact
 
 Adding a point of contact gives users information on who to contact should they have a question regarding your project or product. From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts **drop-down menu, select a contact from the list of contacts. _To add contacts to a metadata record, you must first create/upload the contacts into mdEditor. See the _[_Contact _](/product-entry-guidance/contact-entry-guidance.md)_Section for more information._
 
@@ -60,7 +60,7 @@ Adding a point of contact gives users information on who to contact should they 
 
 ---
 
-### Citation
+## Citation
 
 **The Citation **lets users know pertinent information about your project or product such as: responsible parties, internal and ScienceBase identifiers, and any online resources that may relate to your item. Adding information in the citation will also improve users' abilities to find your items.
 
@@ -94,7 +94,7 @@ The following fields are required in citation:
 
 ---
 
-### Description
+## Description
 
 **Description **allows for the addition of the** Abstract **as well as a Short Abstract, Purpose, Supplemental Information, and an Environment Description.
 
@@ -109,7 +109,7 @@ The following fields are required in citation:
 
 ---
 
-#### **Time Period**
+## **Time Period**
 
 **Time Period** refers to project start and end date.
 
