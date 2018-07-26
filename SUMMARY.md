@@ -16,7 +16,6 @@
   * [Metadata Tab: Product](product-entry-guidance/metadata-tab-product.md)
   * [Keyword Tab: Product](product-entry-guidance/keyword-tab-product.md)
   * [Lineage Tab: Product](product-entry-guidance/lineage.md)
-    * [Process Step](product-entry-guidance/lineage/process-step.md)
   * [Distribution Tab: Product](distribution.md)
   * [Constraints Tab: Product](record-constraints.md)
   * [Associating Records: Product](product-entry-guidance/associating-records-products.md)
