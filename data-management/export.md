@@ -6,11 +6,11 @@ The export function will allow the contents of the current metadata recordset to
 
 ---
 
-### **Using Export to Backup Records**
+## **Using Export to Backup Records**
 
-Exporting records is the only way to save records in mdEditor. You should backup by creating a JSON file each time you finish a work session in mdEditor or switch browsers. 
+Exporting records is the only way to save records in mdEditor. You should backup by creating a JSON file each time you finish a work session in mdEditor or switch browsers.
 
-**BEST MANAGEMENT PRACTICES**
+### **BEST MANAGEMENT PRACTICES**
 
 * For a complete backup, use the **Export All **button. This exports an [mdEditor](https://adiwg.gitbooks.io/mdeditor/content/GLOSSARY.html#mdeditor) file containing all records and contacts.
 
@@ -18,13 +18,13 @@ Exporting records is the only way to save records in mdEditor. You should backup
 
 * It is particularly important that you export your records for backup before using mdEditor's **Clear Storage Cache **functionality \(clearing the storage cache will delete any records or data you have entered into the mdEditor\). Exporting insures that your data is secure even after clearing the storage cache. Not exporting your data before clearing your cache will result in a permanent loss of records. Consult the [Settings](/settings.md) section of this manual to learn more.
 
-**GENERAL NOTES:**
+### **GENERAL NOTES:**
 
 * mdJSON files can be uploaded and translated to other formats via the mdTranslator application while mdEditor files are exclusive to the mdEditor application and retain all mdEditor information, including settings.
 
 ---
 
-### Export Action Menu {#export-action-menu}
+## Export Action Menu
 
 While exporting data, there are four options available in the Action Menu \(on the right side of the export data window\).
 

@@ -6,7 +6,7 @@ The Import function will allow the content files from ScienceBase to be incorpor
 
 ---
 
-# Method 1:
+## Method 1:
 
 1. **Copy the ScienceBase ID \(SBID\)** from an existing ScienceBase item 
    The SBID is the string of letters/numbers at the end of the item’s ScienceBase URL 

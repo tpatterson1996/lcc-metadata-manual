@@ -20,7 +20,7 @@ The Import function will allow the contents of an mdEditor or [mdJSON file](http
 
 ---
 
-### Import Action Menu {#import-action-menu}
+## Import Action Menu
 
 While importing data, there are three options available in the Action Menu \(on the right side of the import data window\).
 

@@ -8,7 +8,7 @@ Users can publish records to an online platform. The current option is ScienceBa
 
 ### ![](/assets/publish_screenshot_overview.png)
 
-### Before You Begin
+## Before You Begin
 
 Please read through ALL instructions before you begin the publishing process. After you understand how the publishing function works, please read the[** testing instructions**](/publish/instructions-for-testing-publishing.md) and proceed with testing a record before you try to publish any of your real records.
 

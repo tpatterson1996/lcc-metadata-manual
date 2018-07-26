@@ -6,7 +6,7 @@ Contacts are individuals or organizations that can be referenced by other contac
 
 ---
 
-### General Notes on Contacts
+## General Notes on Contacts
 
 In mdEditor, contacts are created separately from individual records and then stored within a library in mdEditor. Once contacts have been entered or imported into mdEditor, they can be used in metadata records. Editing a contact in the mdEditor contact library will update the contact information included in any metadata record that uses that contact. Editing a contact in mdEditor will also update contact information on Science Base once the record is published.
 
@@ -26,9 +26,9 @@ _Please see the corresponding sections for which contacts should be added where.
 
 ---
 
-### Summary of Contact Requirements & Best Management Practices
+## Summary of Contact Requirements & Best Management Practices
 
-#### **In Main /Point of Contact**
+### **In Main /Point of Contact**
 
 * Enter your LCC as a “pointOfContact” \(required\).
 
@@ -36,7 +36,7 @@ _Please see the corresponding sections for which contacts should be added where.
 
 * Enter the project PI as “principalInvestigator” \(best management practice\).
 
-#### **In Main / Citation /Responsible Parties**
+### **In Main / Citation /Responsible Parties**
 
 * Enter your LCC as “administrator” \(required\).
 
@@ -44,7 +44,7 @@ _Please see the corresponding sections for which contacts should be added where.
 
 * Can also add funders \(including your LCC\), partners, collaborators, contributors. \(best management practice\)
 
-#### **In Metadata /Contacts**
+### **In Metadata /Contacts**
 
 * At least one contact with the role of “author” is required. Does not necessarily have to be the LCC \(e.g., imported FGDC metadata can list the original author\)
 
@@ -56,7 +56,7 @@ _Please see the corresponding sections for which contacts should be added where.
 
 * Enter a “publisher.” In most cases, it will be the LCC \(best management practice\).
 
-#### **In Funding / Allocation \(for Projects only\)**
+### **In Funding / Allocation \(for Projects only\)**
 
 * Add the relevant contact for “source” of the project funding \(required\).
 
@@ -66,13 +66,13 @@ _Please see the corresponding sections for which contacts should be added where.
 
   * Should be an organization, not an individual.
 
-#### **In Distribution \(for Products only\)**
+### **In Distribution \(for Products only\)**
 
 * Add the relevant contact for “distributor” of the product \(if you fill out anything in the Distribution section, a contact for Distributor is required\).
 
 ---
 
-### Best Practices for Contacts
+## Best Practices for Contacts
 
 * Always spell out acronyms and organization names.
 * Copying contacts will change the ID and the name \(the name will be “Copy of ….”\) but all the other information will be the same.
@@ -81,7 +81,7 @@ _Please see the corresponding sections for which contacts should be added where.
 
 ---
 
-### Importing Contacts
+## Importing Contacts
 
 When you import a ScienceBase record for the first time,  mdTranslator will automatically load all sbJSON contacts into Main/Citation/Responsible Parties. However, this MUST be reviewed to check for errors and inconsistencies introduced during translation. Delete any duplicate or extraneous contacts or errors from this section. Ensure you meet requirements, follow BMPs, and you can include other contacts as desired.
 
