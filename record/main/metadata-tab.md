@@ -18,13 +18,15 @@ Record Metadata allows you to describe your record's metadata, including a descr
 
 **Metadata Status: **Select the appropriate status of the creation of your metadata from the drop down menu._ For example, If you have added all of your metadata, select "**completed,**" if you still have metadata to add, select "**onGoing**."_
 
+**Dates**: Add at least one date. Recommended are "creation" \(when you first create your metadata\) and "lastUpdate" \(when you update metadata after initial publication\).
+
 ---
 
 #### **METADATA CONTACTS**
 
 **Metadata Contacts **are required and selected from your list of contacts. Adding a metadata contact will give users a contact point should they have any questions about the metadata._ _
 
-* **REQUIRED:** At least one contact with the role of “author” is required. Does not necessarily have to be the LCC \(e.g., imported FGDC metadata can list the original author\)
+* **REQUIRED:** At least one contact with the role of “author” is required. Does not necessarily have to be the LCC \(e.g., imported FGDC metadata can list the original author\).
 
   * "Author" can be an individual or an organization.
 
@@ -73,7 +75,7 @@ _The following fields are required for Parent Metadata creation:_
 
 > **BEST MANAGEMENT PRACTICE:** In[ settings](/settings.md), create default repositories to maintain exact titles.
 >
-> Note: The metadata Repository and Collection Title must be exactly the same for each record with no variations in spelling, spaces, capitalization, etc. Specifying the information in Settings is the best way to ensure the repository information will be consistent across records. It highly recommended that you do not type these in by hand on individual metadata records.
+> Note: The Metadata Repository and Collection Title must be exactly the same for each record with no variations in spelling, spaces, capitalization, etc. Specifying the information in Settings is the best way to ensure the repository information will be consistent across records. It highly recommended that you do not type these in by hand on individual metadata records.
 
 ---
 
