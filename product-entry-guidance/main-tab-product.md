@@ -58,6 +58,8 @@ Adding a point of contact gives LCC staff information on who to contact should t
 
 * **BEST MANAGEMENT PRACTICE**: Enter the Project PI as "principalInvestigator."
 
+> NOTE: For products that will be sent to data.gov, ensure that the LCC Network Data Steward is listed as the first point of contact \(\#0\). Data.gov only displays the first point of contact and we want the default contact to be the network data steward.
+
 ![](/assets/point_of_contacts.png)
 
 ---

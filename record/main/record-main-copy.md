@@ -56,6 +56,8 @@ Adding a point of contact gives users information on who to contact should they 
 
 * **BEST MANAGEMENT PRACTICE**: Enter the Project PI as "principalInvestigator."
 
+>
+
 ![](/assets/point_of_contacts.png)
 
 ---
