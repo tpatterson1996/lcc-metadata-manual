@@ -24,7 +24,7 @@ The Import function will allow the contents of an mdEditor or [mdJSON file](http
 
 This function should be used when you have existing ScienceBase items that have not yet been edited in mdEditor. Importing from ScienceBase will allow you to use the existing metadata and and not start from scratch in mdEditor.
 
-### Method 1:
+### ScienceBase Import Method 1:
 
 1. **Copy the ScienceBase ID \(SBID\)** from an existing ScienceBase item 
    The SBID is the string of letters/numbers at the end of the item’s ScienceBase URL 
@@ -39,18 +39,18 @@ This function should be used when you have existing ScienceBase items that have 
 
 5. Review what was imported. Click the “preview JSON” buttons to sort between multiple entries of the same contact, and decide which version to keep.
 
-6. Select the Records and Contacts you want to Import
+6. Select the Records and Contacts you want to Import.
 
-7. Click on the right-hand button “**Click to Import Data**” to import the selected records
+7. Click on the right-hand button “**Click to Import Data**” to import the selected records.
 
-### Method 2
+### ScienceBase Import Method 2
 
 Use this method for items where no mdJSON already exists, may or may not have ScienceBase Project facet.
 
-1. In Import URL field, paste: [https://api.sciencebase.gov/sbmd-service/mdjson/](https://api.sciencebase.gov/sbmd-service/mdjson/).
+1. In Import URL field, paste: [https://api.sciencebase.gov/sbmd-service/mdjson/](https://api.sciencebase.gov/sbmd-service/mdjson/)
    > **NOTE:** You can set default import URL to the "ScienceBase API link" in settings section and it will pre-populate this field. Please refer to the [Settings](/settings.md) section of this manual.
 2. Copy and paste the **ScienceBase ID \(SBID\) **of the item that you are trying to import at the end of the URL in the import field, and click the **Import** button.
-   * The SBID is the string of letters/numbers at the end of the item’s ScienceBase URL. For Example,  "5947e765e4b062508e34424" would be the SBID for an item at the URL [https://www.sciencebase.gov/catalog/item/\*\*5947e765e4b062508e34424a\*\*](https://www.sciencebase.gov/catalog/item/**5947e765e4b062508e34424a**%29%29\)
+   * The SBID is the string of letters/= and numbers at the end of the item’s ScienceBase URL. For Example,  "5a70c2d6e4b0a9a2e9dafbdf" would be the SBID for an item at the URL https://www.sciencebase.gov/catalog/item/5a70c2d6e4b0a9a2e9dafbdf 
 3. Review what was imported. Click the “preview JSON” buttons to sort between multiple entries of the same contact, and decide which version to keep. 
 4. Select the Records and Contacts you want to Import.
 5. Click on the right-hand button “**Click to Import Data**” to import the selected records.
