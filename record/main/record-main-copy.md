@@ -16,7 +16,7 @@ The **Main **tab allows for the creation and/or editing of primary metadata.
 
 ---
 
-### **BASIC INFORMATION**
+### **Basic Information**
 
 * **Record ID **will be auto-generated but can be edited.
 
@@ -28,7 +28,7 @@ The **Main **tab allows for the creation and/or editing of primary metadata.
 
 ---
 
-### DEFAULT LOCALE
+### Default Locale
 
 **Default Locale **allows for the selection of **Language**, **Character Set**, and **Country**. English, UTF-8, and USA will be selected by default, but you may change them if necessary.
 
@@ -36,7 +36,7 @@ The **Main **tab allows for the creation and/or editing of primary metadata.
 
 ---
 
-### RESOURCE TYPES
+### Resource Types
 
 **Resource Types** \(**Type **and **Name**\), should be filled automatically with the information added when you created your record.
 
@@ -44,7 +44,7 @@ The **Main **tab allows for the creation and/or editing of primary metadata.
 
 ---
 
-### POINT OF CONTACT\(S\)
+### Point of Contact
 
 Adding a point of contact gives users information on who to contact should they have a question regarding your project or product. From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts **drop-down menu, select a contact from the list of contacts. _To add contacts to a metadata record, you must first create/upload the contacts into mdEditor. See the _[_Contact _](/product-entry-guidance/contact-entry-guidance.md)_Section for more information._
 
@@ -56,13 +56,11 @@ Adding a point of contact gives users information on who to contact should they 
 
 * **BEST MANAGEMENT PRACTICE**: Enter the Project PI as "principalInvestigator."
 
->
-
 ![](/assets/point_of_contacts.png)
 
 ---
 
-### CITATION
+### Citation
 
 **The Citation **lets users know pertinent information about your project or product such as: responsible parties, internal and ScienceBase identifiers, and any online resources that may relate to your item. Adding information in the citation will also improve users' abilities to find your items.
 
@@ -96,7 +94,7 @@ The following fields are required in citation:
 
 ---
 
-### DESCRIPTION
+### Description
 
 **Description **allows for the addition of the** Abstract **as well as a Short Abstract, Purpose, Supplemental Information, and an Environment Description.
 
@@ -111,11 +109,13 @@ The following fields are required in citation:
 
 ---
 
-#### **TIME PERIOD**
+#### **Time Period**
 
 **Time Period** refers to project start and end date.
 
 * **REQUIRED: **For each project, add a Start Date and End Date. If the project spanned a single fiscal year, you can select the relevant year from the Fiscal Year dropdown. Selecting a Fiscal Year will automatically update the Start and End Dates.
+
+> Note: this set of dates is distinct from the fiscal year of funding. Here you want to indicate the overall project start and end dates. In the Funding section you will specify the fiscal years that funds were allocated.
 
 ![](/assets/time_period.png)
 
