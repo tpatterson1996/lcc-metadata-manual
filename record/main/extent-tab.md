@@ -12,7 +12,7 @@ Clicking the **Edit Extent Features **button allows for the addition of **Featur
 
 It is possible to export bound features and re-use for other records using the **import feature **button or by dragging and dropping onto the map \(i.e. set up standard geographies\). Features such as geoJSON, shapefiles, and kml can be imported. However, file attributes \(such as name and description\), will not be imported.
 
-### **General Notes & Best Practices**
+## **General Notes & Best Practices**
 
 ![](/assets/best_practice_small.png)![](/assets/note_small.png)
 

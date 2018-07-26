@@ -1,8 +1,8 @@
-## Getting Started
+# Getting Started
 
 ---
 
-### Opening mdEditor
+## Opening mdEditor
 
 mdEditor is currently hosted on the GitHub website and can be opened by following this URL: [**https://www.mdeditor.org/**](https://www.mdeditor.org/)
 
@@ -10,7 +10,7 @@ Currently, when you open mdEditor, you will see an _Update Alert_ that the appli
 
 ---
 
-### Suggested Workflow for Using mdEditor
+## Suggested Workflow for Using mdEditor
 
 1. **Gather information needed for your metadata entries.**
    * Have information about your contacts, projects, and products on hand before you begin creating metadata records. 

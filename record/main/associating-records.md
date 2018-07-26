@@ -1,4 +1,4 @@
-## Project Entry Guidance: Associated Tab
+# Project Entry Guidance: Associated Tab
 
 ---
 

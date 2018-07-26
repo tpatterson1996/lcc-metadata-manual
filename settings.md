@@ -6,20 +6,22 @@ The settings menu allows for the configuring of user-specific options. Settings 
 
 ---
 
-### LCC Specific Settings
+## LCC Specific Settings
 
 _These must be implemented before you begin creating metadata records. Adding these in settings ensures that your items are added to the correct repository and published correctly._
 
-* **Metadata Repositories**: In the Default Section, add two metadata repositories.  
+* **Metadata Repositories**: In the Default Section, add two metadata repositories.
+
   * Select **LCCScienceCatalog **from the Repository drop-down menu. Enter “LCC Network Science Catalog” as the collection title.
   * Select **data.gov** from the Repository drop-down menu. For the collection title, enter "data.gov" followed by the LCC name without acronyms. For example "data.gov Great Northern Landscape Conservation Cooperative".
 
   > Note: The metadata repository information must be exactly the same for each record with no variations in spelling, spaces, capitalization, etc. Specifying the information in Settings is the best way to ensure the repository information will be consistent across records. It highly recommended that you do not type these in by hand on individual metadata records.
+
 * **Parent Identifier: **In the publishing settings, enter your LCC's ScienceBase project folder's identifier in the "Default Parent Identifier" field.
 
 ---
 
-### General Settings
+## General Settings
 
 * **mdEditor Version:** The mdEditor version notes the current version of mdEditor. Use this when reporting errors. Errors can be reported at [https://github.com/adiwg/mdEditor/issues](https://github.com/adiwg/mdEditor/issues). You must have a github account in order to post.
 * **Auto-Save**: The Auto-Save option will write all changes to local storage when you exit a data entry field. Changes must be manually saved if the Auto-Save feature is turned off.
@@ -32,7 +34,7 @@ _These must be implemented before you begin creating metadata records. Adding th
 
 ---
 
-### Defaults
+## Defaults
 
 **Defaults **include settings for **Language**, **Character Set**, **Country**, and the **Import URL **\(used for defining the default URL for importing\). To set the default import URL for importing items from ScienceBase, enter [https://api.sciencebase.gov/sbmd-service/mdjson/](https://api.sciencebase.gov/sbmd-service/mdjson/).
 
@@ -48,7 +50,7 @@ Also included in **Defaults** are the **Metadata Repositories **\(a server where
 
 ---
 
-### Publishing Settings
+## Publishing Settings
 
 Items can be published to an online repository such as ScienceBase.
 
