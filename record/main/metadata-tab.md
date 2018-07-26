@@ -69,7 +69,7 @@ _The following fields are required for Parent Metadata creation:_
 
 **Metadata Repositories **indicate where the metadata should be sent.
 
-* For **Projects **that should be listed in the LCC Science Catalog: Select_ “LCCScienceCatalog” _from the repository list._ _“LCC Network Science Catalog” should automatically show up as the collection title if you have entered the default metadata repository information in [settings](/settings.md). Items without this tag and collection title will not be displayed in the Science Catalog.
+* For **Projects **that should be listed in the LCC Science Catalog: Select _“LCCScienceCatalog”_ from the repository list. _“LCC Network Science Catalog”_ should automatically show up as the collection title if you have entered the default metadata repository information in [settings](/settings.md). Items without this tag and collection title will not be displayed in the Science Catalog.
 
 > **BEST MANAGEMENT PRACTICE:** In[ settings](/settings.md), create default repositories to maintain exact titles.
 >
