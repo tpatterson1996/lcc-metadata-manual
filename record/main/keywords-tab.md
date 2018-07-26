@@ -12,7 +12,7 @@ Adding keywords to your metadata record allows for the record to be found later 
 
 ---
 
-## **To add Keywords to your Metadata Record**
+## A**dd Keywords to your Metadata Record**
 
 1. Click “+ Add Thesaurus” on the right to add the different thesauruses.
 2. Add keywords from the following pre-populated thesauruses.
@@ -34,9 +34,9 @@ A custom thesaurus can contain any keywords you would like to add to your record
 
 ## **General Notes And Best Practices for Keywords**
 
-**NOTES: **Keywords edited in mdEditor will overwrite keywords in ScienceBase.
+**NOTE: **Keywords edited in mdEditor will overwrite keywords in ScienceBase.
 
-**BEST MANAGEMENT PRACTICE: **Look for useful keywords in the GCMD Science Keywords. GCMD Science keywords would be the only ones applicable to LCCs. There are GCMD Platforms and Instruments but they are  unlikely to apply to LCCs.
+**BEST MANAGEMENT PRACTICE: **Look for useful keywords in the GCMD Science Keywords. There are GCMD Platforms and Instruments Keywords but they are unlikely to apply to LCCs.
 
 ---
 

@@ -4,7 +4,6 @@
 * [Workflow](getting-started.md)
 * [Settings](settings.md)
 * [Data Management](data-management.md)
-  * [File Management](data-management/file-management.md)
   * [Import](data-management/import.md)
   * [Export](data-management/export.md)
   * [Copy Records](data-management/copy-records.md)

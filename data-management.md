@@ -10,7 +10,7 @@ mdEditor stores information on your local computer in your browser's[ localStora
 
 ---
 
-## mdEditor Files
+## mdEditor File Format
 
 The underlying format of the metadata from mdEditor is mdJSON, which was created specifically for mdEditor.  There are two types of mdJSON files.
 
@@ -19,9 +19,11 @@ The underlying format of the metadata from mdEditor is mdJSON, which was created
 
 mdJSON files can be exported and imported via mdEditor's built-in [**Export** ](/data-management/export.md)and [**Import**](/data-management/import.md)** **functionality. The Export functionality allows you to back up and share your records between browsers. The Import functionality lets you load records into mdEditor, either from previously-saved mdEditor session, exported from another browser, or downloaded from ScienceBase.
 
-### mdEditor File Management Strategies:
+---
 
-#### **Work on a project-by-project basis.**
+## mdEditor File Management Strategies
+
+### **Work on a project-by-project basis.**
 
 In order to keep file size manageable, it is recommended that you work on one project \(and its related products and contacts\) at a time. You should group said project, products, and contacts together using the same scheme that your LCC uses to organize data.
 
@@ -29,17 +31,17 @@ In order to keep file size manageable, it is recommended that you work on one pr
 
 2. Save the resulting mdEditor JSON file to your hard drive in a working folder. There should be a separate mdEditor JSON file for each project and all of its products.
 
-#### **Leave information in mdEditor between work sessions**
+### **Leave information in mdEditor between work sessions.**
 
 It is recommended that you leave your contacts in mdEditor between work sessions so that they will be available the next time you need to create metadata records. You can also export your contacts independently of your records for use between browsers.
 
 You can also set up a metadata directory so you can always find the metadata file. This directory can be any folder on your local computer that is easily accessible and will not be deleted.
 
-#### **Export your contacts with your records**
+### **Export your contacts with your records.**
 
 When exporting products or projects, you should also export your entire contact list. If you do not export your contact list, and you later import a record that contains a contact not loaded in mdEditor, you may receive an error and have to re-create and re-enter the contact for that record.
 
-### Export frequently to backup your records
+### Export frequently to backup your records.
 
 Maintain an “Export All” JSON file each time you finish a work session in mdEditor \(or switch browsers, URLs, etc.\). This is the only way to backup your records. For more information, consult [Export](/data-management/export.md).
 

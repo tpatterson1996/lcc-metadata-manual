@@ -18,7 +18,7 @@ Record Metadata allows you to describe your record's metadata, including a descr
 
 **Metadata Status: **Select the appropriate status of the creation of your metadata from the drop down menu._ For example, If you have added all of your metadata, select "completed," if you still have metadata to add, select "onGoing."_
 
-**Dates**: Add at least one date. Recommended are "creation" \(when you first create your metadata\) and "lastUpdate" \(when you update metadata after initial publication\).
+**Dates**: Add at least one date. Recommended are "creation" \(when you first created your metadata\) and "lastUpdate" \(when you updated metadata after initial publication\).
 
 ---
 
@@ -30,7 +30,7 @@ Record Metadata allows you to describe your record's metadata, including a descr
 
   * "Author" can be an individual or an organization.
 
-  * You can enter your LCC data manager as the “author”. If you prefer, you can use a generic data manager contact rather than an individual name. 
+  * You can enter your LCC data manager as the “author”. If you prefer, you can use a generic data manager contact rather than an individual name.
 
 * **REQUIRED: **Enter the LCC Network Data Steward as a “pointOfContact.”
 
@@ -49,13 +49,13 @@ The **Metadata** **Identifier **is automatically populated by mdEditor. The meta
 
 ## **Parent Metadata **
 
-The **Parent Metadata **is used to define the folder on ScienceBase where the project or product will be published to. Adding parent metadata lets mdEditor know where the metadata should go when it is published to ScienceBase. 
+The **Parent Metadata **defines the folder on ScienceBase where the project or product will be published to. Adding parent metadata lets mdEditor know where the metadata should go when it is published to ScienceBase.
 
 > **NOTE:** The Parent Metadata Identifier** **can be added in **mdEditor** **Settings**, or in the **Parent** **Metadata **section of the **Metadata **tab, or both. Adding the identifier to Settings ensures that every item in mdEditor is published to ScienceBase, and it helps to maintain a precise identifier. However, if the identifier is only added in settings, the Parent Metadata Identifier is not written into the mdEditor records. If the records are then shared from ScienceBase, they will not include the ScienceBase Parent Folder Identifier. If the Parent Metadata Identifier is added in the Parent Metadata section of the Metadata tab, the Identifier will be added to the record, ensuring that shared records will note where the ScienceBase parent folder resides.
 
 _The following fields are required for Parent Metadata creation:_
 
-* **Title \(**Required\)
+* **Title **\(Required\)
 
 * **Identifier Section **\(Required\) Lets you define the location of the parent folder \(the folder where the item will be uploaded to\) in the database repository.
 
@@ -63,7 +63,7 @@ _The following fields are required for Parent Metadata creation:_
 
     > For Example **59b97600e4b091459a54d9f3c ** is the SBID for a parent item at the URL: _"_[https://www.sciencebase.gov/catalog/item/59b97600e4b091459a54d9f3c](https://www.sciencebase.gov/catalog/item/59b97600e4b091459a54d9f3c)_"_
 
-  * **Namespace: **\(Required\) The Namespace specifies your selected database. Select **scienceBase **from the Namespace.
+  * **Namespace**:** **\(Required\) The Namespace specifies your selected database. Select **scienceBase **from the Namespace.
 
 ---
 

@@ -2,7 +2,7 @@
 
 ---
 
-The Import function allows an mdEditor or [mdJSON](https://github.com/adiwg/mdJson-schemas/blob/master/test/draft-04.json) file to be loaded into the current mdEditor session. You can also import an existing ScienceBase item into mdEditor to create mdJSON. 
+The Import function allows an mdEditor or [mdJSON](https://github.com/adiwg/mdJson-schemas/blob/master/test/draft-04.json) file to be loaded into the current mdEditor session. You can also import a ScienceBase item into mdEditor to create mdJSON.
 
 ---
 

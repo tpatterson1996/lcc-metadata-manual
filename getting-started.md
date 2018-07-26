@@ -2,9 +2,9 @@
 
 ---
 
-## Suggested Workflow for LCC Metadata and Using mdEditor
+## Suggested Workflow for LCC Metadata and mdEditor
 
-The following is a basic suggested workflow for using mdEditor to create, publish, and save metadata records for LCC projects and products.
+The following is a suggested workflow for using mdEditor to create, publish, and save metadata records for LCC projects and products.
 
 ### **Step 1. Gather information needed for your metadata entries.**
 
@@ -12,9 +12,9 @@ Have information about your contacts, projects, and products on hand before you 
 
 ### Step 2. Open mdEditor.
 
-The direct link to mdEditor is https://go.mdeditor.org. Choose the browser you plan to use for mdEditor and bookmark this link.   
+The direct link to mdEditor is [https://go.mdeditor.org](https://go.mdeditor.org). Choose the browser you plan to use for mdEditor and bookmark this link.
 
-mdEditor can also be accessed from its homepage [**https://www.mdeditor.org/**](https://www.mdeditor.org/). This site provides some background information and Frequently Asked Questions about mdEditor.
+mdEditor can also be accessed from its homepage [https://www.mdeditor.org/](https://www.mdeditor.org/). This site provides some background information and Frequently Asked Questions about mdEditor.
 
 ### **Step 3. Set the correct default **[**Settings**](/settings.md).** **
 

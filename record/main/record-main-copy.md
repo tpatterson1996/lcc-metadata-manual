@@ -44,7 +44,7 @@ The **Main **tab allows for the creation and/or editing of primary metadata.
 
 ---
 
-## Point of Contact
+## Point of Contacts
 
 Adding a point of contact gives users information on who to contact should they have a question regarding your project or product. From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts **drop-down menu, select a contact from the list of contacts. _To add contacts to a metadata record, you must first create/upload the contacts into mdEditor. See the _[_Contact _](/product-entry-guidance/contact-entry-guidance.md)_Section for more information._
 
