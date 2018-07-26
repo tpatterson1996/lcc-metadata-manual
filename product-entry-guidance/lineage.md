@@ -6,11 +6,11 @@
 
 ---
 
-* **Statement \(**Required\): Notes actions taken to verify, transform, repair, and integrate the resource.
-* **Process Step**: \(Optional\): Consult the [**Process Step**](/product-entry-guidance/lineage/process-step.md) section of this manual to learn how to add information about the creation of your project.
-* **Sources \(**Optional\): Use the Sources field to indicate what you used to create the product and then write a statement. _This can be done instead of completing all other fields in this tab. _
-* **Citation \(**Optional\): If you have a citation for a manual, enter it here. _This can be done instead of completing all other fields in this tab. _
-* **Scope \(**Optional\): Select type from the picklist. 
+* **Statement **\(Required\): Notes actions taken to verify, transform, repair, and integrate the resource.
+* **Process Step** \(Optional\): Consult the [**Process Step**](/product-entry-guidance/lineage/process-step.md) section of this manual to learn how to add information about the creation of your project.
+* **Sources** \(Optional\): Use the Sources field to indicate what you used to create the product and then write a statement. _This can be done instead of completing all other fields in this tab. _
+* **Citation** \(Optional\): If you have a citation for a manual, enter it here. _This can be done instead of completing all other fields in this tab. _
+* **Scope** \(Optional\): Select type from the picklist. 
 
 ![](/assets/lineage_window.png)
 
@@ -22,7 +22,7 @@
 
 _The following are available and required:_
 
-* **Step ID: **\(Auto filled depending on the number of Process Steps added\).
+* **Step ID**: \(Auto filled depending on the number of Process Steps added\).
 * **Description**: Add a description of the process step.
 
 _The following fields are available but optional:_
@@ -32,8 +32,8 @@ _The following fields are available but optional:_
 * **Processors**: Processors of the process step.
   * Select or enter a role from the **Role** drop-down and select a contact** **from the **Contacts **drop down.
   * Consult the [**Contacts**](/contacts.md)** **section of this manual to learn about adding contacts.
-* **Step Reference: **Add a citation noting your step process references.
-* **Time Period: **Add a time period noting the **Start Date,** **End Date**,** **and **Fiscal Year**.
+* **Step Reference**: Add a citation noting your step process references.
+* **Time Period**: Add a time period noting the **Start Date,** **End Date**,** **and **Fiscal Year**.
 
   * **ID**: Add a unique identifier for the time period.
 
