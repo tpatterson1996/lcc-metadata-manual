@@ -1,10 +1,10 @@
-# Workflow 
+# Workflow
 
 ---
 
-## Suggested Workflow for Using mdEditor
+## Suggested Workflow for LCC Metadata and Using mdEditor
 
-The following is a basic suggested workflow for using mdEditor to create, publish, and save metadata records.
+The following is a basic suggested workflow for using mdEditor to create, publish, and save metadata records for LCC projects and products.
 
 ### **Step 1. Gather information needed for your metadata entries.**
 
@@ -12,9 +12,9 @@ Have information about your contacts, projects, and products on hand before you 
 
 ### Step 2. Open mdEditor.
 
-mdEditor is currently hosted on the GitHub website and can be opened by following this URL: [**https://www.mdeditor.org/**](https://www.mdeditor.org/)
+The direct link to mdEditor is https://go.mdeditor.org. Choose the browser you plan to use for mdEditor and bookmark this link.   
 
-Currently, when you open mdEditor, you will see an _Update Alert_ that the application is in beta testing. This is normal and will remain as such until the production version is ready.
+mdEditor can also be accessed from its homepage [**https://www.mdeditor.org/**](https://www.mdeditor.org/). This site provides some background information and Frequently Asked Questions about mdEditor.
 
 ### **Step 3. Set the correct default **[**Settings**](/settings.md).** **
 
@@ -28,7 +28,7 @@ Contacts must be created or uploaded before they can be added to project and pro
 
 If you have an existing ScienceBase project record that has not been edited in mdEditor, import the ScienceBase record to create a new mdEditor record.
 
-If you have no existing metadata, create an mdEditor project record from scratch.
+If you have no existing metadata for a project, create an mdEditor project record from scratch.
 
 If you have already created an mdEditor record for the project, import the mdEditor file to continue editing.
 
@@ -36,23 +36,27 @@ If you have already created an mdEditor record for the project, import the mdEdi
 
 If you have an existing ScienceBase product record that has not been edited in mdEditor, import the ScienceBase record to create a new mdEditor record.
 
-If you have no existing metadata, create an mdEditor product record from scratch.
+If you have no existing metadata for a product, create an mdEditor product record from scratch.
 
 If you have already created an mdEditor record for the product, import the mdEditor file to continue editing.
 
-### **Step 7. Create desired Associations between Projects and/or Products.**
+### **Step 7. Complete metadata.**
+
+Decide on your desired file management approach and complete your metadata accordingly. See the [File Management](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/data-management/file-management.html "File Management") section for options and instructions.
+
+### Step 8. **Create desired Associations between Projects and/or Products.**
 
 Associations can be either [associated from a project ](/record/main/associating-records.md)or [associated from a product.](/product-entry-guidance/associating-records-products.md)
 
-### **Step 8. **[**Publish **](/publish.md)**your records to ScienceBase.**
+### **Step 9. **[**Publish **](/publish.md)**your records to ScienceBase.**
 
-### **Step 9. **[**Export**](/data-management.md)** your records and contacts for backup, transfer, or sharing.**
+### **Step 10. **[**Export**](/data-management.md)** your records and contacts for backup, transfer, or sharing.**
 
 You may want to export working backups before publishing depending on your situation, but archival exports should be done after publishing since publishing can alter records, like adding or changing a ScienceBase ID.
 
-### Step 10. Review the resulting entries in the [LCC Science Catalog](https://lccnetwork.org/catalog).
+### Step 11. Review the resulting entries in the [LCC Science Catalog](https://lccnetwork.org/catalog).
 
-The Science Catalog updates overnight so you should review newly-published records the day after you publish to ScienceBase. This will be one of your best quality control 
+The Science Catalog updates overnight so you should review newly-published records the day after you publish to ScienceBase. This will be one of your best quality control
 
 ---
 
