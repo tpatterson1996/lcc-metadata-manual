@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Workflow](getting-started.md)
-  * [Relationships Between Contacts, Projects, Products, and Funding](concepts-detailing-the-relationship-between-contacts-projects-and-products.md)
 * [Settings](settings.md)
 * [Data Management](data-management.md)
   * [File Management](data-management/file-management.md)
