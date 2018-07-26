@@ -2,7 +2,7 @@
 
 ---
 
-The Import function will allow the contents of an mdEditor or [mdJSON file](https://github.com/adiwg/mdJson-schemas/blob/master/test/draft-04.json)  file to be incorporated into the current metadata record. The Import functionality lets you load the most recently edited records and load records that were exported from another browser.
+The Import function will allow the contents of an mdEditor or [mdJSON](https://github.com/adiwg/mdJson-schemas/blob/master/test/draft-04.json) file to be incorporated into the current metadata record. The Import functionality lets you load the most recently edited records and load records that were exported from another browser.
 
 ---
 
@@ -28,7 +28,7 @@ This function should be used when you have existing ScienceBase items that have 
 
 1. **Copy the ScienceBase ID \(SBID\)** from an existing ScienceBase item 
    The SBID is the string of letters/numbers at the end of the item’s ScienceBase URL 
-   * For Example,  "5947e765e4b062508e34424" would be the SBID for an item at the URL [https://www.sciencebase.gov/catalog/item/\*\*5947e765e4b062508e34424a\*\*](https://www.sciencebase.gov/catalog/item/**5947e765e4b062508e34424a**%29%29\)
+   * For Example,  "5947e765e4b062508e34424" would be the SBID for an item at the URL [https://www.sciencebase.gov/catalog/item/5947e765e4b062508e34424a](https://www.sciencebase.gov/catalog/item/5947e765e4b062508e34424a\)
 2. Go to the ScienceBase API address: [https://api.sciencebase.gov/sbmd-service/mdjson/,](https://api.sciencebase.gov/sbmd-service/mdjson/) add the SBID to end of this link, and hit enter. You should see mdJSON text as below.  If not, press enter to search again.
 
    ## ![](/assets/raw_text_screenshot.png)
