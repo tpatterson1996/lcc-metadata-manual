@@ -26,6 +26,8 @@ _Click **Add Distribution Section** and then **Edit Distributors** to begin addi
 
 * **Order Process** \(Optional\)
 
+![](/assets/editing_distributors_for_distribution_window.png)
+
 ---
 
 ### Transfer Options
@@ -79,5 +81,5 @@ _Available fields include:_
 
 ---
 
-![](/assets/editing_distributors_for_distribution_window.png)
+
 
