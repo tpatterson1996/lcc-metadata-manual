@@ -2,7 +2,7 @@
 
 ---
 
-LCC metadata is published to ScienceBase in your LCC community's project folder. You must have a ScienceBase user account with write access to this folder. Once the mdJSON metadata is published in ScienceBase, the records will be synced w the LCC Science Catalog. 
+LCC metadata is published to ScienceBase in your LCC community's project folder. You must have a ScienceBase user account with write access to this folder. Once the mdJSON metadata is published in ScienceBase, the records will be synced w the LCC Science Catalog.
 
 ---
 
@@ -22,7 +22,7 @@ The following describes the process of publishing from mdEditor:
 2. The mdJSON file is transmitted via a web service to mdTranslator.
 3. mdTranslator translates the mdJSON file into sbJSON and XML.
 4. ScienceBase imports the sbJSON and attaches the XML and mdJSON files to the ScienceBase item.
-5. The record is sent to data.doi.gov and the LCC Science Catalog if the requisite metadata repositories were specified.. 
+5. The record is sent to data.doi.gov and the LCC Science Catalog if the requisite metadata repositories were specified. 
 
 _The following diagram describes the overall science catalog system architecture._
 
