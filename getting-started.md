@@ -16,7 +16,7 @@ The following is a basic suggested workflow for using mdEditor to create, publis
 
 ### **Step 1. Gather information needed for your metadata entries.**
 
-Have information about your contacts, projects, and products on hand before you begin creating metadata records. 
+Have information about your contacts, projects, and products on hand before you begin creating metadata records. Key information to gather includes project proposals, funding agreements and amounts, project reports, product information, and contact information for individuals and organizations involved in the projects. 
 
 ### **Step 2. Set the correct default **[**Settings**](/settings.md).** **
 
@@ -24,7 +24,7 @@ In mdEditor settings, you will need to set the LCC-specific settings for Metadat
 
 ### **Step 3. Create or import **[**Contacts**](/contacts.md)**.**
 
-Contacts must be created or uploaded before they can be used in metadata records. 
+Contacts must be created or uploaded before they can be used in metadata records.
 
 ### **Step 4. Create or import **[**Projects**](/project-entry-guidance.md)**.**
 
