@@ -31,4 +31,4 @@
   * [How to Publish](publish/how-to-publish.md)
 * [Help](help.md)
 * [Glossary of Terms](GLOSSARY.md)
-
+* [Documentation Guide](appendices/documentation-guide.md)
