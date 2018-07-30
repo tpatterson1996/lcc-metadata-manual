@@ -15,7 +15,7 @@ _These must be implemented before you begin creating metadata records._
 1. Select **LCCScienceCatalog **from the Repository drop-down menu. Enter “LCC Network Science Catalog” as the collection title.
 2. Select **data.gov** from the Repository drop-down menu. For the collection title, enter "data.gov" followed by the LCC name without acronyms. For example "data.gov Great Northern Landscape Conservation Cooperative".
 
-{% hint style='danger' %}
+{% hint style='info' %}
 The metadata repository information must be exactly the same for each record with no variations in spelling, spaces, capitalization, etc. Specifying the information in Settings is the best way to ensure the repository information will be consistent across records. It highly recommended that you do not type these in by hand on individual metadata records.
 {% endhint %}
 
@@ -29,11 +29,15 @@ The metadata repository information must be exactly the same for each record wit
 
 **Auto-Save**: The Auto-Save option will write all changes to local storage when you exit a data entry field. Changes must be manually saved if the Auto-Save feature is turned off.
 
-> **NOTE:** Auto-Save allows the user to save less frequently, but it makes it harder to undo changes that you make to your records. If you stay on the same record, you can cancel changes. But once you leave the record, the record is saved and you can’t cancel the change except by manually re-editing the record.
+{% hint style='info' %}
+Auto-Save allows the user to save less frequently, but it makes it harder to undo changes that you make to your records. If you stay on the same record, you can cancel changes. But once you leave the record, the record is saved and you can’t cancel the change except by manually re-editing the record.
+{% endhint %}
 
 **Clear All Records: **All records can be cleared by clicking the "Clear Storage Cache."
 
-> ![](/assets/caution.png)** **_**CAUTION! Clearing all records will delete the all record currently loaded in mdEditor.**_** If you wish to retain your records for future use, be sure to make a backup with the **[**export**](/export.md)** function before clearing the cache.  **
+{% hint style='info' %}
+Clearing all records will delete the all record currently loaded in mdEditor.**_** If you wish to retain your records for future use, be sure to make a backup with the **[**export**](/export.md)** function before clearing the cache.
+{% endhint %}
 
 ---
 
