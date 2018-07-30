@@ -15,7 +15,9 @@ _These must be implemented before you begin creating metadata records._
 1. Select **LCCScienceCatalog **from the Repository drop-down menu. Enter “LCC Network Science Catalog” as the collection title.
 2. Select **data.gov** from the Repository drop-down menu. For the collection title, enter "data.gov" followed by the LCC name without acronyms. For example "data.gov Great Northern Landscape Conservation Cooperative".
 
-> Note: The metadata repository information must be exactly the same for each record with no variations in spelling, spaces, capitalization, etc. Specifying the information in Settings is the best way to ensure the repository information will be consistent across records. It highly recommended that you do not type these in by hand on individual metadata records.
+{% hint style='danger' %}
+The metadata repository information must be exactly the same for each record with no variations in spelling, spaces, capitalization, etc. Specifying the information in Settings is the best way to ensure the repository information will be consistent across records. It highly recommended that you do not type these in by hand on individual metadata records.
+{% endhint %}
 
 **Parent Identifier**: Under publishing, enter the ScienceBase identifier for your LCC's ScienceBase project folder in the "Default Parent Identifier" field.
 
