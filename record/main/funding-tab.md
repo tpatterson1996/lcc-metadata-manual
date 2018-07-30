@@ -13,9 +13,9 @@ Tracking funding in the metadata allows for identification of funding sources, c
 
 ## Funding **Allocations**
 
-Allocations describe where project funding came from, where and when it was distributed, and amounts. Science Catalog users can search by specific fiscal year, funders, or recipients. 
+Allocations describe where project funding came from, where and when it was distributed, and amounts. Science Catalog users can search by specific fiscal year, funders, or recipients.
 
-A funding allocation represents a single fiscal year, source, and recipient. 
+A funding allocation represents a single fiscal year, source, and recipient.
 
 > Info: If you have two recipients in a single fiscal year, they need to be added as separate funding allocations.
 
@@ -41,13 +41,15 @@ Add the relevant contact for the “recipient” of the project funding. Recipie
 
 #### **Matching and In-kind Funds**
 
-Project funds or in-kind support that were supplied by a partner \(i.e., not specifically allocated to an LCC\) should be included as an allocation with the matching fund box checked. Each matching fund provider needs to be included as a separate allocation. 
+Project funds or in-kind support that were supplied by a partner \(i.e., not specifically allocated to an LCC\) should be included as an allocation with the matching fund box checked. Each matching fund provider needs to be included as a separate allocation.
 
 ![](/assets/Allocationg_Screenshot.png)
 
 ---
 
 ## Time Period
+
+### Dates \(Required\)
 
 For each allocation, enter the fiscal year that funds were awarded \(not the time span of the entire project\). There should be a single fiscal year for each allocation. Adding a time period lets users know when your items were funded, and lets them find your item when searching for items funded in a similar time period.
 
