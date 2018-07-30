@@ -120,7 +120,7 @@ The following fields are required in citation:
 
 ![](/assets/time_period.png)
 
-> Consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the full mdEditor manual for instructions on adding additional information into the Main Tab.
+> For more information, consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the mdEditor manual.
 
 
 

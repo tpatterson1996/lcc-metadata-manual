@@ -35,7 +35,7 @@ Auto-Save allows the user to save less frequently, but it makes it harder to und
 
 **Clear All Records: **All records can be cleared by clicking the "Clear Storage Cache."
 
-{% hint style='info' %}
+{% hint style='danger' %}
 Clearing all records will delete the all record currently loaded in mdEditor.**_** If you wish to retain your records for future use, be sure to make a backup with the **[**export**](/export.md)** function before clearing the cache.
 {% endhint %}
 

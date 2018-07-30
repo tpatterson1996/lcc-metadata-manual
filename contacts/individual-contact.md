@@ -37,7 +37,7 @@ _The LCC Network Data Steward is required as a "PointOfContact" in the Point of 
 
 ![](/assets/individual_contact_window.png)
 
-> Consult the [**Individual Contact**](https://adiwg.gitbooks.io/mdeditor/content/contact/new/individual.html)** **section of the full mdEditor manual for information on Individual Contacts.
+> For more information, consult the [**Individual Contact**](https://adiwg.gitbooks.io/mdeditor/content/contact/new/individual.html)** **section of the mdEditor manual.
 
 
 
