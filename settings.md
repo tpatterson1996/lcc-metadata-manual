@@ -16,7 +16,7 @@ _These must be implemented before you begin creating metadata records._
 2. Select **data.gov** from the Repository drop-down menu. For the collection title, enter "data.gov" followed by the LCC name without acronyms. For example "data.gov Great Northern Landscape Conservation Cooperative".
 
 {% hint style='info' %}
-The metadata repository information must be exactly the same for each record with no variations in spelling, spaces, capitalization, etc. Specifying the information in Settings is the best way to ensure the repository information will be consistent across records. It highly recommended that you do not type these in by hand on individual metadata records.
+The Metadata Repository and Collection Title must be exactly the same for each of your LCC's records with no variations in spelling, spaces, capitalization, etc. Specifying this information in Settings is the best way to ensure the repository information will be consistent across all of your records. It highly recommended that you do not type these in by hand on individual metadata records.
 {% endhint %}
 
 **Parent Identifier**: Under publishing, enter the ScienceBase identifier for your LCC's ScienceBase project folder in the "Default Parent Identifier" field.

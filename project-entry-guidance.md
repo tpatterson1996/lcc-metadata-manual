@@ -18,7 +18,7 @@ The Project Entry Guidance section will cover how to create a metadata record fo
 
 After initial creation of your project, and before you begin adding metadata, select **lccProject **from the **Profile** drop-down in the main menu. This will limit the number of available tabs and only show tabs that contain fields that are applicable to LCC project metadata.
 
-### **Make sure your contacts are loaded into mdEditor:+**
+### **Make sure your contacts are loaded into mdEditor:**
 
 In mdEditor, contacts are created separately from individual records and then stored within a library in mdEditor. Once contacts have been entered or imported into mdEditor, they can be used in metadata records.
 
@@ -80,10 +80,11 @@ In mdEditor, contacts are created separately from individual records and then st
 * Parent Metadata
   * Title 
 * Identifier
- * Identifier
+
+  * Identifier
   * Namespace
 
-* Metadata Repositories 
+* Metadata Repositories
 
 ### **Keywords Tab**
 
