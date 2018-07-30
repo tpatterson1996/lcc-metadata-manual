@@ -2,7 +2,7 @@
 
 ---
 
-Tracking funding in the metadata allows for identification of funding sources, comparison, and aggregation across all LCCs. 
+Tracking funding in the metadata allows for identification of funding sources, comparison, and aggregation across all LCCs.
 
 | **Quick Reference: Required Sections** |
 | :--- |
@@ -29,7 +29,7 @@ Tracking funding in the metadata allows for identification of funding sources, c
 
 **Time Period**: For each allocation, enter the fiscal year that funds were awarded \(not the time span of the entire project\). There should be a single fiscal year for each allocation. Adding a time period lets users know when your items were funded, and lets them find your item when searching for items funded in a similar time period.
 
-> **NOTE: **If you put in a start and end date, mdEditor will calculate fiscal year based on the end date. Fiscal Year can be selected independently from start and end date.
+> Info**: **If you put in a start and end date, mdEditor will calculate fiscal year based on the end date. Fiscal Year can be selected independently from start and end date.
 
 ![](/assets/Time_Period.png)
 

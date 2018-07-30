@@ -7,6 +7,7 @@ Adding keywords to your metadata record allows for the record to be found later 
 | Quick Reference: Required Thesauruses for LCC Projects |
 | :--- |
 | ISO Topic Category \(Required\) |
+| LCC Project Category \(Required\) |
 | LCC Deliverable Types \(Required\) |
 | LCC End User Types \(Required\) |
 
