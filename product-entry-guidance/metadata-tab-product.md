@@ -71,13 +71,13 @@ _The following fields are required for Parent Metadata creation:_
 
 * For **Products **that should be listed in the LCC Science Catalog: Select_ “LCCScienceCatalog” from the picklist as repository and “LCC Network Science Catalog_” as collection title \(these should be entered in your [settings](/settings.md) as default repositories. Additionally, adding the record in the Metadata Repositories section of the Metadata tab insures that the repository is written to your record.
 
-> **BEST MANAGEMENT PRACTICE:** In[ settings](/settings.md), create default repositories to help maintain precise titles
+> Info: The Metadata Repository and Collection Title must be exactly the same for each of your LCC's records with no variations in spelling, spaces, capitalization, etc. Specifying this information in Settings is the best way to ensure the repository information will be consistent across all of your records. It highly recommended that you do not type these in by hand on individual metadata records.
 
 ---
 
 ![](/assets/metadata_window.png)
 
-> Consult the [**Record Metadata**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/metadata.html) section of the full mdEditor manual for instructions on adding additional information into the Metadata Tab.
+> For more information, consult the [**Record Metadata**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/metadata.html) section of the mdEditor manual.
 
 
 

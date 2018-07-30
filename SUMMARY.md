@@ -1,7 +1,12 @@
 # Summary
 
 * [Introduction](README.md)
+  * [LCC Science Catalog Architecture](lcc-science-catalog-architecture.md)
 * [Workflow](getting-started.md)
+  * [From Scratch](getting-started/from-scratch.md)
+  * ScienceBase First
+  * PTS
+  * [Editing / Re-Publishing](getting-started/editing-re-publishing.md)
 * [Settings](settings.md)
 * [Data Management](data-management.md)
   * [Import](data-management/import.md)
@@ -12,6 +17,7 @@
   * [Metadata Tab: Project](record/main/metadata-tab.md)
   * [Keywords Tab: Project](record/main/keywords-tab.md)
   * [Extent Tab: Project](record/main/extent-tab.md)
+  * [Documents Tab: Project](record/main/documents-tab-projects.md)
   * [Funding Tab: Project](record/main/funding-tab.md)
   * [Associating Records: Project](record/main/associating-records.md)
 * [Product Entry Guidance](product-entry-guidance.md)
@@ -22,6 +28,8 @@
   * [Distribution Tab: Product](distribution.md)
   * [Constraints Tab: Product](record-constraints.md)
   * [Associating Records: Product](product-entry-guidance/associating-records-products.md)
+  * [Dictionaries Tab: Product](product-entry-guidance/dictionaries-tab-product.md)
+  * [Documents Tab: Product](product-entry-guidance/documents-tab-products.md)
 * [Contact Entry Guidance ](contacts.md)
   * [Individual Contacts](contacts/individual-contact.md)
   * [Organization Contacts](contacts/organization-contacts.md)
@@ -29,6 +37,8 @@
   * [Requirements for Publishing](publish/requirements-for-publishing.md)
   * [Instructions for Testing Publishing](publish/instructions-for-testing-publishing.md)
   * [How to Publish](publish/how-to-publish.md)
+  * [Re-Publishing](publish/re-publishing.md)
 * [Help](help.md)
 * [Glossary of Terms](GLOSSARY.md)
 * [Documentation Guide](appendices/documentation-guide.md)
+
