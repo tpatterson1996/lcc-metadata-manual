@@ -12,6 +12,7 @@
   * [Metadata Tab: Project](record/main/metadata-tab.md)
   * [Keywords Tab: Project](record/main/keywords-tab.md)
   * [Extent Tab: Project](record/main/extent-tab.md)
+  * [Documents Tab: Project](record/main/documents-tab-projects.md)
   * [Funding Tab: Project](record/main/funding-tab.md)
   * [Associating Records: Project](record/main/associating-records.md)
 * [Product Entry Guidance](product-entry-guidance.md)
@@ -22,6 +23,8 @@
   * [Distribution Tab: Product](distribution.md)
   * [Constraints Tab: Product](record-constraints.md)
   * [Associating Records: Product](product-entry-guidance/associating-records-products.md)
+  * [Dictionaries Tab: Product](product-entry-guidance/dictionaries-tab-product.md)
+  * [Documents Tab: Product](product-entry-guidance/documents-tab-products.md)
 * [Contact Entry Guidance ](contacts.md)
   * [Individual Contacts](contacts/individual-contact.md)
   * [Organization Contacts](contacts/organization-contacts.md)
@@ -32,3 +35,4 @@
 * [Help](help.md)
 * [Glossary of Terms](GLOSSARY.md)
 * [Documentation Guide](appendices/documentation-guide.md)
+
