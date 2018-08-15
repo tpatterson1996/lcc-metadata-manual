@@ -3,6 +3,10 @@
 * [Introduction](README.md)
   * [LCC Science Catalog Architecture](lcc-science-catalog-architecture.md)
 * [Workflow](getting-started.md)
+  * From Scratch
+  * ScienceBase First
+  * PTS
+  * Editing / Re-Publishing
 * [Settings](settings.md)
 * [Data Management](data-management.md)
   * [Import](data-management/import.md)

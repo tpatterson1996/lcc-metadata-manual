@@ -6,6 +6,8 @@ The **Associated** section is used to connect metadata records with each other. 
 
 > Info:  In ScienceBase, **Associated Records **are referred to as **Item Associations. **
 
+
+
 > Info or Tip: Project-product associations are different than parent-child relationships on ScienceBase.
 
 ---
