@@ -12,7 +12,7 @@ _The following fields are available for **Organization Contacts:**_
 
 * **Organization Name \(**Required\): The organization's full name, avoid acronyms
 * **Email Address **\(Required\)**:** Add an email address of the primary contact in the organization. 
-* **Online Resource** \(Required\): Add a web URL where your organization resides. Online resource may also include social networks.
+* **Online Resource** \(Required\): Add a web URL where the organization resides. Online resource may also include social networks.
 * **Physical Address **\(Best Management Practice\): Enter a physical address
 * **Logo** \(Optional\):
 
@@ -20,7 +20,7 @@ _The following fields are available for **Organization Contacts:**_
 
   * If an organization has a logo associated with it, individuals will inherit the logos from the organization.
 
-  * If your contact contains a logo, you must include a filename for the logo or else you will get an error on metadata records that include that contact.
+> Warning: If you upload a logo to your contact record, you must include a filename for the logo. Otherwise you will get an error on the metadata records that include that contact.
 
 _All other fields are optional but recommended._
 

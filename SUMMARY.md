@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+  * [LCC Science Catalog Architecture](lcc-science-catalog-architecture.md)
 * [Workflow](getting-started.md)
 * [Settings](settings.md)
 * [Data Management](data-management.md)
@@ -32,6 +33,7 @@
   * [Requirements for Publishing](publish/requirements-for-publishing.md)
   * [Instructions for Testing Publishing](publish/instructions-for-testing-publishing.md)
   * [How to Publish](publish/how-to-publish.md)
+  * [Re-Publishing](publish/re-publishing.md)
 * [Help](help.md)
 * [Glossary of Terms](GLOSSARY.md)
 * [Documentation Guide](appendices/documentation-guide.md)

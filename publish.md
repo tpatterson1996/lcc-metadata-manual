@@ -2,7 +2,7 @@
 
 ---
 
-LCC metadata is published to ScienceBase in your LCC community's project folder. You must have a ScienceBase user account with write access to this folder. Once the mdJSON metadata is published in ScienceBase, the records will be synced w the LCC Science Catalog.
+LCC metadata is published to ScienceBase in your LCC community's project folder. You must have a ScienceBase user account with write access to this folder. Once the mdJSON metadata is published in ScienceBase, the records will be synced with the LCC Science Catalog.
 
 ---
 

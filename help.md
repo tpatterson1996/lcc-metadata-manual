@@ -18,5 +18,3 @@ If you encounter bugs or errors when using mdEditor, please report them at the [
 
 
 
-
-

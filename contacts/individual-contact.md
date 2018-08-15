@@ -10,16 +10,17 @@
 
 _The following fields are available for** Individual Contacts:**_
 
-* **Individual name \(**Required\): Enter individuals full name
-* **Position name** \(Required\): Enter individuals full title, avoid acronyms
+* **Individual name \(**Required\): Enter individual's full name
+* **Position name** \(Required\): Enter individual's full title, avoid acronyms
 * **Contact Type **\(Required\): Enter the contact type from the picklist
-* **Member Organization **\(Required\): Select organization\(s\), you can make an individual part of multiple organizations.
+* **Member Organization **\(Required\): Select organization\(s\); you can make an individual part of multiple organizations.
 * **Email Address **\(Required\): Enter individual's email
 * **Physical Address **\(Best Management Practice\): Enter a physical address
 * **Logo **\(Optional\): 
   * You can either select or drop an image. If you choose to load an image, mdEditor will create a URI and will have a size limit for the logo. If you have a larger image, link to it rather than loading it into mdEditor. 
-  * If an organization has a logo associated with it, individuals will inherit the logos from the organization 
-  * If your contact contains a logo, you must include a filename for the logo or else you will get an error on metadata records that include that contact.
+  * If an organization has a logo associated with it, individuals will inherit the logos from the organization. 
+
+> Warning: If you upload a logo to your contact record, you must include a filename for the logo. Otherwise you will get an error on the metadata records that include that contact.
 
 _All other fields are optional but recommended._
 
