@@ -2,6 +2,8 @@
 
 ---
 
+
+
 ## Suggested Workflow for LCC Metadata and mdEditor
 
 The following is a suggested workflow for using mdEditor to create, publish, and save metadata records for LCC projects and products.

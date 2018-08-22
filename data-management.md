@@ -4,9 +4,9 @@
 
 ## How mdEditor Stores Information
 
-mdEditor stores information on your local computer in your browser's[ localStorage](https://en.wikipedia.org/wiki/Web_storage) cache \(not the normal file cache\). This means that if you use a different browser to access mdEditor, it will not show the metadata records from your original browser. It also means that clearing your browser's cache generally will not delete your mdEditor records. However, depending on your browser settings, clearing your browser cache may still delete your mdEditor data \(e.g., in Chrome, checking the "c_ookies and other site data_" option will clear your mdEditor data\).
+mdEditor stores information on your local computer in your browser's[ localStorage](https://en.wikipedia.org/wiki/Web_storage) cache \(not the normal file cache\). This means that if you use a different browser to access mdEditor, it will not show the metadata records from your original browser. It also means that clearing your browser's cache generally will not delete your mdEditor records. However, depending on your browser's settings, clearing your browser cache may still delete your mdEditor data \(e.g., in Chrome, checking the "c_ookies and other site data_" option will clear your mdEditor data\).
 
-> **NOTE: **In mdEditor settings, you can clear your storage cache. Doing so will remove all of the information currently loaded in mdEditor. Reasons you might want to clear your storage cache is due to too much information stored in the cache, or as a way to debug a problem with mdEditor. **It is very important that you back up your records before clearing the mdEditor cache to avoid losing your data. **Consult the [Export](/export.md) or Settings section of this manual to learn more.
+> DANGER**: **In mdEditor settings, you can clear your storage cache. Doing so will remove all of the information currently loaded in mdEditor. Reasons you might want to clear your storage cache is due to too much information stored in the cache, or as a way to debug a problem with mdEditor. **It is very important that you back up your records before clearing the mdEditor cache to avoid losing your data. **Consult the [Export](/export.md) or Settings section of this manual to learn more.
 
 ---
 
@@ -14,8 +14,8 @@ mdEditor stores information on your local computer in your browser's[ localStora
 
 The underlying format of the metadata from mdEditor is mdJSON, which was created specifically for mdEditor.  There are two types of mdJSON files.
 
-1. mdJSON files are the format that is published from mdEditor and made available on ScienceBase and data.gov. Their default file name is _md\_metadata.json_.
-2. mdEditor.json files are the files used by mdEditor. They contain extra information, such as settings, that tell mdEditor how to operate. Their default file name is _mdeditor-timestamp.json_. 
+1. mdJSON files are the format that is published from mdEditor and made available on ScienceBase and data.gov. Their default file name is _**md\_metadata.json**_.
+2. mdEditor.json files are the files used by mdEditor. They contain extra information, such as settings, that tell mdEditor how to operate. Their default file name is _**mdeditor-timestamp.json**_. 
 
 mdJSON files can be exported and imported via mdEditor's built-in [**Export** ](/data-management/export.md)and [**Import**](/data-management/import.md)** **functionality. The Export functionality allows you to back up and share your records between browsers. The Import functionality lets you load records into mdEditor, either from previously-saved mdEditor session, exported from another browser, or downloaded from ScienceBase.
 

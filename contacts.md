@@ -26,7 +26,7 @@ _Please see the corresponding sections for which contacts should be added where.
 
 ---
 
-## Summary of Contact Requirements & Best Management Practices
+## Summary of Contact Requirements & Best Practices
 
 ### **In Main /Point of Contact**
 
@@ -34,19 +34,19 @@ _Please see the corresponding sections for which contacts should be added where.
 
 * Enter the LCC Network Data Steward as a “pointOfContact” \(required\).
 
-* Enter the project PI as “principalInvestigator” \(best management practice\).
+* Enter the project PI as “principalInvestigator” \(best practice\).
 
 ### **In Main / Citation /Responsible Parties**
 
 * Enter your LCC as “administrator” \(required\).
 
-* Enter the project PI as “principalInvestigator” \(best management practice\).
+* Enter the project PI as “principalInvestigator” \(best practice\).
 
-* Can also add funders \(including your LCC\), partners, collaborators, contributors. \(best management practice\)
+* Can also add funders \(including your LCC\), partners, collaborators, contributors \(best practice\).
 
-### **In Metadata /Contacts**
+### **In Metadata / Contacts**
 
-* At least one contact with the role of “author” is required. Does not necessarily have to be the LCC \(e.g., imported FGDC metadata can list the original author\)
+* At least one contact with the role of “author” is required. Does not necessarily have to be the LCC \(e.g., imported FGDC metadata can list the original author\).
 
   * Can be an individual or an organization.
 
