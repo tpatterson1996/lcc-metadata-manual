@@ -4,8 +4,6 @@
   * [LCC Science Catalog Architecture](lcc-science-catalog-architecture.md)
 * [Workflow](getting-started.md)
   * [From Scratch](getting-started/from-scratch.md)
-  * ScienceBase First
-  * PTS
   * [Editing / Re-Publishing](getting-started/editing-re-publishing.md)
 * [Settings](settings.md)
 * [Data Management](data-management.md)
@@ -41,4 +39,3 @@
 * [Help](help.md)
 * [Glossary of Terms](GLOSSARY.md)
 * [Documentation Guide](appendices/documentation-guide.md)
-
