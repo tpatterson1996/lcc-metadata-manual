@@ -18,7 +18,7 @@
 
 Identify concerns over how people should or should not use the product.
 
-> **BEST MANAGEMENT PRACTICE**: If your product is licensed, let people know here. Typically files used will be public domain, but not always.
+{% hint style='info' %} If your product is licensed, let people know here. Typically files used will be public domain, but not always.{% endhint %}
 
 ![](/assets/use_limitation.png)
 
@@ -27,7 +27,9 @@ Identify concerns over how people should or should not use the product.
 ## **Legal**
 
 * **Access Constraints: **Access constraints are applied to assure the protection of privacy or intellectual property and any special restrictions or limitations on obtaining the resource.
-* **Use constraint**s: How the product should be used.
+
+* **Use constraints**: How the product should be used.
+
 * **Other constraints:** This is a place to put standard disclaimers.
 
 ![](/assets/legal.png)
@@ -38,7 +40,7 @@ Identify concerns over how people should or should not use the product.
 
 ** **A place to describe constraints or restrictions pertaining to security of the resource.  Choose classification from the drop-down menu.
 
-> **Note:** Classification** **is the class of security \(e.g., top secret, public access\).
+{% hint style='info' %} Classification is the class of security \(e.g., top secret, public access\).{% endhint %}
 
 ![](/assets/security.png)
 

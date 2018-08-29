@@ -9,7 +9,7 @@
 | Quick Reference: Required for LCC Products |
 | :--- |
 | Contacts and Role \(Required\) |
-| Transfer Options \(Optional\) |
+| Transfer Options \(Required\) |
 | Order Process \(Optional\) |
 
 _Click **Add Distribution Section** and then **Edit Distributors** to begin adding distributors._
@@ -36,48 +36,22 @@ Transfer Options provide details regarding obtaining the product. Online and off
 
 _Available fields in transfer options include:_
 
-* **Transfer Size**: Describes the size of the resource in MB.
-
-* **Distribution Units**: Used for items with unique units \(e.g. USGS quads\).
+* **Transfer Size**: Describes the size of the resource in megabytes (MB).
 
 * **ONLINE OPTIONS**
 
   * **Name**: Name of your URI
   * **URI \(**Required\): URI where your resource resides.
-  * **Protocol: **Protocol for accessing the resource online.
-  * **Description**: Description of the online resource.
-  * **Function**: Allows for the selection of a function that describes the online resource.
+
+    {% hint style='info' %}An online link is required for any products sent to data.gov.{% endhint %}
 
 * **OFFLINE OPTIONS**
 
-  * **Medium Title**: The title of the medium.
-  * **Storage**: Describes the storage format of the item \(i.e., the size and type of the medium.
-  * **Identifier \(**Required\): Provides a unique identity of the medium.
-  * **Namespace**: Provides a database the identifier is related to.
-  * **Version**: Provides a version of the identifier.
-  * **Description**: Describes the identifier. 
-  * **Note**: Users can also add a note with further description of the offline item
+  * If your product is only available offline, you can describe how users can obtain your product.
 
-* **Distribution Formats**: Allows for the description of distribution formats including Format Name, Version, Compression Method, and URL.
 
-* **Transfer Frequency**: Describes the frequency that products were transferred.
 
 ![](/assets/distribution_transfer_options_window.png)
-
----
-
-### Order Process
-
-The order process describes the steps necessary to order the product.
-
-_Available fields include:_
-
-* **Fees**: Describes fees and terms for retrieving the resource.
-* **Planned Availability**: A date when the resource will be available.
-* **Ordering Instructions**: Instructions necessary for ordering the product.
-* **Turnaround**: Expected turnaround for delivery after ordering. 
-
-![](/assets/order_process.png)
 
 ---
 

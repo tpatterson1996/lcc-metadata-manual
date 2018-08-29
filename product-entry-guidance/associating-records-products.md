@@ -4,9 +4,9 @@
 
 The **Associated** section is used to connect metadata records with each other. This feature should be used when items are related, for example, products are often the result of projects, and projects often have sub-projects. Projects and Products can be linked together by using association. Adding associations will give LCC staff the ability to find items that relate to each other in ScienceBase.
 
-> **NOTE:**  In ScienceBase **Associated Records **are referred to as **Item Associations. **
->
-> ---
+{% hint style='info' %} In ScienceBase, **Associated Records **are referred to as **Item Associations**.{% endhint %}
+
+---
 
 ## Create Associations
 
@@ -22,15 +22,15 @@ There are two ways to create associations. You can either associate a product wi
 
 ### Step-by-Step: Creating an Association in Projects
 
-* **Step 1: **Select "**project"** from the **Association Type **drop-down menu. This field will describe the relationship between the product and its parent project.
+**Step 1: **Select "**project"** from the **Association Type **drop-down menu. This field will describe the relationship between the product and its parent project.
 
 ![](/assets/product_association_lcc.png)
 
-* **Step 2: **Click the "**Select a Record" **button to select an associated project.
+**Step 2: **Click the "**Select a Record" **button to select an associated project.
 
 ![](/assets/select_a_record_button.png)
 
-* **Step 3: **Choose the project that you would like to associate to from the **Select a Resource **list.
+**Step 3: **Choose the project that you would like to associate to from the **Select a Resource **list.
 
 ![](/assets/select_a_resource_product_window.png)
 

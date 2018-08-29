@@ -14,7 +14,7 @@ Exporting records is the only way to save records in mdEditor. You should backup
 
 mdJSON files can be uploaded and translated to other formats via the mdTranslator application while mdEditor files are exclusive to the mdEditor application and retain all mdEditor information, including settings.
 
-### **BEST MANAGEMENT PRACTICES**
+### **Best Practices**
 
 * For a complete backup, use the **Export All **button. This exports an [mdEditor](https://adiwg.gitbooks.io/mdeditor/content/GLOSSARY.html#mdeditor) file containing all records and contacts.
 
@@ -38,9 +38,10 @@ While exporting data, there are four options available in the Action Menu \(on t
 
 * Clicking the **Include Settings** switch will also export mdEditor settings. Consult the [Settings](/settings.md) section of this manual to learn about settings.
 
-> **NOTE: **If you need to switch browsers for [mdEditor](https://adiwg.gitbooks.io/mdeditor/content/GLOSSARY.html#mdeditor), or want to send your settings to someone else, you can export the settings. Someone else can then re-import your settings which include the default Metadata Repositories and Publishing Settings.  This will give users that you share with information on your items' folder location on ScienceBase and let users know what your default repository is. Consult the [Settings](/settings.md) section of this manual to learn about settings.
->
-> ---
+{% hint style='info' %} If you need to switch browsers for [mdEditor](https://adiwg.gitbooks.io/mdeditor/content/GLOSSARY.html#mdeditor), or want to send your settings to someone else, you can export the settings. Someone else can then re-import your settings which include the default Metadata Repositories and Publishing Settings.  This will give users that you share with information on your items' folder location on ScienceBase and let users know what your default repository is. Consult the [Settings](/settings.md) section of this manual to learn about settings.
+{% endhint %}
+
+---
 
 
 

@@ -10,7 +10,9 @@ The Product Entry Guidance section will cover how to create a metadata record fo
 
 ### **Adjust your mdEditor**[** Settings**](/settings.md)**: **
 
-**Metadata Repositories**: In the Default Section of Settings, click "Add Metadata Repository." Select "LCCScienceCatalog" from the Repository drop-down menu. If you wish to also add your items to data.gov, once again click "Add Metadata Repository" and select "data.gov" from the repository drop-down menu.
+**Metadata Repositories**: Make sure your default settings are correct for the LCC Science Catalog and data.gov. See [Settings](/settings.md). 
+
+
 
 **Parent Identifier: **In the publishing settings, enter your LCC's ScienceBase project folder's identifier in the "Default Parent Identifier" field.
 
@@ -24,16 +26,16 @@ In mdEditor, contacts are created separately from individual records, and then s
 
 ---
 
-## Create a New Product
+## Edit a Product
 
-### **To create a new Product:**
 
-1. Click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to **Metadata Records**
-2. Enter a **Record Title**
-3. Pick "product" as the **Resource Type**
-4. Click **Save**
-5. Select the LCC Product Profile: from the Main Menu \(Top Navigation Bar\) select "**lccProduct" **from the profile drop-down menu. 
-6. Fill out metadata information for the following tabs
+1. Import or create your product record (see [workflow](/getting-started.md)).
+
+2. Choose the specific **Resource Type** that describes your product. Do not choose the generic "product."
+
+3. Select the LCC Product Profile: from the Main Menu \(Top Navigation Bar\) select "**lccProduct" **from the profile drop-down menu. 
+
+4. Fill out metadata information for the following tabs:
 
    * [Main Tab: Product](/product-entry-guidance/main-tab-product.md)
 
@@ -46,6 +48,8 @@ In mdEditor, contacts are created separately from individual records, and then s
    * [Distribution Tab: Product](/distribution.md)
 
    * [Constraints Tab: Product](/record-constraints.md)
+   
+   * [Dictionaries Tab: Product](/product-entry-guidance/dictionaries-tab-product.md)
 
 7. If applicable, [associate ](/product-entry-guidance/associating-records-products.md)your products with other metadata records.
 
@@ -64,9 +68,11 @@ In mdEditor, contacts are created separately from individual records, and then s
   * Identifier 
   * Online Resource URI
   * Responsible Parties
-    * Point of Contact
 * Description 
   * Abstract
+* Time Period
+  * Start Date
+  * End Date
 
 ### **Metadata Tab**
 
@@ -78,8 +84,18 @@ In mdEditor, contacts are created separately from individual records, and then s
     * Identifier
     * Namespace
 * Metadata Repositories
+* Online Resource
 
 ### **Keywords Tab**
+* ISO Topic Category 
+* LCC End User Types
+* GCMD Keywords (Recommended)
 
 ### **Distribution Tab**
+* Distributor
+  * Contact
+  * Role
+  * Online Option
+   * URI
+  
 
