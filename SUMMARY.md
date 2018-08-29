@@ -41,5 +41,3 @@
   * [Re-Publishing](publish/re-publishing.md)
 * [Help](help.md)
 * [Glossary of Terms](GLOSSARY.md)
-* Multi-LCC and Co-funded Projects
-
