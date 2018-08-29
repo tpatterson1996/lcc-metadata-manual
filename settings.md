@@ -6,6 +6,24 @@ The settings menu allows for the configuring of user-specific options. Settings 
 
 ---
 
+## General Settings
+
+**mdEditor Version:** The mdEditor version notes the current version of mdEditor. Use this when reporting errors. Errors can be reported at [https://github.com/adiwg/mdEditor/issues](https://github.com/adiwg/mdEditor/issues). You must have a github account in order to post.
+
+**Auto-Save**: The Auto-Save option will write all changes to local storage when you exit a data entry field. Changes must be manually saved if the Auto-Save feature is turned off.
+
+{% hint style='info' %}
+Auto-Save allows you to save less frequently, but it makes it harder to undo changes that you make to your records. If you stay on the same record, you can cancel changes. But once you leave the record, the record is saved and you can’t cancel the change except by manually re-editing the record.
+{% endhint %}
+
+**Clear All Records: **All records can be cleared by clicking the "Clear Storage Cache."
+
+{% hint style='danger' %}
+**Warning**: Clearing all records will delete all of the records currently loaded in mdEditor. Before doing so, use the Export function to make a backup of your records. Otherwise, the records will be permanently lost (unless you previously made a backup copy).
+{% endhint %}
+
+---
+
 ## LCC Specific Settings
 
 _These must be implemented before you begin creating metadata records._
@@ -21,23 +39,7 @@ The metadata repository information must be exactly the same for each record wit
 
 **Parent Identifier**: Under publishing, enter the ScienceBase identifier for your LCC's ScienceBase project folder in the "Default Parent Identifier" field.
 
----
 
-## General Settings
-
-**mdEditor Version:** The mdEditor version notes the current version of mdEditor. Use this when reporting errors. Errors can be reported at [https://github.com/adiwg/mdEditor/issues](https://github.com/adiwg/mdEditor/issues). You must have a github account in order to post.
-
-**Auto-Save**: The Auto-Save option will write all changes to local storage when you exit a data entry field. Changes must be manually saved if the Auto-Save feature is turned off.
-
-{% hint style='info' %}
-Auto-Save allows you to save less frequently, but it makes it harder to undo changes that you make to your records. If you stay on the same record, you can cancel changes. But once you leave the record, the record is saved and you can’t cancel the change except by manually re-editing the record.
-{% endhint %}
-
-**Clear All Records: **All records can be cleared by clicking the "Clear Storage Cache."
-
-{% hint style='danger' %}
-Clearing all records will delete all of the records currently loaded in mdEditor. Before doing so, use the Export function to make a backup of your records. Otherwise, the records will be permanently lost (unless you previously made a backup copy).
-{% endhint %}
 
 ---
 

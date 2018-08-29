@@ -4,7 +4,9 @@
   * [LCC Science Catalog Architecture](lcc-science-catalog-architecture.md)
 * [Workflow](getting-started.md)
   * [From Scratch](getting-started/from-scratch.md)
+  * [ScienceBase First](getting-started/sciencebase-first.md)
   * [Editing / Re-Publishing](getting-started/editing-re-publishing.md)
+  * [PTS Considerations](getting-started/pts.md)
 * [Settings](settings.md)
 * [Data Management](data-management.md)
   * [Import](data-management/import.md)
@@ -28,6 +30,7 @@
   * [Associating Records: Product](product-entry-guidance/associating-records-products.md)
   * [Dictionaries Tab: Product](product-entry-guidance/dictionaries-tab-product.md)
   * [Documents Tab: Product](product-entry-guidance/documents-tab-products.md)
+* [Multi-LCC and Co-funded Projects](multi-lcc-and-co-funded-projects.md)
 * [Contact Entry Guidance ](contacts.md)
   * [Individual Contacts](contacts/individual-contact.md)
   * [Organization Contacts](contacts/organization-contacts.md)
@@ -38,4 +41,5 @@
   * [Re-Publishing](publish/re-publishing.md)
 * [Help](help.md)
 * [Glossary of Terms](GLOSSARY.md)
-* [Documentation Guide](appendices/documentation-guide.md)
+* Multi-LCC and Co-funded Projects
+
