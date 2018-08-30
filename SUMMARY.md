@@ -1,14 +1,14 @@
 # Summary
 
 * [Introduction](README.md)
-  * [LCC Science Catalog Architecture](lcc-science-catalog-architecture.md)
+  * [LCC Science Catalog](lcc-science-catalog.md)
 * [Workflow](getting-started.md)
   * [From Scratch](getting-started/from-scratch.md)
   * [ScienceBase First](getting-started/sciencebase-first.md)
   * [Editing / Re-Publishing](getting-started/editing-re-publishing.md)
   * [PTS Considerations](getting-started/pts.md)
 * [Settings](settings.md)
-* [Data Management](data-management.md)
+* [File Management](data-management.md)
   * [Import](data-management/import.md)
   * [Export](data-management/export.md)
   * [Copy Records](data-management/copy-records.md)
@@ -41,3 +41,4 @@
   * [Re-Publishing](publish/re-publishing.md)
 * [Help](help.md)
 * [Glossary of Terms](GLOSSARY.md)
+
