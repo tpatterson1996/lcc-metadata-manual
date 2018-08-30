@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
   * [LCC Science Catalog](lcc-science-catalog.md)
+  * [Background](goals-and-objectives.md)
 * [Workflow](getting-started.md)
   * [From Scratch](getting-started/from-scratch.md)
   * [ScienceBase First](getting-started/sciencebase-first.md)

@@ -1,4 +1,4 @@
-# LCC Metadata Requirements and mdEditor User Manual
+# LCC Metadata Guide and mdEditor User Manual
 
 ---
 
@@ -8,11 +8,13 @@ _Last updated: 30 August 2018_
 
 This manual describes how staff from the Landscape Conservation Cooperatives \(LCCs\) can create high-quality, consistent metadata to support the LCC Science Catalog, making LCC projects and products discoverable, accessible, and usable.
 
-A unified [LCC Science Catalog](https://lccnetwork.org/catalog) requires a standardized metadata format across the LCCs. With this ultimate goal in mind, this manual describes the requirements and best practices for the creation of LCC metadata records \(Contacts, Projects, and Products\). This guidance was developed by the LCC Data Management Working Group \(DMWG\) with the leadership of the Architecture Subgroup \(ASG\).
+A unified [LCC Science Catalog](https://lccnetwork.org/catalog) requires a standardized metadata format across the LCCs. With this ultimate goal in mind, this manual describes the requirements and best practices for the creation of LCC metadata records \(Contacts, Projects, and Products\).
+
+## mdEditor
+
+A metadata editing tool was created to support the metadata requirements for LCCs. 
 
 _This manual refers to the creation of LCC metadata specifically_. If you want information on the creation of other metadata records using mdEditor, or more information in general, please refer to the [mdEditor User Manual](https://adiwg.gitbooks.io/mdeditor/content/).
-
-### 
 
 ---
 
