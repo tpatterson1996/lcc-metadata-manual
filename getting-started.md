@@ -10,6 +10,8 @@ The following is a suggested workflow for using mdEditor to create, publish, and
 
 Have information about your contacts, projects, and products on hand before you begin creating metadata records. Key information to gather includes project proposals, funding agreements and amounts, project reports, product information, and contact information for individuals and organizations involved in the projects.
 
+Use the "contacts seed file" that contains pre-filled information and standard naming conventions for all LCCs, common federal agencies, and the LCC Network Data Steward.
+
 ### Step 2: Open mdEditor.
 
 The direct link to mdEditor is [https://go.mdeditor.org](https://go.mdeditor.org). Choose the browser you plan to use for mdEditor and bookmark this link.

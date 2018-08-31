@@ -35,6 +35,7 @@
 * [Contact Entry Guidance ](contacts.md)
   * [Individual Contacts](contacts/individual-contact.md)
   * [Organization Contacts](contacts/organization-contacts.md)
+  * [Summary Contact Requirements](contacts/summary-contact-requirements.md)
 * [Publish](publish.md)
   * [Requirements for Publishing](publish/requirements-for-publishing.md)
   * [Instructions for Testing Publishing](publish/instructions-for-testing-publishing.md)
