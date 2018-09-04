@@ -8,15 +8,19 @@
 
 ## **Publishing Overview**
 
-**Step One:** Login to ScienceBase
+**Step 1:** Login to ScienceBase
 
-**Step Two:** Move Records in the Publishing Outline
+**Step 2:** Move Records in the Publishing Outline
 
-**Step Three:** Submit for Publishing
+**Step 3:** Submit for Publishing
+
+**Step 4**: Review Records on ScienceBase
+
+**Step 5**: Review Entries in the LCC Science Catalog
 
 ---
 
-### STEP ONE: Login to ScienceBase
+### STEP 1: Login to ScienceBase
 
 1. Click the **Publish** button from the top menu in mdEditor.
 2. You will be asked to select a _publishing service_. Click on ScienceBase.
@@ -41,7 +45,7 @@ Items directly below the ScienceBase header will be published under the ScienceB
 
 ---
 
-### STEP TWO: Move Records in the Publishing Outline
+### STEP 2: Move Records in the Publishing Outline
 
 _Before you move records in the publishing outline please select your scenario below and follow the corresponding guidance._
 
@@ -80,7 +84,7 @@ You can drag and drop records to establish the parent-child relationship, elimin
 
 ---
 
-### STEP THREE: Submit for Publishing
+### STEP 3: Submit for Publishing
 
 1. To select a record to publish, click on it and it will turn green \(click again to un-select it\).
 
@@ -94,13 +98,21 @@ You can drag and drop records to establish the parent-child relationship, elimin
 
 3. Upon successfully publishing to ScienceBase, the third column will display a date and time. The record's ScienceBase ID will be displayed in the first column, and the Parent ID will be displayed in the second column. If there are any errors during publishing, they will be noted in the third column.
 
-4. Once publishing is done, refresh ScienceBase to ensure everything is showing up how you expected it would show up.
+---
+
+### STEP 4: Review Records on ScienceBase
+
+1. Once publishing is done, refresh ScienceBase to ensure everything is showing up how you expected it would show up.
 
    * SB items should have an mdJSON and XML file attached
 
-   * SB items should be in the location reflected in the mdEditor publishing outline.
+   * SB items should be in the location reflected in the mdEditor publishing outline
 
-5. You can re-publish records as needed \(e.g., after updating or correcting metadata\).
+2. You can re-publish records as needed \(e.g., after updating or correcting metadata\).
+
+---
+
+### STEP 5: Review Entries in the LCC Science Catalog
 
 
 

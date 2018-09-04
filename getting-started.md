@@ -60,39 +60,7 @@ You may want to export working backups before publishing depending on your situa
 
 ### Step 12: Review the resulting entries in the [LCC Science Catalog](https://lccnetwork.org/catalog).
 
-The Science Catalog updates overnight so you should review newly-published records the day after you publish to ScienceBase. This will be one of your best quality control
-
----
-
-## Understanding Projects, Products, and Contacts
-
-Contacts, projects, and products all share a relationship in mdEditor and are each entered independently.
-
-### Projects
-
-The target projects for the Science Catalog are science projects whose topic and resulting products have value to partners or the public being able to discover and access them. Many projects are the result of financial assistance agreements, contracts, or interagency agreements. However, not everything funded through one of these mechanisms needs to be in the Science Catalog.
-
-> tip: Individual data managers may want to track other projects using the same metadata format and store that information on ScienceBase, without publishing that information to the Science Catalog.
-
-### Products
-
-Products are the specific tools, resources, and data generated. These will usually be the direct result of a project though there may be some products without a parent project.
-
-### **Contacts**
-
-Contacts are the creators, curators, contributors, and funders of projects and products. Contacts can be individuals or organizations. Individuals can also be members of organizations. Contacts can be entered once in mdEditor and then added to multiple projects and products.
-
-> tip or info: Consult the [Contacts](/contacts.md) section for information on adding contacts.
-
-### Relationships
-
-**Projects and Products **will always have a relationship with a contact. Projects will always have at least one point of contact \(the LCC Network Data Steward\). Additional contact relationships may include project authors, metadata creators, funders, principal investigators, publishers, distributors, and many others. One crucial contact relationship between contacts, projects, and products is the role of the individual\(s\) and/or organization\(s\) who provided funding. This may include a direct full contributor or any partners that helped with funding.
-
-> tip: Contact types are specified in the contact record \(examples: federal, state, NGO\). Specific roles for each contact are defined within the respective project and product records \(examples: principal investigator, collaborator\).
-
-**Products are often the results of projects**. mdEditor defines the relationships between projects and products through the Associated feature.
-
-> tip or info: Consult either the [Associating Records: Product](/product-entry-guidance/associating-records-products.md) or [Associating Records: Project](/record/main/associating-records.md) section for more information\).
+The Science Catalog updates overnight so you should review newly-published records the day after you publish to ScienceBase. This will be one of your best quality control checks.
 
 
 
