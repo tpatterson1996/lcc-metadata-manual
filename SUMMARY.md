@@ -44,4 +44,6 @@
   * [Re-Publishing](publish/re-publishing.md)
 * [Help](help.md)
 * [Glossary of Terms](GLOSSARY.md)
+* [Documentation Guide](appendices/documentation-guide.md)
+
 
