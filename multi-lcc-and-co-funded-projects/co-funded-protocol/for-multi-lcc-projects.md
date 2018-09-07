@@ -54,7 +54,7 @@ Add the following text as as the last sentence:
 
 Add a separate funding allocation for each year and each LCC that provided funding.
 
-1. The source should be U.S. Fish and Wildlife Service 
+1. The source should be U.S. Fish and Wildlife Service \(or other agency that provided LCC project funding such as Bureau of Reclamation\)
 2. Add the funding LCC as the “administrator” in the Other Contacts section \(see Figure 5a-b example\).
 
 ![](https://lh5.googleusercontent.com/FuzsddF2rFu5QQiRYIC7xLYOQrFWwHFoqIIMa0OuODOz52A3oSi1tAUUfh58HTjYmtKohXAGKwWfoKXdRXjol3J-A_zBCl6kddAGBjErEWIfSrSoYAkdmieraFzgSYR3jBwG0q26)_Figure 5a: Example of mdEditor entry for funding allocation for an LCC. Here, the UMGL LCC administered the USFWS funds; a second funding entry would be added for each USFWS allocation administered by the co-funding LCCs._

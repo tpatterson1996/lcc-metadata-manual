@@ -40,6 +40,8 @@
   * [Co-funded Protocol](multi-lcc-and-co-funded-projects/co-funded-protocol.md)
     * [for Multi-LCC Projects](multi-lcc-and-co-funded-projects/co-funded-protocol/for-multi-lcc-projects.md)
     * [for LCC/CASC Projects](multi-lcc-and-co-funded-projects/co-funded-protocol/for-lcccasc-projects.md)
+    * [for LCC/CASC Products](multi-lcc-and-co-funded-projects/co-funded-protocol/for-lcccasc-products.md)
+    * [CASC Metadata Responsibilities](multi-lcc-and-co-funded-projects/co-funded-protocol/casc-metadata-responsibilities.md)
 * [Contact Entry Guidance ](contacts.md)
   * [Individual Contacts](contacts/individual-contact.md)
   * [Organization Contacts](contacts/organization-contacts.md)
@@ -52,3 +54,4 @@
 * [Help](help.md)
 * [Glossary of Terms](GLOSSARY.md)
 * [Documentation Guide](appendices/documentation-guide.md)
+
