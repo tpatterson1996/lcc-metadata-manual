@@ -2,15 +2,15 @@
 
 ---
 
-_Last updated: 31 August 2018_
+_Last updated: 11 September 2018_
 
 ## Introduction
 
 This manual describes the requirements and best practices for the creation of high-quality and consistent metadata records for projects and products from the Landscape Conservation Cooperatives \(LCCs\). These metadata requirements conform to the standardized metadata format agreed upon by the LCC Data Management Working Group. This metadata drives the unified [LCC Science Catalog](https://legacy.gitbook.com/book/cookmt/mdeditor-for-lccs/edit#), where LCC projects and products are discoverable, accessible, and usable.
 
-### LCC Metadata and mdEditor 
+### LCC Metadata and mdEditor
 
-A metadata editing tool was created to support the metadata requirements for LCCs: mdEditor. This was an extension of an initiative by the [Alaska Data Integration Working Group](http://www.adiwg.org/about/) \([ADIwg](https://adiwg.gitbooks.io/mdeditor/content/GLOSSARY.html#adiwg)\) and adopted by the LCCs.  
+A metadata editing tool was created to support the metadata requirements for LCCs: mdEditor. This was an extension of an initiative by the [Alaska Data Integration Working Group](http://www.adiwg.org/about/) \([ADIwg](https://adiwg.gitbooks.io/mdeditor/content/GLOSSARY.html#adiwg)\) and adopted by the LCCs.
 
 _This manual refers to the creation of LCC metadata specifically_. If you want information on the creation of other metadata records using mdEditor, or more information in general, please refer to the [mdEditor User Manual](https://adiwg.gitbooks.io/mdeditor/content/).
 

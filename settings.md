@@ -8,7 +8,7 @@ The settings menu allows for the configuring of user-specific options. Settings 
 
 ## General Settings
 
-**mdEditor Version:** The mdEditor version notes the current version of mdEditor. Use this when reporting errors. Errors can be reported at [https://github.com/adiwg/mdEditor/issues](https://github.com/adiwg/mdEditor/issues). You must have a github account in order to post.
+**mdEditor Version**: The mdEditor version notes the current version of mdEditor. Use this when reporting errors. Errors can be reported at [https://github.com/adiwg/mdEditor/issues](https://github.com/adiwg/mdEditor/issues). You must have a github account in order to post.
 
 **Auto-Save**: The Auto-Save option will write all changes to local storage when you exit a data entry field. Changes must be manually saved if the Auto-Save feature is turned off.
 
@@ -30,11 +30,11 @@ _These must be implemented before you begin creating metadata records._
 
 **Metadata Repositories**: In the Default Section, add two metadata repositories.
 
-1. Select **LCCScienceCatalog **from the Repository drop-down menu. Enter “LCC Network Science Catalog” as the collection title.
+1. Select **LCCScienceCatalog** from the Repository drop-down menu. Enter “LCC Network Science Catalog” as the collection title.
 2. Select **data.gov** from the Repository drop-down menu. For the collection title, enter "data.gov" followed by the LCC name without acronyms. For example "data.gov Great Northern Landscape Conservation Cooperative".
 
 {% hint style='info' %}
-The metadata repository information must be exactly the same for each record with no variations in spelling, spaces, capitalization, etc. Specifying this information in Settings is the best way to ensure the repository information will be consistent across records. It is highly recommended that you do not type these in by hand on individual metadata records.
+The metadata repository information must be exactly the same for each record with no variations in spelling, spaces, capitalization, etc. Specifying this information in Settings is the best way to ensure the repository information will be consistent across records. It is strongly recommended that you do not type these in by hand on individual metadata records.
 {% endhint %}
 
 **Parent Identifier**: Under publishing, enter the ScienceBase identifier for your LCC's ScienceBase project folder in the "Default Parent Identifier" field.
@@ -55,7 +55,7 @@ The following defaults will be pre-loaded:
 * default character set: UTF-8
 * default location: USA
 
-Also included in **Defaults** are the **Metadata Repositories **\(a server where the metadata is published to\)**. **Once entered in **Settings **these can then be selected for projects and products so that they are flagged to a metadata repository of your choice. In the Default Selection of the Settings, click "Add Metadata Repository." For LCC metadata records, select **LCCScienceCatalog **from the Repository drop-down menu. If you wish to also add your items to data.gov, once again click "Add Metadata Repository" and select **data.gov **from the repository drop-down menu.
+Also included in **Defaults** are the **Metadata Repositories** (an online database for storing metadata\). Once entered in **Settings** these can then be selected for projects and products so that they are flagged to a metadata repository of your choice. In the Default Selection of the Settings, click "Add Metadata Repository." For LCC metadata records, select **LCCScienceCatalog **from the Repository drop-down menu. If you wish to also add your items to data.gov, once again click "Add Metadata Repository" and select **data.gov** from the repository drop-down menu.
 
 ---
 
@@ -63,7 +63,7 @@ Also included in **Defaults** are the **Metadata Repositories **\(a server where
 
 Items can be published to an online repository such as ScienceBase.
 
-In the **Default Parent Identifier**, enter the repository's parent ID. You may also enter the **Default Community **and **Default Organization**.
+In the **Default Parent Identifier**, enter the repository's parent ID. You may also enter the **Default Community** and **Default Organization**.
 
 For LCC Metadata enter your LCC's ScienceBase project folder's identifier in the "Default Parent Identifier" field.
 

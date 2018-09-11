@@ -14,7 +14,7 @@ Please read through ALL instructions before you begin the publishing process. Af
 
 ---
 
-## Overall Science Catalog System Architecture
+## Overview of Publishing to the Science Catalog
 
 The following describes the process of publishing from mdEditor:
 
@@ -24,7 +24,7 @@ The following describes the process of publishing from mdEditor:
 4. ScienceBase imports the sbJSON and attaches the XML and mdJSON files to the ScienceBase item.
 5. The record is sent to data.doi.gov and the LCC Science Catalog if the requisite metadata repositories were specified. 
 
-_The following diagram describes the overall science catalog system architecture._
 
-![](/assets/science_catalog_system_architecture.png)
+
+
 

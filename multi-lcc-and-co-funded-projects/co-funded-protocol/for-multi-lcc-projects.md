@@ -20,23 +20,11 @@ In addition to standard metadata requirements, enter the following for the multi
 
 Add the name of all funding LCCs as a “collaborator.”
 
-![](https://lh3.googleusercontent.com/SmpEd4mpmmMhWgQCiUf5yRg6EIM-iaNp1uhg_mzhd9bWyH1qHAsIaFgfH145AAqMd3DU7d6f5XacR3LR2NsTpO70Icwk0AaeIzSg79oK8EFvXTAD0XiL3sh4t-vLQCWPFmiUOHWb)_Figure 4: Example of mdEditor entry for Main/Point of Contact for an LCC co-funded project. Here, UMGL LCC led the project with funding support from ETPBR LCC._
-
----
+![](https://lh3.googleusercontent.com/SmpEd4mpmmMhWgQCiUf5yRg6EIM-iaNp1uhg_mzhd9bWyH1qHAsIaFgfH145AAqMd3DU7d6f5XacR3LR2NsTpO70Icwk0AaeIzSg79oK8EFvXTAD0XiL3sh4t-vLQCWPFmiUOHWb)_Figure 1: Example of mdEditor entry for Main/Point of Contact for an LCC co-funded project. Here, UMGL LCC led the project with funding support from ETPBR LCC._
 
 ## Main/Citation/Responsible Parties
 
 Add the name of all funding LCCs as a “collaborator.”
-
----
-
-## Metadata/Metadata Contacts
-
-Include the lead LCC as “publisher.”
-
-Collaborating LCCs do not need to be listed here.
-
----
 
 ## Main/Abstract
 
@@ -50,14 +38,22 @@ Add the following text as as the last sentence:
 
 ---
 
+## Metadata/Metadata Contacts
+
+Include the lead LCC as “publisher.”
+
+Collaborating LCCs do not need to be listed here.
+
+---
+
 ## Funding \(for Projects only\)
 
 Add a separate funding allocation for each year and each LCC that provided funding.
 
 1. The source should be U.S. Fish and Wildlife Service \(or other agency that provided LCC project funding such as Bureau of Reclamation\)
-2. Add the funding LCC as the “administrator” in the Other Contacts section \(see Figure 5a-b example\).
+2. Add the funding LCC as the “administrator” in the Other Contacts section \(see Figure 2 and 3\).
 
-![](https://lh5.googleusercontent.com/FuzsddF2rFu5QQiRYIC7xLYOQrFWwHFoqIIMa0OuODOz52A3oSi1tAUUfh58HTjYmtKohXAGKwWfoKXdRXjol3J-A_zBCl6kddAGBjErEWIfSrSoYAkdmieraFzgSYR3jBwG0q26)_Figure 5a: Example of mdEditor entry for funding allocation for an LCC. Here, the UMGL LCC administered the USFWS funds; a second funding entry would be added for each USFWS allocation administered by the co-funding LCCs._
+![](https://lh5.googleusercontent.com/FuzsddF2rFu5QQiRYIC7xLYOQrFWwHFoqIIMa0OuODOz52A3oSi1tAUUfh58HTjYmtKohXAGKwWfoKXdRXjol3J-A_zBCl6kddAGBjErEWIfSrSoYAkdmieraFzgSYR3jBwG0q26)_Figure 2: Example of mdEditor entry for funding allocation for an LCC. Here, the UMGL LCC administered the USFWS funds; a second funding entry would be added for each USFWS allocation administered by the co-funding LCCs._
 
-![](https://lh4.googleusercontent.com/BFjPNwSizy32gQE2rdtiUHmp14ZBcNpf5PKrtdg7Um4YdzjyIhx6CL53MCYfP7PlBMldvekBfhwBOZfpXlBE1LtaPgNIdYWTtK_MGAqm-bWWXrkYBYi632KT9n8e7cGbOYe0ocpp)_Figure 5b: Example of the how multi-LCC funding will appear in the Science Catalog. Here, three LCCs contributed funding over two fiscal years._
+![](https://lh4.googleusercontent.com/BFjPNwSizy32gQE2rdtiUHmp14ZBcNpf5PKrtdg7Um4YdzjyIhx6CL53MCYfP7PlBMldvekBfhwBOZfpXlBE1LtaPgNIdYWTtK_MGAqm-bWWXrkYBYi632KT9n8e7cGbOYe0ocpp)_Figure 3: Example of the how multi-LCC funding will appear in the Science Catalog. Here, three LCCs contributed funding over two fiscal years._
 

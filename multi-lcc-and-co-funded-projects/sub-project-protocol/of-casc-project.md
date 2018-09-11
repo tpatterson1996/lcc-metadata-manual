@@ -2,6 +2,8 @@
 
 ---
 
+When your project is a sub-project underneath a CASC project, complete the following requirements for the sub-project in addition to the standard metadata requirements. Products of a sub-project can be entered as normal \(i.e., treat the sub-project as a normal project for the purposes of the product metadata and associations\).
+
 ---
 
 ## Main/Points of Contact
@@ -14,21 +16,29 @@ Add the collaborating CASC as a “collaborator.”
 
 The LCC funding the sub-project or distinct product is the “administrator” in the sub-project metadata and should be included as such according to standard metadata contact requirements.
 
+## Main/Abstract
+
+Add the following text as the last sentence:
+
+“This project is a sub-project of the \[X\] Climate Adaptation Science Center project described here \[insert hyperlink to CASC ScienceBase URL\].”
+
+* Example: “This project is a sub-project of the South Central Climate Adaptation Science Center project described here.”
+
+## Main/Supplemental Information
+
+Add the following text \(Best Practice\):
+
+“This project is a sub-project of the \[X\] Climate Adaptation Science Center project described here \[insert hyperlink to CASC ScienceBase URL\].”
+
+* Example: “This project is a sub-project of the South Central Climate Adaptation Science Center project described here.”
+
+---
+
 ## Metadata/Metadata Contacts
 
 Include the lead LCC as “publisher.”
 
 Collaborating CASCs do not need to be listed here.
-
----
-
-## Main/Abstract and Main/Supplemental Information
-
-Add the following text to both Main/Abstract \(required; add as the last sentence\) and to Main/Supplemental Information \(Best Practice\):
-
-“This project is a sub-project of the \[X\] Climate Adaptation Science Center project described here \[insert hyperlink to CASC ScienceBase URL\].”
-
-Example: “This project is a sub-project of the South Central Climate Adaptation Science Center project described here.”
 
 ---
 
@@ -38,7 +48,7 @@ Since the CASC metadata is outside the LCC communities in ScienceBase, you must 
 
 ### Associations in mdEditor
 
-Manually associate the LCC/CASC project as a “subProject”relationship in the Associated tab.
+Manually associate the LCC/CASC project as a “subProject” relationship in the Associated tab.
 
 1. Populate the association type as “subProject”.
 

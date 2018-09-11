@@ -1,42 +1,40 @@
-# **CASC Metadata Responsibilities**
+# **LCC/CASC Co-Funded Examples**
 
 ---
 
-The CASCs will complete the following metadata responsibilities for the CASC records for co-funded projects and products, after being notified that an LCC has created associations to the CASC ScienceBase records.
+The following are real examples of LCC and CASC co-funded projects and products. The links go directly to the ScienceBase records so you can download their mdJSON to explore how these were done.
 
 ---
 
-## Co-funded Protocol
+## Example: Gulf Coast Prairie LCC / Gulf Coastal Plains and Ozarks LCC / South Central CASC 
 
-### When a CASC project is co-funded with an LCC:
+### Project Record
 
-Add the following statement to the Summary in the CASC ScienceBase record:
+Title: Occurrence and variation in submersed aquatic vegetation \(SAV\) along the northern Gulf of Mexico: a hierarchical approach to assess impacts of environmental change on SAV resources
 
-* “This project was co-funded by the \[X, Y, Z\] Climate Adaptation Science Centers and the \[A, B, C\] Landscape Conservation Cooperatives. An alternate reference to this project can be found here\[insert LCC ScienceBase URL\].”
+* LCC item: [https://www.sciencebase.gov/catalog/item/587e5cd5e4b0a765aab5ebab](https://www.sciencebase.gov/catalog/item/587e5cd5e4b0a765aab5ebab)
 
-Example: “This project was co-funded by the South Central Climate Adaptation Science Center and the Gulf Coast Prairie Landscape Conservation Cooperative. An alternate reference to this project can be found [here](https://www.sciencebase.gov/catalog/item/5a78be62e4b00f54eb1e849c).”
+* CASC item: [https://www.sciencebase.gov/catalog/item/5818f601e4b0bb36a4c90743](https://www.sciencebase.gov/catalog/item/5818f601e4b0bb36a4c90743)
 
-The LCC will include a parallel statement in the Summary field for their ScienceBase record, link back to the CASC record, and create the association in ScienceBase.
+### Product Record
 
-### When a CASC product is co-funded with an LCC:
+Title: Sediment carbon, submerged aquatic vegetation and environmental variables in deltaic southeast Louisiana \(2015-2016\)
 
-Add the following text to the Summary in the CASC ScienceBase record:
+* LCC item: [https://www.sciencebase.gov/catalog/item/5a78be62e4b00f54eb1e849c](https://www.sciencebase.gov/catalog/item/5a78be62e4b00f54eb1e849c)
 
-“This product was co-funded by the \[A, B, C\] Landscape Conservation Cooperatives and the \[X, Y, Z\] Climate Adaptation Science Centers. An alternate reference to this product can be found here\[insert CASC ScienceBase URL\].”
-
-Example: “This project was co-funded by the Gulf Coast Prairie Landscape Conservation Cooperative and the South Central Climate Adaptation Science Center. An alternate reference to this product can be found [here](https://www.sciencebase.gov/catalog/item/5a78be62e4b00f54eb1e849c).”
-
-The LCC will include a parallel statement in the Summary field for their ScienceBase record, link back to the CASC record, and create the association in ScienceBase.
+* CASC item: [https://www.sciencebase.gov/catalog/item/5887c1c3e4b02e34393da82d](https://www.sciencebase.gov/catalog/item/5887c1c3e4b02e34393da82d)
 
 ---
 
-## Sub-Project Protocol
+## Example: Upper Midwest and Great Lakes LCC / Northeast CASC 
 
-### If a CASC project is a sub-project of an LCC project:
+### Project Record
 
-1. Add the following text to the Summary in the CASC ScienceBase record: “This project is a sub-project of the \[X\] Landscape Conservation Cooperative project described here\[insert LCC ScienceBase URL\].”
+Title: Understanding How Climate Change will Impact Aquatic Food Webs in the Great Lakes
 
-2. Add the association in ScienceBase as a “subprojectOf” the LCC record.
+* LCC item: [https://www.sciencebase.gov/catalog/item/59fb44f5e4b0531197b16290](https://www.sciencebase.gov/catalog/item/59fb44f5e4b0531197b16290)
+
+* CASC item: [https://www.sciencebase.gov/catalog/item/500708cee4b0abf7ce733ff1](https://www.sciencebase.gov/catalog/item/500708cee4b0abf7ce733ff1)
 
 
 

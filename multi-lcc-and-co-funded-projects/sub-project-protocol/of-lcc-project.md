@@ -34,7 +34,7 @@ Associate the relevant projects, sub-projects, and products with each other in m
 
 ### When you have edit rights to Parent Project
 
-If your sub-project falls underneath a project that you also manage, you can create the association by defining the association type and linking your records as normal \(no further information needed\). 
+If your sub-project falls underneath a project that you also manage, you can create the association by defining the association type and linking your records as normal \(no further information needed\).
 
 In the Associated tab, add the association type as one of the following and select the appropriate record to link:
 
@@ -46,11 +46,11 @@ In the Associated tab, add the association type as one of the following and sele
 
 If your sub-project falls underneath an LCC project to which you do not have edit rights for its ScienceBase record or mdEditor file, you must associate the item manually within mdEditor.
 
-Enter the association type as described above, enter the resource type, plus copy and paste the title and ScienceBase Identifier for the associated item \(see Figure 3\).
+Enter the association type as described above, enter the resource type, plus copy and paste the title and ScienceBase Identifier for the associated item \(see Figure 1\).
 
 If you are creating associations to other LCC items that have the Science Catalog tag, then those items will show up in the Science Catalog, as will your sub-projects and products.
 
 > info: If your sub-project falls underneath a CASC project, follow that protocol.
 
-![](https://lh6.googleusercontent.com/QmZ7tg3tPDdE7mHKKMQtSF3gb85n89q7r5QckLwhgM8R7wz5cQECif1kJtm6TwkWUDnk7Zvs8Z3ykTYoZXedqDYUEePpzzvAhxfHi5lJr0kuMeUlxzvy68DWzyc-H2S-0vlde2WV)_Figure 3: Example entry of ScienceBase Identifier in mdEditor Associated tab._
+![](https://lh6.googleusercontent.com/QmZ7tg3tPDdE7mHKKMQtSF3gb85n89q7r5QckLwhgM8R7wz5cQECif1kJtm6TwkWUDnk7Zvs8Z3ykTYoZXedqDYUEePpzzvAhxfHi5lJr0kuMeUlxzvy68DWzyc-H2S-0vlde2WV)_Figure 1: Example entry of ScienceBase Identifier in mdEditor Associated tab._
 

@@ -10,7 +10,7 @@ A more detailed look at the parts and pieces behind the LCC Science Catalog.
 
 The [LCC Science Catalog](https://lccnetwork.org/catalog) collates the metadata from all 22 LCCs and Headquarters. It allows for user-defined searching and filtering of projects and products as well as access to products for download. Users can see what has been funded, which can help prevent duplication of work. The LCC Science Catalog also enables reporting, such as funding summaries or project examples based on particular geographies, species, organization, year, or other categories of interest.
 
-## **Architecture**
+## **Architecture \[editing in progress\]**
 
 LCCs edit metadata in mdEditor and then publish the metadata to ScienceBase, where it can be channeled to the LCC Science Catalog and data.gov. The mdTranslator tool is integrated with mdEditor so you can create metadata once, and then convert and publish the metadata in your desired format, such as mdJSON for the LCC Science Catalog, sbJSON for ScienceBase, XML for data.gov, and FGDC for geospatial data.
 

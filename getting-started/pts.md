@@ -1,8 +1,8 @@
-# Workflow - Project Tracking System \(PTS\) Considerations
+# Workflow: Project Tracking System \(PTS\) Considerations
 
 ---
 
-Consult this section for things you need to consider if you are using the Project Tracking System for managing your project metadata.
+Consult this section for things you need to consider if you are using the Project Tracking System \(PTS\) for managing your project metadata.
 
 ---
 

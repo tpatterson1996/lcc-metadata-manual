@@ -2,140 +2,127 @@
 
 ---
 
-### **For LCC/CASC Co-funded PRODUCTS:**
+## Applicability
 
-**  
-**
+Refer to this protocol if:
 
-1. **Create a metadata record for the product and fill out all LCC metadata requirements. Recommended workflow is:**
+* One or more LCCs co-funds a project with one or more CASCs without distinct sub-parts that could be attributed to either an LCC or CASC. This protocol is for the product metadata.
 
-2. 1. **Import the sbJSON for the CASC product record.**
+## Metadata Responsibility
 
-   2. 1. **Alternatively you can create a record from scratch in mdEditor and just copy the title, abstract, and other pertinent info from the CASC ScienceBase record.**
-   3. **Delete the SBIDs specific to the CASC record.**
+The co-funding LCC data manager is responsible for processing the CASC project and product metadata for inclusion in the LCC Science Catalog. The CASC data manager will complete their metadata responsibilities for the CASC records as well.
 
-   4. **Modify the metadata to meet LCC metadata requirements.**
+---
 
-   5. **Complete the additional metadata requirements for a cofunded product below.**
+## Co-funded Product Workflow
 
-   6. **Associate this LCC product record with the LCC version of the project record you created.**
+### Workflow Option 1
 
-**  
-**
+1. Import the sbJSON for the CASC record.
+2. Delete the SBIDs specific to the CASC record.
+3. Modify the metadata to meet LCC metadata requirements.
+4. Complete the additional metadata requirements for a cofunded product.
 
-**Note: The LCC copy of the CASC metadata shouldnotinclude the data.gov tag. As a general rule, the entity who owns/hosts the data should be responsible for sending information to data.gov. In this case, the CASC is hosting the product/data on ScienceBase and they will be sending their information to data.gov directly.**
+### Workflow Option 2
 
-**  
-**
+1. Create a record from scratch in mdEditor
+2. Copy the title, abstract, and other pertinent info from the CASC ScienceBase record. 
+3. Complete the additional metadata requirements for a cofunded product.
+4. Associate this LCC product record with the LCC version of the project record you created
 
-**In addition to standard metadata requirements, complete the following for the co-funded product record:**
+---
 
-**  
-**
+Note: The LCC copy of the CASC metadata should not include the data.gov tag. As a general rule, the entity who owns/hosts the data should be responsible for sending information to data.gov. In this case, the CASC is hosting the product/data on ScienceBase and they will be sending their information to data.gov directly.
 
-1. **Add the name of all funding LCCs and CASCs as a “collaborator” in the metadata:**
+---
 
-2. 1. **In mdEditor, underMain/Point of Contacts**
+In addition to standard metadata requirements, complete the following for the co-funded product record. All are required unless otherwise noted.
 
-   2. **In mdEditor, underMain/Citation/Responsible Parties**
+## Main/Point of Contacts
 
-   3. **Note: the lead LCC should be listed as “administrator” and does not need to be added again as a “collaborator.”**
-3. **Include the lead LCC as “publisher” inMetadata/Metadata Contacts,according to**[**standard metadata contact requirements**](https://docs.google.com/document/d/1K0YGU4ZjGpbs1IUrkamffds6mdba48f9W2Hzk6H9dhs/edit#bookmark=id.o96zjsnbnz03)**. Collaborating CASCs \(or other LCCs\) do not need to be listed here.**
+Add the collaborating LCC\(s\) and CASC\(s\) as a “collaborator.”
 
-4. **Add the following textto bothMain/Abstract\(required; add as the last sentence\) and toMain/Supplemental Information\(Best Practice\):**
+## Main/Citation/Responsible Parties
 
-5. 1. **“This product was co-funded by the \[A, B, C\] Landscape Conservation Cooperatives and \[X, Y, Z\] Climate Adaptation Science Centers. An alternate reference to this product can be found here: \[insert CASC ScienceBase URL\].”**
+Add the collaborating LCC\(s\) as a “collaborator.”
 
-   2. **Example: “This project was co-funded by the Gulf Coast Prairie Landscape Conservation Cooperative and the South Central Climate Adaptation Science Center. An alternate reference to this product can be found here:**[**https://www.sciencebase.gov/catalog/item/5887c1c3e4b02e34393da82d**](https://www.sciencebase.gov/catalog/item/5887c1c3e4b02e34393da82d)**.”**
+> info: The lead LCC should be listed as “administrator” and does not need to be added again as a “collaborator.”**                  **
 
-   3. **The CASC will include a parallel statement in the Summary field for their ScienceBase record \(and link back to the LCC record\).**
-6. **Since the CASC metadata is outside the LCC communities in ScienceBase, you must manually associate the LCC/CASC projects both in mdEditorAssociatedand directly on ScienceBase.**
+## Main/Citation/Online Resource
 
-**  
-**
+Include the link to the CASC's ScienceBase product page as an online resource.
 
-**Associations in mdEditor\(see Figure 11\).**
+* Name the link with “X Climate Adaptation Science Center ScienceBase Product Page.”
 
-1. 1. **Make the normal project/product association back to the LCC version of the project record you created.**
+## Main/Abstract
 
-   2. **Manually associate the LCC/CASC product as an “alternate” relationship in theAssociatedtab.**
+Add the following text as as the last sentence:
 
-   3. 1. **Populate the association type as “alternate”.**
+“This product was co-funded by the \[A, B, C\] Landscape Conservation Cooperatives and \[X, Y, Z\] Climate Adaptation Science Centers. An alternate reference to this product can be found here: \[insert CASC ScienceBase URL\].”
 
-      2. **Enter the appropriate resource type.**
+* Example: “This project was co-funded by the Gulf Coast Prairie Landscape Conservation Cooperative and the South Central Climate Adaptation Science Center. An alternate reference to this product can be found here: [https://www.sciencebase.gov/catalog/item/5887c1c3e4b02e34393da82d](https://www.sciencebase.gov/catalog/item/5887c1c3e4b02e34393da82d).”
 
-      3. **Copy the CASC’s product title to populate the title field.**
+The CASC will include a parallel statement in the Summary field for their ScienceBase record \(and link back to the LCC record\).
 
-      4. **Enter the CASC as the “administrator” in the Responsible Parties section.**
+---
 
-      5. **Add the CASC ScienceBase item URL to the Online Resource section. This is important to provide discovery and access to items outside of the LCC Science Catalog.**
+## Main/Supplemental Information
 
-      6. **Add the ScienceBase and/or Digital Object Identifier of the CASC product.**
+Add the following text \(Best Practice\):
 
+“This product was co-funded by the \[A, B, C\] Landscape Conservation Cooperatives and \[X, Y, Z\] Climate Adaptation Science Centers. An alternate reference to this product can be found here: \[insert CASC ScienceBase URL\].”
 
+* Example: “This project was co-funded by the Gulf Coast Prairie Landscape Conservation Cooperative and the South Central Climate Adaptation Science Center. An alternate reference to this product can be found here: [https://www.sciencebase.gov/catalog/item/5887c1c3e4b02e34393da82d](https://www.sciencebase.gov/catalog/item/5887c1c3e4b02e34393da82d).”
+
+---
+
+## Associated
+
+Since the CASC metadata is outside the LCC communities in ScienceBase, you must manually associate the LCC/CASC products both in mdEditor Associated and directly on ScienceBase.
+
+### Associations in mdEditor
+
+1. Make the normal project/product association back to the LCC version of the project record you created.
+
+2. Manually associate the LCC/CASC product as an “alternate” relationship in the Associated tab.
+
+3. Populate the association type as “alternate”.
+
+4. Enter the appropriate resource type.
+
+5. Copy the CASC’s product title to populate the title field.
+
+6. Enter the CASC as the “administrator” in the Responsible Parties section.
+
+7. Add the CASC ScienceBase item URL to the Online Resource section. This is important to provide discovery and access to items outside of the LCC Science Catalog.
+
+8. Add the ScienceBase and/or Digital Object Identifier of the CASC product.
 
 ![](https://lh5.googleusercontent.com/4EADVJYG-c8gq2il2fU-ttIyN7ly3IxNBpO_eIxQ9DGHzFGZzQcdUpPV5M4DgP6-GVj44iFOWzberaOTSSoHcjVklZExfx8-GUtYMlT5UaZrnKorcKqQqZdD0o7Z8y6lH7XGudjz)
 
 ![](https://lh4.googleusercontent.com/DTpBB7E9FNNuJsQZbdlMUeaZvUyynlp4k1bI_kxF4suv7pvLb_AmBXZx5AJkGzdPwmFNRdYZ0keeWyudeFn7-4i7Jt-YGSq_j3ZrOTyQ_R-nUMzCTunOoi3-QPS7nfvVxoG_9561)
 
-**Figure 11: Example of mdEditor entry in Associated tab for LCC/CASC co-funded project. This is entered in the LCC project record’s Associated tab to indicate this is an “alternate” reference to a CASC project.**
+_Figure 1: Example of mdEditor entry in Associated tab for LCC/CASC co-funded project. This is entered in the LCC project record’s Associated tab to indicate this is an “alternate” reference to a CASC project._
 
-**  
-**
+### Associations in ScienceBase
 
-**Associations in ScienceBase. The only associations that ScienceBase recognizes from mdJSON are parentProject/product relationships so it will not recognize the “alternate” association created in mdEditor. This association must be added by hand directly in ScienceBase.**
+The only associations that ScienceBase recognizes from mdJSON are parentProject/product relationships so it will not recognize the “alternate” association created in mdEditor. This association must be added by hand directly in ScienceBase.
 
-1. **Log in to your ScienceBase account to edit the appropriate LCC ScienceBase item. Click “Associate an Item” from the right side column of the ScienceBase page. Add an “alternate” association to the CASC ScienceBase item \(see Figure 12 example\).**
+1. Log in to your ScienceBase account to edit the appropriate LCC ScienceBase item. 
+2. Click “Associate an Item” from the right side column of the ScienceBase page. 
+3. Add an “alternate” association to the CASC ScienceBase item \(see Figure 2\).
 
+![](https://lh3.googleusercontent.com/Y-WE_OLGwFwOsKRuYWCH4-PEBFF26VqhLpmJmbUIItDxpHMKZWDzDsASf8fK5Wz8auONqa97fi5Yw5VK2VfEIOkJfRTzVugHpEFOc2rNrJX83G06vL7eEYqzatSrsDXbGJ_NDAub)_Figure 2: Example of LCC product record for an LCC/CASC co-funded product. The association created directly on ScienceBase identifies this GCP LCC product record as an “alternate” of the South Central CASC product record._
 
+---
 
-![](https://lh3.googleusercontent.com/Y-WE_OLGwFwOsKRuYWCH4-PEBFF26VqhLpmJmbUIItDxpHMKZWDzDsASf8fK5Wz8auONqa97fi5Yw5VK2VfEIOkJfRTzVugHpEFOc2rNrJX83G06vL7eEYqzatSrsDXbGJ_NDAub)
+## Distribution
 
-**Figure 12: Example of LCC product record for an LCC/CASC co-funded product. The association created directly on ScienceBase identifies this GCP LCC product record as an “alternate” of the South Central CASC product record.**
+Include the CASC weblinks and identifiers that you just entered in the mdEditor Associated tab in the Online Resource section.
 
-1. **Include the CASC weblinks and identifiers that you just entered in the mdEditorAssociatedtab in two places:**
+* List the role of the CASC as “owner.” 
 
-2. 1. **Main/Citation/Online Resource\(Required\):Name the link with “X Climate Adaptation Science Center ScienceBase Project Page” \(Required\).**
-
-   2. **Distribution\(Required\): List the role of the CASC as “owner”. The Distribution links are critical for providing access to the actual data/tool/etc.**
-
-**  
-**
-
-### **LCC/CASC Co-Funded Examples**
-
-**The following are real examples of LCC and CASC co-funded projects and products. The links go directly to the ScienceBase records so you can download their mdJSON to explore how these were done.**
-
-**  
-**
-
-**Gulf Coast Prairie LCC / South Central CASC example:**
-
-**Project Record:**
-
-* **LCC item:**[**https://www.sciencebase.gov/catalog/item/587e5cd5e4b0a765aab5ebab**](https://www.sciencebase.gov/catalog/item/587e5cd5e4b0a765aab5ebab)
-
-* **CASC item:**[**https://www.sciencebase.gov/catalog/item/5818f601e4b0bb36a4c90743**](https://www.sciencebase.gov/catalog/item/5818f601e4b0bb36a4c90743)
-
-**  
-**
-
-**Product Record:**
-
-* **LCC item:**[**https://www.sciencebase.gov/catalog/item/5a78be62e4b00f54eb1e849c**](https://www.sciencebase.gov/catalog/item/5a78be62e4b00f54eb1e849c)
-
-* **CASC item:**[**https://www.sciencebase.gov/catalog/item/5887c1c3e4b02e34393da82d**](https://www.sciencebase.gov/catalog/item/5887c1c3e4b02e34393da82d)
-
-**  
-**
-
-**UMGL LCC / Northeast CASC example:**
-
-**Project Record:**
-
-* **LCC item:**[**https://www.sciencebase.gov/catalog/item/59fb44f5e4b0531197b16290**](https://www.sciencebase.gov/catalog/item/59fb44f5e4b0531197b16290)
-
-* **CASC item:**[**https://www.sciencebase.gov/catalog/item/500708cee4b0abf7ce733ff1**](https://www.sciencebase.gov/catalog/item/500708cee4b0abf7ce733ff1)
+The Distribution links are critical for providing access to the actual data/tool/etc.
 
 
 
