@@ -37,6 +37,3 @@ The LCC will include a parallel statement in the Summary field for their Science
 1. Add the following text to the Summary in the CASC ScienceBase record: “This project is a sub-project of the \[X\] Landscape Conservation Cooperative project described here\[insert LCC ScienceBase URL\].”
 
 2. Add the association in ScienceBase as a “subprojectOf” the LCC record.
-
-
-

@@ -6,7 +6,7 @@ The following are real examples of LCC and CASC co-funded projects and products.
 
 ---
 
-## Example: Gulf Coast Prairie LCC / Gulf Coastal Plains and Ozarks LCC / South Central CASC 
+## Example: Gulf Coast Prairie LCC / Gulf Coastal Plains and Ozarks LCC / South Central CASC
 
 ### Project Record
 
@@ -26,7 +26,7 @@ Title: Sediment carbon, submerged aquatic vegetation and environmental variables
 
 ---
 
-## Example: Upper Midwest and Great Lakes LCC / Northeast CASC 
+## Example: Upper Midwest and Great Lakes LCC / Northeast CASC
 
 ### Project Record
 
@@ -35,6 +35,3 @@ Title: Understanding How Climate Change will Impact Aquatic Food Webs in the Gre
 * LCC item: [https://www.sciencebase.gov/catalog/item/59fb44f5e4b0531197b16290](https://www.sciencebase.gov/catalog/item/59fb44f5e4b0531197b16290)
 
 * CASC item: [https://www.sciencebase.gov/catalog/item/500708cee4b0abf7ce733ff1](https://www.sciencebase.gov/catalog/item/500708cee4b0abf7ce733ff1)
-
-
-
