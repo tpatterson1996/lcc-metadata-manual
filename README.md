@@ -1,4 +1,4 @@
-__# LCC Metadata Manual
+# LCC Metadata Manual
 
 ---
 
