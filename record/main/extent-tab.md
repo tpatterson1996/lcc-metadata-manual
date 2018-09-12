@@ -24,19 +24,19 @@ Spatial features such as geoJSON, shapefiles, and kml can be imported. However, 
 
 File attributes \(such as name and description\) will not be imported and must be added manually.
 
-> Important: coordinates used must be geographic coordinates, not projected coordinates.
+{% hint style='info' %} Important: coordinates used must be geographic coordinates, not projected coordinates.{% endhint %}
 
 ### Option 2: Draw Spatial Features
 
-> Tip: It is easier to click "finish" when drawing a polygon instead of trying to close the polygon by clicking on the first point.
+{% hint style='tip' %} Tip: It is easier to click "finish" when drawing a polygon instead of trying to close the polygon by clicking on the first point.{% endhint %}
 
 ### Option 3: Draw Bounding Box
 
-> Danger: Bounding boxes will not work across the dateline but you can have more than one extent per project. If your project area crosses the dateline, split the area into multiple extents and create separate bounding boxes.
+{% hint style='danger' %}Bounding boxes will not work across the dateline but you can have more than one extent per project. If your project area crosses the dateline, split the area into multiple extents and create separate bounding boxes.{% endhint %}
 
 ## Saving and Exporting Extents
 
-> Tip: You can export, save, and import an extent to use for other projects or products.
+{% hint style='tip' %} Tip: You can export, save, and import an extent to use for other projects or products.{% endhint %}
 
 
 

@@ -46,7 +46,7 @@ Add the collaborating LCC\(s\) and CASC\(s\) as a “collaborator.”
 
 Add the collaborating LCC\(s\) as a “collaborator.”
 
-> info: The lead LCC should be listed as “administrator” and does not need to be added again as a “collaborator.”**                  **
+{% hint style='info' %} The lead LCC should be listed as “administrator” and does not need to be added again as a “collaborator.”{% endhint %}
 
 ## Main/Citation/Online Resource
 

@@ -11,16 +11,22 @@
 _The following fields are available for** Individual Contacts:**_
 
 * **Individual name **\(Required\): Enter individual's full name
+
 * **Position name** \(Required\): Enter individual's full title; avoid acronyms
+
 * **Contact Type **\(Required\): Enter the contact type from the picklist
+
 * **Member Organization **\(Required\): Select organization\(s\); you can make an individual part of multiple organizations.
+
 * **Email Address **\(Required\): Enter individual's email
+
 * **Physical Address **\(Best Management Practice\): Enter a physical address
+
 * **Logo **\(Optional\): 
   * It is uncommon that you would add a logo for an individual. If the individual is part of an organization, the individual will inherit the logo from the organization.
   * You can either select or drop an image. If you choose to load an image, mdEditor will create a URI and will have a size limit for the logo. If you have a larger image, link to it rather than loading it into mdEditor. 
 
-> Warning: If you upload a logo to your contact record, you must include a filename for the logo. Otherwise you will get an error on the metadata records that include that contact.
+{% hint style='danger' %} If you upload a logo to your contact record, you must include a filename for the logo. Otherwise you will get an error on the metadata records that include that contact.{% endhint %}
 
 _All other fields are optional but recommended._
 
@@ -33,7 +39,9 @@ _The LCC Network Data Steward is required as a "PointOfContact" in the Point of 
 **The LCC Network Data Steward:**
 
 * **Individual Name: **LCC Network Data Steward
+
 * **Contact Type:** lcc
+
 * **Email Address:** lccdatasteward@fws.gov
 
 ![](/assets/individual_contact_window.png)

@@ -19,9 +19,13 @@ Please read through ALL instructions before you begin the publishing process. Af
 The following describes the process of publishing from mdEditor:
 
 1. mdEditor outputs an mdJSON file.
+
 2. The mdJSON file is transmitted via a web service to mdTranslator.
+
 3. mdTranslator translates the mdJSON file into sbJSON and XML.
+
 4. ScienceBase imports the sbJSON and attaches the XML and mdJSON files to the ScienceBase item.
+
 5. The record is sent to data.doi.gov and the LCC Science Catalog if the requisite metadata repositories were specified. 
 
 

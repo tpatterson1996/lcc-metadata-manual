@@ -45,7 +45,7 @@ Add all collaborating LCCs and CASCs as a “collaborator.”
 
 Add all collaborating LCCs and CASCs as a “collaborator.”
 
-> info: The lead LCC should be listed as “administrator” and does not need to be added again as a “collaborator.”**                  **
+{% hint style='info' %} The lead LCC should be listed as “administrator” and does not need to be added again as a “collaborator.”{% endhint %}
 
 ![](https://lh6.googleusercontent.com/4ewK_e-foCCi1kHOe9RiAG1Kuuc4VXIrB7S78S8goOtko3-DCZ9vj2wulFlwD7H_m_-IUfTTip8ssC_JHhJzqoD4bcguP-BvIimv2ctekLDadMNrOxEF-KBx7Ilr3uud0JodZmuJ)
 
@@ -92,6 +92,7 @@ Collaborating LCCs do not need to be listed here.
 Add a separate funding allocation for each year and each LCC that provided funding.
 
 1. For LCC allocations, the source should be U.S. Fish and Wildlife Service \(or other agency that provided LCC project funding such as Bureau of Reclamation\).
+
 2. Add the funding LCC as the “administrator” in the Other Contacts section \(see Figure 2\).**         **
 
 ![](https://lh5.googleusercontent.com/FuzsddF2rFu5QQiRYIC7xLYOQrFWwHFoqIIMa0OuODOz52A3oSi1tAUUfh58HTjYmtKohXAGKwWfoKXdRXjol3J-A_zBCl6kddAGBjErEWIfSrSoYAkdmieraFzgSYR3jBwG0q26)_Figure 2: Example of mdEditor entry for an LCC funding allocation. Here, the UMGL LCC administered the USFWS funds. Additional allocations would be added for each LCC that provided funding to the project._
@@ -99,7 +100,9 @@ Add a separate funding allocation for each year and each LCC that provided fundi
 ### CASC Allocations
 
 1. List the source of CASC allocations as U.S. Geological Survey.
+
 2. Add the funding CASC as the “administrator” in the Other Contacts section.
+
 3. Check the matching funds box \(see Figure 3\).
 
 ![](https://lh3.googleusercontent.com/e4FV2qawV3ryt7S_SCo5t2i9cXraxJg4IfQB-M5d3mZjlYkblBVujR8c3a5ZU6M3sjETqxhSWwoEBwwdca7s2cD8-a0ZQMABXIPtCBHPbCAPZcEulOz2CSrfMC8Y-GjYssHOHYlL)
@@ -135,7 +138,9 @@ Manually associate the LCC/CASC project as an “alternate” relationship in th
 The only associations that ScienceBase recognizes from mdJSON are parentProject/product relationships so it will not recognize the “alternate” association created in mdEditor. This association must be added by hand directly in ScienceBase.
 
 1. Log in to your ScienceBase account to edit the appropriate LCC ScienceBase item. 
+
 2. Click “Associate an Item” from the right side column of the ScienceBase page. 
+
 3. Add an “alternate” association to the CASC ScienceBase item \(see Figure 5\).
 
 ![](https://lh5.googleusercontent.com/s4tNZQxUK5yvtjEtAP-NWIKDvv1hY2IGjTxr7zHoDZnV931sZ9JRjLeHt4inqF0AIZSiHqjNM8-Ev30woD6tCngPnwG_CWnz2K-X8PBXOXLMqTTFtvOmId9C8WxdkAv-QxRBHSL4)

@@ -8,9 +8,9 @@ The Project Entry Guidance section will cover how to create a metadata record fo
 
 ## Before You Begin
 
-### **Adjust your mdEditor**[** Settings**](/settings.md)**: **
+### **Adjust your mdEditor** [**Settings**](/settings.md)**:**
 
-**Metadata Repositories**: In the Default Section of Settings, click "Add Metadata Repository." Select "LCCScienceCatalog" from the Repository drop-down menu. If you wish to also add your items to data.gov, once again click "Add Metadata Repository" and select "data.gov" from the repository drop-down menu.
+**Metadata Repositories**: Make sure your default settings are correct for the LCC Science Catalog and data.gov. See [Settings](/settings.md). 
 
 **Parent Identifier: **In the publishing settings, enter your LCC's ScienceBase project folder's identifier in the "Default Parent Identifier" field.
 
@@ -24,16 +24,16 @@ In mdEditor, contacts are created separately from individual records and then st
 
 ---
 
-## Create a New Project
+## Edit a Project
 
-**To create a new **_**Project**_**:**
 
-1. Click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to **Metadata Records**
-2. Enter a **Record Title**
-3. Pick "project" as the **Resource Type**
-4. Click **Save**
-5. Select the LCC Project Profile: from the Main Menu \(Top Navigation Bar\) select "**lccProject" **from the profile drop-down menu. 
-6. Fill out metadata information for the following tabs
+1. Import or create your project record (see [workflow](/getting-started.md)).
+
+2. Pick "project" as the **Resource Type**
+
+3. Select the LCC Project Profile: from the Main Menu \(Top Navigation Bar\) select "**lccProject" **from the profile drop-down menu. 
+
+4. Fill out metadata information for the following tabs:
 
    * [Main Tab](/record/main/record-main-copy.md)
 
@@ -45,11 +45,11 @@ In mdEditor, contacts are created separately from individual records and then st
 
    * [Associated Tab](/record/main/associating-records.md)
 
-   * Documents Tab
+   * [Documents Tab](/record/main/documents-tab-projects.md)
 
    * [Funding Tab](/record/main/funding-tab.md)
 
-7. If applicable, [associate ](/record/main/associating-records.md)your project with other metadata records.
+5. If applicable, [associate](/record/main/associating-records.md) your project with other metadata records.
 
 ---
 
@@ -66,7 +66,6 @@ In mdEditor, contacts are created separately from individual records and then st
   * Identifier
   * Online Resource URI
   * Responsible Parties 
-    * Point of Contact
 * Description
   * Abstract
 * Time Period
@@ -75,14 +74,14 @@ In mdEditor, contacts are created separately from individual records and then st
 
 ### **Metadata Tab**
 
+* Metadata Status 
 * Metadata Contacts
 * Metadata Identifier
 * Parent Metadata
   * Title 
-* Identifier
-
   * Identifier
-  * Namespace
+    * Identifier
+    * Namespace
 
 * Metadata Repositories
 
@@ -91,11 +90,12 @@ In mdEditor, contacts are created separately from individual records and then st
 * ISO Topic Category
 * LCC Project Category 
 * LCC Deliverable Types
-* LCC End User TYpes
+* LCC End User Types
+* GCMD Keywords (Recommended)
 
 ### **Extent Tab**
 
-* Bounding Box
+* Geographic Extent
 
 ### **Funding Tab**
 
@@ -109,7 +109,6 @@ In mdEditor, contacts are created separately from individual records and then st
 * Time Period
   * Start Date
   * End Date
-  * Year 
   * Source
   * Amount 
 

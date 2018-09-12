@@ -48,5 +48,5 @@ The goals for these guidelines are:
 
 **LCC/CASC Co-funded Project**: LCC\(s\) and CASC\(s\) co-fund a project without distinct sub-projects.
 
-![](https://lh6.googleusercontent.com/JJ8rqLfBuc4NEoF9KxTtojXjrNVchQmcaDuXyU1WGG1g3IHT4GXl8oE0p74P6urP_mREnvjS1GZFgyue59jhQT7M8ok-Cop8Ru8qGQFKjUsY77tFLMtcBdpTLGyxA2d965bARVqz)_Figure: Protocol Decision Flow Chart_
+![](https://lh6.googleusercontent.com/JJ8rqLfBuc4NEoF9KxTtojXjrNVchQmcaDuXyU1WGG1g3IHT4GXl8oE0p74P6urP_mREnvjS1GZFgyue59jhQT7M8ok-Cop8Ru8qGQFKjUsY77tFLMtcBdpTLGyxA2d965bARVqz)_Figure 1: Protocol Decision Flow Chart_
 

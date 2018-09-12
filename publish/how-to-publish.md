@@ -71,7 +71,7 @@ _You** have **existing parent-child relationships on ScienceBase and/or you have
 
 You can drag and drop records to establish the parent-child relationship, eliminating the need to establish the relationship in ScienceBase. This will also allow you to move items around \(e.g., move a product from one project to another\) and have that change be reflected on ScienceBase. _Remember, this is only about parent-child relationships on ScienceBase, not about project-product associations._
 
-> Warning: If you do not want these parent IDs to change, **do not **drag and drop these records in the publishing outline.
+{% hint style='danger' %} If you do not want these parent IDs to change, **do not** drag and drop these records in the publishing outline.{% endhint %}
 
 #### **General Notes on Parent IDs:**
 
@@ -86,7 +86,7 @@ You can drag and drop records to establish the parent-child relationship, elimin
 
 1. To select a record to publish, click on it and it will turn green \(click again to un-select it\).
 
-   > info**:** You cannot publish a record without a parent ID. Sending a non-existent parent ID to ScienceBase will return an error. If your records contain parent IDs in the metadata, you can choose to publish products without publishing their associated projects at the same time.
+   {% hint style='info' %} You cannot publish a record without a parent ID. Sending a non-existent parent ID to ScienceBase will return an error. If your records contain parent IDs in the metadata, you can choose to publish products without publishing their associated projects at the same time.{% endhint %}
 
 2. mdEditor will publish your records sequentially, starting with the top record \(it will publish the project first, then the products nested below it\).
 

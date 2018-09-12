@@ -28,7 +28,7 @@ Enter as informative a title as possible. Good titles, when they appear in a sea
 
 ### Status \(Required\)
 
-The **Status **drop-down menu allows you to select the status of your project. Choose status ONLY from the four following options: c_ompleted, ongoing, proposed, or accepted._
+The **Status **drop-down menu allows you to select the status of your project. Choose status ONLY from the four following options: _completed, ongoing, proposed, or accepted._
 
 ![](/assets/main_screenshot_updated.png)
 
@@ -54,7 +54,7 @@ For projects, the Resource Type should be automatically filled in with the resou
 
 Adding a point of contact gives users information on who to contact should they have a question regarding your project or product. 
 
-> _To add contacts to a metadata record, you must first create/upload the contacts into mdEditor. See the _[_Contact _](/product-entry-guidance/contact-entry-guidance.md)_Section for more information._
+{% hint style='info' %} To add contacts to a metadata record, you must first create/upload the contacts into mdEditor. See the _[_Contact _](/product-entry-guidance/contact-entry-guidance.md)_Section for more information. {% endhint %}
 
 ### ** Contacts - Required: **
 
@@ -63,7 +63,7 @@ Adding a point of contact gives users information on who to contact should they 
 | pointOfContact | LCC Network Data Steward |
 | pointOfContact | Your LCC  |
 
-> Info: The LCC Network Data Steward will serve as the long term contact/backup. This way, users have a point-of-contact even if there is a positional change within an organization. The LCC Network Data Steward should be included in addition to any point of contact that you want to add from your organization
+{% hint style='info' %} The LCC Network Data Steward will serve as the long term contact/backup. This way, users have a point-of-contact even if there is a positional change within an organization. The LCC Network Data Steward should be included in addition to any point of contact that you want to add from your organization. {% endhint %}
 
 ### Contacts - Best Practices:
 
@@ -99,7 +99,7 @@ Enter _acquisition, creation, revision,_ or another date reference from the pick
 
 Responsible parties must include a point of contact, but may also include other responsible parties such as funders \(including your LCC\), partners, collaborators, and contributors. Collaborators could be intellectual participants while contributors could be intellectual and financial participants.
 
-> Info: To add contacts to a metadata record, you must first create/upload the contacts in mdEditor. See the [Contacts ](/contacts.md)section for more information.
+{% hint style='info' %} To add contacts to a metadata record, you must first create/upload the contacts in mdEditor. See the [Contacts ](/contacts.md)section for more information.{% endhint %}
 
 ##### Responsible Parties - Required:
 
@@ -122,9 +122,11 @@ Enter the Name and URL for the project homepage on your LCC website.
 
 Enter a unique identifier for your project or product.
 
-* **BEST MANAGEMENT PRACTICE: **Use the identifier that your LCC is already using, or create something unique that is easily identifiable. 
+{% hint style='tip' %} **Best Practice**: Use the identifier that your LCC is already using, or create something unique that is easily identifiable. {% endhint %}
 
-> **NOTE: **If you know your item's ScienceBase ID, you may add it here. If your item does not have a ScienceBase ID, ScienceBase will create one automatically upon publishing. If you edit an item that is already on ScienceBase without using its existing ID, a duplicate item will be created. Consult the [Publish](/publish.md) section of this manual to learn more.
+
+
+{% hint style='info' %}If you know your item's ScienceBase ID, you may add it here. If your item does not have a ScienceBase ID, ScienceBase will create one automatically upon publishing. If you edit an item that is already on ScienceBase without using its existing ID, a duplicate item will be created. Consult the [Publish](/publish.md) section of this manual to learn more.{% endhint %}
 
 The following identifiers are optional but you may add them:
 
@@ -143,7 +145,7 @@ The following identifiers are optional but you may add them:
 
 Enter an abstract that succinctly describes the project's purpose and goals. Include key species or habitats as well.
 
-> Tip: Write your project abstract in the present tense if the project is in progress and past tense if the project has been completed.
+{% hint style='tip' %}Tip: Write your project abstract in the present tense if the project is in progress and past tense if the project has been completed.{% endhint %}
 
 ### **Short Abstract **\(Optional\)
 
@@ -161,7 +163,7 @@ Enter comments, if desired.
 
 **Time Period** refers to project start and end date.
 
-> Note: this set of dates is distinct from the fiscal year of funding. Here you want to indicate the overall project start and end dates. In the Funding section you will specify the fiscal years that funds were allocated.
+{% hint style='tip' %} This set of dates is distinct from the fiscal year of funding. Here you want to indicate the overall project start and end dates. In the Funding section you will specify the fiscal years that funds were allocated.{% endhint %}
 
 ### Dates \(Required\)
 

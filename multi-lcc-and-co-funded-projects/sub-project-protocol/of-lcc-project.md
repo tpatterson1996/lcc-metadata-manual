@@ -16,7 +16,7 @@ Add the collaborating LCC\(s\) as a “collaborator” in the metadata for the L
 
 Add the collaborating LCC\(s\) as a “collaborator” in the metadata for the LCCs that participate.
 
-Note: the LCC funding the sub-project or distinct product is the “administrator” in the sub-project metadata and should be included as such according to standard metadata contact requirements.
+{% hint style='info' %}Note: the LCC funding the sub-project or distinct product is the “administrator” in the sub-project metadata and should be included as such according to standard metadata contact requirements.{% endhint %}
 
 ---
 
@@ -50,7 +50,7 @@ Enter the association type as described above, enter the resource type, plus cop
 
 If you are creating associations to other LCC items that have the Science Catalog tag, then those items will show up in the Science Catalog, as will your sub-projects and products.
 
-> info: If your sub-project falls underneath a CASC project, follow that protocol.
+{% hint style='info' %} If your sub-project falls underneath a CASC project, follow that [protocol](/multi-lcc-and-co-funded-projects/sub-project-protocol/of-casc-project.md).{% endhint %}
 
 ![](https://lh6.googleusercontent.com/QmZ7tg3tPDdE7mHKKMQtSF3gb85n89q7r5QckLwhgM8R7wz5cQECif1kJtm6TwkWUDnk7Zvs8Z3ykTYoZXedqDYUEePpzzvAhxfHi5lJr0kuMeUlxzvy68DWzyc-H2S-0vlde2WV)_Figure 1: Example entry of ScienceBase Identifier in mdEditor Associated tab._
 

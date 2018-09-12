@@ -47,7 +47,7 @@ ISO Topic List:
 17. transportation
 18. utilitiesCommunication
 
-> Tip: Biota and environment are probably the best fit for most LCC projects.
+{% hint style='info' %} Tip: Biota and environment are probably the best fit for most LCC projects. {% endhint %}
 
 #### LCC Project Category \(Required\)
 
@@ -102,7 +102,7 @@ LCC End User Types list:
 
 GCMD stands for Global Change Master Directory and these keywords are maintained by NASA. Look for useful keywords in the GCMD Science Keywords. There are GCMD Platforms and Instruments Keywords but they are unlikely to apply to LCCs.
 
-> Tip: Check the "Full Path" checkbox to save the full path of the keyword to your metadata. This will maintain the category and context of the specific keywords chosen.
+{% hint style='tip' %} Tip: Check the "Full Path" checkbox to save the full path of the keyword to your metadata. This will maintain the category and context of the specific keywords chosen.{% endhint %}
 
 ---
 
@@ -112,9 +112,10 @@ If any of your desired keywords do not appear in the existing thesauruses, you c
 
 You cannot add keywords to an existing thesaurus; you can only add keywords in a custom thesaurus.
 
-> Info: you cannot save a custom thesaurus in mdEditor.
+{% hint style='info' %} You cannot save a custom thesaurus in mdEditor.{% endhint %}
 
-> Tip: If you have a consistent set of keywords that you use across your LCC's projects, you could add these to a "template project" record in mdEditor and then modify the specific keywords you need for each project. See the workflow section for more info about using template records.
+
+{% hint style='tip' %} Tip: If you have a consistent set of keywords that you use across your LCC's projects, you could add these to a "template project" record in mdEditor and then modify the specific keywords you need for each project. See the workflow section for more info about using template records.{% endhint %}
 
 ---
 
@@ -124,7 +125,7 @@ You cannot add keywords to an existing thesaurus; you can only add keywords in a
 
 mdEditor uses the term "keywords" while ScienceBase uses the term "tags." 
 
-> Info**: **Keywords edited in mdEditor will not overwrite keywords stored in sbJSON on ScienceBase because ScienceBase only adds to the list of tags. If you do not want obsolete keywords/tags to show up on ScienceBase, you will need to manually delete in ScienceBase. mdJSON and the LCC Science Catalog, however, will reflect any changes made in mdEditor.
+{% hint style='info' %}Keywords edited in mdEditor will not overwrite keywords stored in sbJSON on ScienceBase because ScienceBase only adds to the list of tags. If you do not want obsolete keywords/tags to show up on ScienceBase, you will need to manually delete in ScienceBase. mdJSON and the LCC Science Catalog, however, will reflect any changes made in mdEditor.{% endhint %}
 
 ### Imported Keywords
 

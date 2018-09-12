@@ -17,7 +17,7 @@ Allocations describe where project funding came from, where and when it was dist
 
 A funding allocation represents a single fiscal year, source, and recipient.
 
-> Info: If you have two recipients in a single fiscal year, they need to be added as separate funding allocations.
+{% hint style='info' %} If you have two recipients in a single fiscal year, they need to be added as separate funding allocations.{% endhint %}
 
 ### Required Fields
 
@@ -53,7 +53,7 @@ Project funds or in-kind support that were supplied by a partner \(i.e., not spe
 
 For each allocation, enter the fiscal year that funds were awarded \(not the time span of the entire project\). There should be a single fiscal year for each allocation. Adding a time period lets users know when your items were funded, and lets them find your item when searching for items funded in a similar time period.
 
-> Info**: **If you put in a start and end date, mdEditor will calculate fiscal year based on the end date. Fiscal Year can be selected independently from start and end date.
+{% hint style='info' %}If you put in a start and end date, mdEditor will calculate fiscal year based on the end date. Fiscal Year can be selected independently from start and end date.{% endhint %}
 
 ![](/assets/Time_Period.png)
 

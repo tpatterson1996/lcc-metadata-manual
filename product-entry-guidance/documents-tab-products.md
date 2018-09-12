@@ -6,7 +6,7 @@ The **Documents** tab is where you can add references to resources that _relate_
 
 There are no LCC-specific requirements or best practices for documents.
 
-> Info: ScienceBase has a similar section called "weblinks." These will be populated in the Documents section if sbJSON is imported into mdEditor.
+{% hint style='info' %} ScienceBase has a similar section called "weblinks." These will be populated in the Documents section if sbJSON is imported into mdEditor.{% endhint %}
 
 ---
 
