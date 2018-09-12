@@ -54,7 +54,7 @@ For projects, the Resource Type should be automatically filled in with the resou
 
 Adding a point of contact gives users information on who to contact should they have a question regarding your project or product. 
 
-{% hint style='info' %} To add contacts to a metadata record, you must first create/upload the contacts into mdEditor. See the _[_Contact _](/product-entry-guidance/contact-entry-guidance.md)_Section for more information. {% endhint %}
+{% hint style='info' %} To add contacts to a metadata record, you must first create/upload the contacts into mdEditor. See the [Contact](/product-entry-guidance/contact-entry-guidance.md) Section for more information. {% endhint %}
 
 ### ** Contacts - Required: **
 
@@ -163,7 +163,7 @@ Enter comments, if desired.
 
 **Time Period** refers to project start and end date.
 
-{% hint style='tip' %} This set of dates is distinct from the fiscal year of funding. Here you want to indicate the overall project start and end dates. In the Funding section you will specify the fiscal years that funds were allocated.{% endhint %}
+{% hint style='info' %} This set of dates is distinct from the fiscal year of funding. Here you want to indicate the overall project start and end dates. In the Funding section you will specify the fiscal years that funds were allocated.{% endhint %}
 
 ### Dates \(Required\)
 

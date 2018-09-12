@@ -22,8 +22,8 @@ The underlying format of the metadata from mdEditor is mdJSON, which was created
 mdJSON files can be exported and imported via mdEditor's built-in [**Export** ](/data-management/export.md)and [**Import**](/data-management/import.md)** **functionality. The Export functionality allows you to back up and share your records between browsers. The Import functionality lets you load records into mdEditor, either from previously-saved mdEditor session, exported from another browser, or downloaded from ScienceBase.
 
 {% hint style='info' %}
-JSON = JavaScript Object Notation, an open source file format. mdEditor produces mdJSON. sbJSON is the specific format used by ScienceBase.
-{% endhint %}
+JSON = JavaScript Object Notation, an open source file format. mdEditor produces mdJSON. sbJSON is the specific format used by ScienceBase.{% endhint %}
+
 ---
 
 ## mdEditor File Management Strategies

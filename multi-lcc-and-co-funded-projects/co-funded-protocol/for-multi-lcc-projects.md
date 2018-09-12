@@ -6,7 +6,7 @@
 
 Refer to this protocol if:
 
-* One or more LCCs co-funds a project with one or more LCCs without distinct sub-projects that could be attributed to either LCC separately.
+* One or more LCCs co-funds a project with one or more LCCs and there are not distinct sub-projects that can be attributed to either LCC separately.
 
 ## Metadata Responsibility
 
@@ -25,6 +25,9 @@ Add the name of all funding LCCs as a “collaborator.”
 ## Main/Citation/Responsible Parties
 
 Add the name of all funding LCCs as a “collaborator.”
+
+{% hint style='info' %}The lead LCC should be listed as “administrator” and does not need to be added again as a “collaborator.”{% endhint %}
+
 
 ## Main/Abstract
 
@@ -51,6 +54,7 @@ Collaborating LCCs do not need to be listed here.
 Add a separate funding allocation for each year and each LCC that provided funding.
 
 1. The source should be U.S. Fish and Wildlife Service \(or other agency that provided LCC project funding such as Bureau of Reclamation\)
+
 2. Add the funding LCC as the “administrator” in the Other Contacts section \(see Figure 2 and 3\).
 
 ![](https://lh5.googleusercontent.com/FuzsddF2rFu5QQiRYIC7xLYOQrFWwHFoqIIMa0OuODOz52A3oSi1tAUUfh58HTjYmtKohXAGKwWfoKXdRXjol3J-A_zBCl6kddAGBjErEWIfSrSoYAkdmieraFzgSYR3jBwG0q26)_Figure 2: Example of mdEditor entry for funding allocation for an LCC. Here, the UMGL LCC administered the USFWS funds; a second funding entry would be added for each USFWS allocation administered by the co-funding LCCs._

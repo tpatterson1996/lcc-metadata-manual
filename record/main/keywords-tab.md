@@ -17,7 +17,9 @@ Adding keywords to your metadata record allows for the record to be found later 
 ## A**dd Keywords to your Project **
 
 1. Click “+ Add Thesaurus” on the right to add the different thesauruses.
+
 2. Add keywords from the following pre-populated thesauruses.
+
 3. If none of the keywords in the following categories are sufficient for tagging your project, you can add other keywords with a custom thesaurus \(see below for more information\).
 
 ### LCC Project Required Keywords
@@ -47,7 +49,7 @@ ISO Topic List:
 17. transportation
 18. utilitiesCommunication
 
-{% hint style='info' %} Tip: Biota and environment are probably the best fit for most LCC projects. {% endhint %}
+{% hint style='tip' %} Tip: Biota and environment are probably the best fit for most LCC projects. {% endhint %}
 
 #### LCC Project Category \(Required\)
 
@@ -102,7 +104,7 @@ LCC End User Types list:
 
 GCMD stands for Global Change Master Directory and these keywords are maintained by NASA. Look for useful keywords in the GCMD Science Keywords. There are GCMD Platforms and Instruments Keywords but they are unlikely to apply to LCCs.
 
-{% hint style='tip' %} Tip: Check the "Full Path" checkbox to save the full path of the keyword to your metadata. This will maintain the category and context of the specific keywords chosen.{% endhint %}
+{% hint style='tip' %}Best Practice: Check the "Full Path" checkbox to save the full path of the keyword to your metadata. This will maintain the category and context of the specific keywords chosen.{% endhint %}
 
 ---
 

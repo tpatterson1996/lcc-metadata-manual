@@ -124,5 +124,14 @@ Include the CASC weblinks and identifiers that you just entered in the mdEditor 
 
 The Distribution links are critical for providing access to the actual data/tool/etc.
 
+---
+## Notifying CASCs
+Enter your LCC/CASC co-funded Projects and Products on this [spreadsheet](https://docs.google.com/spreadsheets/d/1WBFGslnaqxlbcIJ-LmH4kRvobLkH166y58UpWw03rc8/edit?usp=sharing).
+
+Ideally enter items on the spreadsheet after you have completed the co-funded metadata requirements and published to ScienceBase. If you prefer to enter on this spreadsheet before you have completed those steps, be sure to indicate the status of your edits/publishing in the "LCC Edits" column.
+
+CASC data managers will refer to the spreadsheet so they know when to make edits on their end.
+
+
 
 

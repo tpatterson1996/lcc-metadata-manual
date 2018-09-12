@@ -80,7 +80,7 @@ Defines the location of the parent folder in ScienceBase.
 | :--- | :--- |
 | ScienceBase identifier for the parent item | scienceBase |
 
-{% hint style='tip' %}The ScienceBase identifier is the alphanumeric string in the item's URL immediately following "**item/". **For example, **59b97600e4b091459a54d9f3c **is the SBID for the item at the URL: [https://www.sciencebase.gov/catalog/item/59b97600e4b091459a54d9f3c](https://www.sciencebase.gov/catalog/item/59b97600e4b091459a54d9f3c){% endhint %}
+{% hint style='info' %}The ScienceBase identifier is the alphanumeric string in the item's URL immediately following "**item/". **For example, **59b97600e4b091459a54d9f3c **is the SBID for the item at the URL: [https://www.sciencebase.gov/catalog/item/59b97600e4b091459a54d9f3c](https://www.sciencebase.gov/catalog/item/59b97600e4b091459a54d9f3c){% endhint %}
 
 ##### 
 
@@ -92,10 +92,10 @@ Defines the location of the parent folder in ScienceBase.
 
 For projects that should be listed in the LCC Science Catalog: Select _“LCCScienceCatalog”_ from the repository list. _“LCC Network Science Catalog”_ should automatically show up as the collection title. If the collection title does not appear, stop and enter the correct information in [Settings](/settings.md). Then select the repository for your project. Projects without the correct tag and collection title will not show up in the Science Catalog.
 
-{% hint style='tip' %} The Metadata Repository and Collection Title must be exactly the same for each of your LCC's records with no variations in spelling, spaces, capitalization, etc. Specifying this information in Settings is the best way to ensure the repository information will be consistent across all of your records. It strongly recommended that you do not type these in by hand on individual metadata records.{% endhint %}
+{% hint style='info' %} The Metadata Repository and Collection Title must be exactly the same for each of your LCC's records with no variations in spelling, spaces, capitalization, etc. Specifying this information in Settings is the best way to ensure the repository information will be consistent across all of your records. It strongly recommended that you do not type these in by hand on individual metadata records.{% endhint %}
 
 
-{% hint style='tip' %} You would only use the data.gov repository for products.{% endhint %}
+{% hint style='info' %} You should only use the data.gov repository for products (projects are not sent to data.gov).{% endhint %}
 
 ---
 

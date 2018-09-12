@@ -4,9 +4,9 @@
 
 The **Associated** section is used to connect metadata records with each other. This feature should be used when items are related, for example, products are often the result of projects, and projects often have sub-projects. Projects and Products can be linked together by using association. Adding associations will give LCC staff the ability to find items that relate to each other in ScienceBase.
 
-> **NOTE:**  In ScienceBase **Associated Records **are referred to as **Item Associations. **
->
-> ---
+{% hint style='info' %} In ScienceBase, **Associated Records **are referred to as **Item Associations**.{% endhint %}
+
+---
 
 ## Create Associations
 

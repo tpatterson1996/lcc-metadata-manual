@@ -58,7 +58,7 @@ Manually associate the LCC/CASC project as a “subProject” relationship in th
 
 4. Enter the CASC as the “administrator” in the Responsible Parties section.
 
-5. Add the CASC ScienceBase item URL in the Online Resource field. This is important to provide discovery and access to items outside of the LCC Science Catalog \(see Figure 9\).
+5. Add the CASC ScienceBase item URL in the Online Resource field. This is important to provide discovery and access to items outside of the LCC Science Catalog.
 
 6. Add the ScienceBase Identifier of the CASC project.
 
@@ -72,7 +72,7 @@ The only associations that ScienceBase recognizes from mdJSON are parentProject/
 
 2. Click “Associate an Item” from the right side column of the ScienceBase page.
 
-3. Add a “subprojectOf” association to the CASC ScienceBase item \(see Figure 10 example\).
+3. Add a “subprojectOf” association to the CASC ScienceBase item.
 
 
 

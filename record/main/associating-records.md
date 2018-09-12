@@ -8,7 +8,7 @@ The **Associated** section is used to connect metadata records with each other. 
 
 
 
-{% hint style='info' %}Remember: Project-product associations are different than parent-child relationships on ScienceBase.{% endhint %}
+{% hint style='tip' %}Remember: Project-product associations are different than parent-child relationships on ScienceBase.{% endhint %}
 
 ---
 

@@ -1,4 +1,4 @@
-# LCC Metadata Manual
+__# LCC Metadata Manual
 
 ---
 
@@ -12,7 +12,7 @@ This manual describes the requirements and best practices for the creation of hi
 
 A metadata editing tool was created to support the metadata requirements for LCCs: mdEditor. This was an extension of an initiative by the [Alaska Data Integration Working Group](http://www.adiwg.org/about/) \([ADIwg](https://adiwg.gitbooks.io/mdeditor/content/GLOSSARY.html#adiwg)\) and adopted by the LCCs.
 
-_This manual refers to the creation of LCC metadata specifically_. If you want information on the creation of other metadata records using mdEditor, or more information in general, please refer to the [mdEditor User Manual](https://adiwg.gitbooks.io/mdeditor/content/).
+This manual refers to the creation of LCC metadata specifically. If you want information on the creation of other metadata records using mdEditor, or more information in general, please refer to the [mdEditor User Manual](https://adiwg.gitbooks.io/mdeditor/content/).
 
 ---
 

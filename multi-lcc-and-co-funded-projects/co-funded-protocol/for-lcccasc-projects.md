@@ -10,7 +10,7 @@ For projects and products that were co-funded with the CASCs, there are already 
 
 Refer to this protocol if:
 
-* One or more LCCs co-funds a project with one or more CASCs without distinct sub-parts that could be attributed to either an LCC or CASC. This protocol is for the project metadata.
+* One or more LCCs co-funds a project with one or more CASCs and there are not distinct sub-projects that can be attributed to an LCC or CASC separately. This protocol is for the project metadata.
 
 ## Metadata Responsibility
 
@@ -146,6 +146,14 @@ The only associations that ScienceBase recognizes from mdJSON are parentProject/
 ![](https://lh5.googleusercontent.com/s4tNZQxUK5yvtjEtAP-NWIKDvv1hY2IGjTxr7zHoDZnV931sZ9JRjLeHt4inqF0AIZSiHqjNM8-Ev30woD6tCngPnwG_CWnz2K-X8PBXOXLMqTTFtvOmId9C8WxdkAv-QxRBHSL4)
 
 ![](https://lh5.googleusercontent.com/FPfhTiqh2kFQ3B6MAawlBytGNKOkmlivoJBgL_Ehld7D1hSyR3EVF6V7eO_hZ5HB4eaq-WUPQ_kPWBIcAkyPTNTOLdSEZtJR0W5ROAWs0ylrLP_RQb_5zF0UEyCFuN4kDzdHT7Py)_Figure 5: Example of entering an association directly in ScienceBase. From the LCC project record, select “Associate an Item” and enter the SBID of the CASC project record and select “alternate” as the relationship type._
+
+---
+## Notifying CASCs
+Enter your LCC/CASC co-funded Projects and Products on this [spreadsheet](https://docs.google.com/spreadsheets/d/1WBFGslnaqxlbcIJ-LmH4kRvobLkH166y58UpWw03rc8/edit?usp=sharing).
+
+Ideally enter items on the spreadsheet after you have completed the co-funded metadata requirements and published to ScienceBase. If you prefer to enter on this spreadsheet before you have completed those steps, be sure to indicate the status of your edits/publishing in the "LCC Edits" column.
+
+CASC data managers will refer to the spreadsheet so they know when to make edits on their end.
 
 **                                
 **
