@@ -14,7 +14,7 @@ Title: Occurrence and variation in submersed aquatic vegetation \(SAV\) along th
 
 * LCC item: [https://www.sciencebase.gov/catalog/item/587e5cd5e4b0a765aab5ebab](https://www.sciencebase.gov/catalog/item/587e5cd5e4b0a765aab5ebab)
 
-* CASC item: [https://www.sciencebase.gov/catalog/item/5818f601e4b0bb36a4c90743](https://www.sciencebase.gov/catalog/item/5818f601e4b0bb36a4c90743)
+* CASC item: [https://www.sciencebase.gov/catalog/item/5012df8ce4b05140039e03c7](https://www.sciencebase.gov/catalog/item/5012df8ce4b05140039e03c7)
 
 ### Product Record
 
