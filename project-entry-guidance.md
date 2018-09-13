@@ -40,10 +40,10 @@ In mdEditor, contacts are created separately from individual records and then st
    * [Metadata Tab](/record/main/metadata-tab.md)
 
    * [Keywords Tab](/record/main/keywords-tab.md)
+   
+   * [Taxonomy Tab](record/main/taxonomy-tab-projects.md)
 
    * [Extent Tab](/record/main/extent-tab.md)
-
-   * [Associated Tab](/record/main/associating-records.md)
 
    * [Documents Tab](/record/main/documents-tab-projects.md)
 
@@ -53,7 +53,7 @@ In mdEditor, contacts are created separately from individual records and then st
 
 ---
 
-## Summary of Required Fields
+## Summary of Required Fields for Projects
 
 ### **Main Tab**
 
@@ -91,7 +91,11 @@ In mdEditor, contacts are created separately from individual records and then st
 * LCC Project Category 
 * LCC Deliverable Types
 * LCC End User Types
-* GCMD Keywords (Recommended)
+* GCMD Keywords (Best Practice)
+
+### Taxonomy Tab
+
+* Taxonomic classifications
 
 ### **Extent Tab**
 
@@ -103,14 +107,13 @@ In mdEditor, contacts are created separately from individual records and then st
   * Amount 
   * Currency 
   * Source 
-  * Recipient 
+  * Recipient
+  * Other Contacts 
   * Matching Funds
   * AwardID
 * Time Period
   * Start Date
   * End Date
-  * Source
-  * Amount 
 
 
 

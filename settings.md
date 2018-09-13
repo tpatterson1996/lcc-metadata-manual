@@ -28,7 +28,7 @@ Auto-Save allows you to save less frequently, but it makes it harder to undo cha
 
 _These must be implemented before you begin creating metadata records._
 
-**Metadata Repositories**: In the Default Section, add two metadata repositories.
+**Metadata Repositories**: In the Defaults Section, add two metadata repositories.
 
 1. Select **LCCScienceCatalog** from the Repository drop-down menu. Enter “LCC Network Science Catalog” as the collection title.
 2. Select **data.gov** from the Repository drop-down menu. For the collection title, enter "data.gov" followed by the LCC name without acronyms. For example "data.gov Great Northern Landscape Conservation Cooperative".
@@ -55,17 +55,16 @@ The following defaults will be pre-loaded:
 * default character set: UTF-8
 * default location: USA
 
-Also included in **Defaults** are the **Metadata Repositories** (an online database for storing metadata\). Once entered in **Settings** these can then be selected for projects and products so that they are flagged to a metadata repository of your choice. In the Default Selection of the Settings, click "Add Metadata Repository." For LCC metadata records, select **LCCScienceCatalog **from the Repository drop-down menu. If you wish to also add your items to data.gov, once again click "Add Metadata Repository" and select **data.gov** from the repository drop-down menu.
+Also included in **Defaults** are the **Metadata Repositories** (online databases for storing metadata\). Once entered in **Settings** these can then be selected for projects and products so that they are flagged to a metadata repository of your choice. See [LCC Specific Settings](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/settings.html#lcc-specific-settings) for Metadata Repository information.
 
 ---
 
 ## Publishing Settings
 
-Items can be published to an online repository such as ScienceBase.
+LCC metadata will be published directly to ScienceBase (and from there be sent to the Science Catalog and data.gov). 
 
-In the **Default Parent Identifier**, enter the repository's parent ID. You may also enter the **Default Community** and **Default Organization**.
+In the **Default Parent Identifier**, enter your LCC's ScienceBase project folder's ScienceBase ID (SBID). **Default Community** and **Default Organization** are free text fields to describe where your Default Parent Identifier is located.
 
-For LCC Metadata enter your LCC's ScienceBase project folder's identifier in the "Default Parent Identifier" field.
 
 ![](/assets/publishing_settings.png)
 

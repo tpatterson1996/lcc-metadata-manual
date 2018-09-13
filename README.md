@@ -2,7 +2,7 @@
 
 ---
 
-_Note: This is a working draft that will continue to be edited. Last updated: 12 September 2018_
+_Note: This is a working draft that will continue to be edited. Last updated: 17 October 2018_
 
 ## Introduction
 

@@ -18,7 +18,7 @@ mdEditor can also be accessed from its homepage at [https://www.mdeditor.org/](h
 
 ### **Step 3: **[**Import**](/data-management/import/mdjson.md)** mdEditor file\(s\).**
 
-Import the mdEditor file\(s\) that you wish to edit.
+Import the mdEditor file\(s\) that you wish to edit. Remember, once you have edited and published metadata from mdEditor, you must always use mdEditor to update the metadata (rather than make changes directly on ScienceBase). The Science Catalog will only update based on what is in mdJSON (and not sbJSON).
 
 ### Step 4: Check the [**Settings**](/settings.md).** **
 
@@ -46,7 +46,7 @@ If you created a new product for your project, then associate those records in m
 
 ### **Step 10: **[**Publish **](/publish.md)**your records to ScienceBase.**
 
-Check that your record published where expected and that the mdJSON and xml files are attached to the SB Item. Your records should publish to their existing locations. If you added a new product to a project, then it should appear as a child item to the project.
+Check that your record published where expected and that the mdJSON and xml files are attached to the SB Item. Your records should publish to their existing locations. If you added a new product to a project, then it should appear as a new child item to the project.
 
 ### **Step 11: **[**Export**](/data-management.md)** your records and contacts for backup, transfer, or sharing.**
 
@@ -55,4 +55,7 @@ You may want to export working backups before publishing depending on your situa
 ### Step 12: Review the resulting entries in the [LCC Science Catalog](https://lccnetwork.org/catalog).
 
 The Science Catalog updates overnight so you should review newly-published records the day after you publish to ScienceBase. This will be one of your best quality control checks.
+
+### Step 13: Consult with the different QA/QC Resources.
+See the [QA/QC Resources](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/metadata-improvements/qaqc-fixes/dj-case-qaqc-list.html#) page for the different tools available to check your metadata.
 
