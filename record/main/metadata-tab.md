@@ -4,23 +4,23 @@
 
 The Metadata tab describes your project's metadata, including a description that outlines the process of metadata creation, contributors to the creation of the metadata, and metadata repositories.
 
-| **Quick Reference: Required Metadata Sections** |
-| :--- |
-| Basic Information: Metadata Status, Dates \(Recommended\) |
-| Metadata Contacts \(Required\) |
-| Metadata Identifier \(Required\) |
-| Parent Metadata \(Required\) |
-| Metadata Repositories \(Required\) |
+| Quick Reference: Metadata Tab | Required? |
+| :--- |:--- |
+| Basic Information: Metadata Status, Dates |Best Practice|
+| Metadata Contacts |Required |
+| Metadata Identifier |Required |
+| Parent Metadata |Required |
+| Metadata Repositories |Required |
 
 ---
 
 ## **Basic Information**
 
-### **Metadata Status \(Recommended\)**
+### **Metadata Status \(Best Practice\)**
 
 Select the appropriate status of the creation of your metadata from the drop down menu._ For example, if you have added all of your metadata, select "completed." If you still have metadata to add, select "onGoing."_
 
-### **Dates \(Recommended\)**
+### **Dates \(Best Practice\)**
 
 Add at least one date. Recommended are "creation" \(when you first created your metadata\) and "lastUpdate" \(when you updated metadata after initial publication\).
 
@@ -30,28 +30,25 @@ Add at least one date. Recommended are "creation" \(when you first created your 
 
 **Metadata Contacts **are required. Adding a metadata contact will give users a contact point should they have any questions about the metadata._ _
 
-### Metadata Contacts - Required:
+### Metadata Contacts:
 
-| Role | Contact |
-| :--- | :--- |
-| author | At least one is required. See notes below. |
+| Role | Contact | Required? | 
+| :--- | :--- |:--- |
+| author | |At least one is required. See notes below. |
+| publisher | In most cases, this will be the LCC | Best Practice |
+| pointOfContact | LCC Network Data Steward | Required |
+
+
 
 * The author does not necessarily have to be the LCC \(e.g., imported FGDC metadata can list the original author\).
 * "Author" can be an individual or an organization.
 * You can enter your LCC data manager as the “author”. If you prefer, you can use a generic data manager contact rather than an individual name.
 
-### Metadata Contacts - Best Practices:
-
-| Role | Contact |
-| :--- | :--- |
-| publisher | In most cases, this will be the LCC |
-| pointOfContact | LCC Network Data Steward |
-
 ---
 
 ## Metadata Identifier
 
-The **Metadata** **Identifier **is automatically populated by mdEditor. The metadata identifier gives each of your projects and products a unique ID and differentiates them from other similar projects and products.
+The **Metadata Identifier** is automatically populated by mdEditor. The metadata identifier gives each of your projects and products a unique ID and differentiates them from other similar projects and products.
 
 * If the record was imported from ScienceBase, the Metadata Identifier will be auto-populated with the ScienceBase ID \(SBID\).
 * If the record was created in mdEditor, it will generate a universally unique identifier \(UUID\).
@@ -88,7 +85,7 @@ Defines the location of the parent folder in ScienceBase.
 
 ## **Metadata Repositories**
 
-**Metadata Repositories **indicate where the metadata will be sent.
+**Metadata Repositories **indicate where the metadata will be sent upon publishing.
 
 For projects that should be listed in the LCC Science Catalog: Select _“LCCScienceCatalog”_ from the repository list. _“LCC Network Science Catalog”_ should automatically show up as the collection title. If the collection title does not appear, stop and enter the correct information in [Settings](/settings.md). Then select the repository for your project. Projects without the correct tag and collection title will not show up in the Science Catalog.
 

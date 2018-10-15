@@ -4,13 +4,13 @@
 
 Adding keywords to your metadata record allows for the record to be found later through a search engine, keywords are the way to tag your projects or products. The mdEditor is designed using thesauruses that contain pre-determined keywords. There are three LCC-specific thesauruses that provide These thesauruses create a 'controlled vocabulary' so that all LCC metadata can adhere to the same standards, and future search results can return clear results of projects and products.
 
-| Quick Reference: Required Thesauruses for LCC Projects |
-| :--- |
-| ISO Topic Category \(Required\) |
-| LCC Project Category \(Required\) |
-| LCC Deliverable Types \(Required\) |
-| LCC End User Types \(Required\) |
-| GCMD Keywords \(Recommended\) |
+| Quick Reference: Thesauruses for LCC Projects | Required?|
+| :--- |:--- |
+| ISO Topic Category |Required |
+| LCC Project Category |Required |
+| LCC Deliverable Types |Required |
+| LCC End User Types |Required |
+| GCMD Keywords |Best Practice|
 
 ---
 
@@ -100,7 +100,7 @@ LCC End User Types list:
 11. State agencies
 12. Tribes
 
-#### GCMD Keywords \(Recommended\)
+#### GCMD Keywords \(Best Practice\)
 
 GCMD stands for Global Change Master Directory and these keywords are maintained by NASA. Look for useful keywords in the GCMD Science Keywords. There are GCMD Platforms and Instruments Keywords but they are unlikely to apply to LCCs.
 

@@ -4,15 +4,14 @@
 
 The **Main **tab allows for the creation and/or editing of primary metadata.
 
-| Quick Reference: Required Sections |
-| :--- |
-| Basic Information: Title, Status \(Required\) |
-| Default Locale \(Required\) |
-| Resource Type \(Required\) |
-| Point of Contact \(Required\) |
-| Citation: Dates, Responsible Parties, Online Resource, Identifier \(Required\) |
-| Description: Abstract \(Required\) |
-| Time Period \(Required\) |
+| Quick Reference: Main Tab Fields | Required? |
+| :--- |:--- |
+| Basic Information: Title, Status |Required |
+| Resource Type |Required |
+| Point of Contact |Required |
+| Citation: Dates, Responsible Parties, Online Resource, Identifier |Required |
+| Description: Abstract |Required |
+| Time Period |Required |
 
 ---
 
@@ -56,20 +55,20 @@ Adding a point of contact gives users information on who to contact should they 
 
 {% hint style='info' %} To add contacts to a metadata record, you must first create/upload the contacts into mdEditor. See the [Contact](/product-entry-guidance/contact-entry-guidance.md) Section for more information. {% endhint %}
 
-### ** Contacts - Required: **
+### ** Contacts: **
 
-| Role | Contact |
-| :--- | :--- |
-| pointOfContact | LCC Network Data Steward |
-| pointOfContact | Your LCC  |
+| Role | Contact |Required?|
+| :--- | :--- |:--- |
+| pointOfContact | LCC Network Data Steward |Required|
+| pointOfContact | Your LCC  | Required |
+| principalInvestigator | The Project PI | Best Practice|
+
+
+
+
 
 {% hint style='info' %} The LCC Network Data Steward will serve as the long term contact/backup. This way, users have a point-of-contact even if there is a positional change within an organization. The LCC Network Data Steward should be included in addition to any point of contact that you want to add from your organization. {% endhint %}
 
-### Contacts - Best Practices:
-
-| Role | Contact |
-| :--- | :--- |
-| principalInvestigator | The Project PI |
 
 
 
@@ -79,7 +78,7 @@ Adding a point of contact gives users information on who to contact should they 
 
 ## Citation
 
-**The Citation **describes pertinent information about your project such as: responsible parties, internal and ScienceBase identifiers, and any online resources that may relate to your item. Adding information in the citation will also improve users' abilities to find your items.
+**The Citation **describes pertinent information about your project such as: responsible parties, internal and ScienceBase identifiers, and any online resources that may relate to your item. Adding information in the citation will also improve users' ability to find your items.
 
 ### Citation Required Fields
 
@@ -89,7 +88,7 @@ The citation title is automatically populated with the title of your record.
 
 #### **Alternate Title **\(Optional\)
 
-Add an alternate title.
+You can add an alternate title if desired - generally these should be shorter than the full Title.
 
 #### **Dates **\(Optional\)
 
@@ -101,18 +100,15 @@ Responsible parties must include a point of contact, but may also include other 
 
 {% hint style='info' %} To add contacts to a metadata record, you must first create/upload the contacts in mdEditor. See the [Contacts ](/contacts.md)section for more information.{% endhint %}
 
-##### Responsible Parties - Required:
+##### Responsible Parties :
 
-| Role | Contact |
-| :--- | :--- |
-| pointofContact | LCC Network Data Steward |
-| administrator | Your LCC |
+| Role | Contact | Required? |
+| :--- | :--- | :--- |
+| pointofContact | LCC Network Data Steward | Required |
+| administrator | Your LCC | Required |
+| principalInvestigator | The Project PI | Best Practice|
 
-##### Responsible Parties - Best Practices:
 
-| Role | Contact |
-| :--- | :--- |
-| principalInvestigator | The Project PI |
 
 #### **Online Resource** \(Required, if available\)
 
@@ -120,13 +116,13 @@ Enter the Name and URL for the project homepage on your LCC website.
 
 #### **Identifier**
 
-Enter a unique identifier for your project or product.
+Enter a unique identifier for your project or product. If 
 
 {% hint style='tip' %} **Best Practice**: Use the identifier that your LCC is already using, or create something unique that is easily identifiable. {% endhint %}
 
 
 
-{% hint style='info' %}If you know your item's ScienceBase ID, you may add it here. If your item does not have a ScienceBase ID, ScienceBase will create one automatically upon publishing. If you edit an item that is already on ScienceBase without using its existing ID, a duplicate item will be created. Consult the [Publish](/publish.md) section of this manual to learn more.{% endhint %}
+{% hint style='info' %}If you know your item's ScienceBase ID, add it here. If your item does not have a ScienceBase ID yet, ScienceBase will create one automatically upon publishing. If you edit an item that is already on ScienceBase without using its existing ID, a duplicate item will be created on ScienceBase. Consult the [Publish](/publish.md) section of this manual to learn more.{% endhint %}
 
 The following identifiers are optional but you may add them:
 

@@ -58,4 +58,8 @@
 * [Help](help.md)
 * [Glossary of Terms](GLOSSARY.md)
 * [Documentation Guide](appendices/documentation-guide.md)
+* [Metadata Improvements](metadata-improvements.md)
+  * [QA/QC Fixes](metadata-improvements/qaqc-fixes.md)
+  * [New Required Improvements](metadata-improvements/new-required-improvements.md)
+  * [Optional Improvements](metadata-improvements/optional-improvements.md)
 

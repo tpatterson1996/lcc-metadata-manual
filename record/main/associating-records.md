@@ -18,9 +18,9 @@ There are two ways to create associations. You can either associate a product wi
 
 | Quick Reference: Creating an Association in Projects |
 | :--- |
-| Select **product** from the Association Type drop-down menu. |
-| Use the _Select a Record_ button to select an associated product. |
-| Choose the product that you would like to associate to from the "Select a Resource" list. |
+| 1. Select **product** from the Association Type drop-down menu. |
+| 2. Use the _Select a Record_ button to select an associated product. |
+| 3. Choose the product that you would like to associate to from the "Select a Resource" list. |
 
 ---
 

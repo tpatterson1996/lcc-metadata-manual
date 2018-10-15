@@ -4,10 +4,12 @@
 
 Tracking funding in the metadata allows for identification of funding sources, comparison, and aggregation across all LCCs.
 
-| **Quick Reference: Required Sections** |
-| :--- |
-| Allocation, including Award ID, Amount, Source, Recipient, and Matching Funds \(Required\) |
-| Time Period \(fiscal year of allocation\) \(Required\) |
+| **Quick Reference: Funding Tab** | Required?|
+| :--- |:--- |
+| Allocation, including Award ID, Amount, Source, Recipient  | Required |
+| Funding Administrator | *New Required Metadata Improvement|
+| Matching Funds, including Amount, Source, Recipient | Best Practice |
+| Time Period \(fiscal year of allocation\) | Required |
 
 ---
 
