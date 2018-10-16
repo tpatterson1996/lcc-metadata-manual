@@ -28,6 +28,7 @@
 * [Product Entry Guidance](product-entry-guidance.md)
   * [Main Tab: Product](product-entry-guidance/main-tab-product.md)
   * [Metadata Tab: Product](product-entry-guidance/metadata-tab-product.md)
+    * [data.gov Guidance](product-entry-guidance/metadata-tab-product/datagov-guidance.md)
   * [Keyword Tab: Product](product-entry-guidance/keyword-tab-product.md)
   * [Lineage Tab: Product](product-entry-guidance/lineage.md)
   * [Distribution Tab: Product](distribution.md)

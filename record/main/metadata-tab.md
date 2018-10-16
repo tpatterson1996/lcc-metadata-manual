@@ -4,7 +4,7 @@
 
 The Metadata tab describes your project's metadata, including a description that outlines the process of metadata creation, contributors to the creation of the metadata, and metadata repositories.
 
-| Quick Reference: Metadata Tab | Required? |
+| Quick Reference: Project Metadata Tab | Required? |
 | :--- |:--- |
 | Basic Information: Metadata Status, Dates |Best Practice|
 | Metadata Contacts |Required |

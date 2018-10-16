@@ -4,7 +4,7 @@
 
 **Extent** refers to geographic boundaries for your project. Spatial extents lets users see at a glance the geographic footprint of your project and allows searching within specific geographic areas.
 
-| Quick Reference: Extents for LCC Projects | Required?|
+| Quick Reference: Project Extent Tab | Required?|
 | :--- |:--- |
 | Extent |Required (*New Required Metadata Improvement) |
 

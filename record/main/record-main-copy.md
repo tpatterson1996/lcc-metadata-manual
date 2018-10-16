@@ -4,7 +4,7 @@
 
 The **Main **tab allows for the creation and/or editing of primary metadata.
 
-| Quick Reference: Main Tab Fields | Required? |
+| Quick Reference: Project Main Tab | Required? |
 | :--- |:--- |
 | Basic Information: Title, Status |Required |
 | Resource Type |Required |

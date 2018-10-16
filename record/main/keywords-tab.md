@@ -4,7 +4,7 @@
 
 Adding keywords to your metadata record allows for the record to be found later through a search engine, keywords are the way to tag your projects or products. The mdEditor is designed using thesauruses that contain pre-determined keywords. There are three LCC-specific thesauruses that provide These thesauruses create a 'controlled vocabulary' so that all LCC metadata can adhere to the same standards, and future search results can return clear results of projects and products.
 
-| Quick Reference: Thesauruses for LCC Projects | Required?|
+| Quick Reference: Project Keywords Tab | Required?|
 | :--- |:--- |
 | ISO Topic Category |Required |
 | LCC Project Category |Required |
