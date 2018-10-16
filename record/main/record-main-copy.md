@@ -100,7 +100,7 @@ Responsible parties must include a point of contact, but may also include other 
 
 {% hint style='info' %} To add contacts to a metadata record, you must first create/upload the contacts in mdEditor. See the [Contacts ](/contacts.md)section for more information.{% endhint %}
 
-##### Responsible Parties :
+##### Responsible Parties 
 
 | Role | Contact | Required? |
 | :--- | :--- | :--- |
@@ -110,17 +110,15 @@ Responsible parties must include a point of contact, but may also include other 
 
 
 
-#### **Online Resource** \(Required, if available\)
+#### Online Resource \(Required, if available\)
 
 Enter the Name and URL for the project homepage on your LCC website.
 
-#### **Identifier**
+#### Identifier (Best Practice)
 
-Enter a unique identifier for your project or product. If 
+You may enter as many identifiers as desired. If you have internal LCC-specific IDs for projects, enter them here. If you do not enter an identifier, mdEditor will generate a UUID for the record. 
 
-{% hint style='tip' %} **Best Practice**: Use the identifier that your LCC is already using, or create something unique that is easily identifiable. {% endhint %}
-
-
+{% hint style='tip' %} **Best Practice**: Create and use internal identifiers that are unique within your LCC for projects and their products. Example: GNLCC2010-11. {% endhint %}
 
 {% hint style='info' %}If you know your item's ScienceBase ID, add it here. If your item does not have a ScienceBase ID yet, ScienceBase will create one automatically upon publishing. If you edit an item that is already on ScienceBase without using its existing ID, a duplicate item will be created on ScienceBase. Consult the [Publish](/publish.md) section of this manual to learn more.{% endhint %}
 
