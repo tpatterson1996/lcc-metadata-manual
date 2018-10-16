@@ -2,7 +2,9 @@
 
 ---
 
-## Identifiers
+## Optional Metadata Improvements 
 
-Add Digital Object Identifiers \(DOIs\) \(if have access to a DOI generator - we will not have an LCC account available for this\).
+### Identifiers
+
+(1) Add Digital Object Identifiers \(DOIs\) \(if have access to a DOI generator - we will not have an LCC account available for this\).
 

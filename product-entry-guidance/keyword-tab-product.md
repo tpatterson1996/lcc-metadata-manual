@@ -9,12 +9,11 @@ Adding keywords to your metadata record allows for the record to be found later 
 | ISO Topic Category | Required |
 | LCC End User Types |Required (*New Required Metadata Improvement) |
 | GCMD Keywords | Best Practice|
-
-
+| Taxonomy Keywords | Best Practice (*New Optional Metadata Improvement)|
 
 ---
 
-## **To add Keywords to your Metadata Record**
+## To add Keywords to your Metadata Record
 
 1. Click “+ Add Thesaurus” on the right to add the different thesauruses.
 
@@ -77,9 +76,12 @@ GCMD stands for Global Change Master Directory and these keywords are maintained
 
 {% hint style='tip' %}Best Practice: Check the "Full Path" checkbox to save the full path of the keyword to your metadata. This will maintain the category and context of the specific keywords chosen.{% endhint %}
 
+#### Taxonomy Keywords (Best Practice)
+This is new functionality in mdEditor (as of October 2018).
+
 ---
 
-## **Custom Thesaurus **
+## Custom Thesaurus
 
 If any of your desired keywords do not appear in the existing thesauruses, you can add them via the custom thesaurus. Use a custom thesaurus only for keywords that are not available in an existing thesaurus. For example, if a certain end user type is not available in the LCC End User Types thesaurus, you can add the type using the custom thesaurus.
 

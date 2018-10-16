@@ -24,7 +24,7 @@ The **Main **tab allows for the creation and/or editing of primary metadata.
 ### Record ID (Required)
 Will be auto-generated but can be edited.
 
-###Title (Required)
+### Title (Required)
 Enter as informative a title as possible. Good titles, when they appear in a search, will be understood and/or traceable.
 
 ### Status (Required)
@@ -44,7 +44,7 @@ The **Status** drop-down menu allows you to select the status of your product. C
 
 ## Resource Types (Required)
 
-The Resource Type should be automatically filled in with the resource type you selected when you created your record.   Name is optional - you can leave this blank.
+The Resource Type should be automatically filled in with the resource type you selected when you created your record. Name is optional - you can leave this blank.
 
 
 {% hint style='info' %} Products must have a specific resource type selected (not just "product"). {% endhint %}
@@ -142,7 +142,7 @@ Enter comments, if desired.
 
 ---
 
-## **Time Period**
+## Time Period
 
 **Time Period** refers to project start and end date, or the date that the product was applicable \(e.g., time that a map is valid, date of publication, date of presentation\).
 
@@ -150,7 +150,7 @@ Enter comments, if desired.
 
 ![](/assets/time_period.png)
 
-> For more information, consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the mdEditor manual.
+> For more information, consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html) section of the mdEditor manual.
 
 
 

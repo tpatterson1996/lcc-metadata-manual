@@ -13,7 +13,7 @@ Tracking funding in the metadata allows for identification of funding sources, c
 
 ---
 
-## Funding **Allocations**
+## Funding Allocations
 
 Allocations describe where project funding came from, where and when it was distributed, and amounts. Science Catalog users can search by specific fiscal year, funders, or recipients.
 
@@ -25,23 +25,23 @@ A funding allocation represents a single fiscal year, source, and recipient.
 
 For each funding allocation, the following fields should be filled out.
 
-#### **Award ID** \(Required if one exists\)
+#### Award ID \(Required if one exists\)
 
 You are required to include Award ID numbers if they exist for his is required if one exists. Award IDs include grant or cooperative agreement numbers, contract numbers, or inter-agency agreement numbers. Inclusion of Award IDs allows
 
-#### **Amount **\(Required\)
+#### Amount \(Required\)
 
 Enter the amount of funding.
 
-#### **Source \(Required\)**
+#### Source \(Required\)
 
 Add the relevant contact for the “source” of the project funding. Should be an organization, not an individual. For LCC projects, the most common sources are U.S. Fish and Wildlife Service, Bureau of Land Management, and Bureau of Reclamation
 
-#### **Recipient **\(Required\)
+#### Recipient \(Required\)
 
 Add the relevant contact for the “recipient” of the project funding. Recipient should always be an organization, not an individual. For example, the Principal Investigator would not be listed as the recipient, but their organization would be. If there are multiple recipients for a project, they need to be added as separate allocations.
 
-#### **Matching and In-kind Funds**
+#### Matching and In-kind Funds
 
 Project funds or in-kind support that were supplied by a partner \(i.e., not specifically allocated to an LCC\) should be included as an allocation with the matching fund box checked. Each matching fund provider needs to be included as a separate allocation.
 

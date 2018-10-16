@@ -2,7 +2,10 @@
 
 ---
 
-**Distribution **provides documentation on how or where users can obtain products. Distribution methods may include online options \(e.g., website, database\) or offline options \(e.g., delivery via mail, library\).
+**Distribution** provides documentation on how or where users can obtain products. Distribution methods may include online options \(e.g., website, database\) or offline options \(e.g., delivery via mail, library\).
+
+{% hint style='info' %}An online distribution link is required for any products sent to data.gov.{% endhint %}
+
 
 ---
 

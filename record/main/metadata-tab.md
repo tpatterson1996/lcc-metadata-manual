@@ -14,23 +14,21 @@ The Metadata tab describes your project's metadata, including a description that
 
 ---
 
-## **Basic Information**
+## Basic Information
 
-### **Metadata Status \(Best Practice\)**
+### Metadata Status \(Best Practice\)
 
-Select the appropriate status of the creation of your metadata from the drop down menu._ For example, if you have added all of your metadata, select "completed." If you still have metadata to add, select "onGoing."_
+Select the appropriate status of the creation of your metadata from the drop down menu. _For example, if you have added all of your metadata, select "completed." If you still have metadata to add, select "onGoing."_
 
-### **Dates \(Best Practice\)**
+### Dates \(Best Practice\)
 
 Add at least one date. Recommended are "creation" \(when you first created your metadata\) and "lastUpdate" \(when you updated metadata after initial publication\).
 
 ---
 
-## **Metadata Contacts**
+## Metadata Contacts
 
-**Metadata Contacts **are required. Adding a metadata contact will give users a contact point should they have any questions about the metadata._ _
-
-### Metadata Contacts:
+**Metadata Contacts** are required. Adding a metadata contact will give users a contact point should they have any questions about the metadata._ _
 
 | Role | Contact | Required? | 
 | :--- | :--- |:--- |
@@ -44,6 +42,8 @@ Add at least one date. Recommended are "creation" \(when you first created your 
 * "Author" can be an individual or an organization.
 * You can enter your LCC data manager as the “author”. If you prefer, you can use a generic data manager contact rather than an individual name.
 
+
+
 ---
 
 ## Metadata Identifier
@@ -53,9 +53,11 @@ The **Metadata Identifier** is automatically populated by mdEditor. The metadata
 * If the record was imported from ScienceBase, the Metadata Identifier will be auto-populated with the ScienceBase ID \(SBID\).
 * If the record was created in mdEditor, it will generate a universally unique identifier \(UUID\).
 
+{% hint style='danger' %} Once a Metadata Identifier is created in the metadata, do not change it. mdEditor uses the Metadata Identifier to connect records and changing the Metadata Identifier can break those connections. If there are additional identifiers you want to include in your metadata record, include them in [Main/Citation/Identifier](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/record/main/record-main-copy.html#identifier) {% endhint %}
+
 ---
 
-## **Parent Metadata **
+## Parent Metadata 
 
 **Parent Metadata** defines the ScienceBase folder in which the project will be published. The parent metadata tells mdEditor where the project metadata should go when it is published to ScienceBase.
 
@@ -65,11 +67,11 @@ If you created the project metadata from scratch in mdEditor, you need to enter 
 
 ### Parent Metadata Required Fields:
 
-#### **Title **\(Required\)
+#### Title \(Required\)
 
 If this is not already populated, you can enter something like "Parent folder."
 
-#### **Identifier **\(Required\)
+#### Identifier \(Required\)
 
 Defines the location of the parent folder in ScienceBase.
 
@@ -83,9 +85,9 @@ Defines the location of the parent folder in ScienceBase.
 
 ---
 
-## **Metadata Repositories**
+## Metadata Repositories
 
-**Metadata Repositories **indicate where the metadata will be sent upon publishing.
+**Metadata Repositories** indicate where the metadata will be sent upon publishing.
 
 ### LCC Science Catalog
 

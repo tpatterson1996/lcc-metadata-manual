@@ -21,9 +21,9 @@ Select the appropriate status of the creation of your metadata from the drop-dow
 
 ---
 
-## **Metadata Contacts**
+## Metadata Contacts
 
-**Metadata Contacts **are required and selected from your list of contacts. Adding a metadata contact will give LCC staff a contact point should they have any questions about the metadata.
+**Metadata Contacts** are required and selected from your list of contacts. Adding a metadata contact will give LCC staff a contact point should they have any questions about the metadata.
 
 | Role | Contact | Required? | 
 | :--- | :--- |:--- |
@@ -50,7 +50,7 @@ The **Metadata Identifier** is automatically populated by mdEditor. The metadata
 
 ---
 
-## **Parent Metadata **
+## Parent Metadata 
 
 **Parent Metadata** defines the ScienceBase folder in which the product will be published. The parent metadata tells mdEditor where the product metadata should go when it is published to ScienceBase.
 
@@ -58,11 +58,11 @@ If you imported the product metadata from ScienceBase originally, this section w
 
 If you created the product metadata from scratch in mdEditor, you need to enter the appropriate parent item ScienceBase ID. This is most likely the folder for the project that this product originated from.
 
-#### **Title **\(Required\)
+#### Title \(Required\)
 
 If this is not already populated, you can enter something like "Parent folder."
 
-#### **Identifier **\(Required\)
+#### Identifier \(Required\)
 
 Defines the location of the parent folder in ScienceBase.
 
@@ -70,11 +70,11 @@ Defines the location of the parent folder in ScienceBase.
 | :--- | :--- |
 | ScienceBase identifier for the parent item | scienceBase |
 
-{% hint style='info' %}The ScienceBase identifier is the alphanumeric string in the item's URL immediately following "**item/". **For example, **59b97600e4b091459a54d9f3c **is the SBID for the item at the URL: [https://www.sciencebase.gov/catalog/item/59b97600e4b091459a54d9f3c](https://www.sciencebase.gov/catalog/item/59b97600e4b091459a54d9f3c){% endhint %}
+{% hint style='info' %}The ScienceBase identifier is the alphanumeric string in the item's URL immediately following "**item/**". For example, **59b97600e4b091459a54d9f3c** is the SBID for the item at the URL: [https://www.sciencebase.gov/catalog/item/59b97600e4b091459a54d9f3c](https://www.sciencebase.gov/catalog/item/59b97600e4b091459a54d9f3c){% endhint %}
 
 ---
 
-## **Metadata Repositories**
+## Metadata Repositories
 
 **Metadata Repositories** indicate where the metadata will be sent upon publishing. 
 

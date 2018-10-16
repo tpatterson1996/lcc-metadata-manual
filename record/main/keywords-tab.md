@@ -14,7 +14,7 @@ Adding keywords to your metadata record allows for the record to be found later 
 
 ---
 
-## A**dd Keywords to your Project **
+## Add Keywords to your Project 
 
 1. Click “+ Add Thesaurus” on the right to add the different thesauruses.
 
@@ -22,9 +22,11 @@ Adding keywords to your metadata record allows for the record to be found later 
 
 3. If none of the keywords in the following categories are sufficient for tagging your project, you can add other keywords with a custom thesaurus \(see below for more information\).
 
-### LCC Project Required Keywords
+---
 
-#### ISO Topic Category \(Required\)
+## LCC Project Required Keywords
+
+### ISO Topic Category \(Required\)
 
 Because mdJSON metadata is based on the ISO \(International Organization for Standardization\) metadata standard, all LCC projects must select at least one ISO Topic Category. ISO topics were generally meant for spatial data so they might be a bit of a stretch, bu do your best to find the best fit. mdEditor provides definitions of each ISO topic category if you hover over the ? icon.
 
@@ -51,7 +53,7 @@ ISO Topic List:
 
 {% hint style='tip' %} Tip: Biota and environment are probably the best fit for most LCC projects. {% endhint %}
 
-#### LCC Project Category \(Required\)
+### LCC Project Category \(Required\)
 
 LCC Project Category list:
 
@@ -67,7 +69,7 @@ LCC Project Category list:
 10. Traditional Ecological Knowledge
 11. Vulnerability Assessment
 
-#### LCC Deliverable Types \(Required\)
+### LCC Deliverable Types \(Required\)
 
 LCC Deliverable Types list:
 
@@ -83,7 +85,7 @@ LCC Deliverable Types list:
 10. Training/Outreach/Workshop
 11. User Manual
 
-#### LCC End User Types \(Required\)
+### LCC End User Types \(Required\)
 
 LCC End User Types list:
 
@@ -100,7 +102,7 @@ LCC End User Types list:
 11. State agencies
 12. Tribes
 
-#### GCMD Keywords \(Best Practice\)
+### GCMD Keywords \(Best Practice\)
 
 GCMD stands for Global Change Master Directory and these keywords are maintained by NASA. Look for useful keywords in the GCMD Science Keywords. There are GCMD Platforms and Instruments Keywords but they are unlikely to apply to LCCs.
 
@@ -108,7 +110,7 @@ GCMD stands for Global Change Master Directory and these keywords are maintained
 
 ---
 
-## **Custom Thesaurus **
+## Custom Thesaurus 
 
 If any of your desired keywords do not appear in the existing thesauruses, you can add them via the custom thesaurus. Use a custom thesaurus only for keywords that are not available in an existing thesaurus. For example, if a certain end user type is not available in the LCC End User Types thesaurus, you can add the type using the custom thesaurus.
 
