@@ -4,7 +4,7 @@
 
 Tracking funding in the metadata allows for identification of funding sources, comparison, and aggregation across all LCCs.
 
-| **Quick Reference: Funding Tab** | Required?|
+| **Quick Reference: Project Funding Tab** | Required?|
 | :--- |:--- |
 | Allocation, including Award ID, Amount, Source, Recipient  | Required |
 | Funding Administrator | *New Required Metadata Improvement|
