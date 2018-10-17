@@ -10,11 +10,13 @@
 
 _The following fields are available for** Individual Contacts:**_
 
-* **Individual name **\(Required\): Enter individual's full name
+* **Individual Name **\(Required\): Enter individual's full name
+If you are entering a generic Individual contact, you can enter a Position Name without entering an Individual Name. For example: you could enter GCP LCC Data Manager as a Position Name rather than an Individual Name.
 
-* **Position name** \(Required\): Enter individual's full title; avoid acronyms
+* **Position Name** \(Required\): Enter individual's full title; avoid acronyms
+If you have entered the individual's name, Position Name is not required (one or the other is required, but not both).
 
-* **Contact Type **\(Required\): Enter the contact type from the picklist
+* **Contact Type **\(Required\): Enter the contact type from the picklist. Make sure every contact has Contact Type selected - this is essential for the Science Catalog funding summaries.
 
 * **Member Organization **\(Required\): Select organization\(s\). You can make an individual part of multiple organizations.
 
@@ -27,8 +29,6 @@ _The following fields are available for** Individual Contacts:**_
   * You can either select or drop an image. If you choose to load an image, mdEditor will create a URI and will have a size limit for the logo. If you have a larger image, link to it rather than loading it into mdEditor. 
 
 {% hint style='danger' %} If you upload a logo to your contact record, you must include a filename for the logo. Otherwise you will get an error on the metadata records that include that contact.{% endhint %}
-
-_All other fields are optional but recommended._
 
 ---
 

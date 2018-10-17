@@ -12,13 +12,13 @@ Exporting records is the only way to save records in mdEditor. You should backup
 
 ### mdEditor files vs. mdJSON files
 
-mdJSON files can be uploaded and translated to other formats via the mdTranslator application while mdEditor files are exclusive to the mdEditor application and retain all mdEditor information, including settings.
+mdJSON files can be uploaded and translated to other formats via the mdTranslator application while mdEditor files are exclusive to the mdEditor application and retain all mdEditor information, including Settings.
 
 ### **Best Practices**
 
-* For a complete backup, use the **Export All **button. This exports an [mdEditor](https://adiwg.gitbooks.io/mdeditor/content/GLOSSARY.html#mdeditor) file containing all records and contacts.
+* For a complete backup, use the **Export All **button. This exports an [mdEditor](https://adiwg.gitbooks.io/mdeditor/content/GLOSSARY.html#mdeditor) file containing all records and contacts currently loaded in mdEditor.
 
-* ** **When exporting products or projects,  you should also export your entire contact list. If you do not export your contact list, and you later import a record that contains a contact not in your library, you may receive an error and have to re-create and re-enter the contact to that record.
+* ** **When exporting products or projects,  you should also export your entire contact list. If you do not export your contact list, and you later import a record that contains a contact not in your mdEditor library, you may receive an error and have to re-create and re-enter the contact to that record.
 
 * It is particularly important that you export your records for backup before using mdEditor's **Clear Storage Cache **functionality \(clearing the storage cache will delete any records or data you have entered into the mdEditor\). Exporting ensures that your data is secure even after clearing the storage cache. Not exporting your data before clearing your cache will result in a permanent loss of records. Consult the [Settings](/settings.md) section of this manual to learn more.
 

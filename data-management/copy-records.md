@@ -12,11 +12,11 @@ The **Copy** button is located in the mdEditor action menu on the right-hand sid
 
 * Start a new product, project or contact record
 * Populate multiple products faster \(e.g., multiple workshop reports, a poster based on a publication\)
-* Create a 'template record' for a project that can be used as a starting place for each full metadata record
+* Create a "template record" for a project that can be used as a starting place for each full metadata record. A template record can contain information commonly used across your projects or products (such as LCC contacts).
 
 **Use the Copy button carefully:**
 
-{% hint style='info' %} Making a copy will generate a new ID for the copied record and be named “Copy of …”. All the other info will remain the same including associations. The “metadata identifier” is NOT copied but any identifiers in the main citation WILL be copied. {% endhint %}
+{% hint style='info' %} Making a copy will generate a new ID for the copied record and be named “Copy of …”. All the other info will remain the same including associations. The “Metadata Identifier” is NOT copied but any identifiers in the Main Citation WILL be copied. {% endhint %}
 
 Before saving, carefully review all information in copied record to ensure all copied info is still relevant to the copied record, particularly any identifiers.
 

@@ -20,19 +20,19 @@ _Please see the corresponding sections for which contacts should be added where.
 
 ### **Main / Point of Contact**
 
-* Enter your LCC as a “pointOfContact” \(required\).
+* Enter your LCC as a “pointOfContact” \(Required\).
 
-* Enter the LCC Network Data Steward as a “pointOfContact” \(required\).
+* Enter the LCC Network Data Steward as a “pointOfContact” \(Required\).
 
-* Enter the project PI as “principalInvestigator” \(best practice\).
+* Enter the project PI as “principalInvestigator” \(Best Practice\).
 
 ### **Main / Citation / Responsible Parties**
 
-* Enter your LCC as “administrator” \(required\).
+* Enter your LCC as “administrator” \(Required\).
 
-* Enter the project PI as “principalInvestigator” \(best practice\).
+* Enter the project PI as “principalInvestigator” \(Best Practice\).
 
-* Can also add funders \(including your LCC\), partners, collaborators, contributors \(best practice\).
+* Can also add funders \(including your LCC\), partners, collaborators, contributors \(Best Practice\).
 
 ### **Metadata / Contacts**
 
@@ -42,19 +42,23 @@ _Please see the corresponding sections for which contacts should be added where.
 
   * You can enter your LCC data manager as the “author”. You do not need to use individual names and can create a generic data manager for your LCC, but this is up to the individual LCC.
 
-* Enter the LCC Network Data Steward as a “pointOfContact” \(required\).
+* Enter the LCC Network Data Steward as a “pointOfContact” \(Required\).
 
-* Enter a “publisher.” In most cases, it will be the LCC \(best management practice\).
+* Enter a “publisher.” In most cases, it will be the LCC \(Best Practice\).
 
 ### **Funding / Allocation \(for Projects only\)**
 
-* Add the relevant contact for “source” of the project funding \(required\).
+* Add the relevant contact for “Source” of the project funding \(Required\).
 
   * Should be an organization, not an individual. For LCC projects, the most common sources are U.S. Fish and Wildlife Service, Bureau of Land Management, and Bureau of Reclamation.
 
-* Add the relevant contact for “recipient” of the project funding \(required\).
+
+* Add the relevant contact for “Recipient” of the project funding \(Required\).
 
   * Should be an organization, not an individual.
+
+
+* Add "Other Contacts" to specify funding "administrators" (particularly for LCC allocations).
 
 ### **Distribution \(for Products only\)**
 

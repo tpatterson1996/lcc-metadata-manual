@@ -41,7 +41,11 @@ In mdEditor, contacts are created separately from individual records, and then s
 
    * [Metadata Tab: Product](/product-entry-guidance/metadata-tab-product.md)
 
-   * [Keyword Tab: Product](/product-entry-guidance/keyword-tab-product.md)
+   * [Keywords Tab: Product](/product-entry-guidance/keyword-tab-product.md)
+   
+   * [Taxonomy Tab: Product](/product-entry-guidance/taxonomy-tab-product.md)
+   
+   * [Extent Tab: Product](product-entry-guidance/extent-tab-product.md)
 
    * [Lineage Tab: Product](/product-entry-guidance/lineage.md)
 
@@ -50,14 +54,16 @@ In mdEditor, contacts are created separately from individual records, and then s
    * [Constraints Tab: Product](/record-constraints.md)
    
    * [Dictionaries Tab: Product](/product-entry-guidance/dictionaries-tab-product.md)
+   
+   * [Documents Tab: Product](/product-entry-guidance/documents-tab-products.md)
 
 7. If applicable, [associate ](/product-entry-guidance/associating-records-products.md)your products with other metadata records.
 
 ---
 
-## **Product Required Fields**
+## Product Required Fields
 
-### **Main Tab**
+### Main Tab
 
 * Title 
 * Status
@@ -74,7 +80,7 @@ In mdEditor, contacts are created separately from individual records, and then s
   * Start Date
   * End Date
 
-### **Metadata Tab**
+### Metadata Tab
 
 * Metadata Contacts
 * Metadata Identifier 
@@ -86,12 +92,22 @@ In mdEditor, contacts are created separately from individual records, and then s
 * Metadata Repositories
 * Online Resource
 
-### **Keywords Tab**
+### Extent Tab
+
+* Geographic Extent
+
+### Keywords Tab
+
 * ISO Topic Category 
 * LCC End User Types
-* GCMD Keywords (Recommended)
+* GCMD Keywords (Best Practice)
 
-### **Distribution Tab**
+### Taxonomy Tab
+
+* Taxonomic classifications
+
+### Distribution Tab
+
 * Distributor
   * Contact
   * Role

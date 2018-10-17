@@ -12,7 +12,7 @@ This method should be used when you have an existing ScienceBase item that has n
 
  {% hint style='tip' %} You can set default import URL to the "ScienceBase API link" in the Settings section and it will pre-populate this field. Refer to the [Settings](/settings.md) section. {% endhint %}
 
-2. Copy and paste the **ScienceBase ID \(SBID\) **of the item that you are trying to import at the end of the URL in the import field, and click the **Import** button.
+2. Copy and paste the **ScienceBase ID \(SBID\)** of the item that you wish to import at the end of the URL in the import field, and click the **Import** button.
 
   {% hint style='info' %} The SBID is the string of letters and numbers at the end of the item’s ScienceBase URL. For example,  "5a70c2d6e4b0a9a2e9dafbdf" would be the SBID for the item at the URL [https://www.sciencebase.gov/catalog/item/5a70c2d6e4b0a9a2e9dafbdf](https://www.sciencebase.gov/catalog/item/5a70c2d6e4b0a9a2e9dafbdf){% endhint %}
 
@@ -22,7 +22,7 @@ This method should be used when you have an existing ScienceBase item that has n
 
 5. Click on the right hand button “**Click to Import Data.**”
  {% hint style='info' %} 
-Once you have imported a ScienceBase item and edited the metadata in mdEditor, you must always edit the metadata in mdEditor.
+Once you have imported a ScienceBase item and edited the metadata in mdEditor, you must always edit the metadata in mdEditor and re-publish to ScienceBase.
 {% endhint %}
 
 ### 

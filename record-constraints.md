@@ -2,15 +2,15 @@
 
 ---
 
-**The Constraint** tab allows you to enter information about how the record can and cannot be used into the metadata.
+**The Constraint** tab allows you to enter information into the metadata about how the resource can and cannot be used.
 
 ---
 
-| Quick Reference: Optional for LCC Products |
-| :--- |
-| Use Limitation \(Recommended\) |
-| Legal \(Recommend\) |
-| Security Constraints \(Recommended\) |
+| Quick Reference: Product Constraints Tab | Required? |
+| :--- | :--- |
+| Use Limitation | Optional |
+| Legal | Optional |
+| Security Constraints | Optional |
 
 ---
 

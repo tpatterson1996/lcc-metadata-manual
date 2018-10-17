@@ -32,7 +32,7 @@ Add at least one date. Recommended are "creation" \(when you first created your 
 
 | Role | Contact | Required? | 
 | :--- | :--- |:--- |
-| author | |At least one is required. See notes below. |
+| author | See notes below |At least one is required  |
 | publisher | In most cases, this will be the LCC | Best Practice |
 | pointOfContact | LCC Network Data Steward | Required |
 

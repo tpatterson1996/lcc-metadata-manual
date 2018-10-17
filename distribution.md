@@ -12,7 +12,7 @@
 | Quick Reference: Required for LCC Products | Required? |
 | :--- |:--- |
 | Contacts and Role | Required |
-| Transfer Options | Required |
+| Transfer Options: Online Option | Required |
 
 _Click **Add Distribution Section** and then **Edit Distributors** to begin adding distributors._
 

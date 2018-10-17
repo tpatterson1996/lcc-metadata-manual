@@ -98,8 +98,7 @@ This must include a point of contact, but may also include other responsible par
 | principalInvestigator | The Project PI | Best Practice|
 
 
-
-  
+{% hint style='info' %} For items that will be sent to data.gov, list the LCC Network Data Steward first in the list of Responsible Parties (#0). Data.gov only shows the first contact and the data steward should be listed first. {% endhint %}
 
 #### Online Resource \(Required, if Available\) 
 Enter the Name and URL for the location where users can find the product project homepage on your LCC website
@@ -112,7 +111,7 @@ You may enter as many identifiers as desired. If you have internal LCC-specific 
 
 {% hint style='tip' %} **Best Practice**: Create and use internal identifiers that are unique within your LCC for projects and their products. Example: GNLCC2010-11. {% endhint %}
 
-{% hint style='info' %} If your item does not have a ScienceBase ID yet, ScienceBase will create one automatically upon publishing. If you imported your item from ScienceBase originally, then the SBID will already be included in Metadata/Metadata Identifier and you do not need to include it here. Note that if you edit an item that is already on ScienceBase without using its existing ID, a duplicate item will be created on ScienceBase. Consult the [Publish](/publish.md) section of this manual to learn more.{% endhint %}
+{% hint style='info' %} If your item does not have a ScienceBase ID (SBID) yet, ScienceBase will create one automatically upon publishing. If you imported your item from ScienceBase originally, then the SBID will already be included in Metadata/Metadata Identifier and you do not need to include it here. Note that if you edit an item that is already on ScienceBase without using its existing SBID, a duplicate item will be created on ScienceBase. Consult the [Publish](/publish.md) section of this manual to learn more.{% endhint %}
   
 {% hint style='info' %} If the product metadata was created by copying another mdEditor metadata record, this identifier needs to be edited/changed since it will reflect the copied record identifier. Only the mdEditor UUID changes to represent a new record when an item is copied. Consult the [Copy Records](/data-management/copy-records.md) section of this manual to learn how to make a copy.{% endhint %}
 

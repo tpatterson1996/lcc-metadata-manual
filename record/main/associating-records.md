@@ -14,9 +14,9 @@ The **Associated** section is used to connect metadata records with each other. 
 
 ## Create Associations
 
-There are two ways to create associations. You can either associate a product with a project **or **associate a project with a product. If you import records from ScienceBase, the record associations might be automatically created, but sometimes you may have to create the associations manually \(as described below\). Associations can only be made after both project and product records have been created in mdEditor.
+In mdEditor you can either create the association from the Project record or the Product record. mdEditor will automatically create the association from the other direction. If you import records from ScienceBase, the record associations might be automatically created, but sometimes you may have to create the associations manually \(as described below\). Associations can only be made after both project and product records have been created in mdEditor.
 
-| Quick Reference: Creating an Association in Projects |
+| Quick Reference: Creating an Association in a Project Record |
 | :--- |
 | 1. Select **product** from the Association Type drop-down menu. |
 | 2. Use the _Select a Record_ button to select an associated product. |
@@ -24,9 +24,9 @@ There are two ways to create associations. You can either associate a product wi
 
 ---
 
-### Step-by-Step: Creating an Association in Projects
+### Step-by-Step: Creating an Association in a Project Record
 
-**Step 1:** Select "**product"** from the **Association Type **drop-down menu. This field will describe the relationship between the product and its parent project.
+**Step 1:** Select "**product"** from the **Association Type **drop-down menu. This field will describe the relationship from the associated record to the project record (the associated record is the product of the project record you are editing). 
 
 ![](/assets/product_association_lcc.png)
 

@@ -27,7 +27,7 @@ Select the appropriate status of the creation of your metadata from the drop-dow
 
 | Role | Contact | Required? | 
 | :--- | :--- |:--- |
-| author | |At least one is required. See notes below. |
+| author | See notes below |At least one is required |
 | pointOfContact | LCC Network Data Steward | Required |
 | publisher | In most cases, this will be the LCC | Best Practice |
 

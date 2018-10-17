@@ -12,9 +12,7 @@ A project encompasses a discrete effort on a particular topic with defined goals
 
 LCC projects can also include other defined efforts that did not necessarily require the awarding of funds.
 
-{% hint style='tip' %}
-Individual data managers may want to track other projects using the same metadata format and store that information on ScienceBase, without publishing it to the LCC Science Catalog.
-{% endhint %}
+{% hint style='tip' %} Individual data managers may want to track other projects using the same metadata format and store that information on ScienceBase, without publishing it to the LCC Science Catalog. {% endhint %}
 
 ### Products
 

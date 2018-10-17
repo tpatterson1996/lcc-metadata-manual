@@ -152,7 +152,7 @@ Enter comments, if desired.
 
 ### Dates \(Required\)
 
-For each project, add a Start Date and End Date. If the project spanned a single fiscal year, you can select the relevant year from the Fiscal Year dropdown. Selecting a Fiscal Year will automatically update the Start and End Dates.
+For each project, add a Start Date and End Date. If the project spanned a single fiscal year, you can use the “Pick a Fiscal Year” dropdown to autofill the date fields. 
 
 ![](/assets/time_period.png)
 
