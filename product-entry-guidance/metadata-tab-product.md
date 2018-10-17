@@ -93,7 +93,6 @@ For products that should be sent to data.gov: Select "data.gov" from the reposit
 
 ![](/assets/metadata_window.png)
 
-> For more information, consult the [**Record Metadata**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/metadata.html) section of the mdEditor manual.
 
 
 

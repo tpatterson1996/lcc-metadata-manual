@@ -49,7 +49,6 @@ For projects without an extent, you can use the LCC geography. We will provide g
 
 ![](/assets/edit_extent_page.png)
 
-> For more information, consult the [**Extent**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-extent.html) section of the mdEditor manual.
 
 
 

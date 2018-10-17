@@ -8,5 +8,3 @@ There are no LCC-specific requirements or best practices for dictionaries.
 
 ---
 
-For more information, consult the Dictionaries section of the mdEditor manual.
-

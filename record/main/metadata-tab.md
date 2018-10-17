@@ -102,7 +102,6 @@ For projects that should be listed in the LCC Science Catalog: Select _“LCCSci
 
 ![](/assets/metadata_window.png)
 
-> For more information, consult the [**Record Metadata**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html) section of the mdEditor manual.
 
 
 

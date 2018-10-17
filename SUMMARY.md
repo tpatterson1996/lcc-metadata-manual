@@ -39,7 +39,6 @@
   * [Dictionaries Tab: Product](product-entry-guidance/dictionaries-tab-product.md)
   * [Documents Tab: Product](product-entry-guidance/documents-tab-products.md)
   * [Associating Records: Product](product-entry-guidance/associating-records-products.md)
-  
 * [Multi-LCC and Co-funded Projects](multi-lcc-and-co-funded-projects.md)
   * [Collaborating Protocol](multi-lcc-and-co-funded-projects/collaborating-protocol.md)
   * [Sub-Project Protocol](multi-lcc-and-co-funded-projects/sub-project-protocol.md)
@@ -65,7 +64,9 @@
     * [QA/QC Resources](metadata-improvements/qaqc-fixes/dj-case-qaqc-list.md)
   * [New Required Improvements](metadata-improvements/new-required-improvements.md)
   * [Optional Improvements](metadata-improvements/optional-improvements.md)
+* [Other Resources](other-resources.md)
 * [Help](help.md)
 * [Glossary of Terms](GLOSSARY.md)
 * [Documentation Guide](appendices/documentation-guide.md)
+
 

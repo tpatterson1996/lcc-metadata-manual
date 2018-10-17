@@ -71,7 +71,7 @@ For each allocation, enter the fiscal year that funds were awarded \(not the tim
 
 ---
 
-> For more information, consult the [**Record Funding**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-funding.html)** **section of the mdEditor manual.
+
 
 
 

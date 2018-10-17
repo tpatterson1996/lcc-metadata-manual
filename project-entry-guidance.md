@@ -53,7 +53,7 @@ In mdEditor, contacts are created separately from individual records and then st
 
 ---
 
-## Summary of Required Fields
+## Summary of Required Fields for Projects
 
 ### **Main Tab**
 

@@ -20,45 +20,62 @@ _Please see the corresponding sections for which contacts should be added where.
 
 ### **Main / Point of Contact**
 
-* Enter your LCC as a “pointOfContact” \(Required\).
+| Role | Contact |Required?|
+| :--- | :--- |:--- |
+| pointOfContact | LCC Network Data Steward |Required|
+| pointOfContact | Your LCC  | Required |
+| principalInvestigator | The Project PI | Best Practice|
 
-* Enter the LCC Network Data Steward as a “pointOfContact” \(Required\).
-
-* Enter the project PI as “principalInvestigator” \(Best Practice\).
 
 ### **Main / Citation / Responsible Parties**
+This must include a point of contact, but may also include other responsible parties such as funders \(including your LCC\), partners, collaborators, and contributors. Collaborators could be intellectual participants while contributors could be intellectual and financial participants.
 
-* Enter your LCC as “administrator” \(Required\).
 
-* Enter the project PI as “principalInvestigator” \(Best Practice\).
+| Role | Contact | Required? |
+| :--- | :--- | :--- |
+| pointofContact | LCC Network Data Steward | Required |
+| administrator | Your LCC | Required |
+| principalInvestigator | The Project PI | Best Practice|
 
-* Can also add funders \(including your LCC\), partners, collaborators, contributors \(Best Practice\).
 
 ### **Metadata / Contacts**
 
+
+| Role | Contact | Required? |
+| :--- | :--- |:--- |
+| author | See notes below |At least one is required |
+| publisher | In most cases, this will be the LCC | Best Practice |
+| pointOfContact | LCC Network Data Steward | Required |
+
+
+**Regarding Role of "author"**
+* The author does not necessarily have to be the LCC \(e.g., imported FGDC metadata can list the original author\).
+* "Author" can be an individual or an organization.
+* You can enter your LCC data manager as the “author”. If you prefer, you can use a generic data manager contact rather than an individual name.
 * At least one contact with the role of “author” is required. Does not necessarily have to be the LCC \(e.g., imported FGDC metadata can list the original author\).
 
-  * Can be an individual or an organization.
-
-  * You can enter your LCC data manager as the “author”. You do not need to use individual names and can create a generic data manager for your LCC, but this is up to the individual LCC.
-
-* Enter the LCC Network Data Steward as a “pointOfContact” \(Required\).
-
-* Enter a “publisher.” In most cases, it will be the LCC \(Best Practice\).
 
 ### **Funding / Allocation \(for Projects only\)**
 
-* Add the relevant contact for “Source” of the project funding \(Required\).
+#### Source \(Required\)
 
-  * Should be an organization, not an individual. For LCC projects, the most common sources are U.S. Fish and Wildlife Service, Bureau of Land Management, and Bureau of Reclamation.
+Add the relevant contact for the “source” of the project funding. Source should be an organization, not an individual. For LCC projects, the most common sources are U.S. Fish and Wildlife Service, Bureau of Land Management, and Bureau of Reclamation. LCCs should be added as the funding "administrator" in the Other Contacts field.
 
-
-* Add the relevant contact for “Recipient” of the project funding \(Required\).
-
-  * Should be an organization, not an individual.
+{% hint style='info' %} Funding source should always identify the agency or organization, rather than a sub-program or office. For example, all funding from other FWS programs need to list U.S. Fish and Wildlife Service as the source (and not list the source as Fisheries, specific Refuges, ES, etc.). Clarifications on the exact program or office where the funding came from can be done through the Funding/Other Contacts field (and choose the role of "administrator").{% endhint %}
 
 
-* Add "Other Contacts" to specify funding "administrators" (particularly for LCC allocations).
+#### Recipient \(Required\)
+
+Add the relevant contact for the “recipient” of the project funding. Recipient should always be an organization, not an individual. For example, the Principal Investigator would not be listed as the recipient, but their organization would be. If there are multiple recipients for a project, they need to be added as separate allocations.
+
+You could add the Principal Investigator in the Other Contacts field as "principalInvestigator."
+
+#### Other Contacts (*New Required Metadata Improvement)
+
+Add the LCC as the funding "administrator" for all LCC allocations. The funding source should identify the agency who supplied the funding.
+
+{% hint style='tip' %}Funding administrator can also be used to differentiate funding from different programs/offices within the same agency. For example, the U.S. Fish and Wildlife Service can be identified as the funding source and the funding administrator could include "Ecological Services" or a specific field office.{% endhint %}
+
 
 ### **Distribution \(for Products only\)**
 

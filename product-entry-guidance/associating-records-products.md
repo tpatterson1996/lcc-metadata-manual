@@ -29,7 +29,7 @@ In mdEditor you can either create the association from the Project record or the
 **Step 3: **Choose the project that you would like to associate to from the **Select a Resource** list.
 
 
-> For more information, consult the [**Record Associated **](https://adiwg.gitbooks.io/mdeditor/content/record/edit/record-associated.html)section of the mdEditor manual.
+
 
 
 

@@ -156,7 +156,7 @@ For each project, add a Start Date and End Date. If the project spanned a single
 
 ![](/assets/time_period.png)
 
-> For more information, consult the [**Record Main**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/main.html)** **section of the mdEditor manual.
+
 
 
 

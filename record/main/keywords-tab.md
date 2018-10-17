@@ -141,7 +141,7 @@ If your LCC already has a controlled vocab list in ScienceBase, unfortunately it
 
 ![](/assets/keywords_window.png)
 
-> For more information, consult the [**Keywords**](https://adiwg.gitbooks.io/mdeditor/content/record/edit/keywords.html) section of the mdEditor manual.
+
 
 
 
