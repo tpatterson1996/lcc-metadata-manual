@@ -14,9 +14,10 @@
 
 ### Metadata
 
-(3) Ensure you have a single version of your data.gov tag and it is consistent across all of your items. See [ScienceBase scanner](http://calcommons.info/sb2/scansb.php).
 
-(3b) Fix Metadata Repositories / Harvest Sets. If you update your Metadata Repositories in mdJSON and publish to ScienceBase, you will also need to delete the erroneous version from ScienceBase \(called Harvest Sets in SB\). The issue is that SB doesn’t remove tags when an item is republished, it just adds to tags. This issue applies to all keywords, but it is most important to fix for Harvest Sets. This scenario can happen with both erroneous data.gov tags or misspelled Harvest Set tagging.
+(3a) Ensure you have a single version of your data.gov tag and it is consistent across all of your items. See [ScienceBase scanner](http://calcommons.info/sb2/scansb.php).
+
+(3b) If you update your Metadata Repositories in mdJSON and publish to ScienceBase, you will also need to delete the erroneous version from ScienceBase \(called Harvest Sets in SB\). The issue is that SB doesn’t remove tags when an item is republished, it just adds to tags. This issue applies to all keywords, but it is most important to fix for Harvest Sets. This scenario can happen with both erroneous data.gov tags or misspelled Harvest Set tagging.
 
 You may want to consider using the injector script to delete or replace erroneous versions from mdJSON. You would still be required required to manually remove the erroneous versions from SB items.
 

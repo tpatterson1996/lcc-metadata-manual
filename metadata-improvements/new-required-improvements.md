@@ -10,15 +10,15 @@
 
 ### data.gov
 
-(2) For items that will be sent to data.gov, list the LCC Network Data Steward first in the list of Responsible Parties. data.gov only picks up the first contact and the data steward should be listed first.
+(2) For items that will be sent to data.gov, list the LCC Network Data Steward first in the list of Responsible Parties (#0). Data.gov only shows the first contact and the data steward should be listed first.
 
 ### Funding
 
-(3) Add funding “administrators” for all LCC allocations in Other Contacts \(as opposed to assuming the administrator is the LCC if FWS is listed as the funding source\).
+(3) Add funding “administrators” for all LCC allocations in Funding/Other Contacts \(as opposed to assuming the administrator is the LCC if FWS is listed as the funding source\).
 
 The previous guidance on how to list LCC funding was based upon the existence of only a single contact field for funding allocation source. The addition of the “Other Contacts” field to meet the needs for multi-LCC and CASC co-funded projects provides new functionality to better clarify funding sources and administrators. Having to interpret the situation where FWS is listed as the funding source to mean it was LCC funding is not a logical and best practice to move forward on. The lack of the LCC name in the funding source will muddle our ability to accurately understand funding moving forward beyond LCCs. As we move into SA-centric data management and even broader use of mdEditor, it will be even more vital to have clear indications of who provided funding. The funding administrator field can differentiate from multiple sources within a single agency \(e.g., within FWS can differentiate programs like SA, MB, Refuges, etc.\).
 
-Note: Potentially can use the injector script to fix this issue.
+Note: You may be able to use the injector script to fix this issue. Matt Heller will provide guidance.
 
 ### Extents
 
@@ -32,7 +32,7 @@ This enables consistent search and discovery via the Science Catalog and allows 
 
 ### Taxonomy
 
-(6) Add Taxonomy via new functionality in mdEditor. This is required for Porjects and optional for Products (but strongly recommended) If you have specific species or taxonomic groups as part of the metadata record, it is required to  strongly recommended that you update \(or add\) these keywords using the new taxonomy  functionality. 
+(6) Add Taxonomy via new functionality in mdEditor. This is required for Projects and optional for Products (but strongly recommended) if you have specific species or taxonomic groups as part of your metadata record.  
 
 This will enable consistent taxonomic searching in the Science Catalog and will ensure the LCC records will be compatible with future metadata records that will be generated from mdEditor for non-LCC projects.
 
@@ -46,11 +46,11 @@ This will enable consistent taxonomic searching in the Science Catalog and will 
 
 ### Contacts
 
-(8) Every Individual contact who belongs to an organization should have their organization identified in “Member of Organization”
+(8) Every Individual contact who belongs to an organization should have their organization identified in “Member of Organization.”
 
 ### Keywords
 
-(9) Choose GCMD Keywords for all records. This is the only keyword set that can provide some consistent keywords across all of the records.
+(9) Choose GCMD Keywords for all projects and products. This is the only keyword set that can provide some consistent keywords across all of the records.
 
 
 

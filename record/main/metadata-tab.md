@@ -53,7 +53,7 @@ The **Metadata Identifier** is automatically populated by mdEditor. The metadata
 * If the record was imported from ScienceBase, the Metadata Identifier will be auto-populated with the ScienceBase ID \(SBID\).
 * If the record was created in mdEditor, it will generate a universally unique identifier \(UUID\).
 
-{% hint style='danger' %} Once a Metadata Identifier is created in the metadata, do not change it. mdEditor uses the Metadata Identifier to connect records and changing the Metadata Identifier can break those connections. If there are additional identifiers you want to include in your metadata record, include them in [Main/Citation/Identifier](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/record/main/record-main-copy.html#identifier) {% endhint %}
+{% hint style='danger' %} Once a Metadata Identifier is created in the metadata, do not change it. mdEditor uses the Metadata Identifier to connect records and changing the Metadata Identifier can break those connections. If there are additional identifiers you want to include in your metadata record, include them in [Main/Citation/Identifier](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/record/main/record-main-copy.html#identifier). {% endhint %}
 
 ---
 

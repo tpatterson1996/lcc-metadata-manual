@@ -106,20 +106,16 @@ Enter the Name and URL for the location where users can find the product project
 
 {% hint style='tip' %} The URLs to access and download products must be included in the Distribution tab. Distribution Links is the only online resource that data.gov reads so without a URL there, users have no way to access the actual product from data.gov.{% endhint %}
 
+#### Identifier (Best Practice)
 
-#### Identifier (Best Practice) 
-Enter a unique identifier for your project or product.
+You may enter as many identifiers as desired. If you have internal LCC-specific IDs for projects, enter them here. Other optional identifiers include: Digital Object Identifier \(DOI\) and Archive Folder Name.
 
-Best Practice: Use the identifier that your LCC is already using, or create something unique that is easily identifiable. 
+{% hint style='tip' %} **Best Practice**: Create and use internal identifiers that are unique within your LCC for projects and their products. Example: GNLCC2010-11. {% endhint %}
 
-   {% hint style='info' %} If you know your item's ScienceBase ID, you may add it here. If your item does not have a ScienceBase ID, ScienceBase will create one automatically upon publishing. If you edit an item that is already on ScienceBase without using its existing ID, a duplicate item will be created. Consult the [Publish](/publish.md) section of this manual to learn more.{% endhint %}
+{% hint style='info' %} If your item does not have a ScienceBase ID yet, ScienceBase will create one automatically upon publishing. If you imported your item from ScienceBase originally, then the SBID will already be included in Metadata/Metadata Identifier and you do not need to include it here. Note that if you edit an item that is already on ScienceBase without using its existing ID, a duplicate item will be created on ScienceBase. Consult the [Publish](/publish.md) section of this manual to learn more.{% endhint %}
   
-   {% hint style='info' %} If the product metadata was created by copying some other mdEditor metadata record, this identifier needs to be edited/changed since it will reflect the copied record identifier. Only the mdEditor UUID changes to represent a new record when an item is copied. Consult the [Copy Records](/data-management/copy-records.md) section of this manual to learn how to make a copy.{% endhint %}
+{% hint style='info' %} If the product metadata was created by copying another mdEditor metadata record, this identifier needs to be edited/changed since it will reflect the copied record identifier. Only the mdEditor UUID changes to represent a new record when an item is copied. Consult the [Copy Records](/data-management/copy-records.md) section of this manual to learn how to make a copy.{% endhint %}
 
-  * The following identifiers are optional but you may add them: 
-    * _Digital Object Identifier \(DOI\)_
-    * _Funding identifier_
-    * _Archive Folder Name._
 
 ---
 

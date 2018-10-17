@@ -13,7 +13,7 @@ The following is a list of LCC metadata improvements based on QA/QC of the initi
   * Concurrently HQ will be working with DJ Case to complete the Science Catalog development and update needed functionality and search filters.
 
 
-* Between October 17 and 24: New taxonomy functionality available in mdEditor.
+* Between October 17 and 24: New Taxonomy functionality available in mdEditor.
 
 * December 7 \(Friday\): Deadline to complete metadata improvements \(by start of SA National Program Meeting\). The Science Catalog will also be updated by this date. This provides approximately 8 weeks for improvements, QA/QC, etc.
 
@@ -45,7 +45,7 @@ If you have any items where the mdJSON did not publish to ScienceBase, those ite
 
 ## Must Do: mdEditor Files
 
-All mdEditor files \(NOT just the mdJSON files\) need to be in a central location accessible to the Architecture Subgroup as well as the respective Region's personnel. These are needed to ensure future updates, corrections, or improvements can be made to any metadata. The ASG proposes that everyone post their mdEditor files to the ScienceBase folder that was set up for this during the Seattle workshop.
+All mdEditor files \(NOT just the mdJSON files\) need to be in a central location accessible to the Architecture Subgroup as well as the respective Region's personnel. These are needed to ensure future updates, corrections, or improvements can be made to any metadata. The ASG proposes that everyone post their mdEditor files to the ScienceBase folder that was set up for mdJSON during the Seattle workshop.
 
 Link \(you must be logged in to ScienceBase to access\): https://www.sciencebase.gov/catalog/item/59bb08efe4b091459a563da2 
 

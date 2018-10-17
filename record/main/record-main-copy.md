@@ -110,16 +110,13 @@ Enter the Name and URL for the project homepage on your LCC website.
 
 #### Identifier (Best Practice)
 
-You may enter as many identifiers as desired. If you have internal LCC-specific IDs for projects, enter them here.  
+You may enter as many identifiers as desired. If you have internal LCC-specific IDs for projects, enter them here. Other optional identifiers include: Digital Object Identifier \(DOI\) and Archive Folder Name.
 
 {% hint style='tip' %} **Best Practice**: Create and use internal identifiers that are unique within your LCC for projects and their products. Example: GNLCC2010-11. {% endhint %}
 
 {% hint style='info' %} If your item does not have a ScienceBase ID yet, ScienceBase will create one automatically upon publishing. If you imported your item from ScienceBase originally, then the SBID will already be included in Metadata/Metadata Identifier and you do not need to include it here. Note that if you edit an item that is already on ScienceBase without using its existing ID, a duplicate item will be created on ScienceBase. Consult the [Publish](/publish.md) section of this manual to learn more.{% endhint %}
 
-The following identifiers are optional but you may add them:
 
-* Digital Object Identifier \(DOI\)
-* Archive Folder Name
 
 #### ![](/assets/citation_updated.png)
 

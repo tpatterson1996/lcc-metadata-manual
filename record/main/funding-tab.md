@@ -41,6 +41,11 @@ Add the relevant contact for the “source” of the project funding. Should be 
 
 Add the relevant contact for the “recipient” of the project funding. Recipient should always be an organization, not an individual. For example, the Principal Investigator would not be listed as the recipient, but their organization would be. If there are multiple recipients for a project, they need to be added as separate allocations.
 
+#### Other Contacts (*New Required Metadata Improvement)
+Add the LCC as the funding "administrator" for all LCC allocations. The funding source should identify the agency who supplied the funding.
+
+{% hint style='tip' %}Funding administrator can also be used to differentiate funding from different programs/offices within the same agency. For example, the U.S. Fish and Wildlife Service can be identified as the funding source and the funding administrator could include "Ecological Services" or a specific field office.{% endhint %}
+
 #### Matching and In-kind Funds
 
 Project funds or in-kind support that were supplied by a partner \(i.e., not specifically allocated to an LCC\) should be included as an allocation with the matching fund box checked. Each matching fund provider needs to be included as a separate allocation.

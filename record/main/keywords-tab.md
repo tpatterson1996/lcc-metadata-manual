@@ -6,11 +6,11 @@ Adding keywords to your metadata record allows for the record to be found later 
 
 | Quick Reference: Project Keywords Tab | Required?|
 | :--- |:--- |
-| ISO Topic Category |Required |
-| LCC Project Category |Required |
-| LCC Deliverable Types |Required |
-| LCC End User Types |Required |
-| GCMD Keywords |Best Practice|
+| ISO Topic Category | Required |
+| LCC Project Category | Required |
+| LCC Deliverable Types | Required |
+| LCC End User Types | Required |
+| GCMD Keywords | Best Practice|
 
 ---
 

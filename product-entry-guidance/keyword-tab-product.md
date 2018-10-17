@@ -9,7 +9,6 @@ Adding keywords to your metadata record allows for the record to be found later 
 | ISO Topic Category | Required |
 | LCC End User Types |Required (*New Required Metadata Improvement) |
 | GCMD Keywords | Best Practice|
-| Taxonomy Keywords | Best Practice (*New Optional Metadata Improvement)|
 
 ---
 
@@ -76,8 +75,6 @@ GCMD stands for Global Change Master Directory and these keywords are maintained
 
 {% hint style='tip' %}Best Practice: Check the "Full Path" checkbox to save the full path of the keyword to your metadata. This will maintain the category and context of the specific keywords chosen.{% endhint %}
 
-#### Taxonomy Keywords (Best Practice)
-This is new functionality in mdEditor (as of October 2018).
 
 ---
 

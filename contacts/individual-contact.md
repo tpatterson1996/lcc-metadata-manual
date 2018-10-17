@@ -16,11 +16,11 @@ _The following fields are available for** Individual Contacts:**_
 
 * **Contact Type **\(Required\): Enter the contact type from the picklist
 
-* **Member Organization **\(Required\): Select organization\(s\); you can make an individual part of multiple organizations.
+* **Member Organization **\(Required\): Select organization\(s\). You can make an individual part of multiple organizations.
 
 * **Email Address **\(Required\): Enter individual's email
 
-* **Physical Address **\(Best Management Practice\): Enter a physical address
+* **Physical Address **\(Best Practice\): Enter a physical address
 
 * **Logo **\(Optional\): 
   * It is uncommon that you would add a logo for an individual. If the individual is part of an organization, the individual will inherit the logo from the organization.
