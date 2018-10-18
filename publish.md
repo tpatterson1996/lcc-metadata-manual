@@ -13,6 +13,8 @@ LCC metadata is published to ScienceBase in your LCC community's project folder.
 
 Please read through ALL instructions before you begin the publishing process. After you understand how the publishing function works, please read the[** testing instructions**](/publish/instructions-for-testing-publishing.md) and proceed with testing a record before you try to publish any of your real records.
 
+
+
 ---
 
 ## Overview of Publishing to the Science Catalog

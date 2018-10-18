@@ -36,7 +36,7 @@ Update/edit metadata as needed.
 
 Update/edit metadata as needed.
 
-### Step 8: For applicable Products, create, import, or update Data Dictionaries.
+### Step 8: For applicable Products, create, import, or update Data [Dictionaries](//product-entry-guidance/dictionaries-tab-product.md).
 
 ### Step 9: Check **Associations between Projects and/or Products.**
 
@@ -48,7 +48,7 @@ If you created a new product for your project, then associate those records in m
 
 Check that your record published where expected and that the mdJSON and xml files are attached to the SB Item. Your records should publish to their existing locations. If you added a new product to a project, then it should appear as a new child item to the project.
 
-### **Step 11: **[**Export**](/data-management.md)** your records and contacts for backup, transfer, or sharing.**
+### **Step 11: **[**Export**](/data-management/export.md)** your records and contacts for backup, transfer, or sharing.**
 
 You may want to export working backups before publishing depending on your situation, but archival exports should be done after publishing since publishing can alter records, like adding or changing a ScienceBase ID.
 
@@ -57,5 +57,5 @@ You may want to export working backups before publishing depending on your situa
 The Science Catalog updates overnight so you should review newly-published records the day after you publish to ScienceBase. This will be one of your best quality control checks.
 
 ### Step 13: Consult with the different QA/QC Resources.
-See the [QA/QC Resources](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/metadata-improvements/qaqc-fixes/dj-case-qaqc-list.html#) page for the different tools available to check your metadata.
+See the [QA/QC Resources](/metadata-improvements/qaqc-fixes/dj-case-qaqc-list.md) page for the different tools available to check your metadata.
 

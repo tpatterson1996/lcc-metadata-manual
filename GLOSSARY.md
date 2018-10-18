@@ -4,13 +4,13 @@
 
 Alaska Data Integration working group
 
-#Auto-Save
+## Auto-Save
 
 A feature in mdEditor settings that allows information to be automatically saved as it is entered. Consult the [**Settings**](/settings.md) section of this manual for more information.
 
 ##Customization
-The ability afforded by open-source code to edit the code of an application \(in this case mdEditor\) according to the needs of the users.
 
+The ability afforded by open-source code to edit the code of an application \(in this case mdEditor\) according to the needs of the users.
 
 ## FGDC
 

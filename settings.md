@@ -55,7 +55,7 @@ The following defaults will be pre-loaded:
 * default character set: UTF-8
 * default location: USA
 
-Also included in **Defaults** are the **Metadata Repositories** (online databases for storing metadata\). Once entered in **Settings** these can then be selected for projects and products so that they are flagged to a metadata repository of your choice. See [LCC Specific Settings](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/settings.html#lcc-specific-settings) for Metadata Repository information.
+Also included in **Defaults** are the **Metadata Repositories** (online databases for storing metadata\). Once entered in **Settings** these can then be selected for projects and products so that they are flagged to a metadata repository of your choice. See [LCC Specific Settings](/settings.md#lcc-specific-settings) for Metadata Repository information.
 
 ---
 

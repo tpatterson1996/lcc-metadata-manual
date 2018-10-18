@@ -6,7 +6,7 @@ _Note: This is a working draft that will continue to be edited. Last updated: 17
 
 ## Introduction
 
-This manual describes the requirements and best practices for the creation of high-quality and consistent metadata records for projects and products from the Landscape Conservation Cooperatives \(LCCs\). These metadata requirements conform to the standardized metadata format agreed upon by the LCC Data Management Working Group. This metadata drives the unified [LCC Science Catalog](https://legacy.gitbook.com/book/cookmt/mdeditor-for-lccs/edit#), where LCC projects and products are discoverable, accessible, and usable.
+This manual describes the requirements and best practices for the creation of high-quality and consistent metadata records for projects and products from the Landscape Conservation Cooperatives \(LCCs\). These metadata requirements conform to the standardized metadata format agreed upon by the LCC Data Management Working Group. This metadata drives the unified [LCC Science Catalog](lcc-science-catalog.md), where LCC projects and products are discoverable, accessible, and usable.
 
 ### LCC Metadata and mdEditor
 

@@ -42,11 +42,11 @@ If you have no existing metadata for a product, create an mdEditor product recor
 
 If you have already created an mdEditor record for the product, import the mdEditor file to continue editing.
 
-### Step 7: For applicable Products, create Data Dictionaries.
+### Step 7: For applicable Products, create Data [Dictionaries](//product-entry-guidance/dictionaries-tab-product.md).
 
 ### **Step 8: Complete metadata.**
 
-Decide on your desired file management approach and complete your metadata accordingly. See the [File Management](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/data-management/file-management.html "File Management") section for options and instructions.
+Decide on your desired file management approach and complete your metadata accordingly. See the [File Management](/data-management/file-management.md "File Management") section for options and instructions.
 
 ### Step 9: **Create desired Associations between Projects and/or Products.**
 
@@ -54,7 +54,7 @@ Associations can be either [associated from a project ](/record/main/associating
 
 ### **Step 10: **[**Publish **](/publish.md)**your records to ScienceBase.**
 
-### **Step 11: **[**Export**](/data-management.md)** your records and contacts for backup, transfer, or sharing.**
+### **Step 11: **[**Export**](/data-management/export.md)** your records and contacts for backup, transfer, or sharing.**
 
 You may want to export working backups before publishing depending on your situation, but archival exports should be done after publishing since publishing can alter records, like adding or changing a ScienceBase ID.
 

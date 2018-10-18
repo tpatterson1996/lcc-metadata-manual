@@ -19,7 +19,7 @@ The **Main **tab allows for the creation and/or editing of primary metadata.
 
 ### Record ID 
 
-Record ID will be auto-generated but can be edited.
+Record ID will be auto-generated. It can be edited but s but can be edited.
 
 ### Title \(Required\)
 

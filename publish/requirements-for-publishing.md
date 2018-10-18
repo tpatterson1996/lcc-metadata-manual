@@ -4,11 +4,11 @@
 
 Publishing requires the record to be a **valid record**, meaning that mdEditor checks that all required fields for a mdJSON file are present before allowing a record to be published.
 
-{% hint style='info' %} **Note**: mdEditor does not check for LCC requirements. It only looks for metadata that fills ISO requirements. Fulfilling LCC requirements falls on the creator of the records. Consult the [**Project Entry Guidance**](/project-entry-guidance.md) and [**Product Entry Guidance**](/product-entry-guidance.md) sections for LCC requirements.{% endhint %}
+{% hint style='info' %} Note: mdEditor does not check for LCC requirements. It only looks for metadata that fills ISO requirements. Fulfilling LCC requirements falls on the creator of the records. Consult the [**Project Entry Guidance**](/project-entry-guidance.md) and [**Product Entry Guidance**](/product-entry-guidance.md) sections for LCC requirements.{% endhint %}
 
-Publishing requires that you have a** Parent Identifier** assigned to every record. The parent identifier \(or Parent ID\) denotes the ScienceBase folder where the records are sent upon publishing. The **Default Parent Identifier** can be set in mdEditor Settings. Consult the [Settings](/settings.md) section of this manual for more information.
+Publishing requires every record to have a parent Identifier that identifies the ScienceBase folder where your record will be sent upon publishing. If you set up your Default Parent Identifier in [Settings](/settings.md), then you do not need to add a parent ID to your individual record. However, if you need to publish your record to a location different than your default folder, then you need to add a Parent ID to your metadata record (see [Metadata/Parent Metadata](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/record/main/metadata-tab.html#parent-metadata).
 
-{% hint style='info' %} **Note: **Please use a testing folder before you update your real records. (Consult the** **[**Instructions for Testing Publishing**](/publish/instructions-for-testing-publishing.md) section of this manual for more information).{% endhint %}
+{% hint style='info' %} Note: Please use a testing folder before you update your real records. (Consult the [**Instructions for Testing Publishing**](/publish/instructions-for-testing-publishing.md) section of this manual for more information).{% endhint %}
 
 
 
