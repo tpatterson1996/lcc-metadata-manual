@@ -21,10 +21,10 @@ $glossary-text: #444;
 
 .book .markdown-section {
   .glossary-term {
-    //border-bottom: 1px lighten($glossary-text, 50) dotted;
+    border-bottom: 1px lighten($glossary-text, 50) dotted;
     color: inherit; //$glossary-text;
     cursor: help;
-    font-style: italic;
+    //font-style: italic;
     text-decoration: none;
 
     &:active,
