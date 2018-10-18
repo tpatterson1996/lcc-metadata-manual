@@ -2,11 +2,14 @@
 
 ---
 
-The information below is based on the best available information about data.gov as of April 2018. A future Department of the Interior data governance board may issue written guidance about what is appropriate for data.gov.
+Follow the guidance below for items to be sent to data.gov.
 
 ---
 
 ## **What products go into data.gov?**
+
+The information below is based on the best available information about data.gov as of April 2018. A future Department of the Interior data governance board may issue written guidance about what is appropriate for data.gov.
+
 
 * Machine-readable, non-proprietary data sets are top priority \(e.g., .csv, txt, etc.\), including GIS files \(e.g., .shp, .jpg, .tif, etc.\).
 
@@ -24,13 +27,21 @@ The information below is based on the best available information about data.gov 
 
 ## Requirements to send something to data.gov
 
-1. Set the appropriate [data.gov Metadata Repository tag](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/product-entry-guidance/metadata-tab-product.html#metadata-repositories). 
+1. Set the appropriate [data.gov Metadata Repository tag](/product-entry-guidance/metadata-tab-product.md#metadata-repositories). 
 
-2. List the LCC Network Data Steward first in the list of [Responsible Parties](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/product-entry-guidance/main-tab-product.html#citation) (#0). data.gov only displays the first contact and the data steward should be listed first. 
+2. List the LCC Network Data Steward first in the list of [Responsible Parties](/product-entry-guidance/main-tab-product.md#citation) (#0). data.gov only displays the first contact and the data steward should be listed first. 
 
-3. Include a [Distribution Link](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/distribution.html) where the product can be accessed or downloaded. 
+3. Include a [Distribution Link](/distribution.md) where the product can be accessed or downloaded. 
 
+---
 
+## data.doi.gov
+
+Our items actually go through an intermediary before they harvested to data.gov. All Department of the Interior items go through data.doi.gov. 
+
+Link to DOI data.gov: https://data.doi.gov/dataset
+
+Link to LCC Network items: https://data.doi.gov/dataset?organization=lcc-network
 
 
   

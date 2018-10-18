@@ -12,9 +12,9 @@ Once your contacts have been created in mdEditor, there are five places in a met
 
 _Please see the corresponding sections for which contacts should be added where. _
 
-1. [Main Tab](/record/main/record-main-copy.md) / "Point of Contact” section 
-2. [Main Tab](/record/main/record-main-copy.md) / Citation / “Responsible Parties” section 
-3. [Metadata Tab](/record/main/metadata-tab.md) / “Contacts” section 
+1. [Main Tab](/record/main/record-main-copy.md#point-of-contacts) / "Point of Contact” section 
+2. [Main Tab](/record/main/record-main-copy.md#responsible-parties-required) / Citation / “Responsible Parties” section 
+3. [Metadata Tab](/record/main/metadata-tab.md#metadata-contacts) / “Contacts” section 
 4. [Funding Tab](/record/main/funding-tab.md) / “Allocation”  section. For Projects only.
 5. [Distribution Tab](/distribution.md) / "Contacts” section. For Products only.
 
@@ -23,9 +23,10 @@ _Please see the corresponding sections for which contacts should be added where.
 | Role | Contact |Required?|
 | :--- | :--- |:--- |
 | pointOfContact | LCC Network Data Steward |Required|
-| pointOfContact | Your LCC  | Required |
+| pointOfContact | Your LCC  | NOT Required (*see below) |
 | principalInvestigator | The Project PI | Best Practice|
 
+*Note: Given the transition away from LCCs, it is no longer required to add the LCC as a Main / Point of Contact in new or updated metadata records. The LCC Network Data Steward will serve as a long-term backup point of contact.
 
 ### **Main / Citation / Responsible Parties**
 This must include a point of contact, but may also include other responsible parties such as funders \(including your LCC\), partners, collaborators, and contributors. Collaborators could be intellectual participants while contributors could be intellectual and financial participants.

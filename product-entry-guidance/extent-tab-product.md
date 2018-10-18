@@ -16,6 +16,6 @@ Spatial extents should be included for all applicable products. As a default, pr
 {% hint style='tip' %} Tip: You can export, save, and import an extent to use for other projects or products.{% endhint %}
 
 
-See further information on Extents in the [Project Extent entry guidance](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/record/main/extent-tab.html).
+See further information on Extents in the [Project Extent entry guidance](/record/main/extent-tab.html).
 
 

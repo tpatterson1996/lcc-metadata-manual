@@ -32,7 +32,7 @@ Select the appropriate status of the creation of your metadata from the drop-dow
 | publisher | In most cases, this will be the LCC | Best Practice |
 
 
-**Regarding Role of "author"**
+**Regarding the Role of "author"**
 * The author does not necessarily have to be the LCC \(e.g., imported FGDC metadata can list the original author\).
 * "Author" can be an individual or an organization.
 * You can enter your LCC data manager as the “author”. If you prefer, you can use a generic data manager contact rather than an individual name.
@@ -47,7 +47,7 @@ The **Metadata Identifier** is automatically populated by mdEditor. The metadata
 * If the record was imported from ScienceBase, the Metadata Identifier will be auto-populated with the ScienceBase ID \(SBID\).
 * If the record was created in mdEditor, it will generate a universally unique identifier \(UUID\).
 
-{% hint style='danger' %} Once a Metadata Identifier is created in the metadata, do not change it. mdEditor uses the Metadata Identifier to connect records and changing the Metadata Identifier can break those connections. If there are additional identifiers you want to include in your metadata record, include them in [Main/Citation/Identifier](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/record/main/record-main-copy.html#identifier). {% endhint %}
+{% hint style='danger' %} Once a Metadata Identifier is created in the metadata, do not change it. mdEditor uses the Metadata Identifier to connect records and changing the Metadata Identifier can break those connections. If there are additional identifiers you want to include in your metadata record, include them in [Main/Citation/Identifier](/product-entry-guidance/metadata-tab-product.md#identifier-best-practice). {% endhint %}
 
 
 

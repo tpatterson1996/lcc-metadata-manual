@@ -20,7 +20,7 @@ A product is a resource, usually \(but not necessarily\) developed as an output 
 
 Not every output of a project is necessarily a product, however. For example, meeting minutes do not have standalone value as a publicly-available resource. It is up to each LCC to determine which outputs should be entered as products.
 
-### **Contacts**
+### Contacts
 
 Contacts are the individuals and organizations involved with projects and products \(e.g., collaborators, funders\). Contacts are entered once in mdEditor and can be added to multiple projects and products.
 
@@ -30,7 +30,7 @@ Consult the [Contacts](/contacts.md) section for information on adding contacts.
 
 ### Relationships
 
-**Projects and Products **will always have a relationship with contacts. Projects will always have at least one point of contact \(LCC Network Data Steward\). Additional contact relationships may include project authors, metadata creators, funders, principal investigators, publishers, distributors, and many others. One crucial contact relationship between contacts, projects, and products is the role of the individual\(s\) and/or organization\(s\) who provided funding. This may include a direct full contributor or any partners that helped with funding.
+**Projects and Products** will always have a relationship with contacts. Projects will always have at least one point of contact \(LCC Network Data Steward\). Additional contact relationships may include project authors, metadata creators, funders, principal investigators, publishers, distributors, and many others. One crucial contact relationship between contacts, projects, and products is the role of the individual\(s\) and/or organization\(s\) who provided funding. This may include a direct full contributor or any partners that helped with funding.
 
 {% hint style='tip' %}
 Contact types are specified in the contact record \(examples: federal, state, NGO\). Specific roles for each contact are defined within the respective project and product records \(examples: principal investigator, collaborator\).

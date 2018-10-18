@@ -2,7 +2,7 @@
 
 ---
 
-The Import function loads an mdEditor or [mdJSON](https://github.com/adiwg/mdJson-schemas/blob/master/test/draft-04.json) file into the current mdEditor session. You can also import existing ScienceBase metadata or FGDC \(Federal Geographic Data Committee\) metadata into mdEditor to create mdJSON.
+The Import function loads an mdEditor or mdJSON file into the current mdEditor session. You can also import existing ScienceBase metadata or FGDC \(Federal Geographic Data Committee\) metadata into mdEditor to create mdJSON.
 
 ---
 
@@ -10,7 +10,7 @@ The Import function loads an mdEditor or [mdJSON](https://github.com/adiwg/mdJso
 
 ### Replace vs. Merge
 
-The **Replace/Merge **toggle allows you to either replace or merge the imported records with the records currently loaded in [mdEditor](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/GLOSSARY.html#mdeditor). In most instances you should select "Merge." An exception is when you want to import Settings associated with an mdEditor file \(see below\).
+The **Replace/Merge **toggle allows you to either replace or merge the imported records with the records currently loaded in mdEditor. In most instances you should select "Merge." An exception is when you want to import Settings associated with an mdEditor file \(see below\).
 
 ### Import Settings
 

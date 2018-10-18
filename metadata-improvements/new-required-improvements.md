@@ -6,7 +6,7 @@
 
 ### Multi-LCC / CASC Co-funded Protocols
 
-(1) Follow the new [Multi-LCC / CASC-cofunded protocols](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/multi-lcc-and-co-funded-projects.html).
+(1) Follow the new [Multi-LCC / CASC-cofunded protocols](/multi-lcc-and-co-funded-projects.md).
 
 ### data.gov
 

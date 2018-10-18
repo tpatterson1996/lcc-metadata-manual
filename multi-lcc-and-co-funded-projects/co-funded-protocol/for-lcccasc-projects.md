@@ -93,7 +93,7 @@ Add a separate funding allocation for each year and each LCC that provided fundi
 
 1. For LCC allocations, the source should be U.S. Fish and Wildlife Service \(or other agency that provided LCC project funding such as Bureau of Reclamation\).
 
-2. Add the funding LCC as the “administrator” in the Other Contacts section \(see Figure 2\).**         **
+2. Add the funding LCC as the “administrator” in the Other Contacts section \(see Figure 2\). 
 
 ![](https://lh5.googleusercontent.com/FuzsddF2rFu5QQiRYIC7xLYOQrFWwHFoqIIMa0OuODOz52A3oSi1tAUUfh58HTjYmtKohXAGKwWfoKXdRXjol3J-A_zBCl6kddAGBjErEWIfSrSoYAkdmieraFzgSYR3jBwG0q26)_Figure 2: Example of mdEditor entry for an LCC funding allocation. Here, the UMGL LCC administered the USFWS funds. Additional allocations would be added for each LCC that provided funding to the project._
 
@@ -107,7 +107,7 @@ Add a separate funding allocation for each year and each LCC that provided fundi
 
 ![](https://lh3.googleusercontent.com/e4FV2qawV3ryt7S_SCo5t2i9cXraxJg4IfQB-M5d3mZjlYkblBVujR8c3a5ZU6M3sjETqxhSWwoEBwwdca7s2cD8-a0ZQMABXIPtCBHPbCAPZcEulOz2CSrfMC8Y-GjYssHOHYlL)
 
-_Figure 3: Example of mdEditor entry for a CASC funding allocation. Here, the source is USGS and the CASC is the administrator since the funds did not flow through the LCC or FWS. The matching funds box is checked._**              **
+_Figure 3: Example of mdEditor entry for a CASC funding allocation. Here, the source is USGS and the CASC is the administrator since the funds did not flow through the LCC or FWS. The matching funds box is checked._
 
 ---
 
@@ -155,6 +155,4 @@ Ideally enter items on the spreadsheet after you have completed the co-funded me
 
 CASC data managers will refer to the spreadsheet so they know when to make edits on their end.
 
-**                                
-**
 

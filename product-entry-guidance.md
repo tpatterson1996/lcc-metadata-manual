@@ -61,7 +61,7 @@ In mdEditor, contacts are created separately from individual records, and then s
 
 ---
 
-## Product Required Fields for Products
+## Required Fields for Products
 
 ### Main Tab
 

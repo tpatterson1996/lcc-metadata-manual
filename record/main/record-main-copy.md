@@ -60,10 +60,10 @@ Adding a point of contact gives users information on who to contact should they 
 | Role | Contact |Required?|
 | :--- | :--- |:--- |
 | pointOfContact | LCC Network Data Steward |Required|
-| pointOfContact | Your LCC  | Required |
+| pointOfContact | Your LCC  | NOT Required (*see below) |
 | principalInvestigator | The Project PI | Best Practice|
 
-
+*Note: Given the transition away from LCCs, it is no longer required to add the LCC as a Main / Point of Contact in new or updated metadata records.
 
 {% hint style='info' %} The LCC Network Data Steward will serve as the long term contact/backup. This way, users have a point-of-contact even if there is a positional change within an organization. The LCC Network Data Steward should be included in addition to any point of contact that you want to add from your organization. {% endhint %}
 
@@ -94,7 +94,7 @@ Enter _acquisition, creation, revision,_ or another date reference from the pick
 
 Responsible parties must include a point of contact, but may also include other responsible parties such as funders \(including your LCC\), partners, collaborators, and contributors. Collaborators could be intellectual participants while contributors could be intellectual and financial participants.
 
-{% hint style='info' %} To add contacts to a metadata record, you must first create/upload the contacts in mdEditor. See the [Contacts ](/contacts.md)section for more information.{% endhint %}
+{% hint style='info' %} To add contacts to a metadata record, you must first create/upload the contacts in mdEditor. See the [Contacts](/contacts.md) section for more information.{% endhint %}
 
 
 | Role | Contact | Required? |

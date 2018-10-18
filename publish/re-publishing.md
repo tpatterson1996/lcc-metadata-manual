@@ -2,7 +2,7 @@
 
 ---
 
-Once you have published your records for the first time, updating and re-publishing them is straight forward.
+Once you have published your records for the first time, updating and re-publishing them is straightforward.
 
 ## How to Re-Publish
 

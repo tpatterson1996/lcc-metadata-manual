@@ -16,11 +16,11 @@ mdJSON files can be uploaded and translated to other formats via the mdTranslato
 
 ### **Best Practices**
 
-* For a complete backup, use the **Export All **button. This exports an [mdEditor](https://adiwg.gitbooks.io/mdeditor/content/GLOSSARY.html#mdeditor) file containing all records and contacts currently loaded in mdEditor.
+* For a complete backup, use the **Export All **button. This exports an mdEditor file containing all records and contacts currently loaded in mdEditor.
 
-* ** **When exporting products or projects,  you should also export your entire contact list. If you do not export your contact list, and you later import a record that contains a contact not in your mdEditor library, you may receive an error and have to re-create and re-enter the contact to that record.
+* When exporting products or projects,  you should also export your entire contact list. If you do not export your contact list, and you later import a record that contains a contact not in your mdEditor library, you may receive an error and have to re-create and re-enter the contact to that record.
 
-* It is particularly important that you export your records for backup before using mdEditor's **Clear Storage Cache **functionality \(clearing the storage cache will delete any records or data you have entered into the mdEditor\). Exporting ensures that your data is secure even after clearing the storage cache. Not exporting your data before clearing your cache will result in a permanent loss of records. Consult the [Settings](/settings.md) section of this manual to learn more.
+* It is particularly important that you export your records for backup before using mdEditor's **Clear Storage Cache** functionality \(clearing the storage cache will delete any records or data you have entered into the mdEditor\). Exporting ensures that your data is secure even after clearing the storage cache. Not exporting your data before clearing your cache will result in a permanent loss of records. Consult the [Settings](/settings.md) section of this manual to learn more.
 
 ---
 
@@ -38,7 +38,7 @@ While exporting data, there are four options available in the Action Menu \(on t
 
 * Clicking the **Include Settings** switch will also export mdEditor settings. Consult the [Settings](/settings.md) section of this manual to learn about settings.
 
-{% hint style='info' %} If you need to switch browsers for [mdEditor](https://adiwg.gitbooks.io/mdeditor/content/GLOSSARY.html#mdeditor), or want to send your settings to someone else, you can export the settings. Someone else can then re-import your settings which include the default Metadata Repositories and Publishing Settings.  This will give users that you share with information on your items' folder location on ScienceBase and let users know what your default repository is. Consult the [Settings](/settings.md) section of this manual to learn about settings.
+{% hint style='info' %} If you need to switch browsers for mdEditor, or want to send your settings to someone else, you can export the settings. Someone else can then re-import your settings which include the default Metadata Repositories and Publishing Settings.  This will give users that you share with information on your items' folder location on ScienceBase and let users know what your default repository is. Consult the [Settings](/settings.md) section of this manual to learn about settings.
 {% endhint %}
 
 ---

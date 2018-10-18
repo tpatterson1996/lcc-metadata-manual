@@ -2,7 +2,7 @@
 
 ---
 
-**BEST MANAGEMENT PRACTICE: **Always hit_ refresh_ in your browser before each work session \(and periodically throughout the session\) to ensure that you are using the most updated version of mdEditor. Always refresh before you access the publishing menu. However, If you start moving items around in the publishing outline \(see below for details\), you may lose this information once you refresh.
+**BEST PRACTICE**: Always refresh your browser before you access the publishing menu to ensure that you are using the most updated version of mdEditor. However, If you start moving items around in the publishing outline \(see below for details\), you may lose this information once you refresh.
 
 ---
 
@@ -28,7 +28,7 @@
 
 ---
 
-#### **How the mdEditor publishing outline works:**
+#### How the mdEditor publishing outline works:
 
 Once you are logged in, you will see a list of every valid record in mdEditor in the publishing outline with its ScienceBase Identifier \(if the record already exists on ScienceBase\) and its parent ScienceBase Identifier \(if present in the metadata\). This publishing outline shows records in a parent-child relationship and reflects what you would see when you publish to ScienceBase.
 
@@ -55,13 +55,13 @@ _You **do not have** items on ScienceBase yet, and your desired parent-child rel
 
 * Your records will all display under the ScienceBase header in the publishing outline. 
   * These items will be published as a direct child item under the SB item identified in your settings under “Default Parent Identifier.”
-* You can **drag and drop **records in the publishing outline to establish parent-child relationships for ScienceBase.
-* You can **nest **items in as many levels as you desire \(the most common is a product nested under a project\).
+* You can **drag and drop** records in the publishing outline to establish parent-child relationships for ScienceBase.
+* You can **nest** items in as many levels as you desire \(the most common is a product nested under a project\).
 * To move a record back to the root level, drag and drop it on the top line that says “ScienceBase Default”.
 
-#### **Scenario B**
+#### Scenario B
 
-_You** have **existing parent-child relationships on ScienceBase and/or you have intermediate folder\(s\) between project items and products \(i.e., products are not direct child items of Project Items - this is not recommended\)._
+_You **have** existing parent-child relationships on ScienceBase and/or you have intermediate folder\(s\) between project items and products \(i.e., products are not direct child items of Project Items - this is not recommended\)._
 
 * If you have parent-child relationships already established on ScienceBase \(and those IDs are reflected in the mdEditor records\), you likely do not want to move the records around in the publishing outline.
 * If your products are housed in a “Products” folder on ScienceBase \(or other intermediate folders between the project item and the products\), then your products **will not** be nested under projects in the publishing outline. 

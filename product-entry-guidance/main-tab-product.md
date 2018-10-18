@@ -54,13 +54,17 @@ The Resource Type should be automatically filled in with the resource type you s
 
 ## Point of Contacts
 
-Adding a point of contact gives LCC staff information on who to contact should they have a question regarding your project or product. From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts **drop-down menu, select a contact from the list of contacts. See the [Contacts](/product-entry-guidance/contact-entry-guidance.md) section for information on creating contacts.
+Adding a point of contact gives LCC staff information on who to contact should they have a question regarding your project or product. From the **Role **drop-down menu, select **pointOfContact**. From the **Contacts **drop-down menu, select a contact from the list of contacts. See the [Contacts](/contacts.md) section for information on creating contacts.
 
 | Role | Contact |Required?|
 | :--- | :--- |:--- |
 | pointOfContact | LCC Network Data Steward |Required|
-| pointOfContact | Your LCC  | Required |
+| pointOfContact | Your LCC  | NOT Required (*see below) |
 | principalInvestigator | The Project PI | Best Practice|
+
+*Note: Given the transition away from LCCs, it is no longer required to add the LCC as a Main / Point of Contact in new or updated metadata records. 
+
+
 
 {% hint style='info' %}The LCC Network Data Steward will serve as the long term contact/backup. This way, users have a point-of-contact even if there is a positional change within an organization. The LCC Network Data Steward should be included in addition to any point of contact that you want to add from your organization. {% endhint %}
 

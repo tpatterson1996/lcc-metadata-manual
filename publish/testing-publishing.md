@@ -6,7 +6,7 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 
 ---
 
-{% hint style='info' %} Note: Please use a testing folder before you update your real records. (Consult the [**Instructions for Testing Publishing**](/publish/instructions-for-testing-publishing.md) section of this manual for more information).{% endhint %}
+{% hint style='info' %} Note: Please use a testing folder before you update your real records. Consult the [**Instructions for Testing Publishing**](/publish/instructions-for-testing-publishing.md) section for more information.{% endhint %}
 
 1. Determine your workflow for testing:
 

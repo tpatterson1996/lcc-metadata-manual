@@ -37,7 +37,7 @@ Add the collaborating LCC\(s\) as a “collaborator.”
 
 ## Metadata/Metadata Contacts
 
-Include the lead LCC in Metadata Contacts \(choosing the appropriate role - see [Metadata Tab: Project](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/record/main/metadata-tab.html) for more info\).
+Include the lead LCC in Metadata Contacts \(choosing the appropriate role - see [Metadata Tab: Project](/record/main/metadata-tab.md) for more info\).
 
 Collaborating LCCs do not need to be listed here.
 

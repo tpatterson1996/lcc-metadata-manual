@@ -6,7 +6,7 @@ You can click or drag and drop a file onto the **Import Data **button to import 
 
 ![](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/assets/import_window.png)
 
-1. Review the selected information. If there is more than one copy of the same metadata record or contact, use the "preview [JSON](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/GLOSSARY.html#json)" button to choose the record or contact with the most complete information.
+1. Review the selected information. If there is more than one copy of the same metadata record or contact, use the "preview JSON" button to choose the record or contact with the most complete information.
 
 2. Select the records and contacts you want to import.
 

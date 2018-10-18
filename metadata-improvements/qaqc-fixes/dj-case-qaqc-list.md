@@ -4,12 +4,11 @@ There are several resources are your disposal for QA/QC of metadata. They are li
 
 Quick Links:
 
-1. ScienceBase Scanner: [tool](http://calcommons.info/sb2/scansb.php), [guidance
-](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/metadata-improvements/qaqc-fixes/dj-case-qaqc-list.html#sciencebase-scanner)
+1. ScienceBase Scanner: [tool](http://calcommons.info/sb2/scansb.php), [guidance](/metadata-improvements/qaqc-fixes/dj-case-qaqc-list.md#sciencebase-scanner)
 
-2. DJ Case QA/QC List: [tool](https://lccnetwork.org/science-catalog/api/item/qaqcIssues), [guidance](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/metadata-improvements/qaqc-fixes/dj-case-qaqc-list.html#dj-case-qaqc-list)
+2. DJ Case QA/QC List: [tool](https://lccnetwork.org/science-catalog/api/item/qaqcIssues), [guidance](/metadata-improvements/qaqc-fixes/dj-case-qaqc-list.md#dj-case-qaqc-list)
 
-3. Contacts QA/QC List: [tool](https://drive.google.com/open?id=1eUeDjCFpLIiVksmkmzL7-BoBr8ai8rl09FBDIh7Xe3w), [guidance](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/metadata-improvements/qaqc-fixes/dj-case-qaqc-list.html#contacts-qaqc)
+3. Contacts QA/QC List: [tool](https://drive.google.com/open?id=1eUeDjCFpLIiVksmkmzL7-BoBr8ai8rl09FBDIh7Xe3w), [guidance](/metadata-improvements/qaqc-fixes/dj-case-qaqc-list.md#contacts-qaqc)
 
 ---
 
@@ -23,8 +22,8 @@ The SB Scanner will show all of the Harvest Set tags you have in ScienceBase (ca
 
 |Harvest Set Tag Warning | Definition |
 | :--- |:--- |
-| not valid LCC repository tag | Your Science Catalog tag is something other than "LCC Network Science Catalog" and needs to be fixed. See [QA/QC Fixes](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/metadata-improvements/qaqc-fixes.html#metadata) for more info.  |
-|Warning: too many variants of data.gov tag. pick one and use it | You have more than one version of a data.gov tag (you must use only one version). See [data.gov Metadata Repository tag](https://cookmt.gitbooks.io/mdeditor-for-lccs/content/product-entry-guidance/metadata-tab-product.html#metadata-repositories) for guidance. |
+| not valid LCC repository tag | Your Science Catalog tag is something other than "LCC Network Science Catalog" and needs to be fixed. See [QA/QC Fixes](/metadata-improvements/qaqc-fixes.md#metadata) for more info.  |
+|Warning: too many variants of data.gov tag. pick one and use it | You have more than one version of a data.gov tag (you must use only one version). See [data.gov Metadata Repository tag](/product-entry-guidance/metadata-tab-product.md#metadata-repositories) for guidance. |
 
 ### Warnings
 The ScienceBase Scanner will produce the following warnings. These are not necessarily errors, particularly if you have items on ScienceBase that are not intended for inclusion in the Science Catalog and therefore do not follow the metadata requirements. These warnings will allow you to check your SB records to ensure you have met metadata requirements and make necessary updates and corrections.
