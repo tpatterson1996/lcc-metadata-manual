@@ -58,7 +58,9 @@ Note: Matt Heller is looking into a solution \(mid-November\) using the injector
 
 \(13\) Address remaining [QA/QC issues from DJ Case](https://lccnetwork.org/science-catalog/api/item/qaqcIssues).
 
-\(14\) Template scripting introduced some errors for some LCCs. Fixing these may be most effective with the injector script. Specific details related to these issues will be discussed with those who used the template scripting.
+(14) Fix the errors identified by the ASG in manual QA/QC checks of the Science Catalog. [See list](https://docs.google.com/spreadsheets/d/1eUeDjCFpLIiVksmkmzL7-BoBr8ai8rl09FBDIh7Xe3w/edit#gid=117396702).
+
+\(15\) Template scripting introduced some errors for some LCCs. Fixing these may be most effective with the injector script. Specific details related to these issues will be discussed with those who used the template scripting.
 
 ---
 
