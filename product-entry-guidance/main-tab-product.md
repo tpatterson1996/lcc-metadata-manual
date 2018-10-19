@@ -71,8 +71,7 @@ Adding a point of contact gives LCC staff information on who to contact should t
 
 {% hint style='info' %}NOTE: For products that will be sent to data.gov, ensure that the LCC Network Data Steward is listed as the first point of contact \(\#0\). Data.gov only displays the first point of contact and we want the default contact to be the network data steward.{% endhint %}
 
-![](/assets/point_of_contacts.png)
-
+![](/assets/main_pointsofcontact.PNG)
 ---
 
 ## Citation
@@ -105,9 +104,9 @@ This must include a point of contact, but may also include other responsible par
 {% hint style='info' %} For items that will be sent to data.gov, list the LCC Network Data Steward first in the list of Responsible Parties (#0). Data.gov only shows the first contact and the data steward should be listed first. {% endhint %}
 
 #### Online Resource \(Required, if Available\) 
-Enter the Name and URL for the location where users can find the product project homepage on your LCC website
+Enter the Name and URL for the location where users can find the product (e.g., ScienceBase page). 
 
-{% hint style='tip' %} The URLs to access and download products must be included in the Distribution tab. Distribution Links is the only online resource that data.gov reads so without a URL there, users have no way to access the actual product from data.gov.{% endhint %}
+{% hint style='tip' %} Important: The URLs to access and download products must **also** be included in the Distribution tab. Distribution Links is the only online resource that data.gov reads so without a URL there, users have no way to access the actual product from data.gov.{% endhint %}
 
 #### Identifier (Best Practice)
 
@@ -145,9 +144,15 @@ Enter comments, if desired.
 
 **Time Period** refers to project start and end date, or the date that the product was applicable \(e.g., time that a map is valid, date of publication, date of presentation\).
 
-* **Required**: For each project, add a start date and end date.
+* **Required**: For each product, add a start date and end date.
 
-![](/assets/time_period.png)
+![](/assets/main-time-period.PNG)
+
+
+
+
+
+
 
 
 

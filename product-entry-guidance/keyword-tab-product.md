@@ -27,7 +27,7 @@ Adding keywords to your metadata record allows for the record to be found later 
 
 #### ISO Topic Category \(Required\)
 
-Because mdJSON metadata is based on the ISO \(International Organization for Standardization\) metadata standard, all LCC projects must select at least one ISO Topic Category. ISO topics were generally meant for spatial data so they might be a bit of a stretch, bu do your best to find the best fit. mdEditor provides definitions of each ISO topic category if you hover over the ? icon.
+Because mdJSON metadata is based on the ISO \(International Organization for Standardization\) metadata standard, all LCC projects must select at least one ISO Topic Category. ISO topics were generally meant for spatial data so they might be a bit of a stretch, but do your best to find the best fit. mdEditor provides definitions of each ISO topic category if you hover over the ? icon.
 
 ISO Topic List:
 
@@ -105,7 +105,7 @@ mdEditor uses the term "keywords" while ScienceBase uses the term "tags."
 
 ### Imported Keywords
 
-If you imported your project metadata from ScienceBase, then the ScienceBase keywords are each created in a custom thesaurus.
+If you imported your product metadata from ScienceBase, then the ScienceBase keywords are each created in a custom thesaurus.
 
 If your LCC already has a controlled vocab list in ScienceBase, unfortunately it cannot connect to mdEditor. The selected keywords for any specific record will import into mdEditor but the saved list will not.
 

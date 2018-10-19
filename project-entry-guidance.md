@@ -16,11 +16,15 @@ The Project Entry Guidance section will cover how to create a metadata record fo
 
 ### **Select the LCC Project Profile**:
 
-After initial creation of your project, and before you begin adding metadata, select **lccProject **from the **Profile** drop-down in the main menu. This will limit the number of available tabs and only show tabs that contain fields that are applicable to LCC project metadata.
+After creating your project record initially and before you begin adding metadata, select **lccProject **from the **Profile** drop-down in the main menu. This will limit the number of available tabs and only show tabs that contain fields that are applicable to LCC project metadata.
+
+![](/assets/profile_lccproject.PNG)
 
 ### **Make sure your contacts are loaded into mdEditor:**
 
-In mdEditor, contacts are created separately from individual records and then stored within a library in mdEditor. Once contacts have been entered or imported into mdEditor, they can be used in metadata records.
+In mdEditor, contacts are created separately from individual records and then stored within a library in mdEditor. Once contacts have been entered or imported into mdEditor, they can be used in any metadata records.
+
+{% hint style='danger' %} You should maintain a single list of your contacts. Having duplicate copies of the same contact is not desirable. It can create confusion as you edit and manage your metadata records and introduce unnecessary errors. {% endhint %}
 
 ---
 

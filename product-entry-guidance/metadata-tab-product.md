@@ -82,7 +82,7 @@ Defines the location of the parent folder in ScienceBase.
 **Metadata Repositories** indicate where the metadata will be sent upon publishing. 
 
 ### LCC Science Catalog
-For products that should be listed in the LCC Science Catalog: Select _“LCCScienceCatalog”_ from the repository list. _“LCC Network Science Catalog”_ should automatically show up as the collection title. If the collection title does not appear, stop and enter the correct information in [Settings](/settings.md). Then select the repository for your project. Projects without the correct tag and collection title will not show up in the Science Catalog.
+For products that should be listed in the LCC Science Catalog: Select _“LCCScienceCatalog”_ from the repository list. _“LCC Network Science Catalog”_ should automatically show up as the collection title. If the collection title does not appear, stop and enter the correct information in [Settings](/settings.md). Then select the repository for your project. Products without the correct tag and collection title will not show up in the Science Catalog.
 
 ### data.gov
 For products that should be sent to data.gov: Select "data.gov" from the repository list. The full name of your data.gov tag should automatically show up in the collection title. If the collection title does not appear, stop and enter the correct information in [Settings](/settings.md). Then select the data.gov repository for your product. Products without the correct tag and collection title will not be sent to data.gov.
@@ -91,7 +91,7 @@ For products that should be sent to data.gov: Select "data.gov" from the reposit
 
 ---
 
-![](/assets/metadata_window.png)
+![](/assets/product_metadata.png)
 
 
 

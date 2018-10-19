@@ -22,7 +22,7 @@ Always hit_ refresh_ in your browser before each work session \(and periodically
 
 ### Step 3: Set the correct default [Settings](/settings.md).
 
-In mdEditor settings, set the LCC-specific settings for Importing, Metadata Repositories, and Publishing.
+In mdEditor settings, set the LCC-specific settings for Importing from ScienceBase, Metadata Repositories, and Publishing.
 
 ### Step 4: Create or import [Contacts](/contacts.md).
 
@@ -30,11 +30,11 @@ Contacts must be created or uploaded before they can be added to project and pro
 
 ### Step 5: Create or import [Projects](/project-entry-guidance.md).
 
-If you have an existing ScienceBase project record that has not been edited in mdEditor, import the ScienceBase record to create a new mdEditor record.
+If you have an existing ScienceBase project record that has not been edited in mdEditor, import the ScienceBase record to create a new mdEditor record. [Workflow guidance](/getting-started/sciencebase-first.md).
 
-If you have no existing metadata for a project, create an mdEditor project record from scratch.
+If you have no existing metadata for a project, create an mdEditor project record from scratch. [Workflow guidance](/getting-started/from-scratch.md).
 
-If you have already created an mdEditor record for the project, import the mdEditor file to continue editing.
+If you have already created an mdEditor record for the project, import the mdEditor file to continue editing. Import guidance.
 
 ### Step 6: Create or import [Products](/product-entry-guidance.md).
 

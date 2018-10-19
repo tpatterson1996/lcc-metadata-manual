@@ -8,13 +8,18 @@ Contacts are individuals or organizations that can be referenced by other contac
 
 ## General Info on Contacts
 
-In mdEditor, contacts are created separately from individual records and then stored within a library in mdEditor. Once contacts have been entered or imported into mdEditor, they can be used in metadata records. Editing a contact in the mdEditor contact library will update the contact information included in any metadata record that uses that contact. Editing a contact in mdEditor will also update contact information on Science Base once the record is published.
+In mdEditor, contacts are created separately from individual records and then stored within a library in mdEditor. Once contacts have been entered or imported into mdEditor, they can be used in any metadata record. Editing a contact in the mdEditor contact library will update the contact information included in any metadata record that uses that contact. Editing a contact in mdEditor will also update contact information on ScienceBase once the record is published.
+
+{% hint style='danger' %} You should maintain a single list of your contacts. Having duplicate copies of the same contact is not desirable. It can create confusion as you edit and manage your metadata records and introduce unnecessary errors. {% endhint %}
+
 
 Copying contacts will change the ID and the name \(the name will be “Copy of ….”\) but all the other information will be the same
 
 It is recommended that you leave contacts in mdEditor in between work sessions. This allows you to readily add contacts to projects and products.
 
-It is also recommended that when you export records, you also export your entire contact list. If you do not export your contact list, and you later import a record that contains a contact not in your library, you may receive an error and have to re-enter the contact to that record.
+{% hint style='tip' %} It is recommended that when you export records, you also export your entire contact list. If you do not export your contact list, and you later import a record that contains a contact not in your library, you may receive an error and have to re-enter the contact to that record.{% endhint %}
+
+
 
 ---
 

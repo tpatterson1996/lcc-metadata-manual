@@ -46,7 +46,7 @@ You may want to consider using the injector script to delete or replace erroneou
 
 ### Distribution
 
-\(10\) Distribution links need to be included for products. This was already required for all products and this is particularly critical for items sent to data.gov. This is the only online resource data.gov reads so without a URL here, there is no way for a user to access the actual product.
+\(10\) Distribution links need to be included for products. This was already required for all products and this is particularly critical for items sent to data.gov. This is the only online resource data.gov reads so without a URL here, there is no way for a user to access the actual product. The recommended role is "distributor" (see the [Product Distribution](/distribution.md) section for more info).
 
 Note: Matt Heller is looking into a solution \(mid-November\) using the injector script so data managers could run this automated process themselves to meet minimum requirements.
 
