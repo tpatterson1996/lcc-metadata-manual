@@ -6,16 +6,18 @@ Quick Links:
 
 1. ScienceBase Scanner: [tool](http://calcommons.info/sb2/scansb.php), [guidance](/metadata-improvements/qaqc-fixes/dj-case-qaqc-list.md#sciencebase-scanner)
 
-2. DJ Case QA/QC List: [tool](https://lccnetwork.org/science-catalog/api/item/qaqcIssues), [guidance](/metadata-improvements/qaqc-fixes/dj-case-qaqc-list.md#dj-case-qaqc-list)
+2. Automatic QA/QC Checks (from DJ Case): [tool](https://lccnetwork.org/science-catalog/api/item/qaqcIssues), [guidance](/metadata-improvements/qaqc-fixes/dj-case-qaqc-list.md#dj-case-qaqc-list)
 
-3. Contacts QA/QC List: [tool](https://drive.google.com/open?id=1eUeDjCFpLIiVksmkmzL7-BoBr8ai8rl09FBDIh7Xe3w), [guidance](/metadata-improvements/qaqc-fixes/dj-case-qaqc-list.md#contacts-qaqc)
+3. Manual QA/QC Checks (from ASG): 
+ * Contacts QA/QC from DJ Case [tool](https://drive.google.com/open?id=1eUeDjCFpLIiVksmkmzL7-BoBr8ai8rl09FBDIh7Xe3w), [guidance](/metadata-improvements/qaqc-fixes/dj-case-qaqc-list.md#contacts-qaqc)
+ * Science Catalog Errors [tool](https://docs.google.com/spreadsheets/d/1eUeDjCFpLIiVksmkmzL7-BoBr8ai8rl09FBDIh7Xe3w/edit#gid=117396702), [guidance](/metadta-improvements/qa-qc-fixes/dj-case-qaqc-list.md#science-catalog-errors-from-asg-manual-QAQC)
 
 ---
 
 ## ScienceBase Scanner
 
-Link to ScienceBase Scanner:
-http://calcommons.info/sb2/scansb.php
+[Link to ScienceBase Scanner](http://calcommons.info/sb2/scansb.php)
+
 
 ### Harvest Set Tag 
 The SB Scanner will show all of the Harvest Set tags you have in ScienceBase (called Metadata Repositories in mdEditor). The following warnings may be shown:
@@ -77,9 +79,9 @@ If you have made changes in ScienceBase since then, you can requery ScienceBase 
 
 ---
 
-## DJ Case QA/QC List
-Link to QA/QC List from DJ Case:
-https://lccnetwork.org/science-catalog/api/item/qaqcIssues
+## Automatic QA/QC Checks from DJ Case
+[Link to Automatic QA/QC List from DJ Case](https://lccnetwork.org/science-catalog/api/item/qaqcIssues)
+
 
 
 To aid in our metadata improvements, DJ Case created an automated QA/QC system of checks. This is a dynamic list of errors that will update when you fix an error and republish your record. Note that the updates will only when the Science Catalog itself updates, which occurs overnight.
@@ -102,14 +104,29 @@ Below are definitions of each issue described in the list:
 
 ---
 
-## Contacts QA/QC 
+## Manual QA/QC Checks
 
-DJ Case identified a list of errors in the Contacts during the initial creation of the Science Catalog. This is a static list of errors (i.e., it will not update when you fix an issue listed). Please update the "Fixed" column to "yes" when you have addressed a particular item.
+[Link to Manual QA/QC List](/https://docs.google.com/spreadsheets/d/1eUeDjCFpLIiVksmkmzL7-BoBr8ai8rl09FBDIh7Xe3w/edit?usp=sharing) 
 
-Link to Contacts QA/QC List:
-https://drive.google.com/open?id=1eUeDjCFpLIiVksmkmzL7-BoBr8ai8rl09FBDIh7Xe3w 
-
+### Contacts Errors 
 
 
+[Link to Contacts QA/QC List](https://docs.google.com/spreadsheets/d/1eUeDjCFpLIiVksmkmzL7-BoBr8ai8rl09FBDIh7Xe3w/edit#gid=0)
+
+DJ Case identified a list of errors in the Contacts during the initial creation of the Science Catalog. This is a static list of errors (i.e., it will not update when you fix an issue listed). The list contains a description of the contact error and the SBIDs for the records that contain that item.
+
+Please update the "Fixed" column to "yes" when you have addressed a particular item.
+
+
+
+### Science Catalog Errors from Manual QA/QC from ASG
+
+[Link to Manual QA/QC List from ASG](https://docs.google.com/spreadsheets/d/1eUeDjCFpLIiVksmkmzL7-BoBr8ai8rl09FBDIh7Xe3w/edit#gid=117396702)
+
+This is a list of errors in the Science Catalog, as identified through manual QA/QC checks by the ASG. This is a living list that will be added to as other errors are identified. 
+
+Keyword typos are based on the records in the Science Catalog as of 10/22/18.
+
+Once you have corrected the issue, please update the "Status" column to "Fixed." 
 
 
