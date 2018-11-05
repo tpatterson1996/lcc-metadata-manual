@@ -20,12 +20,13 @@ mdEditor stores information on your local computer in your browser's[ localStora
 The underlying format of the metadata from mdEditor is mdJSON, which was created specifically for mdEditor.  There are two types of mdJSON files.
 
 1. mdJSON files are the format that is published from mdEditor and made available on ScienceBase and data.gov. Their default file name is _**md\_metadata.json**_.
+
 2. mdEditor.json files are the files used by mdEditor. They contain extra information, such as settings, that tell mdEditor how to operate. Their default file name is _**mdeditor-timestamp.json**_. 
 
 mdJSON files can be exported and imported via mdEditor's built-in [**Export** ](/data-management/export.md)and [**Import**](/data-management/import.md) functionality. The Export functionality allows you to back up and share your records between browsers. The Import functionality lets you load records into mdEditor, either from previously-saved mdEditor session, exported from another browser, or downloaded from ScienceBase.
 
 {% hint style='info' %}
-JSON = JavaScript Object Notation, an open source file format. mdEditor produces mdJSON. sbJSON is the specific format used by ScienceBase.{% endhint %}
+JSON = JavaScript Object Notation, an open source file format. mdEditor produces mdJSON. ScienceBase has their own specific format, called sbJSON.{% endhint %}
 
 ---
 

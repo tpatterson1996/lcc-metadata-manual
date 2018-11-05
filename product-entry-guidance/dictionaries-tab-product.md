@@ -8,5 +8,4 @@ There are no LCC-specific requirements or best practices for dictionaries.
 
 ---
 
-{% hint style='info' %} If you are going to add a data Dictionary, you will need to switch to the "full" profile to see that tab (the lccProduct profile has not been updated to include that yet).{% endhint %}
 

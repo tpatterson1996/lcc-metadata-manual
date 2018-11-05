@@ -2,7 +2,7 @@
 
 ---
 
-_Note: This is a working draft that will continue to be edited. **Last updated: 5 November 2018**. Please refresh this manual every time you open it to ensure you are viewing the most recent version._
+_Note: This is a working draft that will continue to be edited. **Last updated: 9 November 2018**. Please refresh this manual every time you open it to ensure you are viewing the most recent version._
 
 ## Introduction
 
@@ -34,5 +34,7 @@ If needed, you can download this manual as a PDF and save a copy to your compute
 Some of the stylized text boxes \(like this one\) will not translate to the PDF exactly. The text will still be outlined with a background color, but the icon to the left of the text will not display in the PDF.
 {% endhint %}
 
-
+---
+## Disclaimer
+This manual was developed while mdEditor was also being developed. Due to this, there may be minor discrepancies between screenshots in the manual and the current production version of mdEditor.
 

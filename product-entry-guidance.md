@@ -20,7 +20,7 @@ The Product Entry Guidance section will cover how to create a metadata record fo
 
 After creating your product record initially and before you begin adding metadata, select **lccProduct** from the **Profile** drop down in the main menu. This will limit the number of available tabs and only show tabs that contain fields that are required for product creation.
 
-{% hint style='info' %} If you are going to add a data Dictionary, you will need to switch to the "full" profile to see that tab (the lccProduct profile has not been updated to include that yet).{% endhint %}
+
 
 ![](/assets/profile_lccproduct.PNG)
 
