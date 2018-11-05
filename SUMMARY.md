@@ -66,6 +66,7 @@
   * [Optional Improvements](metadata-improvements/optional-improvements.md)
 * [Other Resources](other-resources.md)
   * [Injector Script: Funding](other-resources/injector-script-funding.md)
+  * [Injector Script: Distribution Links](other-resources/injector-script-distribution-links.md)
 * [Help](help.md)
 * [Glossary of Terms](GLOSSARY.md)
 * [Documentation Guide](appendices/documentation-guide.md)

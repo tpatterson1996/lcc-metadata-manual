@@ -10,8 +10,14 @@ Link: https://github.com/mmheller/mdEditorFileInjector
 
 Purpose: to perform bulk edits to mdEditor files by injecting, replacing, or deleting mdJSON content. mdEditor files are files exported from the mdEditor web application (mdeditor.org). More information on mdJSON can be found at https://github.com/adiwg/mdJson-schemas
 
+There are two demos available to help with metadata improvements:
+
+[Add Funding Administrators](/other-resources/injector-script-funding.md)
+
+[Add Distribution Links](/other-resources/injector-script-distribution-links.md) (for products)
+
 Point of Contact: Matt Heller (matthew_heller@fws.gov).
 
-More info to be added.
+
 
 ---

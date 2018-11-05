@@ -2,7 +2,7 @@
 
 ---
 
-_Note: This is a working draft that will continue to be edited. **Last updated: 9 November 2018**. Please refresh this manual every time you open it to ensure you are viewing the most recent version._
+_Note: This is a working draft that will continue to be edited. **Last updated: 4 December 2018**. Please refresh this manual every time you open it to ensure you are viewing the most recent version._
 
 ## Introduction
 

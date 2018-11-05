@@ -77,6 +77,21 @@ Querying ScienceBase for all the items in a given Community is slow, so the SB s
 
 If you have made changes in ScienceBase since then, you can requery ScienceBase using the "rescan" link at the end of the status line on the individual community pages (choose Summary on the top page, then read the top lines of the display).
 
+#### Missing Keywords You Know Are Entered
+There may be instances where you have added keywords for ISO Topic Category, LCC Project Category, LCC Deliverable Type, or LCC End User Type but the ScienceBase scanner is showing them as missing. This may have been an issue introduced for LCCs who used the template scripting (i.e., input metadata into a spreadsheet that Josh scripted into mdEditor to create your initial metadata records). Below is a possible way to check and solve that issue.
+
+(1) If you go into the Keywords section of your record, you may see that there are entries under "Selected Keywords" but those selections aren't highlighted green in the tree of options.  
+![](/assets/error_missing_keywords_nogreen.png)
+
+(2) Click on the desired options in the tree, which will add a duplicate set of those keywords in "Selected Keywords."
+![](/assets/error_missing_keywords_add.PNG)
+
+(3) Delete the duplicate keywords **from the top of the list**.
+![](/assets/error_missing_keywords_delete.PNG)
+
+(4) Now your keywords should be selected properly. You can re-publish and check the SB scanner again.
+![](/assets/error_missing_keywords_green.png)
+
 ---
 
 ## Automatic QA/QC Checks from DJ Case
