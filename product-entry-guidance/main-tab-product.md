@@ -69,7 +69,6 @@ Adding a point of contact gives LCC staff information on who to contact should t
 {% hint style='info' %}The LCC Network Data Steward will serve as the long term contact/backup. This way, users have a point-of-contact even if there is a positional change within an organization. The LCC Network Data Steward should be included in addition to any point of contact that you want to add from your organization. {% endhint %}
 
 
-{% hint style='info' %}NOTE: For products that will be sent to data.gov, ensure that the LCC Network Data Steward is listed as the first point of contact \(\#0\). Data.gov only displays the first point of contact and we want the default contact to be the network data steward.{% endhint %}
 
 ![](/assets/main_pointsofcontact.PNG)
 ---
@@ -78,7 +77,7 @@ Adding a point of contact gives LCC staff information on who to contact should t
 
 The **Citation** lets users know pertinent information about your project or product such as responsible parties, internal and ScienceBase identifiers, and any online resources that may relate to your item. Adding information in the citation will also allow users to find your item when they search for items that contain said information.
 
-#### ![](/assets/citation_updated.png)
+
 
 The following fields are required in citation:
 
@@ -129,6 +128,7 @@ You may enter as many identifiers as desired. If you have internal LCC-specific 
 Enter an Abstract
 
   {% hint style='tip' %}Tip: Write your abstracts for projects in the present tense if   the project is underway and past tense if it has been completed.{% endhint %}
+  
 
 #### Short Abstract \(Optional\) 
 Enter a short description, limited to 300 characters, if desired
@@ -136,7 +136,6 @@ Enter a short description, limited to 300 characters, if desired
 #### Supplemental Information \(Optional\) 
 Enter comments, if desired. 
 
-![](/assets/description_lcc.png)
 
 ---
 
