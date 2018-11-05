@@ -16,7 +16,9 @@ The Project Entry Guidance section will cover how to create a metadata record fo
 
 ### **Select the LCC Project Profile**:
 
-After initial creation of your project, and before you begin adding metadata, select **lccProject **from the **Profile** drop-down in the main menu. This will limit the number of available tabs and only show tabs that contain fields that are applicable to LCC project metadata.
+After creating your project record initially and before you begin adding metadata, select **lccProject **from the **Profile** drop-down in the main menu. This will limit the number of available tabs and only show tabs that contain fields that are applicable to LCC project metadata.
+
+![](/assets/profile_lccproject.PNG)
 
 ### **Make sure your contacts are loaded into mdEditor:**
 

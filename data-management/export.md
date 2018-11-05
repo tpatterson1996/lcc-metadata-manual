@@ -24,9 +24,9 @@ mdJSON files can be uploaded and translated to other formats via the mdTranslato
 
 ---
 
-## Export Action Menu
+## Export Options
 
-While exporting data, there are four options available in the Action Menu \(on the right side of the export data window\).
+While exporting data, there are four options available \(on the right side of the export data window\).
 
 ![](/assets/export_data_action_menu.png)
 

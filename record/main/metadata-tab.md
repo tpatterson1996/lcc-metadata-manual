@@ -100,7 +100,7 @@ For projects that should be listed in the LCC Science Catalog: Select _“LCCSci
 
 ---
 
-![](/assets/metadata_window.png)
+![](/assets/project_metadata.png)
 
 
 

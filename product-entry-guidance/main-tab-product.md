@@ -71,8 +71,7 @@ Adding a point of contact gives LCC staff information on who to contact should t
 
 {% hint style='info' %}NOTE: For products that will be sent to data.gov, ensure that the LCC Network Data Steward is listed as the first point of contact \(\#0\). Data.gov only displays the first point of contact and we want the default contact to be the network data steward.{% endhint %}
 
-![](/assets/point_of_contacts.png)
-
+![](/assets/main_pointsofcontact.PNG)
 ---
 
 ## Citation
@@ -147,7 +146,13 @@ Enter comments, if desired.
 
 * **Required**: For each product, add a start date and end date.
 
-![](/assets/time_period.png)
+![](/assets/main-time-period.PNG)
+
+
+
+
+
+
 
 
 

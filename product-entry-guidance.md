@@ -8,19 +8,23 @@ The Product Entry Guidance section will cover how to create a metadata record fo
 
 ## Before You Begin
 
-### **Adjust your mdEditor**[** Settings**](/settings.md)**: **
+### Adjust your mdEditor [Settings](/settings.md):
 
 **Metadata Repositories**: Make sure your default settings are correct for the LCC Science Catalog and data.gov. See [Settings](/settings.md). 
 
 
 
-**Parent Identifier: **In the publishing settings, enter your LCC's ScienceBase project folder's identifier in the "Default Parent Identifier" field.
+**Parent Identifier**: In the publishing settings, enter your LCC's ScienceBase project folder's identifier in the "Default Parent Identifier" field.
 
-### **Select the LCC Product Profile**:
+### Select the LCC Product Profile:
 
-After initial creation of your product, and before you begin adding metadata, select **lccProduct **from the **Profile** drop down in the main menu. This will limit the number of available tabs and only show tabs that contain fields that are required for product creation.
+After creating your product record initially and before you begin adding metadata, select **lccProduct** from the **Profile** drop down in the main menu. This will limit the number of available tabs and only show tabs that contain fields that are required for product creation.
 
-### **Make sure your contacts are loaded into mdEditor:**
+{% hint style='info' %} If you are going to add a data Dictionary, you will need to switch to the "full" profile to see that tab (the lccProduct profile has not been updated to include that yet).{% endhint %}
+
+![](/assets/profile_lccproduct.PNG)
+
+### Make sure your contacts are loaded into mdEditor:
 
 In mdEditor, contacts are created separately from individual records, and then stored within a library in mdEditor. Once contacts have been entered or imported into mdEditor, they can be used in metadata records.
 

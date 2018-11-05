@@ -15,7 +15,7 @@
 
 There are multiple ways to create a spatial extent for your project.
 
-Clicking the **Edit Extent Features** button allows for the addition of **Feature Properties** such as: **ID**, **Name**, or **Description**. You can draw polygon or a bounding box in the initial window.
+Clicking the **Edit Extent Features** button allows for the addition of **Feature Properties** such as: **ID**, **Name**, or **Description**. You can draw a polygon or a bounding box in the initial window.
 
 You can export spatial extents and re-use for other records using the **import feature** button or by dragging and dropping onto the map. 
 
@@ -27,17 +27,24 @@ Extents should be accurate enough for searching purposes, but remember that they
 
 Spatial features such as geoJSON, shapefiles, and kml can be imported. However, file attributes \(such as name and description\), will not be imported and must be added manually. 
 
-For projects without an extent, you can use the LCC geography. We will provide geoJSON files for all LCC geographies that you can import into mdEditor. 
+For projects without a specific extent, you can use the LCC geography. Projects should have custom extents when it is relevant to the scope of the project. Remember, these extents will be used for search and discovery purposes. geoJSON files for all LCC geographies are available on [ScienceBase](https://www.sciencebase.gov/catalog/item/5bd7c96fe4b0b3fc5ce82d44) (private DMWG folder that requires ScienceBase login). Download the relevant files and then import into mdEditor. 
 
 {% hint style='info' %} Important: coordinates used must be geographic coordinates, not projected coordinates.{% endhint %}
+
+
 
 ### Option 2: Draw Spatial Features
 
 {% hint style='tip' %} Tip: It is easier to click "finish" when drawing a polygon instead of trying to close the polygon by clicking on the first point.{% endhint %}
 
 ### Option 3: Draw Bounding Box
+{% hint style='tip' %} mdEditor can automatically calculate a bounding box if you have at least one extent in the metadata. {% endhint %}
+
+![](/assets/extent_boundingbox-2.PNG)
 
 {% hint style='danger' %}Bounding boxes will not work across the dateline but you can have more than one extent per project. If your project area crosses the dateline, split the area into multiple extents and create separate bounding boxes.{% endhint %}
+
+
 
 ## Saving and Exporting Extents
 
@@ -45,7 +52,7 @@ For projects without an extent, you can use the LCC geography. We will provide g
 
 
 
-![](/assets/extent_screenshot.png)
+---
 
 ![](/assets/edit_extent_page.png)
 

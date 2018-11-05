@@ -91,7 +91,7 @@ For products that should be sent to data.gov: Select "data.gov" from the reposit
 
 ---
 
-![](/assets/metadata_window.png)
+![](/assets/product_metadata.png)
 
 
 

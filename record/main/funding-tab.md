@@ -56,6 +56,7 @@ Add the LCC as the funding "administrator" for all LCC allocations. The funding 
 
 Project funds or in-kind support that were supplied by a partner \(i.e., not specifically allocated to an LCC\) should be included as an allocation with the matching fund box checked. Each matching fund provider needs to be included as a separate allocation.
 
+![](/assets/project_funding_example.PNG)
 
 ---
 
@@ -67,10 +68,12 @@ For each allocation, enter the fiscal year that funds were awarded \(not the tim
 
 {% hint style='info' %}Use the “Pick a Fiscal Year” dropdown to autofill the date fields.{% endhint %}
 
-
+![](/assets/project_funding_timeperiod.PNG)
 
 ---
+Example of multiple allocations for a single project record.
 
+![](/assets/project_funding_list.PNG)
 
 
 

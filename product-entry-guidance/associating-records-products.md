@@ -33,13 +33,18 @@ If you import records from ScienceBase, the record associations might be automat
 ### Step-by-Step: Creating an Association in a Product Record
 
 **Step 1**: Select "**parentProject**" from the **Association Type** drop-down menu. This field will  describe the relationship from the associated record to the product record (the associated record is the parentProject of the product record you are editing).
+![](/assets/product_association_type.PNG)
 
 **Step 2**: Click the "**Select a Record" **button to select an associated project.
+![](/assets/select_a_record_button.png)
+
 
 **Step 3**: Choose the project that you would like to associate from the **Select a Resource** list.
+![](/assets/product_association_choose_parent.PNG)
+
 
 **Step 4**: Fill out the Linked Association Type with "**product**."
 
-
+![](/assets/product_association_linked_record.PNG)
 
 

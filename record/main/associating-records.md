@@ -49,6 +49,6 @@ If you import records from ScienceBase, the record associations might be automat
 **Step 4**: Fill out the Linked Association Type with "**parentProject**."
 
 
-
+![](/assets/project_association_linked_record.PNG)
 
 

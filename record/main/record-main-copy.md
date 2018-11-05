@@ -19,7 +19,7 @@ The **Main **tab allows for the creation and/or editing of primary metadata.
 
 ### Record ID 
 
-Record ID will be auto-generated. It can be edited but it should only be edited if absolutely necessary (and ideally edited as soon as the record is created in mdEditor). mdEditor uses Record ID to manage associations between records so changing the Record ID can break associations. For example, if you have created an association between a project and product and then change the Record ID on the project, that association will break.
+Record ID will be auto-generated. It can be edited but it should only be edited if absolutely necessary (and ideally edited as soon as the record is created in mdEditor).
 
 ### Title \(Required\)
 
@@ -68,7 +68,8 @@ Adding a point of contact gives users information on who to contact should they 
 {% hint style='info' %} The LCC Network Data Steward will serve as the long term contact/backup. This way, users have a point-of-contact even if there is a positional change within an organization. The LCC Network Data Steward should be included in addition to any point of contact that you want to add from your organization. {% endhint %}
 
 
-![](/assets/point_of_contacts.png)
+![](/assets/main_pointsofcontact.PNG)
+
 
 ---
 
@@ -154,7 +155,7 @@ Enter comments, if desired.
 
 For each project, add a Start Date and End Date. If the project spanned a single fiscal year, you can use the “Pick a Fiscal Year” dropdown to autofill the date fields. 
 
-![](/assets/time_period.png)
+![](/assets/main-time-period.PNG)
 
 
 
