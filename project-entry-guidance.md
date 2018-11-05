@@ -20,7 +20,9 @@ After initial creation of your project, and before you begin adding metadata, se
 
 ### **Make sure your contacts are loaded into mdEditor:**
 
-In mdEditor, contacts are created separately from individual records and then stored within a library in mdEditor. Once contacts have been entered or imported into mdEditor, they can be used in metadata records.
+In mdEditor, contacts are created separately from individual records and then stored within a library in mdEditor. Once contacts have been entered or imported into mdEditor, they can be used in any metadata records.
+
+{% hint style='danger' %} You should maintain a single list of your contacts. Having duplicate copies of the same contact is not desirable. It can create confusion as you edit and manage your metadata records and introduce unnecessary errors. {% endhint %}
 
 ---
 

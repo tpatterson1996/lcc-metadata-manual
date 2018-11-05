@@ -63,7 +63,7 @@ The **Metadata Identifier** is automatically populated by mdEditor. The metadata
 
 If you imported the project metadata from ScienceBase originally, this section will be populated already.
 
-If you created the project metadata from scratch in mdEditor, you need to enter the appropriate parent item ScienceBase ID. This is most likely your LCC's project folder.
+If you created the project metadata from scratch in mdEditor, this will be blank. If you provide a default parent ID in [Settings](/settings.md#publishing-settings) (Publishing Settings for ScienceBase), this will be generated for you when when you publish. This is most likely your LCC's project folder. You can enter the parent item SBID directly in your individual metadata record if you wish. 
 
 ### Parent Metadata Required Fields:
 

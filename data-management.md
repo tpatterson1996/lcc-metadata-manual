@@ -1,6 +1,9 @@
 # File Management
 
 ---
+File management in mdEditor consists of consistent and proper handling and storage of mdEditor derived formats of metadata. These files are essential for long-term access to metadata beyond a single work session.
+
+---
 
 ## How mdEditor Stores Information
 
@@ -46,9 +49,12 @@ You can also set up a metadata directory so you can always find the metadata fil
 
 When exporting products or projects, you should also export your entire contact list. If you do not export your contact list, and you later import a record that contains a contact not loaded in mdEditor, you may receive an error and have to re-create and re-enter the contact for that record.
 
+{% hint style='danger' %}  If contacts records are re-created, it results in another mdEditor identifier being created for a contact, resulting in duplicate contacts. mdEditor does not know that this is an existing contact. You should maintain a single list of your contacts. Having duplicate copies of the same contact is not desirable. It can create confusion as you edit and manage your metadata records and introduce unnecessary errors. {% endhint %}
+
+
 ### (4) Export frequently to backup your records.
 
-Maintain an “Export All” JSON file each time you finish a work session in mdEditor \(or switch browsers, URLs, etc.\). This is the only way to backup your records. For more information, consult [Export](/data-management/export.md).
+Maintain an “Export All” JSON file each time you finish a work session in mdEditor \(or switch browsers, URLs, etc.\). This is the most efficient way to backup your records. For more information, consult [Export](/data-management/export.md).
 
 It is particularly important that you export your records for backup before using mdEditor's **Clear Storage Cache **functionality \(clearing the storage cache will delete any records or data you have entered in mdEditor\). Exporting ensures that your data is secure even after clearing the storage cache. Not exporting your data before clearing your cache will result in a permanent loss of records. Consult the [Settings](/settings.md) section of this manual to learn more.
 
