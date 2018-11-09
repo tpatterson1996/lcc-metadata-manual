@@ -73,3 +73,8 @@ Taxonomy is mostly used for search is discovery and functions similar to keyword
 {% hint style='info' %} If you have existing species names or other keywords, you do not need to delete those. Taxonomy is entered in a separate section in mdJSON so they are separate from Keywords. {% endhint %}
 
 To some extent, this is up to the judgement of the data manager. You will know best the connection of a resource to a specific species or other taxonomic group. For example, if a bear model was used to rank habitat for a prioritization product but the final output is not relevant to bears any longer, then you probably wouldn't want to add bear species in taxonomy.
+
+---
+
+## Reporting Issues
+If you encounter issues or bugs using the new Taxonomy feature, please report them in this github thread: https://github.com/adiwg/mdEditor/issues/101 (requires github account to post).
