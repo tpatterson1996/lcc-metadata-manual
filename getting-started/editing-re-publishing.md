@@ -56,6 +56,6 @@ You may want to export working backups before publishing depending on your situa
 
 The Science Catalog updates overnight so you should review newly-published records the day after you publish to ScienceBase. This will be one of your best quality control checks.
 
-### Step 13: Consult with the different QA/QC Resources.
+### Step 13: Consult with the different [QA/QC Resources](/metadata-improvements/qaqc-fixes/dj-case-qaqc-list.md).
 See the [QA/QC Resources](/metadata-improvements/qaqc-fixes/dj-case-qaqc-list.md) page for the different tools available to check your metadata.
 

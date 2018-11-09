@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
   * [LCC Science Catalog](lcc-science-catalog.md)
-  * [Background](goals-and-objectives.md)
+  * [Background](background.md)
   * [LCC Projects, Products, Contacts](lcc-projects-products-contacts.md)
 * [Workflow](getting-started.md)
   * [From Scratch](getting-started/from-scratch.md)
@@ -65,8 +65,8 @@
   * [New Required Improvements](metadata-improvements/new-required-improvements.md)
   * [Optional Improvements](metadata-improvements/optional-improvements.md)
 * [Other Resources](other-resources.md)
+  * [Injector Script: Funding](other-resources/injector-script-funding.md)
 * [Help](help.md)
 * [Glossary of Terms](GLOSSARY.md)
 * [Documentation Guide](appendices/documentation-guide.md)
-
 
