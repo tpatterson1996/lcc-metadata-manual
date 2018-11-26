@@ -2,7 +2,7 @@
 
 ---
 
-The following tutorial was developed by Matt Heller using the mdEditor File Injector script he developed, which can be used to do bulk edits on your mdEditor files. This demo specifically walks through how to add a Distribution Link.
+The following tutorial was developed by Matt Heller using the mdEditor File Injector script he developed, which can be used to do bulk edits on your mdEditor files. This demo specifically walks through how to add a Distribution Link. The injector script will 
 
 A recording of this demo is available for viewing at: 
 https://mmancusa.webex.com/mmancusa/ldr.php?RCID=b1a81ed0c41871e76f205d7f2f507008 
@@ -101,7 +101,7 @@ e. Click Edit button in the Online Option section.
 
 ![](/assets/injector_distribution_onlineoption_edit.png)
 
-f. Notice the injected fields. The Name of the online resource is "Product Web-Page with Downloadable Files" and the Function is "information." The URI listed 
+f. Notice the injected fields. The Name of the online resource is "Product Web-Page with Downloadable Files" and the URL listed is __. The Function is "information" (since the link is not a direct download of the data). 
 
 ![](/assets/injector_distribution_onlineoption.png)
 
