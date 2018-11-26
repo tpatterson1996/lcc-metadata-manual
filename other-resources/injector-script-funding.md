@@ -50,7 +50,7 @@ For reference, the final version will look like this. Follow the specific steps 
 
 ![](/assets/injector_script_2.png)
 
-b.    Enter the path to the Demo folder in line** –C**.  Note: all files and files in subfolders will be processed by the script. No original files will be edited, copies will always be made.
+b.    Enter the path to the Demo folder in line **–C**.  Note: all files and files in subfolders will be processed by the script. No original files will be edited, copies will always be made.
 
 ![](/assets/injector_demo_path_paste.png)
 
