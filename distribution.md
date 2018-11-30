@@ -33,6 +33,8 @@ Transfer Options provide details regarding obtaining the product. Online and off
 ### Online Option (Required if Available) 
 The most important thing to enter is the URL where the product can be accessed or downloaded. In the Function field, you should indicate the type of URL. If the link is a direct download of the data, select “download.” If the link goes to an informational page, select “information.”
 
+The Name of the online resource should be 
+
 {% hint style='info' %}An online link is required for any products sent to data.gov. Preferably the link should be a direct download to the data and not an intermediary page. {% endhint %}
 
 #### How to obtain download link from ScienceBase Items
