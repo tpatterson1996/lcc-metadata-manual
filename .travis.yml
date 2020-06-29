@@ -7,7 +7,8 @@ script: gitbook build
 before_deploy: 
   - touch _book/.nojekyll
 deploy:
-  provider: pages:git
+  provider: pages
+  skip_cleanup: true
   edge: true # opt in to dpl v2
   local_dir: _book
 # safelist
