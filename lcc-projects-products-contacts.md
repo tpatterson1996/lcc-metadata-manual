@@ -1,6 +1,4 @@
-# LCC Projects, Products, and Contacts
-
----
+# Projects, Products, Contacts
 
 ## Understanding Projects, Products, and Contacts
 
@@ -12,7 +10,9 @@ A project encompasses a discrete effort on a particular topic with defined goals
 
 LCC projects can also include other defined efforts that did not necessarily require the awarding of funds.
 
-{% hint style='tip' %} Individual data managers may want to track other projects using the same metadata format and store that information on ScienceBase, without publishing it to the LCC Science Catalog. {% endhint %}
+{% hint style="info" %}
+Individual data managers may want to track other projects using the same metadata format and store that information on ScienceBase, without publishing it to the LCC Science Catalog.
+{% endhint %}
 
 ### Products
 
@@ -24,23 +24,21 @@ Not every output of a project is necessarily a product, however. For example, me
 
 Contacts are the individuals and organizations involved with projects and products \(e.g., collaborators, funders\). Contacts are entered once in mdEditor and can be added to multiple projects and products.
 
-{% hint style='info' %}
-Consult the [Contacts](/contacts.md) section for information on adding contacts.
+{% hint style="info" %}
+Consult the [Contacts](contacts/) section for information on adding contacts.
 {% endhint %}
 
 ### Relationships
 
 **Projects and Products** will always have a relationship with contacts. Projects will always have at least one point of contact \(LCC Network Data Steward\). Additional contact relationships may include project authors, metadata creators, funders, principal investigators, publishers, distributors, and many others. One crucial contact relationship between contacts, projects, and products is the role of the individual\(s\) and/or organization\(s\) who provided funding. This may include a direct full contributor or any partners that helped with funding.
 
-{% hint style='tip' %}
+{% hint style="info" %}
 Contact types are specified in the contact record \(examples: federal, state, NGO\). Specific roles for each contact are defined within the respective project and product records \(examples: principal investigator, collaborator\).
 {% endhint %}
 
 **Products are often the results of projects**. mdEditor defines the relationships between projects and products through the Associated feature.
 
-{% hint style='info' %}
- Consult either the [Associating Records: Product](/product-entry-guidance/associating-records-products.md) or [Associating Records: Project](/record/main/associating-records.md) section for more information\).
+{% hint style="info" %}
+Consult either the [Associating Records: Product](product-entry-guidance/associating-records-products.md) or [Associating Records: Project](project-entry-guidance/associating-records.md) section for more information\).
 {% endhint %}
-
-
 

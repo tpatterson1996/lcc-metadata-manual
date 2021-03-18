@@ -1,10 +1,6 @@
-# **CASC Metadata Responsibilities**
-
----
+# CASC Responsibilities
 
 The CASCs will complete the following metadata responsibilities for the CASC records for co-funded projects and products, after being notified that an LCC has created associations to the CASC ScienceBase records.
-
----
 
 ## Co-funded Protocol
 
@@ -28,12 +24,10 @@ Example: “This project was co-funded by the Gulf Coast Prairie Landscape Conse
 
 The LCC will include a parallel statement in the Summary field for their ScienceBase record, link back to the CASC record, and create the association in ScienceBase.
 
----
-
 ## Sub-Project Protocol
 
 ### If a CASC project is a sub-project of an LCC project:
 
 1. Add the following text to the Summary in the CASC ScienceBase record: “This project is a sub-project of the \[X\] Landscape Conservation Cooperative project described here\[insert LCC ScienceBase URL\].”
-
 2. Add the association in ScienceBase as a “subprojectOf” the LCC record.
+

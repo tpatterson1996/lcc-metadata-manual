@@ -1,32 +1,24 @@
-# For an LCC Sub-project of an LCC Project
-
----
+# Sub-project of LCC Project
 
 When your project is a sub-project underneath an LCC project, complete the following requirements for the sub-project in addition to the standard metadata requirements. Products of a sub-project can be entered as normal \(i.e., treat the sub-project as a normal project for the purposes of the product metadata and associations\).
-
----
 
 ## Main/Points of Contact
 
 Add the collaborating LCC\(s\) as a “collaborator” in the metadata for the LCCs that participate.
 
----
-
 ## Main/Citation/Responsible Parties
 
 Add the collaborating LCC\(s\) as a “collaborator” in the metadata for the LCCs that participate.
 
-{% hint style='info' %}Note: the LCC funding the sub-project or distinct product is the “administrator” in the sub-project metadata and should be included as such according to standard metadata contact requirements.{% endhint %}
-
----
+{% hint style="info" %}
+Note: the LCC funding the sub-project or distinct product is the “administrator” in the sub-project metadata and should be included as such according to standard metadata contact requirements.
+{% endhint %}
 
 ## Metadata/Metadata Contacts
 
 Include the lead LCC as “publisher.”
 
 Collaborating LCCs do not need to be listed here. For sub-projects, there could be different lead LCCs between a sub-project and its parent project. Within a specific sub-project, the lead LCC and publisher in Metadata Contacts should be the same.
-
----
 
 ## Associated
 
@@ -50,7 +42,9 @@ Enter the association type as described above, enter the resource type, plus cop
 
 If you are creating associations to other LCC items that have the Science Catalog tag, then those items will show up in the Science Catalog, as will your sub-projects and products.
 
-{% hint style='info' %} If your sub-project falls underneath a CASC project, follow that [protocol](/multi-lcc-and-co-funded-projects/sub-project-protocol/of-casc-project.md).{% endhint %}
+{% hint style="info" %}
+If your sub-project falls underneath a CASC project, follow that [protocol](of-casc-project.md).
+{% endhint %}
 
 ![](https://lh6.googleusercontent.com/QmZ7tg3tPDdE7mHKKMQtSF3gb85n89q7r5QckLwhgM8R7wz5cQECif1kJtm6TwkWUDnk7Zvs8Z3ykTYoZXedqDYUEePpzzvAhxfHi5lJr0kuMeUlxzvy68DWzyc-H2S-0vlde2WV)_Figure 1: Example entry of ScienceBase Identifier in mdEditor Associated tab._
 

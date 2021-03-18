@@ -1,6 +1,4 @@
-# Metadata Improvements: QA/QC Fixes
-
----
+# QA/QC Fixes
 
 ## Must Do QA/QC Fixes
 
@@ -46,7 +44,7 @@ You may want to consider using the injector script to delete or replace erroneou
 
 ### Distribution
 
-\(10\) Distribution links need to be included for products. This was already required for all products and this is particularly critical for items sent to data.gov. This is the only online resource data.gov reads so without a URL here, there is no way for a user to access the actual product. The recommended role is "distributor" (see the [Product Distribution](/distribution.md) section for more info).
+\(10\) Distribution links need to be included for products. This was already required for all products and this is particularly critical for items sent to data.gov. This is the only online resource data.gov reads so without a URL here, there is no way for a user to access the actual product. The recommended role is "distributor" \(see the [Product Distribution](../../product-entry-guidance/distribution.md) section for more info\).
 
 Note: Matt Heller is looking into a solution \(mid-November\) using the injector script so data managers could run this automated process themselves to meet minimum requirements.
 
@@ -58,11 +56,7 @@ Note: Matt Heller is looking into a solution \(mid-November\) using the injector
 
 \(13\) Address remaining [QA/QC issues from DJ Case](https://lccnetwork.org/science-catalog/api/item/qaqcIssues).
 
-(14) Fix the errors identified by the ASG in manual QA/QC checks of the Science Catalog. [See list](https://docs.google.com/spreadsheets/d/1eUeDjCFpLIiVksmkmzL7-BoBr8ai8rl09FBDIh7Xe3w/edit#gid=117396702).
+\(14\) Fix the errors identified by the ASG in manual QA/QC checks of the Science Catalog. [See list](https://docs.google.com/spreadsheets/d/1eUeDjCFpLIiVksmkmzL7-BoBr8ai8rl09FBDIh7Xe3w/edit#gid=117396702).
 
 \(15\) Template scripting introduced some errors for some LCCs. Fixing these may be most effective with the injector script. Specific details related to these issues will be discussed with those who used the template scripting.
-
----
-
-
 
